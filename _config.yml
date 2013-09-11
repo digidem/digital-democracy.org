@@ -5,3 +5,4 @@ timezone: America/NewYork
 server: true
 markdown: rdiscount
 permalink: pretty
+auto: true
