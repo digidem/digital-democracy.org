@@ -1,0 +1,7 @@
+url: http://digital-democracy.org
+name: Digital Democracy
+description: Educating 21st Century Citizens
+timezone: America/NewYork
+server: true
+markdown: rdiscount
+permalink: pretty

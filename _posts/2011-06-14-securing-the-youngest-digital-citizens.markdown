@@ -1,0 +1,58 @@
+---
+author: Mark Belinsky
+comments: true
+date: 2011-06-14 15:15:55+00:00
+layout: post
+slug: securing-the-youngest-digital-citizens
+title: Securing the Youngest Digital Citizens
+wordpress_id: 3170
+categories:
+- Conferences
+- Research
+tags:
+- Culture
+- democracy
+- edutech
+- england
+- ewi2011
+- london
+- netfreedom
+- privacy
+- security
+- uk
+- united kingdom
+- yotech
+---
+
+What is the future of cybersecurity and what is the impact on youth, as well as democracy advocates around the world? I recently attended the EastWest Institute’s Cybersecurity Summit to discuss and present on these issues amongst the worlds leading technology security firms. There I met [Michel Nienhuis][1] who wrote a thoughtful piece that I’m happy to re-post here:
+
+ [1]: http://twitter.com/#!/michelnienhuis
+
+On May 31, I attended the [International Youth Congress on Digital Citizenship][2] hosted by the [EastWest Institute][3] (EWI) in London, in the lead-up to their [Second Worldwide Cybersecurity Summit][4]. That young people are hugely empowered by the advent of the internet is obvious: one-click access to libraries of information and limitless opportunities to interact, discuss and organize. But there are downsides. Sometimes scary downsides. This congress involved a lot of grassroots organizations reporting from the field in order to identify these downsides. [Movements.org][5] for instance, dedicated to ‘identifying, connecting, and supporting grassroots digital activists’, partnered with the EWI and local NGO’s in the US, Lebanon, Cameroon and Nigeria to conduct workshops with the youth in those countries. They found that the issues facing the younger generation markedly differ across nations, regions and cultures.
+What is the future of cybersecurity and what is the impact on youth, as well as democracy advocates around the world? I recently attended the EastWest Institute's Cybersecurity Summit to discuss and present on these issues amongst the worlds leading technology security firms. There I met [Michel Nienhuis](http://twitter.com/#!/michelnienhuis) who wrote a thoughtful piece that I'm happy to re-post here:
+
+On May 31, I attended the [International Youth Congress on Digital Citizenship](http://www.cybersummit2011.com/component/content/article/27) hosted by the [EastWest Institute](http://www.ewi.info/) (EWI) in London, in the lead-up to their [Second Worldwide Cybersecurity Summit](http://www.cybersummit2011.com/). That young people are hugely empowered by the advent of the internet is obvious: one-click access to libraries of information and limitless opportunities to interact, discuss and organize. But there are downsides. Sometimes scary downsides. This congress involved a lot of grassroots organizations reporting from the field in order to identify these downsides. [Movements.org](http://www.movements.org/) for instance, dedicated to ‘identifying, connecting, and supporting grassroots digital activists’, partnered with the EWI and local NGO’s in the US, Lebanon, Cameroon and Nigeria to conduct workshops with the youth in those countries. They found that the issues facing the younger generation markedly differ across nations, regions and cultures.
+
+[![image](http://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg)](http://www.flickr.com/photos/digitaldemocracy/5835839929/in/photostream)
+
+In the US, youngsters were particularly concerned with cyber bullying – hacking or abusing of their Facebook accounts (‘fraping’, a portmanteau of Facebook and raping) or the spreading of false rumours – as well as being sent sexually explicit texts (‘sexting’, from sex and texting). Identity theft not only affects adults – children posing as classmates can be equally devastating, albeit perhaps more in an emotional rather than financial way. Something which also came up in later breakout sessions, was the increasingly obligatory nature of Facebook in at least the UK and US and the pressure to conform – if you do not have a Facebook account, you are an ‘outsider’ and will not be invited to events (‘if it’s not on Facebook, it’s not happening’) and in the ultimate act of peer pressure, classmates are even likely to make an account for you. There is almost no escaping it if you do not want to miss out. Indirectly, young people are forcing each other to give up their privacy.
+
+As a result of all this activity, a blurring of the dividing line between the ‘offline’ and ‘online’ worlds has made itself visible – while adults still see a clear divide, young people increasingly grow up in what they perceive to be one integrated world. There is a lot of anecdotal evidence to suggest that adults are more ‘privacy-savvy’ than their ‘tech-savvy’ children. What many children do not realize, for instance, is that when something is online, it is often difficult or impossible to remove. Years later when they are job hunting, they can be faced with the consequences of their childhood social media posts. The new awareness adage is ‘google before you tweet’. In similar vein, it was noted that old pictures on Facebook can induce not only nostalgia but also an unhealthy longing for that old, slimmer, smaller self that would otherwise have been concealed in a photo album in a drawer somewhere. In addition, many youngsters admit to portraying a different, ‘cooler’ image online from their ‘real life’ image – which carries with it a whole new set of challenges (as well as opportunities) for socially more isolated children.
+
+Youngsters from Cameroon, with a virtual absence of e-shopping and e-banking, are strikingly concerned with security concerns like scamming and phishing – perhaps the fear of the unknown. Nigerian kids were more worried about unwanted pop-ups, particularly pornography – a concern instilled in them, it seemed, by repeated warnings from teachers. In Lebanon, the tremendously slow connection speed was a big concern. Unexpectedly – having a high [Human Development Index](http://hdr.undp.org/en/reports/global/hdr2010/) – Lebanon has the slowest download speed of all nations in the world, and the second-slowest upload speed, severely limiting for instance their ability to use online video. I was personally shocked by the ease with which Lebanese youngsters share their passwords: 47% of those surveyed did so, of which over half (26% of the total) thought it not at all risky. While it is often limited to boyfriends and girlfriends, even this tends to result in sometimes traumatizing ‘fraping’ and other types of bullying after break-ups. Finally, two-thirds of the total group of youngsters was not concerned about possible future consequences of their current online posts.
+
+The harsh truth is – we cannot just hope that all these issues will go away if we ignore them. Nor will sexual harassment and child grooming practices by sexual predators – worryingly, surveyed youth did not seem particularly concerned about that. Therefore, more awareness is needed. There are proposals that privacy settings for social media like Facebook could by default be set to completely private for children, instead of public, in order to counter their lack of awareness or lack of risk-perception. Luckily, more and more organizations like Movements.org and Digital Democracy (also present at the youth congress) are popping up, aiming to increase digital literacy. Others, like the [Global Cyber Ambassadors for Peace](http://www.e-wwg.com/unesco.htm), are fostering youth engagement and setting up online codes of conduct – actually facilitating children educating each other on cyber risks by for instance helping them make role-play videos (some of which were shown at the congress), stimulating creativity along the way.
+
+But these organisations cannot go it alone. Top-down protection is also needed from legislators, the private sector and parents. Next to better privacy and security regulation, we need governments and parents to join in this education campaign – one suggestion was mandatorily adding it to school curriculums. After all, we do not want children to learn everything the hard way, not when it can have such a big negative impact on their future. And when they all – and we all – become digitally literate and privacy aware, we will be able to stand up to over-zealous governments and businesses looking to control our identity and infringe our privacy in order to protect us, protect the status quo, and protect their profits (think about the huge market for our identities and our private life), as well as to future cyber criminals. In the end, we must work together to ensure that the dangers do not overshadow the tremendous empowerment the internet has brought us all.
+
+Online privacy, security and freedom controversies have become a staple in traditional and new media alike. ‘Cyber’ has taken centre stage: cyber security, cyber bullying, cyber conflict, cyber crime, cyber espionage, cyber terrorism and even cyber warfare are continuing to make headlines. With the recent Arab uprising as a landmark moment in the power of the internet, slowly but steadily cyberspace has become essential to our daily lives – but as a troubled medium: security and privacy are under attack, not in the least from each other. Where do young people find themselves in this dual frame?
+
+Counter-terrorism measures and advertisement profiling often invade privacy in the most brutal ways and, at the same time, lack of personal online security leads to breaches of that same privacy by criminals. There can be no privacy without security, and no security with full and unlimited privacy of terrorists and other criminals. Hence, we need security to ensure our privacy, but not so tight that it prevents criminals from being found out by intelligence services. That is where the problem lies. If we want to be able to spy on criminals, we have to allow the government to spy on us all. But this also enables criminals to spy on us.
+
+So, effectively, we are all increasingly asked to surrender our privacy to businesses like Facebook in return for their services, and to governments in return for ‘security’ – but it really is only quasi-security. Though numerous terrorist plots have been unraveled by intelligence services, the government can barely protect us from online criminals. Complete security and safety is an illusion, and fear of attack has always been used by rulers to control the citizens – or even start wars. The age-old question of how much freedom, liberty and privacy we should give up in order to be kept safe has been rekindled by the rise of the internet. Some even prophesy a slippery slope leading to the realization of George Orwell’s 1984. But all of this is assuming the government is able to determine our level of security and privacy online, and this is obviously, for now at least, false. Even with that knowledge, the security versus privacy debate continues, and consensus is hard to reach – except on one thing: the protection of our children. So will young people be the key to unlocking this conundrum? And is this the moment for a breakthrough, with the G8 recently putting cyber crime and internet regulation on its agenda for the first time in history and producing an Internet section in the resulting Deauville declaration?
+
+This article was originally published on June 13th in [openDemocracy][9]. 
+
+
+ [9]: http://www.opendemocracy.net/michel-nienhuis/digital-young-citizens-unlocking-privacy-versus-security-debate
+This article was originally published on June 13th in [openDemocracy](http://www.opendemocracy.net/michel-nienhuis/digital-young-citizens-unlocking-privacy-versus-security-debate).

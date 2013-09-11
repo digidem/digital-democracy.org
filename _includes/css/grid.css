@@ -1,0 +1,45 @@
+header,
+section {
+  *zoom: 1;
+}
+.sidebar, .carousel, .media, .updates {
+  float: left;
+  min-height: 1px;
+}
+
+.sidebar, .updates {
+  margin-left: 25px;
+}
+
+header, section {
+  width: 800px;
+}
+.carousel img {
+  width: 600px;
+  height: 350px;
+}
+.sidebar {
+  width: 175px;
+}
+.media {
+  width: 390px;
+}
+.updates {
+  width: 385px;
+}
+header, section {
+  margin-left: 160px;
+  *zoom: 1;
+}
+header:before,
+header:after,
+section:before,
+section:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+header:after,
+section:after {
+  clear: both;
+}

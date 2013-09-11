@@ -1,0 +1,21 @@
+---
+author: Liz Hodes
+comments: true
+date: 2009-01-13 01:32:07+00:00
+layout: post
+slug: welcome-2009
+title: Welcome, 2009
+wordpress_id: 169
+categories:
+- News
+---
+
+As 2008 came to a close we were able to take a look back at the highlights from the past year, the places we've been, the people we've met, and the many milestones we've been able to reach as Digital Democracy has continued to develop.
+
+Our travel took us around the world, starting the year in Bangladesh, we went on to work in India, Thailand, Indiana, New York, China, South Africa, Zimbabwe, Washington DC and San Francisco.
+
+Along the way we have met Burmese community organizations working in media, human rights, advocacy, women’s issues and to protect the environment. We took an in-depth look at the resettlement process of refugees to the US, and celebrated their contributions on [World Refugee Day](http://www.dtwo.org/2008/06/20/world-refugee-day/).  In Southern Africa, we were inspired by the use of [mobile phones for social change the world over](http://www.mobileactive08.org), and we were inspired by colleagues in Zimbabwe who show true courage in the face of an increasingly dire political situation. We ended the year in San Francisco and the Bay area, investigating tech innovations and their applications in the field.
+
+This fall we also published our Project Einstein Bangladesh Book (available for purchase [here](http://www.dtwo.org/products/)) as well as our report, [_Overcoming Obstacles, Creating Opportunities_](http://www.dtwo.org/2008/11/20/thailand-report-launch/).
+
+As we move into the new year, we look forward to deepening partnerships and developing our Virtual Community Center. Best wishes to you and yours in 2009!
