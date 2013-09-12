@@ -6,3 +6,4 @@ server: true
 markdown: rdiscount
 permalink: pretty
 auto: true
+excerpt_separator: "\n\n"

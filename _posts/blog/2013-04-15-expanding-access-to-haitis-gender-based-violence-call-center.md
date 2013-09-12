@@ -5,18 +5,19 @@ date: 2013-04-15 21:47:59+00:00
 layout: post
 slug: expanding-access-to-haitis-gender-based-violence-call-center
 title: Expanding Access to Haiti’s Gender-Based Violence Call Center
-wordpressid: 4755
+wordpress_id: 4755
 categories:
 - Haiti
 - International Programs
 ---
+
 **Port-au-Prince, Haiti:** Starting March 8, 2013 the KOFAVIV Gender-based Violence Call Center received nearly 2000 calls over the course of a mere 48 hours. Thankfully, the influx of calls was not a result of a spike in violence in Haiti, but rather a response to a campaign launched by [Digicel](http://www.digicelgroup.com/) in honor of International Women’s Day to share information on the 572 Call Center with over 5 million mobile subscribers in Haiti.
 
 During the month of March, call center operators fielded thousands of calls from throughout the country. Calls came both from women seeking support for specific cases of domestic and sexual violence and from citizens asking for general information on what the call center does and to do if an incident of violence ever does happen to them or those around them.
 
 For our partner KOFAVIV, the promotion from Digicel was a major victory in their efforts to support survivors of sexual violence throughout the country. According to Wismide, one of the call center operators, “Even if callers aren't victims at the time of the call, we hope they will remember 572 as a resource and share it with people close to them. The more people are informed about what to do, the more support survivors will have in their communities in the future.”
 
-![image](http://farm9.staticflickr.com/8119/8758626267be595757a5z.jpg)
+![image](http://farm9.staticflickr.com/8119/8758626267_be595757a5_z.jpg)
 
 **Calls in Context: Current Rates of Sexual Violence in PaP**
 KOFAVIV and other women’s organizations continue to be alarmed by the steady rates of sexual violence in and around Port-au-Prince. In the first 3 months of 2013 alone, KOFAVIV has documented 110 incidents. But despite the consistent influx of cases, community agents have noted some positive changes as a result of ongoing awareness-raising campaigns like this one. As Fania, one of the KOFAVIV Technology Agents, shared:

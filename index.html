@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+
+<section class="slideshow-wrapper row">
+  <ul data-orbit>
+    {% for post in site.posts limit:4 %}
+    <li>
+      <img src="http://placehold.it/1000x562" />
+      <div class="orbit-caption">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="mission-statement row">
+  <h3 class="small-10 small-centered columns text-center subheader">Digital Democracy empowers marginalized communities to use technology to fight for their human rights.</h4>
+</section>
+
+<br/><br/>
+
+<section class="row">
+  <div class="small-10 small-centered columns">
+    <div class="row">
+    <div class="small-4 columns"><img src="http://placehold.it/400x300&text=Work"></div>
+    <div class="small-4 columns"><img src="http://placehold.it/400x300&text=Donate"></div>
+    <div class="small-4 columns"><img src="http://placehold.it/400x300&text=Approach"></div>
+    </div>
+  </div>
+</section>
+
+<section class="row blog">
+  <h2>Latest From Our Blog</h2>
+  <ul class="large-block-grid-2">
+    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
+    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
+    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
+    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
+  </ul>
+</section>
