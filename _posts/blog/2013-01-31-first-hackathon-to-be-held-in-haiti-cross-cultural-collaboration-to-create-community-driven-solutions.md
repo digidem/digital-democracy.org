@@ -9,8 +9,6 @@ dsq_thread_id:
   - 1056727333
 categories:
 - blog
-tags:
-- front-page
 ---
 *February 1-3, 2013* –  This weekend, Digital Democracy – along with partners [KOFAVIV][1], [ESIH][2] & more – is hosting “From Local Solutions to National Systems,” a Hackathon in Port-au-Prince, Haiti. We’re thrilled to be convening a talented group of Haitian & international developers, designers and issue areas experts for the **first Hackathon **FOR Haiti to be hosted **IN Haiti**.
 

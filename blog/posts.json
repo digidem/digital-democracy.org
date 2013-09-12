@@ -1,0 +1,11 @@
+---
+---
+{"articles": [
+  {% for post in site.posts %}
+  {
+    "title": "{{ post.title | strip_html }}",
+    "excerpt": "{{ post.excerpt | strip_html }}",
+    "image": "{{ post.image | strip_html }}"
+  },
+  {% endfor %}false]
+}

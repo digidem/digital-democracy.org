@@ -3,3 +3,4 @@ description: Educating 21st Century Citizens
 timezone: America/NewYork
 markdown: rdiscount
 permalink: pretty
+exclude: wp-content, foundation-4.3.1

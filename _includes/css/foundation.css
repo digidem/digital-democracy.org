@@ -49,8 +49,7 @@ img {
   max-width: none !important; }
 
 .left {
-  float: left !important; 
-  margin-right: 1em;}
+  float: left !important; }
 
 .right {
   float: right !important; }
@@ -3219,7 +3218,7 @@ label.error {
         background-color: black;
         background-color: rgba(0, 0, 0, 0.6);
         color: white;
-        width: 100%;
+        /*width: 100%;*/
         padding: 10px 14px;
         font-size: 0.875em; }
   .orbit-container .orbit-slide-number {

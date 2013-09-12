@@ -2,14 +2,18 @@
 layout: default
 ---
 
-<section class="slideshow-wrapper row">
+<section class="slideshow-wrapper">
   <ul data-orbit>
     {% for post in site.tags.front-page %}
     <li>
-      <img src="http://placehold.it/1000x562" />
-      <div class="orbit-caption">
+      <div class="flex-video widescreen">
+        <img src="{{ post.image }}" />
+      </div>
+      <div class="row">
+        <div class="{% if post.overlay_position contains 'right' %}large-offset-5{% endif %} orbit-caption columns large-5">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt }}</p>
+        {{ post.excerpt | markdownify }}
+        </div>
       </div>
     </li>
     {% endfor %}
@@ -17,7 +21,7 @@ layout: default
 </section>
 
 <section class="mission-statement row">
-  <h3 class="small-10 small-centered columns text-center subheader">Digital Democracy empowers marginalized communities to use technology to fight for their human rights.</h4>
+  <h2 class="text-center subheader">Digital Democracy empowers marginalized communities to use technology to fight for their human rights.</h2>
 </section>
 
 <br/><br/>

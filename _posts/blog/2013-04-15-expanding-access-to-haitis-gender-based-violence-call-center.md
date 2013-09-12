@@ -5,11 +5,16 @@ date: 2013-04-15 21:47:59+00:00
 layout: post
 slug: expanding-access-to-haitis-gender-based-violence-call-center
 title: Expanding Access to Haiti’s Gender-Based Violence Call Center
+image: https://farm9.staticflickr.com/8521/8472422804_452f11aa91_b.jpg
 wordpress_id: 4755
 categories:
 - blog
+tags:
+- front-page
 ---
-**Port-au-Prince, Haiti:** Starting March 8, 2013 the KOFAVIV Gender-based Violence Call Center received nearly 2000 calls over the course of a mere 48 hours. Thankfully, the influx of calls was not a result of a spike in violence in Haiti, but rather a response to a campaign launched by [Digicel](http://www.digicelgroup.com/) in honor of International Women’s Day to share information on the 572 Call Center with over 5 million mobile subscribers in Haiti.
+_Port-au-Prince, Haiti:_ Starting March 8, 2013 the KOFAVIV Gender-based Violence Call Center received nearly 2000 calls over the course of a mere 48 hours. Thankfully, the influx of calls was not a result of a spike in violence in Haiti, but rather a response to a campaign launched by [Digicel](http://www.digicelgroup.com/) in honor of International Women’s Day.
+
+The campaign shared information on the 572 Call Center with over 5 million mobile subscribers in Haiti.
 
 During the month of March, call center operators fielded thousands of calls from throughout the country. Calls came both from women seeking support for specific cases of domestic and sexual violence and from citizens asking for general information on what the call center does and to do if an incident of violence ever does happen to them or those around them.
 

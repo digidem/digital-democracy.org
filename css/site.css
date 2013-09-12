@@ -1,0 +1,19 @@
+body {
+  max-width: 80em;
+  margin: auto; }
+
+.left {
+  margin-right: 1em; }
+
+.flex-video {
+  padding-top: -57.25%; }
+  
+.flex-video img {
+  width: 100%; 
+  position: absolute;
+  bottom: -10%; }
+
+.orbit-caption p {
+  font-size: 130%; }
+.orbit-caption {
+  background-color: rgba(0, 0, 0, 0.8) !important; }
