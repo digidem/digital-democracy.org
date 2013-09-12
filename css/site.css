@@ -6,7 +6,8 @@ body {
   margin-right: 1em; }
 
 .flex-video {
-  padding-top: -57.25%; }
+  padding-top: 0;
+  margin-bottom: 0; }
   
 .flex-video img {
   width: 100%; 
@@ -17,3 +18,13 @@ body {
   font-size: 130%; }
 .orbit-caption {
   background-color: rgba(0, 0, 0, 0.8) !important; }
+  
+.blogroll img {
+  width: 200px;
+  height: 150px; 
+  border: 1px solid #ccc; }
+
+.featured img {
+  width: 600px;
+  height: 450px; 
+  border: 1px solid #ccc; }

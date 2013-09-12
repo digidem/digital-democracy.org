@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<section class="row panel">
+<section class="row panel featured">
+  {% for post in site.tags.featured limit:1 %}
   <div class="small-4 columns">
-    <h3>Featured Post</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+    <h3>{{ post.title }}</h3>
+    {{ post.excerpt | markdownify }}
   </div>
   <div class="small-8 columns">
-    <img src="http://placehold.it/600x450">
+    <img src="{{ post.image }}">
   </div>
+  {% endfor %}
 </section>
 
 <section class="row">
@@ -41,11 +43,11 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="small-8 columns">
+  <div class="small-8 columns blogroll">
     {% for post in site.categories.blog limit:10 %}
     <div class="row">
       <div class="small-4 columns">
-        <img src="http://placehold.it/200x150" class="left">
+        <img src="{{ post.image }}" class="left">
       </div>
       <div class="small-8 columns">
         <h5>{{ post.title}}</h5>

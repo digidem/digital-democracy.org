@@ -36,12 +36,12 @@ layout: default
   </div>
 </section>
 
-<section class="row blog">
-  <h2>Latest From Our Blog</h2>
+<section class="row blogroll">
+  <h3>Latest From Our Blog</h3>
   <ul class="large-block-grid-2">
     {% for post in site.categories.blog limit:4 %}
     <li>
-      <a href="{{ post.url }}"><img src="http://placehold.it/200x150" class="left"></a>
+      <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
       <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
       <p class="subhead">{{ post.excerpt }}</p>
     </li>
