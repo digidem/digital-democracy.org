@@ -1,0 +1,13 @@
+prose:
+  siteurl: "http://beta.digital-democracy.org"
+  media: "assets"
+  metadata:
+    _posts:
+      - name: "tags"
+        field:
+          element: "multiselect"
+          options:
+            - name: "front-page"
+            - name: "featured"
+          placeholder: "Select tags to add to the post"
+          alterable: true
