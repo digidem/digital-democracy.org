@@ -7,7 +7,7 @@ slug: ddtv-episode-4-bangkok
 title: 'DdTv Episode 4: Bangkok'
 wordpress_id: 687
 categories:
-- blog
+- archive
 ---
 
 

@@ -7,7 +7,7 @@ slug: thailand-report-launch
 title: Thailand Report Launch!
 wordpress_id: 801
 categories:
-- blog
+- archive
 ---
 
 **Overcoming Obstacles, Creating Opportunities:

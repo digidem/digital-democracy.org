@@ -7,7 +7,7 @@ slug: media-and-technology-in-armenia
 title: Media and Technology in Armenia
 wordpress_id: 2102
 categories:
-- blog
+- archive
 ---
 
 In 2003, I went to Armenia and started working with youth on "blogging" before the term blogging was actually in the lexicon. Back then, access to computers was hard to come by and the internet was crawling along. I was working with a documentary film company, [Bars Media](http://barsmedia.am/), and found that young people were not involved in the political life of the country. Along with some local friends and Dutch friends, we founded [Bem](http://bemypac.wordpress.com/), a youth action center focused on teaching art and technology for civic engagement. Since then, the country has gone through many changes.

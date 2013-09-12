@@ -7,7 +7,7 @@ slug: big-brother-vs-little-brother-book-covers
 title: '"Big Brother" vs. Little Brother Book Covers'
 wordpress_id: 1768
 categories:
-- blog
+- archive
 ---
 
 On the border of Thailand and Burma/Myanmar, I met Aung Zaw, who told me about risking his life  to document human rights abuses performed by the government of Myanmar. His hope was that this information could help to defend his people. At the end of our talk, he asked if we could become Facebook friends. This was the inspiration for our[ "Big Brother" vs. Little Brother Kickstarter campaign.](http://www.kickstarter.com/projects/1033999452/little-brother-vs-big-brother)

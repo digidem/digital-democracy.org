@@ -7,7 +7,7 @@ slug: ddtv-episode-11-stories-from-a-thai-refugee-camp
 title: 'DdTv Episode 11: Stories from a Thai Refugee Camp'
 wordpress_id: 1671
 categories:
-- blog
+- archive
 ---
 
 

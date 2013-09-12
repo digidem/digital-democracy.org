@@ -7,7 +7,7 @@ slug: week-in-washington
 title: Week in Washington
 wordpress_id: 179
 categories:
-- blog
+- archive
 ---
 
 Our co-directors spent this past week in Washington D.C., witnessing

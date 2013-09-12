@@ -7,7 +7,7 @@ slug: presentation-at-the-us-institute-of-peace
 title: Presentation at the U.S. Institute of Peace
 wordpress_id: 802
 categories:
-- blog
+- archive
 ---
 
 On Thursday, Nov. 13 we participated in a fantastic roundtable discussion at USIP on the role of youth in the process of peace-building in Burma.  Twenty-five people from a range of organizations including the [Center for Peace Building International](http://www.cpbinternational.org), [USAID](http://www.usaid.gov), [USIP](http://www.usip.org), the State Department and [PACT International](http://www.pactworld.org) came together to discuss observations, experiences, lessons learned and ways forward for involving and strengthening youth in peace-building.

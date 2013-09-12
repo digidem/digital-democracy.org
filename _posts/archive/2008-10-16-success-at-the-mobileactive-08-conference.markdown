@@ -7,7 +7,7 @@ slug: success-at-the-mobileactive-08-conference
 title: Success at the MobileActive 08 Conference
 wordpress_id: 40
 categories:
-- blog
+- archive
 ---
 # 
 

@@ -7,7 +7,7 @@ slug: what-does-a-successful-revolution-look-like-dispatches-from-georgia
 title: What Does A Successful Revolution Look Like? Dispatches from Georgia
 wordpress_id: 3287
 categories:
-- blog
+- archive
 ---
 
 <caption id="" align="alignnone" width="422" caption="President Saakashvili of Georgia">[![20110803-112128.jpg](http://farm7.static.flickr.com/6012/6008382341_d47c03c42d_o.png)](http://www.flickr.com/photos/digitaldemocracy/6008382341/)</caption>

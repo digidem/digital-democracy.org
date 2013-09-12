@@ -7,7 +7,7 @@ slug: election-monitoring-in-the-philippines
 title: Election Monitoring in the Philippines
 wordpress_id: 1761
 categories:
-- blog
+- archive
 ---
 
 Elections are an important part of any democracy, but only when they're properly executed. When an election happens, how can one be sure that they're actually free and fair? Is it international monitors that ensure this or local grassroots organizations? The answer is complicated and varies in different places.

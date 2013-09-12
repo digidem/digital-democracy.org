@@ -7,7 +7,7 @@ slug: reimagining-learning-with-the-roebling-platform
 title: Reimagining Learning with the Roebling Platform
 wordpress_id: 1430
 categories:
-- blog
+- archive
 ---
 
 What is education in the 21st century? How do we prepare kids for the future when our teachers are unprepared? And what about the underserved children living on the margins of society, whether the tens of thousands of newly resettled refugees from Burma, Somalia and Iraq, or youth from districts that spend more money on the prison system than schools.

@@ -7,7 +7,7 @@ slug: discussing-the-present-and-future-of-open-video
 title: Discussing the Present and Future of Open Video
 wordpress_id: 2283
 categories:
-- blog
+- archive
 ---
 
 Video is changing as more and more people have the ability to be creators. This provides unlimited potential for new ideas and methods in video, a prospect that is exciting to me as someone who works daily in the fields of old and new media.

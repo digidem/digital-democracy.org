@@ -7,7 +7,7 @@ slug: we-present-testimony-on-new-media-to-us-congress
 title: Testifying at US Congress
 wordpress_id: 738
 categories:
-- blog
+- archive
 ---
 
 ![image](http://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg)We are currently writing from the Capitol Building in Washington, DC where Digital Democracy is submitting written testimony to a special Congressional hearing investigating the role of digital technology in protests that have occurred in recent years in countries under authoritarian governments:

@@ -7,7 +7,7 @@ slug: little-brother-vs-big-brother-campaign
 title: Little Brother vs. Big Brother Campaign
 wordpress_id: 834
 categories:
-- blog
+- archive
 ---
 
 To mark the the one year anniversary of Digital Democracy, we're launching [Little Brother vs. Big Brother](http://www.kickstarter.com/projects/1033999452/little-brother-vs-big-brother), a campaign to translate [Cory Doctorow](http://craphound.com/bio.php)'s compelling book [_Little Brother_](http://craphound.com/littlebrother/about/) into four Burmese languages. By translating and distributing electronic versions of the book to Burmese readers, we hope to broaden the debate on using technology in the struggle for freedom against tyranny.

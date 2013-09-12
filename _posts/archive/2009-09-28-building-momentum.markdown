@@ -7,7 +7,7 @@ slug: building-momentum
 title: Building Momentum
 wordpress_id: 692
 categories:
-- blog
+- archive
 ---
 
 ![momentum T](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/09/momentum-T2-201x300.png)Recently Gabe represented Digital Democracy at the [Tides](http://www.tides.org/about-us/index.html) [Momentum Conference](http://www.momentumconference.org/index.php) in San Francisco, a convergence of leaders, philanthropists and activists working on a wide range of progressive social issues. It was an opportunity to get together with other dedicated, hard-working folks to discuss problems, share stories and brainstorm solutions to some of the most pressing problems facing our society and our planet.

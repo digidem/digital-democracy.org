@@ -7,7 +7,7 @@ slug: reflections-from-a-week-among-haitis-women
 title: Reflections from a week among Haiti's women
 wordpress_id: 1730
 categories:
-- blog
+- archive
 ---
 
 After a whirlwind six days in Port au Prince, Emily and I have much to share. Our trip actually came two weeks ahead of schedule. We received a request from the Protection Officer for Sexual Exploitation and Abuse working on behalf of the UN Office for the Coordination of Humanitarian Affairs, who relayed the enormous and immediate need for mechanisms to streamline protection, documentation, and service provisions around gender-based-violence. Her mandate was to create this mechanism and she asked whether we could join an “interagency working session” just a few days from our initial phone call – in Port Au Prince – to provide technical expertise at the meeting.

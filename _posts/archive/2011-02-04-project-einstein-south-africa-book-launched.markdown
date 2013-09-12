@@ -7,7 +7,7 @@ slug: project-einstein-south-africa-book-launched
 title: Project Einstein South Africa Book Launched
 wordpress_id: 2721
 categories:
-- blog
+- archive
 ---
 
 13 Kids + 4 Cameras = Project Einstein South Africa

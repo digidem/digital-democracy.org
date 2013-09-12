@@ -7,7 +7,7 @@ slug: commitment-to-clinton-global-a-visitor-from-haiti
 title: Commitment to Clinton Global & A Visitor from Haiti
 wordpress_id: 2124
 categories:
-- blog
+- archive
 ---
 
 It's an exciting week for Digital Democracy. One of our key [Haitian partners is in New York](http://digital-democracy.org/2010/09/13/haiti-a-unique-voice-from-the-frontline/), and we're attending two conferences. Mark is in Budapest attending Google's [Internet at Liberty 2010 conference](https://www.events-google.com/google/frontend/reg/thome.csp?pageID=17227&eventID=79). I'm in NY, representing Digital Democracy at the [Clinton Global Initiative (CGI)](http://www.clintonglobalinitiative.org/ourmeetings/2010/meeting_annual_agenda.asp?Section=OurMeetings&PageTitle=Agenda) annual meeting.

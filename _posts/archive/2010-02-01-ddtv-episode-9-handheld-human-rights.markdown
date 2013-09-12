@@ -7,7 +7,7 @@ slug: ddtv-episode-9-handheld-human-rights
 title: 'DdTv Episode 9: Handheld Human Rights'
 wordpress_id: 1240
 categories:
-- blog
+- archive
 ---
 
 

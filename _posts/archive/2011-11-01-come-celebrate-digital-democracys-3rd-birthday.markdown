@@ -7,7 +7,7 @@ slug: come-celebrate-digital-democracys-3rd-birthday
 title: Come Celebrate Digital Democracy's 3rd Birthday!
 wordpress_id: 3492
 categories:
-- blog
+- archive
 ---
 
 [![image](https://farm7.static.flickr.com/6057/6302696445_f5a431b91c_o.png)](http://ddturns3.eventbrite.com/)

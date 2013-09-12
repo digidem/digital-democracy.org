@@ -7,7 +7,7 @@ slug: launching-digital-democracy-tv
 title: Launching Digital Democracy TV
 wordpress_id: 632
 categories:
-- blog
+- archive
 ---
 How is technology changing the world?We're launching [Digital Democracy TV](http://digitaldemocracy.blip.tv/) (DdTv) to find out.
 

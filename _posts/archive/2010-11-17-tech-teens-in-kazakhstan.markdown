@@ -7,7 +7,7 @@ slug: tech-teens-in-kazakhstan
 title: Tech Teens in Kazakhstan
 wordpress_id: 2426
 categories:
-- blog
+- archive
 ---
 
 A student of mine named Genghis Kahn raises his hand and declares that he wants to do a media project on why adults need to learn technology. He explained that in the 21st century, these tools are really important and if the people in the city of Atyrau want to move forward, they're going to have to learn them.

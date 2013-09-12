@@ -7,7 +7,7 @@ slug: come-say-hello-to-the-d2-team-at-netsquared
 title: Come Say Hello to the D2 Team at NetSquared!
 wordpress_id: 444
 categories:
-- blog
+- archive
 ---
 
 <caption id="attachment_446" align="alignright" width="300" caption="(left to right) Emily, Morgan and Mark">[![Come Say Hello!](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo-300x224.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo.jpg)</caption>

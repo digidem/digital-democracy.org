@@ -7,7 +7,7 @@ slug: einstein-media-curriculum-now-available
 title: Einstein Media Curriculum Now Available
 wordpress_id: 2684
 categories:
-- blog
+- archive
 ---
 
 Working on a photography project with kids in Bangladesh, as their work drew to a close, the Anyat Ullah chose a name for the  project “Project Einstein.” All the kids quickly agreed, explaining:

@@ -7,7 +7,7 @@ slug: future-of-libraries-in-ukraine-and-romania
 title: Future of Libraries in Ukraine and Romania
 wordpress_id: 2606
 categories:
-- blog
+- archive
 ---
 
 What is the future of libraries? The debate is raging on what information management will look like in the 21st century and how relevant and useful public buildings such as libraries really are. I was excited to travel to Kiev to discuss the issue with some libraries from Ukraine and Romania.

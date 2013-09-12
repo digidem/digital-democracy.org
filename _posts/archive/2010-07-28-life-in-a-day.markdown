@@ -7,7 +7,7 @@ slug: life-in-a-day
 title: Filming Worldwide for Life in a Day
 wordpress_id: 1979
 categories:
-- blog
+- archive
 ---
 
 If you filmed all around the world on the same day, what would it look like?

@@ -7,7 +7,7 @@ slug: celebrating-3-years
 title: Celebrating 3 years
 wordpress_id: 3569
 categories:
-- blog
+- archive
 ---
 
 [![image](http://farm7.staticflickr.com/6094/6383886719_5b69d54793_z.jpg)](http://www.flickr.com/photos/digitaldemocracy/6383886719/in/photostream)

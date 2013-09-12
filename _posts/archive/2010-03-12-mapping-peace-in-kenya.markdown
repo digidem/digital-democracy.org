@@ -7,7 +7,7 @@ slug: mapping-peace-in-kenya
 title: Mapping peace in Kenya
 wordpress_id: 1549
 categories:
-- blog
+- archive
 ---
 
 In a world where there is so much violence and conflict exists, how do people working for peace find and support one another?

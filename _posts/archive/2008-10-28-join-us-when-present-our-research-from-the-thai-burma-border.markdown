@@ -7,7 +7,7 @@ slug: join-us-when-present-our-research-from-the-thai-burma-border
 title: Join us as we present our research from the Thai-Burma border
 wordpress_id: 799
 categories:
-- blog
+- archive
 ---
 
 What are the challenges, hopes and dreams of the next generation of Burmese youth activists? In March 2007, Digital Democracy's co-directors Mark Belinsky and Emily Jacobi joined a research team from the Center for Peace Building International to investigate the situation of Burmese youth along the Thai-Burma Border.

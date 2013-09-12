@@ -7,7 +7,7 @@ slug: double-your-impact-for-dd-today-support-the-shadow-fund
 title: Double your impact for Dd today! Support the Shadow Fund
 wordpress_id: 3221
 categories:
-- blog
+- archive
 ---
 
 *Double your support of Dd’s work empowering marginalized groups by [giving to the Shadow Fund][1] *by August 1*!*Double your support of Dd's work empowering marginalized groups by [giving to the Shadow Fund](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590) _by August 1_!

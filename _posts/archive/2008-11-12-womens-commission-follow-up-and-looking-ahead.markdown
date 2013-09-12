@@ -7,7 +7,7 @@ slug: womens-commission-follow-up-and-looking-ahead
 title: Women's Commission follow-up and looking ahead
 wordpress_id: 800
 categories:
-- blog
+- archive
 ---
 
 

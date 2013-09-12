@@ -7,7 +7,7 @@ slug: ddtv-episode-7-prachatai
 title: 'DdTv Episode 7: Prachatai'
 wordpress_id: 779
 categories:
-- blog
+- archive
 ---
 
 

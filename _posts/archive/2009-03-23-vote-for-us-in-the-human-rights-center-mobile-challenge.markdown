@@ -7,7 +7,7 @@ slug: vote-for-us-in-the-human-rights-center-mobile-challenge
 title: Vote for us in the Human Rights Center Mobile Challenge
 wordpress_id: 356
 categories:
-- blog
+- archive
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/mobile-phone1-200x300.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/mobile-phone1.jpg)Voting just began for [UC Berkeley's Human Rights Center](http://hrc.berkeley.edu/) [Mobile Challenge](http://www.netsquared.org/hrc-ucb). There's an impressive gallery of projects and we are excited to have our proposal for [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) among them.

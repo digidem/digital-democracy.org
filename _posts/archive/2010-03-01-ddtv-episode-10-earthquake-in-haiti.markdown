@@ -7,7 +7,7 @@ slug: ddtv-episode-10-earthquake-in-haiti
 title: 'DdTv Episode 10: Earthquake in Haiti'
 wordpress_id: 1516
 categories:
-- blog
+- archive
 ---
 
 

@@ -7,7 +7,7 @@ slug: ddtv-ep-13-life-after-the-earthquake-the-situation-for-haitian-women
 title: 'DdTv Ep 13 - Life After the Earthquake: The Situation for Haitian Women'
 wordpress_id: 1997
 categories:
-- blog
+- archive
 ---
 
 

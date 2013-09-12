@@ -7,7 +7,7 @@ slug: peace-mapping-team-arrives-in-kenya
 title: Peace Mapping team arrives in Kenya
 wordpress_id: 1918
 categories:
-- blog
+- archive
 ---
 
 It's been a thrilling two weeks for our Peace Mapping Kenya team. On Sunday, the three team members arrived in Nairobi to launch the program, called [Sisi ni Amani](http://digital-democracy.org/what-we-do/programs/#si) which means "We are Peace" in Kiswahili. Prior to their departure, Project Director [Rachel Brown](http://www.wemappeace.org/rachel/) and Project Manager [Cody Valdes](http://www.wemappeace.org/cody/) spent several days with us in our New York office as we did final preparations and coordination for the initial launch of their project in Kenya this month. Combining innovative new techniques with mapping tools and peace-building workshops, the project seeks to amplify the efforts of peace actors within Kenya and connect previously disconnected groups.

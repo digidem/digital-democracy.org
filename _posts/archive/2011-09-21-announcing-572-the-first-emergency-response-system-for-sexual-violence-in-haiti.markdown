@@ -8,7 +8,7 @@ title: 'Announcing 572: the First Emergency Response System Dedicated to Sexual 
   in Haiti'
 wordpress_id: 3362
 categories:
-- blog
+- archive
 ---
 In one year since CGI commitment, Digital Democracy has trained 150 women and built a database documenting over 400 cases of rape in Haiti.
 

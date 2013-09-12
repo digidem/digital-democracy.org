@@ -7,7 +7,7 @@ slug: cast-your-vote-for-handheld-human-rights-again
 title: Cast your vote for Handheld Human Rights ... again!
 wordpress_id: 383
 categories:
-- blog
+- archive
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/rapidandroid-graph2.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/rapidandroid-graph2.jpg)Last week your votes helped our project [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) (HHR) reach the [final round](http://www.netsquared.org/hrc-ucb/topten) of the UC Berkeley Human Rights Center Mobile Challenge. ([Read more in our previous blog post](http://www.dtwo.org/2009/03/31/d2-is-a-finalist-in-the-human-rights-center-mobile-challenge/).)

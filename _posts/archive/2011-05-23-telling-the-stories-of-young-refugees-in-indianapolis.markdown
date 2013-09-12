@@ -7,7 +7,7 @@ slug: telling-the-stories-of-young-refugees-in-indianapolis
 title: Telling the stories of young refugees in Indianapolis
 wordpress_id: 3073
 categories:
-- blog
+- archive
 ---
 
 > You were born in KweKalu, a place near Mae Sot, Thailand. You live there one year when the Burmese government attacks the poor camp. Your fifty year old grandma carries you to escape, with bombs and fire all around. Thank God, your life is not taken away. When the attack is clear, many people in your village go back, and they can’t find their houses. Instead they find ashes and death.

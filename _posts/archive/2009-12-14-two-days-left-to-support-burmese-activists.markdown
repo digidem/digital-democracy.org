@@ -7,7 +7,7 @@ slug: two-days-left-to-support-burmese-activists
 title: 'Video message from Emily: 28 hours left to support Burmese activists'
 wordpress_id: 845
 categories:
-- blog
+- archive
 ---
 
 

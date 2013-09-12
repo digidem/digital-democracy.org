@@ -7,7 +7,7 @@ slug: burmamyanmar-technology-research-2
 title: Burma/Myanmar Technology Research
 wordpress_id: 2349
 categories:
-- blog
+- archive
 ---
 
 Allegedly a country with less than 1% Internet & mobile penetration,

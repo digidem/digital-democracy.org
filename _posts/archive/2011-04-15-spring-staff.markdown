@@ -7,7 +7,7 @@ slug: spring-staff
 title: Starting Spring in NYC By Welcoming New Staff
 wordpress_id: 2983
 categories:
-- blog
+- archive
 ---
 
 It's getting warmer in NYC and the office is bustling with activity. We're happy to have brought on a hacker to help us with our technical projects, as well as two Spring interns. We're having exciting times here at Digital Democracy. Let us know if there's anyone that you know who can help us make a difference and in the meantime, check out their bios to learn more:

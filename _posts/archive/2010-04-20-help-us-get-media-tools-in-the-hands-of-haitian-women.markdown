@@ -7,7 +7,7 @@ slug: help-us-get-media-tools-in-the-hands-of-haitian-women
 title: Help us get media tools in the hands of Haitian women
 wordpress_id: 1716
 categories:
-- blog
+- archive
 ---
 
 Tomorrow morning [Abby and I travel to Port-au-Prince](http://digital-democracy.org/2010/04/19/traveling-to-haiti-to-support-local-women/) to focus on the needs of Haitian women. On our trip we have two objectives, and we need your help to meet them.

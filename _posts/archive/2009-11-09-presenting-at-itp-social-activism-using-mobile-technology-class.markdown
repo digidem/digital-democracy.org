@@ -7,7 +7,7 @@ slug: presenting-at-itp-social-activism-using-mobile-technology-class
 title: Presenting at ITP Social Activism using Mobile Technology class
 wordpress_id: 778
 categories:
-- blog
+- archive
 ---
 
 Emily and I had the pleasure of guest lecturing at Nathan Freitas’ [Social Activism using Mobile Technology](http://openideals.com/itp2800/) class at [NYU's ITP program](http://itp.nyu.edu/). It was a wonderful opportunity that you can read more about below:

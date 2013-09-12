@@ -7,7 +7,7 @@ slug: virtual-worlds-and-nonprofits
 title: Virtual Worlds and Nonprofits
 wordpress_id: 840
 categories:
-- blog
+- archive
 ---
 
 Mark recently represented Digital Democracy at the Global Kids’ [Virtual World Capacity Building Program](http://projectedge.ning.com/group/virtualworldcapacitybuildinggeneralinterest), a four-week intensive exposure to virtual worlds for public good institutions. At the end of the program, each of the participants gave presentations at the [Global Kids](http://globalkids.org/)-hosted **Fall 09 Roundtable on Virtual Worlds and Nonprofits** on MacArthur Island in Second Life ([surl teleport link](http://slurl.com/secondlife/Foundations/124/233/36)).  Representatives of five leading nonprofit organizations gave brief presentations on their initial explorations of Second Life and other virtual worlds, and how they are thinking of integrating these virtual tools into their organizations’ respective missions.

@@ -7,7 +7,7 @@ slug: 1st-year-anniversary-party
 title: 1st Year Anniversary Party
 wordpress_id: 864
 categories:
-- blog
+- archive
 ---
 
 

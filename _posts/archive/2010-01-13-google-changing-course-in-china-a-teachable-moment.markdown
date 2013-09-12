@@ -7,7 +7,7 @@ slug: google-changing-course-in-china-a-teachable-moment
 title: 'Google Changing Course in China: A Teachable Moment'
 wordpress_id: 899
 categories:
-- blog
+- archive
 ---
 
 <caption id="" align="alignright" width="387" caption="Flowers left at Google headquarters in China">[![image](http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)</caption>

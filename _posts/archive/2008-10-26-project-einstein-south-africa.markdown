@@ -7,7 +7,7 @@ slug: project-einstein-south-africa
 title: Project Einstein South Africa
 wordpress_id: 798
 categories:
-- blog
+- archive
 ---
 
 We’ve partnered with New Words, What Kids Can Do, and [Khulisa](http://www.khulisaservices.co.za) on a photography service learning project we’ve been doing in Johannesburg over the past several days. We’re looking to leverage this project into a digital exchange using internet technology via Digital Democracy’s project Virtual Community Center (VCC). The aim of this digital exchange using our platform is getting the voice of these children out in their community. Check out some of our pictures that include the talented kids we’ve been working with!

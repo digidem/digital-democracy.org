@@ -7,7 +7,7 @@ slug: testifying-to-nyc-council-tech-committee-on-open-data
 title: Testifying to NYC Council Tech Committee on Open Data
 wordpress_id: 1900
 categories:
-- blog
+- archive
 ---
 
 Liz Hodes represented Digital  Democracy today while testifying to the New York City Council Technology Committee on Open Data.

@@ -7,7 +7,7 @@ slug: drupalcon-dc-2009
 title: Drupalcon DC 2009
 wordpress_id: 316
 categories:
-- blog
+- archive
 ---
 
 Last week Mark traveled to Washington DC to attend [Drupalcon](http://dc2009.drupalcon.org/), an unconference_for [Drupal](http://drupal.org/) users and developers.

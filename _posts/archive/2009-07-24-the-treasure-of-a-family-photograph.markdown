@@ -7,7 +7,7 @@ slug: the-treasure-of-a-family-photograph
 title: The treasure of a family photograph
 wordpress_id: 583
 categories:
-- blog
+- archive
 ---
 
 <caption id="attachment_587" align="alignright" width="230" caption="Portrait of Mohammed Salam and his family">![Portrait of Mohammed Salam and his family](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-family-portait1-230x300.jpg)</caption>

@@ -7,7 +7,7 @@ slug: supporting-earthquake-relief-update-from-project-einstein-haiti
 title: Supporting earthquake relief & update from Project Einstein Haiti
 wordpress_id: 881
 categories:
-- blog
+- archive
 ---
 
 In the wake of [yesterday evening's devastating, 7.0 earthquake in Haiti](http://www.nytimes.com/2010/01/14/world/americas/14haiti.html?hp), we join the many other groups expressing concern for the people of Haiti.

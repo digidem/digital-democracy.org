@@ -7,7 +7,7 @@ slug: launching-project-einstein-indy-with-support-from-the-clowes-fund
 title: Launching Project Einstein Indy with support from the Clowes Fund
 wordpress_id: 1650
 categories:
-- blog
+- archive
 ---
 
 <caption id="" align="alignright" width="161" caption="A participant in Project Einstein Thailand">![image](http://farm3.static.flickr.com/2625/4140640187_570421884b_m.jpg)</caption>

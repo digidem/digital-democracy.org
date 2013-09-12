@@ -7,7 +7,7 @@ slug: mobile-tech-4-social-change-barcamp
 title: Mobile Tech 4 Social Change Barcamp
 wordpress_id: 291
 categories:
-- blog
+- archive
 ---
 
 This past Saturday, Mark and I attended the [Mobile Tech 4 Social Change](http://barcamp.org/MobileTechForSocialChangeNewYork) Barcamp in New York City hosted by [MobileActive.org](http://mobileactive.org/) at Hunter College's [Integrated Media Arts Program](http://www.hunter.cuny.edu/graduateadmissions/program-requirements/school-of-arts-and-sciences/arts-humanities/integrated-media-arts). A barcamp, also known as anunconference_, follows a more informal model from standard conferences: it's designed to promote conversation and collaboration that may otherwise occur among small groups during free time at more traditional conferences.

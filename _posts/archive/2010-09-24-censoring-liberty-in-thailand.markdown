@@ -7,7 +7,7 @@ slug: censoring-liberty-in-thailand
 title: Censoring Liberty in Thailand
 wordpress_id: 2172
 categories:
-- blog
+- archive
 ---
 
 **Thai journalist and anti-censorship activist is detained & released on bail 12 hours later

@@ -7,7 +7,7 @@ slug: democratic-design-thinking-2
 title: Democratic Design Thinking
 wordpress_id: 2165
 categories:
-- blog
+- archive
 ---
 ![Design for Women of Haiti](http://www.livewithdesign.org/collaboration4haitiweb1.jpg)
 Participation, collaboration, and engagement are words that come to mind when empowering communities with digital tools. These same words also belong to the methodology of design thinking. Design thinking is a process used to create innovative solutions from complex problems.

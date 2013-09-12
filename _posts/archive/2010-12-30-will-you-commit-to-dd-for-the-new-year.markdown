@@ -7,7 +7,7 @@ slug: will-you-commit-to-dd-for-the-new-year
 title: Will you commit to Dd for the new year?
 wordpress_id: 2651
 categories:
-- blog
+- archive
 ---
 
 In September Digital Democracy made a [commitment to the Clinton Global Initiative](http://www.clintonglobalinitiative.org/ourmeetings/2010/) to use technology to empower women and girls fighting  gender-based violence in Haiti. This is part of our larger commitment to  engage with our local partners using technology to solve urgent problems in their communities.

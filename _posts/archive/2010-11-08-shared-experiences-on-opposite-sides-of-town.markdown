@@ -7,7 +7,7 @@ slug: shared-experiences-on-opposite-sides-of-town
 title: Shared experiences on opposite sides of town
 wordpress_id: 2364
 categories:
-- blog
+- archive
 ---
 
 26.3 miles.

@@ -7,7 +7,7 @@ slug: participation-camp-2009
 title: Participation Camp 2009
 wordpress_id: 561
 categories:
-- blog
+- archive
 ---
 
 We're one of the co-sponsors of this great event. Watch it live throughout the weekend.

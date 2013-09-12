@@ -7,7 +7,7 @@ slug: celebrating-two-years-of-digital-democracy
 title: Celebrating two years of Digital Democracy
 wordpress_id: 2449
 categories:
-- blog
+- archive
 ---
 
 Today, we're celebrating our second anniversary! It's hard to believe just how much we have worked on and accomplished over the past two years. And we're grateful for our community of supporters who have made all of this possible.

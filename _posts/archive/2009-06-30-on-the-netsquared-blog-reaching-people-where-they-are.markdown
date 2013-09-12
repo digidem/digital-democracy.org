@@ -7,7 +7,7 @@ slug: on-the-netsquared-blog-reaching-people-where-they-are
 title: 'On the NetSquared blog: Reaching people where they are'
 wordpress_id: 552
 categories:
-- blog
+- archive
 ---
 
 NetSquared's [Alex Steed](http://alexsteed.com/) interviewed D2's co-director Emily Jacobi last week about D2's experiences representing [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) at [N2Y4](http://www.netsquared.org/conference/n2y4). He also took the opportunity to ask Emily and John Zoltner of [DatAgro](http://www.netsquared.org/projects/datagro) about why both of our projects use SMS despite the current fascination about smartphones.

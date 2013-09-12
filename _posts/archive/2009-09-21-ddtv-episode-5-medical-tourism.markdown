@@ -7,7 +7,7 @@ slug: ddtv-episode-5-medical-tourism
 title: 'DdTv Episode 5: Medical Tourism'
 wordpress_id: 703
 categories:
-- blog
+- archive
 ---
 
 

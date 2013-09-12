@@ -7,7 +7,7 @@ slug: is-a-closed-society-a-bad-society
 title: Is a closed society a bad society?
 wordpress_id: 381
 categories:
-- blog
+- archive
 ---
 
 A good friend of D2's recently came to us with a question. He was stopped by the phrase "closed societies" which we use to describe some of the places where we work and have done research. We are posting both the question and answer below as a way of sharing this dialogue.
