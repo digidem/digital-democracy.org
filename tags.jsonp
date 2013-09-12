@@ -3,8 +3,8 @@
 tags([
   {% for tag in site.tags %}
   {
-    "name": "{{ tag }}",
-    "value": "{{ tag }}"
+    "name": "{{ tag | first }}",
+    "value": "{{ tag | first }}"
   },
   {% endfor %}false]
 ])
