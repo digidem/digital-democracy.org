@@ -7,7 +7,7 @@ prose:
         field:
           element: "text"
           label: "Author"
-          value: "Enter your name"
+          placeholder: "Enter your name"
       - name: "image"
         field:
           element: "text"
@@ -21,7 +21,9 @@ prose:
           placeholder: "Select from list or enter new tag below"
           options:
             - name: "front-page"
+              value: "front-page"
             - name: "featured"
+              value: "featured"
           alterable: true
       - name: "title"
         field:
