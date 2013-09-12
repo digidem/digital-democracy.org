@@ -19,6 +19,12 @@ prose:
           element: "text"
           label: "Post Title"
           value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          alterable: true
       - name: "layout"
         field:
           element: "hidden"

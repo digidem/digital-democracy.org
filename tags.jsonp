@@ -1,0 +1,10 @@
+---
+---
+tags([
+  {% for tag in site.tags %}
+  {
+    "name": "{{ tag }}",
+    "value": "{{ tag }}"
+  },
+  {% endfor %}false]
+])
