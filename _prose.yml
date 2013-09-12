@@ -2,7 +2,7 @@ prose:
   siteurl: "http://beta.digital-democracy.org"
   media: "assets"
   metadata:
-    _posts:
+    _posts/blog:
       - name: "tags"
         field:
           element: "multiselect"
@@ -39,7 +39,6 @@ prose:
       - name: "comments"
         field:
           element: "hidden"
-    _posts/blog:
       - name: "layout"
         field:
           element: "hidden"
@@ -49,6 +48,42 @@ prose:
           element: "hidden"
           value: "blog"
     _posts/team:
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Select tags to add to the post"
+          options:
+            - name: "front-page"
+            - name: "featured"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          value: "http://"
+          placeholder: "Enter a URL"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Enter your name"
+      - name: "wordpress_id"
+        field:
+          element: "hidden"
+      - name: "slug"
+        field:
+          element: "hidden"
+      - name: "date"
+        field:
+          element: "hidden"
+      - name: "comments"
+        field:
+          element: "hidden"
       - name: "layout"
         field:
           element: "hidden"
@@ -58,6 +93,42 @@ prose:
           element: "hidden"
           value: "team"
     _posts/projects:
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Select tags to add to the post"
+          options:
+            - name: "front-page"
+            - name: "featured"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          value: "http://"
+          placeholder: "Enter a URL"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Enter your name"
+      - name: "wordpress_id"
+        field:
+          element: "hidden"
+      - name: "slug"
+        field:
+          element: "hidden"
+      - name: "date"
+        field:
+          element: "hidden"
+      - name: "comments"
+        field:
+          element: "hidden"
       - name: "layout"
         field:
           element: "hidden"
