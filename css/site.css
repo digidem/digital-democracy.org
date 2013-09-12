@@ -1,5 +1,5 @@
 body {
-  max-width: 80em;
+
   margin: auto; }
 
 .left {
@@ -23,8 +23,10 @@ body {
   width: 200px;
   height: 150px; 
   border: 1px solid #ccc; }
+  
+@media only screen and (min-width: 1280px) {
+.flex-video {
+height: 720px;
+padding-bottom: 0 !important; }
 
-.featured img {
-  width: 600px;
-  height: 450px; 
-  border: 1px solid #ccc; }
+}

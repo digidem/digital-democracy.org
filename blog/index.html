@@ -3,18 +3,18 @@ layout: default
 ---
 <section class="row panel featured">
   {% for post in site.tags.featured limit:1 %}
-  <div class="small-4 columns">
+  <div class="small-12 large-4 columns">
     <h3>{{ post.title }}</h3>
     {{ post.excerpt | markdownify }}
   </div>
-  <div class="small-8 columns">
+  <div class="small-12 large-8 columns">
     <img src="{{ post.image }}">
   </div>
   {% endfor %}
 </section>
 
 <section class="row">
-  <div class="panel small-4 columns">
+  <div class="panel small-4 columns hide-for-small">
     <div class="row">
       <div class="small-4 columns">
         <img src="http://placehold.it/150x200" class="left">
@@ -43,7 +43,7 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="small-8 columns blogroll">
+  <div class="small-12 large-8 columns blogroll">
     {% for post in site.categories.blog limit:10 %}
     <div class="row">
       <div class="small-4 columns">
