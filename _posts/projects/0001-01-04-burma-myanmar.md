@@ -1,11 +1,8 @@
 ---
-author: Emilie Reiser
 comments: true
 layout: projects
-slug: burma-myanmar-program
 title: 'Handheld Human Rights: Amplifying Voices in Burma/Myanmar'
 image: http://placehold.it/800x600
-wordpress_id: 4579
 categories:
 - projects
 tags: featured-small

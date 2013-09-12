@@ -1,11 +1,7 @@
 ---
-author: Emilie Reiser
-comments: true
 layout: projects
-slug: programs-remote-access
 title: 'Remote Access: Tools for Hard-to-Reach Communities'
 image: /assets/achuar-gps-monitoring.jpg
-wordpress_id: 4597
 categories:
 - projects
 tags:

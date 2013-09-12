@@ -1,5 +1,4 @@
 ---
-author: Gregor MacLennen
 layout: projects
 title: 'Old Project'
 image: http://placehold.it/800x800

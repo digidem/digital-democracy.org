@@ -14,11 +14,6 @@ prose:
           label: "Featured image"
           value: ""
           placeholder: "Enter a URL"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post Title"
-          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -33,3 +28,24 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+    _posts/projects:
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          value: ""
+          placeholder: "Enter a URL"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          alterable: true
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "projects"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "projects"
