@@ -1,6 +1,6 @@
-url: http://digital-democracy.org
 name: Digital Democracy
 description: Educating 21st Century Citizens
 timezone: America/NewYork
 markdown: rdiscount
 permalink: pretty
+baseurl: /digital-democracy.org
