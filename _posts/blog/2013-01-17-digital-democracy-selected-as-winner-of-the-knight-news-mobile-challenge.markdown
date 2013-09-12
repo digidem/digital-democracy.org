@@ -1,17 +1,19 @@
 ---
-author: Emily Jacobi
-comments: true
-date: 2013-01-17 19:45:51+00:00
+categories: 
+  - blog
 layout: post
-slug: digital-democracy-selected-as-winner-of-the-knight-news-mobile-challenge
-title: Knight News Mobile Challenge Winners
-image: /assets/achuar-gps-monitoring.jpg
+comments: true
+date: 2013-01-17T19:45:51.000Z
+slug: "digital-democracy-selected-as-winner-of-the-knight-news-mobile-challenge"
 wordpress_id: 4715
-categories:
-- blog
-tags:
-- front-page
+author: Emily Jacobi
+title: Knight News Mobile Challenge Winners
+image: "/assets/achuar-gps-monitoring.jpg"
+tags: 
+  - ""
+published: true
 ---
+
 Digital Democracy has been selected as [one of eight winners](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/) of the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles for [Remote Access](http://digital-democracy.org/2012/09/24/remote-access-connecting-threatened-communities/), empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats.
 
 Our pilot program will focus on supporting indigenous communities monitoring oil spills in the Peruvian Amazon.
