@@ -6,8 +6,14 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
+          label: "Select tags to add to the post"
           options:
             - name: "front-page"
             - name: "featured"
-          placeholder: "Select tags to add to the post"
           alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Blogpost image"
+          value: "http://"
+          placeholder: "Enter a URL"
