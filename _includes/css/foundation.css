@@ -49,7 +49,8 @@ img {
   max-width: none !important; }
 
 .left {
-  float: left !important; }
+  float: left !important; 
+  margin-right: 1em;}
 
 .right {
   float: right !important; }
