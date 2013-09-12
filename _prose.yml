@@ -3,30 +3,31 @@ prose:
   media: "assets"
   metadata:
     _posts/blog:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Select tags to add to the post"
-          options:
-            - name: "front-page"
-            - name: "featured"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Featured image"
-          value: "http://"
-          placeholder: "Enter a URL"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post Title"
-          value: ""
       - name: "author"
         field:
           element: "text"
           label: "Author"
           value: "Enter your name"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          value: ""
+          placeholder: "Enter a URL"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          placeholder: "Select from list or enter new tag below"
+          options:
+            - name: "front-page"
+            - name: "featured"
+          alterable: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
       - name: "wordpress_id"
         field:
           element: "hidden"
