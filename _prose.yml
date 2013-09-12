@@ -14,7 +14,7 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "Blogpost image"
+          label: "Featured image"
           value: "http://"
           placeholder: "Enter a URL"
       - name: "title"
