@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<section class="row panel">
+  <div class="small-4 columns">
+    <h3>Featured Post</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+  </div>
+  <div class="small-8 columns">
+    <img src="http://placehold.it/600x450">
+  </div>
+</section>
+
+<section class="row">
+  <div class="panel small-4 columns">
+    <div class="row">
+      <div class="small-4 columns">
+        <img src="http://placehold.it/150x200" class="left">
+      </div>
+      <div class="small-8 columns">
+        <h5>UPDATES</h5>
+        <p>Read the latest updates on our projects across the world.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-4 columns">
+        <img src="http://placehold.it/150x200" class="left">
+      </div>
+      <div class="small-8 columns">
+        <h5>TECH</h5>
+        <p>The latest Dd experiments with cutting edge technology</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-4 columns">
+        <img src="http://placehold.it/150x200" class="left">
+      </div>
+      <div class="small-8 columns">
+        <h5>LEARN</h5>
+        <p>Learn how to use key technologies for community rights</p>
+      </div>
+    </div>
+  </div>
+  <div class="small-8 columns">
+    {% for post in site.categories.blog limit:10 %}
+    <div class="row">
+      <div class="small-4 columns">
+        <img src="http://placehold.it/200x150" class="left">
+      </div>
+      <div class="small-8 columns">
+        <h5>{{ post.title}}</h5>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

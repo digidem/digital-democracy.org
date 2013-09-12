@@ -35,9 +35,12 @@ layout: default
 <section class="row blog">
   <h2>Latest From Our Blog</h2>
   <ul class="large-block-grid-2">
-    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
-    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
-    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
-    <li><img src="http://placehold.it/200x150" class="left"><h5>Blog post title</h5><p class="subhead">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></li>
+    {% for post in site.categories.blog limit:4 %}
+    <li>
+      <img src="http://placehold.it/200x150" class="left">
+      <h5>{{ post.title }}</h5>
+      <p class="subhead">{{ post.excerpt }}</p>
+    </li>
+    {% endfor %}
   </ul>
 </section>
