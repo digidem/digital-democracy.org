@@ -17,3 +17,52 @@ prose:
           label: "Blogpost image"
           value: "http://"
           placeholder: "Enter a URL"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Enter your name"
+      - name: "wordpress_id"
+        field:
+          element: "hidden"
+      - name: "slug"
+        field:
+          element: "hidden"
+      - name: "date"
+        field:
+          element: "hidden"
+      - name: "comments"
+        field:
+          element: "hidden"
+    _posts/blog:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "blog"
+    _posts/team:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "team"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "team"
+    _posts/projects:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "projects"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "projects"      
