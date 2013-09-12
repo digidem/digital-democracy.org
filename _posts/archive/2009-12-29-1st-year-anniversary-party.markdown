@@ -7,21 +7,7 @@ slug: 1st-year-anniversary-party
 title: 1st Year Anniversary Party
 wordpress_id: 864
 categories:
-- Local to Global Engagement
-- News
-tags:
-- 'Medeavodka'
-- 'openplans'
-- 'ourfutureistbd'
-- 'qik'
-- 'StartingBloc'
-- 'sustyparty'
-- 'womworldnokia'
-- digidem
-- digital democracy
-- new york
-- nyc
-- party
+- blog
 ---
 
 

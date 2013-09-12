@@ -7,13 +7,7 @@ slug: participation-camp-2009
 title: Participation Camp 2009
 wordpress_id: 561
 categories:
-- News
-tags:
-- barcamp
-- civic
-- democracy
-- participation
-- pcamp09
+- blog
 ---
 
 We're one of the co-sponsors of this great event. Watch it live throughout the weekend.

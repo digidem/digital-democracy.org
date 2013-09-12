@@ -7,19 +7,7 @@ slug: biking-at-the-crossroads
 title: Biking at the Crossroads
 wordpress_id: 3642
 categories:
-- Haiti
-- International Programs
-- News
-tags:
-- bikehispaniola
-- digidem
-- digital democracy
-- dominican republic
-- Haiti
-- hispaniola
-- Mark Belinsky
-- mbelinsky
-- wwrob
+- blog
 ---
 
 [![image](http://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png)](http://bikehispaniola.tumblr.com/)

@@ -7,22 +7,7 @@ slug: exploring-the-role-of-technology-in-post-war-iraq
 title: Exploring the Role of Technology in Post-War Iraq
 wordpress_id: 2290
 categories:
-- Local to Global Engagement
-- News
-tags:
-- digidem
-- digital democracy
-- egov
-- erbil
-- freejiew
-- gov20
-- ICT4D
-- Iraq
-- iraqemedia
-- iraqtech
-- kurdistan
-- mbelinsky
-- noneck
+- blog
 ---
 <caption id="" align="alignright" width="392" caption="Noel presenting in hands-on workshop">[![image](http://farm5.static.flickr.com/4133/5073555298_38d5391a54_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555450/)</caption>
 

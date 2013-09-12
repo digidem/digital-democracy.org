@@ -7,29 +7,7 @@ slug: redefine-whats-possible-with-dd
 title: Redefine what's possible with Dd
 wordpressid: 4379
 categories:
-- Dd News
-- Local to Global Engagement
-tags:
-- campaign
-- Dd
-- DdPossible
-- digidem
-- digital democracy
-- donate
-- engagement
-- Event
-- fundraising
-- ICT4D
-- ICT4HR
-- investment
-- local ownership
-- local to global
-- participate
-- partners
-- party
-- possible
-- programming
-- video
+- blog
 ---
 
 Today we're launching a campaign to share our partners' stories, bring your voice into the conversation & work together to redefine possibility.

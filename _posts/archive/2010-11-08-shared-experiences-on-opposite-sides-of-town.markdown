@@ -7,20 +7,7 @@ slug: shared-experiences-on-opposite-sides-of-town
 title: Shared experiences on opposite sides of town
 wordpress_id: 2364
 categories:
-- Burma/Myanmar
-- International Programs
-- Project Einstein
-- Tools &amp; Tech Approaches
-tags:
-- Burma
-- Indianapolis
-- mapping
-- new media literacy
-- photography
-- photography training
-- Project Einstein
-- refugees
-- youth
+- blog
 ---
 
 26.3 miles.

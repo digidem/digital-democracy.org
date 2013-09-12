@@ -7,20 +7,7 @@ slug: zimbabwe-during-transition-and-hyperinflation
 title: Zimbabwe during transition and hyperinflation
 wordpress_id: 2425
 categories:
-- Dd News
-- International Programs
-- News
-- Research
-- Sub-Saharan Africa
-tags:
-- africa
-- digidem
-- digital democracy
-- ICT4D
-- mbelinsky
-- Research
-- technology
-- Zimbabwe
+- blog
 ---
 
 In November 2008, I traveled to Harare, Zimbabwe with Emily to investigate how technology is being used to overcome the obstacles that are inherent in a closed society. We researched methods of survival despite hyperinflation and looked at how communications strategies help citizens to address their needs.

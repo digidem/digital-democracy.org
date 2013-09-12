@@ -7,14 +7,7 @@ slug: upcoming-haiti-hackathon-from-local-solutions-to-national-systems
 title: 'Upcoming Haiti Hackathon: From Local Solutions to National Systems'
 wordpressid: 4242
 categories:
-- Events
-- Haiti
-- Tools &amp; Tech Approaches
-tags:
-- Hackathon
-- haitiwomen
-- kofaviv
-- women
+- blog
 ---
 
 ![image](http://farm9.staticflickr.com/8169/80473255484354277fa0.jpg)

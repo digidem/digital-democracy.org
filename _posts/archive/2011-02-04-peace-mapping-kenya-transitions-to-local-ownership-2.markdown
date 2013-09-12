@@ -7,26 +7,7 @@ slug: peace-mapping-kenya-transitions-to-local-ownership-2
 title: 'Successes and Lessons Learned from the Kenya Peace Mapping Team '
 wordpress_id: 2730
 categories:
-- International Programs
-- Project Einstein
-- Sub-Saharan Africa
-- Tools &amp; Tech Approaches
-tags:
-- africa
-- cody valdes
-- digidem
-- Kenya
-- kenyadecides
-- Kibera Photo Project
-- nairobi
-- peace
-- peacemapping
-- rachel brown
-- sisi ni amani
-- sisiniamani
-- teganbukowski
-- Uchaguzi
-- wearepeace
+- blog
 ---
 In early 2010, Cody Valdes and I approached Digital Democracy with a project proposal: to work with grassroots groups in Kenya to map peace projects happening all around the country.
 

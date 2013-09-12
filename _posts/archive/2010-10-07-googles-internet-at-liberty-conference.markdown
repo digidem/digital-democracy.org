@@ -7,18 +7,7 @@ slug: googles-internet-at-liberty-conference
 title: Google's Internet at Liberty Conference
 wordpress_id: 2248
 categories:
-- News
-- Tools &amp; Tech Approaches
-tags:
-- budapest
-- censorship
-- digidem
-- freejiew
-- Google
-- Handheld Human Rights
-- human rights
-- Internet Freedom
-- technology
+- blog
 ---
 
 If you were to Google "Internet", "freedom", "security", "privacy","blog" and pull together the people and organizations that make up the top hits of the search, you would have the [Internet at Liberty Conference](http://www.cmcs.ceu.hu/news/conference-internet-liberty-2010), hosted by Google on September 20-22 in Budapest. A venerablewho's whoof people involved in the worldwide discussion surrounding Internet freedom, this conference was an amazing opportunity to catch up with some of my favorite people who are fighting for the rights of humanity online, to hear updates from the internet governance forum that occurred the week before, and for strategizing new and innovative projects.

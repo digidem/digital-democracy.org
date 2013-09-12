@@ -7,16 +7,7 @@ slug: innovating-with-secretary-clinton
 title: Innovating with Secretary Clinton
 wordpress_id: 3186
 categories:
-- News
-tags:
-- Civic Engagement
-- gov20
-- Lithuania
-- netfreedom
-- secclinton
-- techcamp
-- technology
-- Vilnius
+- blog
 ---
 
 I just returned from Vilnius, Lithuania where Secretary of State Hilary Clinton's Innovation Team gathered over 100 people to discuss how technology can be used to further civic engagement.

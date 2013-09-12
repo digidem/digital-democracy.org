@@ -7,8 +7,7 @@ slug: ddtv-episode-6-open-dream
 title: 'DdTv Episode 6: Open Dream'
 wordpress_id: 723
 categories:
-- Digital Democracy TV
-- News
+- blog
 ---
 
 

@@ -7,8 +7,7 @@ slug: ddtv-episode-3-soliya-empowering-youth-with-new-media
 title: 'DdTv Episode 3: Soliya - Empowering Youth With New Media'
 wordpress_id: 683
 categories:
-- Digital Democracy TV
-- News
+- blog
 ---
 
 

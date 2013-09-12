@@ -7,22 +7,7 @@ slug: occupyvotes-open-source-protest
 title: 'OccupyVotes: Democracy In An Open Source Protest'
 wordpress_id: 3476
 categories:
-- Events
-- News
-tags:
-- 99percent
-- allourideas
-- democracy
-- digidem
-- digital democracy
-- occupyeverywhere
-- occupyhack
-- occupyvotes
-- occupywallst
-- occupywallstreet
-- opensource
-- ows
-- protest
+- blog
 ---
 
 What is an open-source protest (or in Egyptian nomenclature, a wiki-revolution)? Can technology tools be used to develop new methods of distributed grassroots decision-making? It's clear that the Occupy movement is about something much bigger and greater than one person or group ... how can the large numbers of people who identify with the movement contribute to decision-making?

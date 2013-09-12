@@ -7,42 +7,7 @@ slug: mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps
 title: 'Mapping Injustice: the three areas of work for Dd’s next steps.   '
 wordpress_id: 3953
 categories:
-- Events
-- Haiti
-- International Programs
-- Latin America
-- Mexico
-- Research
-tags:
-- '572'
-- Board
-- Board of Directors
-- call center
-- chiapas
-- data
-- database
-- digidem
-- digital democracy
-- domestic
-- fundraising
-- Haiti
-- investment
-- kofaviv
-- L2G
-- local community
-- local to global
-- partnerships
-- pilot
-- plans
-- programming
-- programs
-- small-d democracy
-- strategic plan
-- strategy
-- tool-building
-- tools
-- United States
-- vision
+- blog
 ---
 This post was edited on August 15, 2012.
 We're excited to share the plans and prospects that lie ahead for Digital Democracy following the Board's recent meeting in Haiti. **The Board has outlined directives for programming in three categories: Direct Implementation, Tool-Building & Local-to-Global Engagement.** The plans outlined mark significant growth for Dd. We are eager to share this overview of what lies ahead and invite you to join us in making it all possible!

@@ -7,8 +7,7 @@ slug: ddtv-episode-2-origin-story
 title: DdTv Episode 2 - Origin Story
 wordpress_id: 664
 categories:
-- Digital Democracy TV
-- News
+- blog
 ---
 
 

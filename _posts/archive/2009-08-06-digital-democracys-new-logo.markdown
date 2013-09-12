@@ -7,9 +7,7 @@ slug: digital-democracys-new-logo
 title: Digital Democracy's new logo
 wordpress_id: 616
 categories:
-- News
-tags:
-- logo
+- blog
 ---
 
 ![-2](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/08/2.jpg)Huge kudos and many thanks to designer [Drew Frist](http://drewfrist.com/) for designing Digital Democracy's new logo.

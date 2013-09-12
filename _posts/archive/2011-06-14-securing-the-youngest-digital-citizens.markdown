@@ -7,21 +7,7 @@ slug: securing-the-youngest-digital-citizens
 title: Securing the Youngest Digital Citizens
 wordpress_id: 3170
 categories:
-- Conferences
-- Research
-tags:
-- Culture
-- democracy
-- edutech
-- england
-- ewi2011
-- london
-- netfreedom
-- privacy
-- security
-- uk
-- united kingdom
-- yotech
+- blog
 ---
 
 What is the future of cybersecurity and what is the impact on youth, as well as democracy advocates around the world? I recently attended the EastWest Institute’s Cybersecurity Summit to discuss and present on these issues amongst the worlds leading technology security firms. There I met [Michel Nienhuis][1] who wrote a thoughtful piece that I’m happy to re-post here:

@@ -7,7 +7,7 @@ slug: chin-national-day-celebration
 title: Chin National Day Celebration
 wordpress_id: 302
 categories:
-- News
+- blog
 ---
 
 What do wrestling, traditional dances, fashion shows and spicy noodle soup have in common? All were vital components of a Chin National Day celebration in Indianapolis, Indiana this weekend.

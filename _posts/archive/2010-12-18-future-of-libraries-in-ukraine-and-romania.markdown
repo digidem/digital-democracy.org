@@ -7,22 +7,7 @@ slug: future-of-libraries-in-ukraine-and-romania
 title: Future of Libraries in Ukraine and Romania
 wordpress_id: 2606
 categories:
-- Dd News
-- News
-tags:
-- digidem
-- digital democracy
-- HHLIB3
-- ICT4D
-- irex
-- irextech
-- libraries
-- library
-- libraryfuture
-- Romania
-- technology
-- Ukraine
-- ukrainetech
+- blog
 ---
 
 What is the future of libraries? The debate is raging on what information management will look like in the 21st century and how relevant and useful public buildings such as libraries really are. I was excited to travel to Kiev to discuss the issue with some libraries from Ukraine and Romania.

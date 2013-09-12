@@ -7,17 +7,7 @@ slug: defending-digital-human-rights
 title: Defending Digital Human Rights
 wordpress_id: 3134
 categories:
-- News
-tags:
-- eg8
-- France
-- g8
-- Internet Freedom
-- netfreedom
-- Nicolas Sarkozy
-- opengov
-- UDHR
-- World News
+- blog
 ---
 
 This week, the G8 met in in France to discuss policies that will shape the future of the internet. While it's interesting to see this on the agenda,  it's a crucial time to reiterate the principles agreed to upon all nations in the Universal Declaration of Human Rights (UDHR).

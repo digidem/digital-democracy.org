@@ -7,20 +7,7 @@ slug: 12-u-s-senators-back-protection-of-haitian-women
 title: 12 U.S. Senators Back Protection Of Haitian Women
 wordpress_id: 1828
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- congress
-- development
-- Haiti
-- haititech
-- ICT4D
-- press release
-- senators
-- United States
-- women
+- blog
 ---
 
 [![image](http://farm4.static.flickr.com/3130/4563506369_6fb5627cb1_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/sets/72157623791167187/)This week the U.S.  Senate votes on a $60 billion supplemental  aid bill for Haiti. Our work with Haiti helped bring together a coalition of twelve  U.S. Senators to take up the issue of sexual and gender based violence  in Haiti and ask that funding be earmarked for the protection of Haitian  women and girls. Thank you to Senators Mike Johanns (R-NE), Frank  Lautenberg (D-NJ), Sam Brownback(R-KS), Tim Johnson (D-SD), Richard  Durbin (D-IL), Olympia  Snowe (R-ME), Dianne Feinstein (D-CA), Charles Schumer (D-NY), George  Voinovich (R-OH), Benjamin Cardin (D-MD), Robert Casey, Jr. (D-PA), and  Kirsten Gillibrand (D-NY) for advocating on behalf of Haitian women.

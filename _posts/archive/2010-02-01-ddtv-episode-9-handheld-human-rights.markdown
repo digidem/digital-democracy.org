@@ -7,22 +7,7 @@ slug: ddtv-episode-9-handheld-human-rights
 title: 'DdTv Episode 9: Handheld Human Rights'
 wordpress_id: 1240
 categories:
-- Burma/Myanmar
-- Digital Democracy TV
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- digital democracy
-- geochat
-- Handheld Human Rights
-- instedd
-- mobiles
-- sim card
-- technology
-- Thailand
-- travel
-- Ushahidi
+- blog
 ---
 
 

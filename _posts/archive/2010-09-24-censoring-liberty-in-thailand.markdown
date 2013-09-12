@@ -7,19 +7,7 @@ slug: censoring-liberty-in-thailand
 title: Censoring Liberty in Thailand
 wordpress_id: 2172
 categories:
-- Local to Global Engagement
-- News
-tags:
-- bangkok
-- censorship
-- digidem
-- free speech
-- freejiew
-- IAL2010
-- jiew
-- mbelinsky
-- prachathai
-- Thailand
+- blog
 ---
 
 **Thai journalist and anti-censorship activist is detained & released on bail 12 hours later

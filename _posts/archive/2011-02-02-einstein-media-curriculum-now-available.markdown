@@ -7,28 +7,7 @@ slug: einstein-media-curriculum-now-available
 title: Einstein Media Curriculum Now Available
 wordpress_id: 2684
 categories:
-- Burma/Myanmar
-- International Programs
-- Project Einstein
-- Tools &amp; Tech Approaches
-tags:
-- Bangladesh
-- cameras
-- curriculum
-- digital literacy
-- education
-- empowerment
-- Guatemala
-- Haiti
-- Kazakhstan
-- Kenya
-- media
-- photography
-- Project Einstein
-- South Africa
-- Thailand
-- transmedia
-- video
+- blog
 ---
 
 Working on a photography project with kids in Bangladesh, as their work drew to a close, the Anyat Ullah chose a name for the  project “Project Einstein.” All the kids quickly agreed, explaining:

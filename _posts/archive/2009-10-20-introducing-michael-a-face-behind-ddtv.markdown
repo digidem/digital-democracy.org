@@ -7,7 +7,7 @@ slug: introducing-michael-a-face-behind-ddtv
 title: Putting together DdTv
 wordpress_id: 733
 categories:
-- News
+- blog
 ---
 
 ![Hey there!](http://209.240.155.87/wp-content/uploads/2009/10/michael_mountain.jpg)

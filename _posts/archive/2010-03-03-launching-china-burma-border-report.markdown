@@ -7,34 +7,7 @@ slug: launching-china-burma-border-report
 title: Launching China-Burma Border Report
 wordpress_id: 1501
 categories:
-- Burma/Myanmar
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- border
-- Burma
-- censorship
-- China
-- circumvention
-- dictatorship
-- digidem
-- digital democracy
-- education
-- ICT4D
-- Internet
-- kachin
-- media
-- mobile
-- myanmar
-- new media literacy
-- olympics
-- phone
-- reports
-- Research
-- security
-- technology
-- youth
+- blog
 ---
 
 Ever since Digital Democracy began working with Burmese populations we have believed that it is essential to have a completely comprehensive understanding of the country and the challenges it faces. This means going beyond the well-understood populations living on the border with Thailand to understand conditions on the ground inside Burma and along all of it's international borders.

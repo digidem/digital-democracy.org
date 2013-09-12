@@ -7,26 +7,7 @@ slug: ddtv-ep-13-life-after-the-earthquake-the-situation-for-haitian-women
 title: 'DdTv Ep 13 - Life After the Earthquake: The Situation for Haitian Women'
 wordpress_id: 1997
 categories:
-- Digital Democracy TV
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- Abby Goldberg
-- BAI
-- digidem
-- digital democracy
-- Emily Jacobi
-- Haiti
-- haitiwomen
-- IJDH
-- liz hodes
-- Mark Belinsky
-- N-MAP
-- photography
-- Steve Benjamin
-- women
+- blog
 ---
 
 

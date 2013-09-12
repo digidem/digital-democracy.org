@@ -7,7 +7,7 @@ slug: uc-berkeley-human-rights-center-mobile-challenge
 title: UC Berkeley Human Rights Center Mobile Challenge
 wordpress_id: 335
 categories:
-- News
+- blog
 ---
 
 We have been working on Handheld Human Rights, a mobile component of the Virtual Community Center. We just entered it in [UC Berkeley's Human Rights Center Mobile Challenge](http://www.netsquared.org/hrc-ucb) being presented by [Netsquared](http://www.netsquared.org/).

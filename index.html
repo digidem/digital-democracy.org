@@ -2,10 +2,9 @@
 layout: default
 ---
 
-
 <section class="slideshow-wrapper row">
   <ul data-orbit>
-    {% for post in site.posts limit:4 %}
+    {% for post in site.tags.front-page %}
     <li>
       <img src="http://placehold.it/1000x562" />
       <div class="orbit-caption">

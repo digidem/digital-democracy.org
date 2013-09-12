@@ -7,19 +7,10 @@ slug: digital-democracy-selected-as-winner-of-the-knight-news-mobile-challenge
 title: Digital Democracy selected as a winner of the Knight News Mobile Challenge
 wordpress_id: 4715
 categories:
-- Mapping
-- Mobiles
-- News
-- Tools &amp; Tech Approaches
+- blog
 tags:
-- Amazon
-- award
-- Knight Foundation
-- News Challenge
-- Peru
-- Remote Access
+- front-page
 ---
-
 Digital Democracy is thrilled to announce we have been named as [one of eight winners of  the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/). Support from Knight Foundation will enable us to launch [Remote Access](http://digital-democracy.org/2012/09/24/remote-access-connecting-threatened-communities/) this spring, an initiative aimed at empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats. Our pilot program will focus on supporting indigenous communities monitoring oil spills in the Peruvian Amazon.
 
 [![image](http://farm9.staticflickr.com/8222/8389656781_aae8e3cc3e.jpg)](http://www.knightfoundation.org/)

@@ -7,23 +7,7 @@ slug: ict4hr-world-bank-report-with-dd-authors-released
 title: ICT4HR World Bank Report with Dd authors released
 wordpress_id: 4684
 categories:
-- Dd News
-- Research
-tags:
-- Dd
-- digidem
-- digital democracy
-- Emily Jacobi
-- human rights
-- ICT4D
-- ICT4HR
-- Mark Belinsky
-- mobile
-- Molly Land
-- Patrick Meier
-- tech
-- Tech4Good
-- World Bank
+- blog
 ---
 
 Happy International Human Rights Day, everyone. This year, the focus of Human Rights Day — on Monday & beyond — is the rights of all people to make their voices heard, regardless of their age, gender, race, religion, geography or economic standing. In honor of that mission, we want to share with you a new report, #ICT4HR, co-authored by [Molly Land][1], [Patrick Meier][2] and Dd’s co-founders Mark Belinsky & Emily Jacobi.

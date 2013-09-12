@@ -7,7 +7,7 @@ slug: d2-is-in-the-final-round-of-the-n2y4-mobile-challenge
 title: D2 is in the final round of the N2Y4 Mobile Challenge
 wordpress_id: 388
 categories:
-- News
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/n2y4_gr.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/n2y4_gr.jpg)Many thanks to everyone who voted for us last week in the [N2Y4 Mobile Challenge](http://www.netsquared.org/n2y4). Your votes got our project Handheld Human Rights into the second round of the challenge and have won us a spot in the [N2Y4 Conference](http://www.netsquared.org/conference/n2y4) in San Jose, CA from May 26-27. We couldn't have done it without your support and input!

@@ -7,7 +7,7 @@ slug: news-from-san-francisco
 title: News From San Francisco
 wordpress_id: 820
 categories:
-- News
+- blog
 ---
 
 After returning from Africa in early November, and spending several weeks in New York and D.C. presenting our research from the past 2 years, we headed to San Francisco. San Francisco is the hub for the world's largest technology companies. It is also home to a number of younger companies, who are working along with those more well-established, specifically with emerging technologies.

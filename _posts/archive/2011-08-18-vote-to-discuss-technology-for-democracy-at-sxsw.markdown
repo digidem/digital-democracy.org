@@ -7,20 +7,7 @@ slug: vote-to-discuss-technology-for-democracy-at-sxsw
 title: Vote To Discuss Technology For Democracy at SXSW
 wordpress_id: 3319
 categories:
-- Dd News
-- News
-tags:
-- austin
-- democracy
-- digidem
-- human rights
-- panelpicker
-- presentation
-- sxsw
-- sxsw2012
-- texas
-- United States
-- women
+- blog
 ---
 
 What is the current discussion around how technology is being used for supporting people advocating for democracy around the world? Please vote for the panels we and are friends are trying to host at the upcoming South by Southwest Conference in Austin, Texas.

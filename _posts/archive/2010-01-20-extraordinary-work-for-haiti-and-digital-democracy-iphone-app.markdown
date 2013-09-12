@@ -7,14 +7,7 @@ slug: extraordinary-work-for-haiti-and-digital-democracy-iphone-app
 title: Extraordinary work for Haiti and Digital Democracy iPhone app
 wordpress_id: 1239
 categories:
-- Local to Global Engagement
-- News
-tags:
-- Extraordinaries
-- Haiti
-- haitiearthquake
-- iPhone
-- iTunes
+- blog
 ---
 
 [![iphone app screenshot](http://www.digital-democracy.org/iphone.jpg)](http://www.digital-democracy.org/iphone.jpg)One of the things that drives us is being able to highlight exciting ways people are using technology to make the world a better place. Today, we're excited to highlight the [Extraordinairies](http://beextra.org) - a social enterprise using technology to help people micro-volunteer their time. Through their [iPhone app](http://download.beextra.org) or [website,](http://app.beextra.org/mission/browse) people can volunteer just minutes of their time to helping non-profits and community organizations with tasks.

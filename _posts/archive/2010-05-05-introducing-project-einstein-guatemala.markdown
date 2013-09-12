@@ -7,18 +7,7 @@ slug: introducing-project-einstein-guatemala
 title: Introducing Project Einstein Guatemala
 wordpress_id: 1739
 categories:
-- International Programs
-- Local to Global Engagement
-- News
-- Project Einstein
-tags:
-- curriculum
-- Guatemala
-- indigenous
-- Latin America
-- photography
-- Project Einstein
-- youth
+- blog
 ---
 
 Project Einstein started as photo training with a group of youth in a refugee camp in Bangladesh, so named by one of the participants because "Einstein was a refugee but could still do great things."

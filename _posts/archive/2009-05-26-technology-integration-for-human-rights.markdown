@@ -7,7 +7,7 @@ slug: technology-integration-for-human-rights
 title: Technology Integration for Human Rights
 wordpress_id: 443
 categories:
-- News
+- blog
 ---
 
 I have a [post on my personal blog](http://4hours.wordpress.com/2009/05/11/technology-for-human-rights/) about how [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) and [Handheld Health](http://www.netsquared.org/projects/handheld-health) can benefit from non-mobile technologies:

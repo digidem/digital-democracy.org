@@ -7,7 +7,7 @@ slug: subversive-tech-burmas-struggle-for-democracy
 title: Subversive Tech & Burma's Struggle for Democracy
 wordpress_id: 392
 categories:
-- News
+- blog
 ---
 
 On Monday, April 27th at 7:30 D2 is hosting an event here in New York on the use of digital technology in the Burmese pro-democracy movement: "[Subversive Tech and Burma's Struggle for Democracy](http://thechangeyouwanttosee.com/event/subversive-tech-burmas-struggle-democracy)".

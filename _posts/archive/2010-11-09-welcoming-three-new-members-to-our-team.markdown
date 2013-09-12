@@ -7,13 +7,7 @@ slug: welcoming-three-new-members-to-our-team
 title: Welcoming three new members to our team
 wordpress_id: 2386
 categories:
-- Dd News
-- Haiti
-- International Programs
-- News
-tags:
-- staff
-- team
+- blog
 ---
 
 These days the office in NY is abuzz with activity, with a fantastic group of volunteers and collaborators sharing our work table and couches. Three in particular have been working long hours on everything from our Haiti programming to events to press outreach. Fall intern [Jessica Assaf](http://twitter.com/JessAssaf) comes from a strong background in youth organizing and international work, and has been an absolute joy as she has helped us with everything from communications to event planning. Communications Designer [Biz Ghormley](http://twitter.com/onewitness) has brought her extensive communications skills to our work, helping with press outreach, user engagement and much more. And [Emilie Reiser](http://twitter.com/emreiser) is our staff member on the ground in Haiti for the next month, applying her wonderful skills as a trainer to work with our women partners in Port-au-Prince. We're thrilled to officially announce all three as members of our team. Check out their bios below to learn more.

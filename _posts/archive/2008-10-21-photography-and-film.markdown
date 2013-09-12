@@ -7,7 +7,7 @@ slug: photography-and-film
 title: Photography and Film
 wordpress_id: 42
 categories:
-- News
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/dsc_00201-300x200.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/dsc_00201.jpg)

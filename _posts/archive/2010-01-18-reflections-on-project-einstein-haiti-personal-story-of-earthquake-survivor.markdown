@@ -7,19 +7,7 @@ slug: reflections-on-project-einstein-haiti-personal-story-of-earthquake-survivo
 title: 'Reflections on Project Einstein: Haiti - personal story of earthquake survivor'
 wordpress_id: 923
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- Digital Democracy TV
-- earthquake
-- Haiti
-- haitiearthquake
-- livelihoods
-- Project Einstein
-- Project Einstein Haiti
-- youth
+- blog
 ---
 
 [![image](http://farm3.static.flickr.com/2659/4280659398_620afd22b8_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/4280659398/in/set-72157623193844546)Last weekend, just a few days before a devastating earthquake hit Haiti, Digital Democracy partnered with students from Tufts University's Fletcher School on Project Einstein: Haiti. We are thrilled to report not only that trainers [Chrissy Martin](http://twitter.com/chrissiy) and [Joshua Haynes](http://twitter.com/joshuahaynes) returned to Boston safely, but all the young participants of Project Einstein survived the earthquake, as they are located in mountainous areas outside of Port-au-Prince that were less badly hit. However,  they are sure to face difficult times in the period ahead, as refugees from Port-au-Prince come to their areas. Watch Chrissy's testimony, above, to learn more about Project Einstein: Haiti and the youth with whom they worked.

@@ -7,15 +7,7 @@ slug: elections-in-guatemala
 title: Voice of Elections in Guatemala
 wordpress_id: 3413
 categories:
-- International Programs
-- Latin America
-- News
-tags:
-- elections
-- Guatemala
-- hablaguate
-- ICT4D
-- indigenous
+- blog
 ---
 
 Guatemala is a country with a complicated history. Although the 36-year civil war has ended, Guatemalan society is still struggling to rebuild from this history of war and ethnic conflict. One opportunity and challenge is the need to engage young Guatemalans, many of whom continue to be marginalized from political life. Participating in elections is not only a gateway to further civic engagement, reporting on elections offers an opportunity for the voices of youth which are rarely heard to help shape the national dialogue.

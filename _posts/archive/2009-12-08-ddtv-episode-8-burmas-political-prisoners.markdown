@@ -7,11 +7,7 @@ slug: ddtv-episode-8-burmas-political-prisoners
 title: 'DdTv Episode 8: Burma''s Political Prisoners'
 wordpress_id: 841
 categories:
-- Burma/Myanmar
-- Digital Democracy TV
-- International Programs
-- Local to Global Engagement
-- News
+- blog
 ---
 
 

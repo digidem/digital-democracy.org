@@ -7,7 +7,7 @@ slug: new-d2-website
 title: New Website!
 wordpress_id: 184
 categories:
-- News
+- blog
 ---
 
 Welcome to our new site! We've made a lot of improvements in layout and design, and added some images that give you a more visual idea of what we're all about. It's easier to search archives of past entries on the right side of this page, and on the top of this page you can navigate through the options to locate more information about our programs, products, and how to donate.

@@ -7,30 +7,7 @@ slug: speaking-at-the-white-house
 title: Speaking at the White House
 wordpress_id: 3257
 categories:
-- Dd News
-- Events
-- News
-tags:
-- AIDemocracy
-- bamyanmedia
-- digidem
-- digital democracy
-- education
-- ICT4D
-- innovation
-- international development
-- Mark Belinsky
-- mbelinsky
-- MCNpartners
-- NC4GE
-- poverty
-- stem
-- TrumanProject
-- USAID
-- USAIDyouth
-- White house
-- youth
-- youthimpact
+- blog
 ---
 
 [![image](http://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)

@@ -7,17 +7,7 @@ slug: ddtv-episode-11-stories-from-a-thai-refugee-camp
 title: 'DdTv Episode 11: Stories from a Thai Refugee Camp'
 wordpress_id: 1671
 categories:
-- Digital Democracy TV
-- Local to Global Engagement
-- News
-- Project Einstein
-tags:
-- Burma
-- nokia
-- photography
-- refugees
-- Thailand
-- youth
+- blog
 ---
 
 

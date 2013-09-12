@@ -7,26 +7,7 @@ slug: celebrating-international-womens-day-in-solidarity
 title: Celebrating International Women's Day in solidarity
 wordpress_id: 3762
 categories:
-- Events
-- Haiti
-- International Programs
-tags:
-- call center
-- database
-- digidem
-- digital democracy
-- digital literacy
-- empowerment
-- gbv
-- gender-based violence
-- Haiti
-- haitiwomen
-- international women's day
-- new media literacy
-- social media
-- solidarity
-- technology
-- women
+- blog
 ---
 
 Happy International Women's Day! To mark the 101st celebration of International Women's Day, we at Digital Democracy want to take a moment to reflect on our work to empower women and girls,  and celebrate their remarkable vision, courage, achievements and inspiration around the globe.

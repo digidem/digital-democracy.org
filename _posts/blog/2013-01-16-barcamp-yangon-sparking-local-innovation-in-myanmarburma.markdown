@@ -7,15 +7,7 @@ slug: barcamp-yangon-sparking-local-innovation-in-myanmarburma
 title: 'BarCamp Yangon: Sparking local innovation in Myanmar/Burma'
 wordpress_id: 4709
 categories:
-- Burma/Myanmar
-- Conferences
-- Local to Global Engagement
-tags:
-- barcamp
-- Burma
-- Community engagement
-- myanmar
-- technology
+- blog
 ---
 
 **Yangon, Myanmar:** The last time I was in Myanmar (aka Burma), the country was ruled by a military government. It was fall 2009. Elections were on the horizon, but most people I met were skeptical about what they might yield. Mobile phones and internet access were increasingly popular but relatively hard to come by - cyber cafes were crowded, and places to access wifi were few and far between.

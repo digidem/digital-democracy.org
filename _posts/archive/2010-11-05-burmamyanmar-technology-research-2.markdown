@@ -7,19 +7,7 @@ slug: burmamyanmar-technology-research-2
 title: Burma/Myanmar Technology Research
 wordpress_id: 2349
 categories:
-- Burma/Myanmar
-- International Programs
-- Local to Global Engagement
-- Research
-tags:
-- Asia
-- Burma
-- electech
-- ICT4D
-- mobile
-- myanmar
-- Research
-- technology
+- blog
 ---
 
 Allegedly a country with less than 1% Internet & mobile penetration,

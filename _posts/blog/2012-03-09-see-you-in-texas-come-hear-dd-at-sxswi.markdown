@@ -7,28 +7,7 @@ slug: see-you-in-texas-come-hear-dd-at-sxswi
 title: See you in Texas... Come hear Dd at SXSWi
 wordpress_id: 3764
 categories:
-- Conferences
-- Events
-- Local to Global Engagement
-tags:
-- austin
-- censorship
-- democracy
-- digidem
-- digital democracy
-- Emily Jacobi
-- emjacobi
-- haitiwomen
-- Handheld Human Rights
-- ICT4D
-- mbelinsky
-- myanmar
-- panels
-- south-by-southwest
-- sxsw
-- sxswi
-- technology
-- women
+- blog
 ---
 
 We are excited to have both our co-founders on stage in Austin this week, participating in Tech4Good panels at SXSWi. If you'll be at SXSWi, please come by and join the conversation.

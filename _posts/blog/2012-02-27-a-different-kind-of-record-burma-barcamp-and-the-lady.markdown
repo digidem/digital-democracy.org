@@ -7,24 +7,7 @@ slug: a-different-kind-of-record-burma-barcamp-and-the-lady
 title: 'A Different Kind of Record: Burma, BarCamp and the Lady'
 wordpress_id: 3754
 categories:
-- Burma/Myanmar
-- International Programs
-tags:
-- Aung San Suu Kyi
-- Aung San Suu Kyi Burma
-- Barcamp Burma
-- Barcamp Myanmar
-- Burma Facebook
-- Burma Myanmar Technology
-- Burma Tech Conference
-- Burma Technology
-- Burma Twitter
-- digidem
-- Emily Jacobi
-- emjacobi
-- Huffington Post
-- HuffPo
-- World News
+- blog
 ---
 
 **_This article was written by Emily Jacobi and first appeared in theHuffington Poston 2/23/12. Read it here: http://www.huffingtonpost.com/emily-jacobi/burma-myanmar-technology_b_1291110.html_**

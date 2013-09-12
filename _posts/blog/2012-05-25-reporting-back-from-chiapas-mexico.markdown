@@ -7,16 +7,7 @@ slug: reporting-back-from-chiapas-mexico
 title: Reporting back from Chiapas, Mexico
 wordpress_id: 3815
 categories:
-- International Programs
-- Mexico
-- News
-tags:
-- chiapas
-- Equal Footing
-- evictions
-- forced evictions
-- Indigenous Mapping
-- mexico
+- blog
 ---
 
 Deep in the Lacandon Jungle of Chiapas Mexico, indigenous groups are facing the fight of their lives. Caught between conservation policies and the slow pace of land reform, villagers are fighting to prevent forced evictions from the land where they have lived for generations. If evicted, they face urban slums, poverty, and the necessity of adapting to an entirely new way of life.

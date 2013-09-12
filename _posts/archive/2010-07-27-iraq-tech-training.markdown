@@ -7,19 +7,7 @@ slug: iraq-tech-training
 title: Iraq Tech Training
 wordpress_id: 1968
 categories:
-- News
-- Tools &amp; Tech Approaches
-tags:
-- digidem
-- erbil
-- foss
-- ICT4D
-- Iraq
-- irex
-- kurdistan
-- open source
-- smallworldnews
-- training
+- blog
 ---
 
 > "Saddam tried to use the indictment of Bill Clinton over the Monica Lewinsky scandal to show how shameful and perverse the United States is. The message that Iraqis heard was that in America, no one is above the law. Not even the President." ~Anes (trainee)

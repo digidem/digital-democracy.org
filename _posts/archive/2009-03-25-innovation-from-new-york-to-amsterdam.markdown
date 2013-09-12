@@ -7,7 +7,7 @@ slug: innovation-from-new-york-to-amsterdam
 title: Innovation from New York to Amsterdam
 wordpress_id: 360
 categories:
-- News
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/pioneers2-300x138.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/pioneers2.jpg)This year marks the 400th anniversary of Henry Hudson's journey across the Atlantic, and in celebration the Dutch government is sponsoring a series of events and programs called [NY400](http://www.ny400.org/about.php), reflecting on four centuries of Dutch-American relations.

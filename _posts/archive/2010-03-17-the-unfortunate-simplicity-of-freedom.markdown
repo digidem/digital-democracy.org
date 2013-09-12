@@ -7,19 +7,7 @@ slug: the-unfortunate-simplicity-of-freedom
 title: The Unfortunate Simplicity of Freedom
 wordpress_id: 1622
 categories:
-- Burma/Myanmar
-- Guest Bloggers
-- International Programs
-- Local to Global Engagement
-tags:
-- censorship
-- ediplomacy
-- Hilary Clinton
-- ICT4D
-- Internet Freedom
-- netfreedom
-- Sean McDonald
-- Secretary Clinton
+- blog
 ---
 
 Today we're honored to have a guest blog post by Digital Democracy Advisory Board member [Sean McDonald](http://digital-democracy.org/who-we-are/advisors/#sean1), taking a look at the US State Department's focus on Internet Freedom. Sean, Director of New Media Business Development at [MetroStar Systems](http://www.metrostarsystems.com/), brings a background in journalism, law and peace & conflict resolution.

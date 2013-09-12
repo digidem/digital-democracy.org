@@ -7,8 +7,7 @@ slug: support-dd-and-our-kili-climbing-team
 title: Support Dd and our Kili-climbing team
 wordpress_id: 3878
 categories:
-- Dd News
-- News
+- blog
 ---
 
 A team of Dd supporters will climb Mt. Kilimanjaro in July... and to prepare they are raising funds and awareness about Dd.

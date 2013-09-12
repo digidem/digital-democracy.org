@@ -7,18 +7,7 @@ slug: handheld-human-rights-the-need-for-tech-in-burma
 title: Handheld Human Rights & the need for tech in Burma
 wordpress_id: 438
 categories:
-- Burma/Myanmar
-- News
-tags:
-- Burma
-- handheld
-- Handheld Human Rights
-- handheldhumanrights
-- human rights
-- ICT4D
-- myanmar
-- N2Y4
-- projects
+- blog
 ---
 
 <caption id="attachment_439" align="alignright" width="200" caption="U Pinya Zawta of the All Burma Monks Alliance demonstrates using a FlipCamera hidden under a robe">[![U Pinya Zawta of the All Burma Monks Alliance demonstrates using a FlipCamera hidden under a monk's robe. ](http://farm6.static.flickr.com/5096/5494765525_1e6271ac04.jpg)](http://www.flickr.com/photos/digitaldemocracy/5494765525/)</caption>

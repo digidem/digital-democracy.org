@@ -7,10 +7,7 @@ slug: remote-access-connecting-threatened-communities
 title: 'Remote Access: Connecting Threatened Communities'
 wordpress_id: 4232
 categories:
-- Mapping
-- Mobiles
-- News
-- Tools &amp; Tech Approaches
+- blog
 ---
 
 At Digital Democracy, we're passionate about the opportunities new technologies create to disrupt how information is communicated & shared, especially across traditional divides - urban/rural, rich/poor, majority/minority, and many more. However these opportunities also come with new challenges & risks - when marginalized groups use new tools that amplify their voices, they can also encounter new obstacles. That's why we emphasize digital literacy to help our partners understand new tools, digital organizing to use those tools to address pressing human rights challenges, and digital citizenship to connect communities with power structures.

@@ -7,13 +7,7 @@ slug: project-einstein-bangladesh-deadline-extension
 title: Project Einstein Bangladesh book extension
 wordpress_id: 593
 categories:
-- News
-tags:
-- book
-- education
-- photography
-- Project Einstein
-- projects
+- blog
 ---
 
 This month, Digital Democracy is traveling to Southeast Asia to launch our programming in Thailand: [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) and [Project Einstein](http://www.dtwo.org/programming/).

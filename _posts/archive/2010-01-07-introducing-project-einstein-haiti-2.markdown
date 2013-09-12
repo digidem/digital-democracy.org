@@ -7,26 +7,7 @@ slug: introducing-project-einstein-haiti-2
 title: 'Introducing Project Einstein: Haiti'
 wordpress_id: 874
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- economics
-- fletcher
-- Haiti
-- marginalized
-- mastercard
-- mbanking
-- nokia
-- photo
-- photography
-- politics
-- project
-- Project Einstein
-- tufts
-- university
-- youth
+- blog
 ---
 
 The year is certainly off to an exciting start. Digital Democracy is putting together our annual report for 2009 and pushing out new projects for 2010. We're excited to announce **Project Einstein: Haiti**

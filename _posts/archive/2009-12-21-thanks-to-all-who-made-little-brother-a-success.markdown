@@ -7,24 +7,7 @@ slug: thanks-to-all-who-made-little-brother-a-success
 title: Thanks to all who made Little Brother a success
 wordpress_id: 855
 categories:
-- Burma/Myanmar
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- '1984'
-- Big Brother
-- books
-- Burma
-- campaign
-- Cory Doctorow
-- Doctorow
-- Kickstarter
-- literature
-- Little Brother
-- myanmar
-- tech
-- translations
+- blog
 ---
 
 Huge thanks to the 58 backers who helped us reach and exceed our goal for our [Little Brother vs. Big Brother](http://www.kickstarter.com/projects/1033999452/little-brother-vs-big-brother/) campaign. Thanks to their support, we'll be translating [Cory Doctorow](http://craphound.com/bio.php)'s [Little Brother](http://craphound.com/littlebrother/about/) into four Burmese languages.![little_brother-4x3b](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/11/little_brother-4x3b2-300x225.png)

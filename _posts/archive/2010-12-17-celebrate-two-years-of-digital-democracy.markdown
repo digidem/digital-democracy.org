@@ -7,13 +7,7 @@ slug: celebrate-two-years-of-digital-democracy
 title: 'Celebrate Two Years of Digital Democracy! '
 wordpress_id: 2572
 categories:
-- Dd News
-- News
-tags:
-- '#stuckonDd'
-- digidem
-- digital democracy
-- party
+- blog
 ---
 
 Join us this Monday night at New Work City's SoHo space for Digital Democracy's 2nd birthday bash!

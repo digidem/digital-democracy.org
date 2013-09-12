@@ -7,7 +7,7 @@ slug: mobile-solutions-for-health-care-workers
 title: Mobile solutions for health care workers
 wordpress_id: 431
 categories:
-- News
+- blog
 ---
 
 In Burma/Myanmar, decades of military misrule have left the public health system in shambles. In 2000, the World Health Organization ranked Myanmar's health system the second worst in the world, superior only to war-torn Sierra Leone.

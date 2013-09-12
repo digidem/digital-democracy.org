@@ -7,8 +7,7 @@ slug: a-great-night-for-burma-and-subversive-tech
 title: A Great Night for Burma and Subversive Tech
 wordpress_id: 410
 categories:
-- Burma/Myanmar
-- News
+- blog
 ---
 
 On Monday, April 27th D2 co-hosted a packed event with [Not an Alternative](http://www.notanalternative.net/wordpress/) and [Eyebeam](http://eyebeam.org/) at their [Change You Want to See](http://thechangeyouwanttosee.com/) gallery in Brooklyn as part of their project [Upgrade!](http://upgrade.eyebeam.org/), a monthly series focusing on open-source activism and art. We had a fantastic turnout and met a lot of great people.

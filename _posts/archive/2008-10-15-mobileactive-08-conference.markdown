@@ -7,15 +7,7 @@ slug: mobileactive-08-conference
 title: MobileActive 08 Conference
 wordpress_id: 33
 categories:
-- Conferences
-- News
-tags:
-- digidem
-- handheldhr
-- johannesburg
-- MobileActive
-- Research
-- South Africa
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/2937641155_9ffaac3a1b.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/2937641155_9ffaac3a1b.jpg) We presented at the [MobileActive 08](http://mobileactive08.org/) Conference in Johannesburg, South Africa about the use of mobile phones by members of the Burmese democracy movement around Burma's borders. Our “mini-talk” covered issues having to do with cross-border movement strategies against Authoritarian Regimes.

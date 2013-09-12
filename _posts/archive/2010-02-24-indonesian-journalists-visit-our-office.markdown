@@ -7,17 +7,7 @@ slug: indonesian-journalists-visit-our-office
 title: Indonesian Journalists Visit Our Office
 wordpress_id: 1494
 categories:
-- Dd News
-- Local to Global Engagement
-- News
-tags:
-- digidem
-- education
-- indonesia
-- journalism
-- nyc
-- office
-- Project Einstein
+- blog
 ---
 
 Today we had the pleasure of hosting five journalists from Indonesia at the Digital Democracy office. Although none of us on staff speak Indonesian and none of their English was particularly strong, we managed to communicate through 2 translators who had a portable translator toolkit that connected the group via wired headsets. While it looked a bit funny, it certainly was a huge help and allowed us to get into a fascinating conversation ranging from similarities between their country and Thailand, to the meaning of democracy.

@@ -7,18 +7,7 @@ slug: training-the-ushahidi-chile-team-in-a-flash
 title: Training the Ushahidi-Chile Team in a Flash
 wordpress_id: 2611
 categories:
-- Local to Global Engagement
-- News
-tags:
-- Chile
-- digidem
-- digital democracy
-- digitaldemocracy
-- earthquake
-- partnership
-- sipaatcolumbia
-- training
-- Ushahidi
+- blog
 ---
 This post initially appeared [on the Ushahidi blog](http://blog.ushahidi.com/index.php/2010/03/06/digital-democracy-chile/).
 Working in the tech sphere, it’s the power and passion that people  have that never ceases to astound me. Following the Jan. 12 earthquake  in Haiti, people around the world contributed an incredible outpouring  of support for the people of Haiti. Now, as that support expands to  Chile, it is evident that we are participating in a game changing  moment.

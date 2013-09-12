@@ -7,11 +7,7 @@ slug: haiti-trip-a-great-success
 title: Haiti trip a great success
 wordpress_id: 1726
 categories:
-- Haiti
-- International Programs
-tags:
-- Haiti
-- women
+- blog
 ---
 
 Abby and I just returned from an inspiring and full week in Port-au-Prince, Haiti. We couldn't have done it without your support, and we're thrilled to announce that, thanks to a donation we received this week, we have met our fundraising goal of $7,500 for the trip! Thanks to all the donations, we were able to leave four digital cameras with women's organizations in Port-au-Prince.

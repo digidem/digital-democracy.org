@@ -7,22 +7,7 @@ slug: '%e2%80%9chaitian-women-are-starting-a-revolution-a-tech-revolution%e2%80%
 title: '“Haitian Women are Starting A Revolution, a Tech Revolution!” '
 wordpress_id: 2847
 categories:
-- Dd News
-- Haiti
-- International Programs
-- News
-tags:
-- '#barcamphaiti'
-- barcamp
-- digiabby
-- digidem
-- Fanm Pale
-- gender-based violence
-- Haiti
-- haititech
-- haitiwomen
-- kofaviv
-- port au prince
+- blog
 ---
 
 On Saturday, March 12th, technologists, humanitarians, and community organizers gathered at the second ever **#BarCampHaiti**, convened in Port Au Prince. For those not familiar with “BarCamps,” they are a conference style long popular among technologists - and increasingly other communities - with an agenda partially determined at the event itself based on the skills of those participating and what they want to learn. This BarCamp brought together members of the various communities in Haiti working with technology to share ideas and projects, and to encourage learning and collaboration. It was organized by Chrissy Martin who is now working for Digicel, but was part of the Digital Democracy team on the ground in Haiti when the earthquake hit. She produced [this report about our initial work in Haiti](http://www.scribd.com/doc/27669359/Digital-Democracy-Haiti-Report-2010) and is featured in [this episode of DDTV about the earthquake](http://www.youtube.com/watch?v=eJe0Kv7LPTg) and what it was like to be on the ground during it.

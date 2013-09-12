@@ -7,20 +7,7 @@ slug: choose-your-democracy-in-egypt
 title: Choose Your Democracy in Egypt
 wordpress_id: 2700
 categories:
-- Local to Global Engagement
-- Research
-tags:
-- allourideas
-- democracy
-- egypt
-- grassroots
-- jordan
-- mena
-- middle east
-- north africa
-- Research
-- tunisia
-- yemen
+- blog
 ---
 
 [![image](http://farm5.static.flickr.com/4152/5411178653_45b80f2430.jpg)](http://bit.ly/democracy_en)

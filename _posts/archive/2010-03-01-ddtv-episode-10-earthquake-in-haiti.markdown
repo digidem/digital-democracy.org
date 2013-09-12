@@ -7,24 +7,7 @@ slug: ddtv-episode-10-earthquake-in-haiti
 title: 'DdTv Episode 10: Earthquake in Haiti'
 wordpress_id: 1516
 categories:
-- Digital Democracy TV
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-- Project Einstein
-- Tools &amp; Tech Approaches
-tags:
-- digidem
-- education
-- fletcher
-- Haiti
-- mastercard
-- nokia
-- Project Einstein
-- tufts
-- Ushahidi
-- youth
+- blog
 ---
 
 

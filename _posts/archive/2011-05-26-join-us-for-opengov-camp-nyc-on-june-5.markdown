@@ -7,21 +7,7 @@ slug: join-us-for-opengov-camp-nyc-on-june-5
 title: Join us for OpenGov Camp NYC on June 5
 wordpress_id: 3130
 categories:
-- Conferences
-- Dd News
-- Events
-tags:
-- barcamp
-- democracy
-- digital democracy
-- gov20
-- netfreedom
-- new york
-- nyc
-- opengov
-- pdf11
-- unconference
-- United States
+- blog
 ---
 
 How can designers, hackers and business work with government to make it more innovative? To put their mouth where our money is? We're co-sponsoring [OpenGov Camp NYC](http://opengovnyc.org/), an unconference to bring together the brightest minds to tackle the issues that we citizens face in our day to day lives.

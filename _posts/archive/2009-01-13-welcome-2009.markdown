@@ -7,7 +7,7 @@ slug: welcome-2009
 title: Welcome, 2009
 wordpress_id: 169
 categories:
-- News
+- blog
 ---
 
 As 2008 came to a close we were able to take a look back at the highlights from the past year, the places we've been, the people we've met, and the many milestones we've been able to reach as Digital Democracy has continued to develop.

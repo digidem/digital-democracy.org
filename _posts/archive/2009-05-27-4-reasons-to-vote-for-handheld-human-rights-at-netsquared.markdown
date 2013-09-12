@@ -7,8 +7,7 @@ slug: 4-reasons-to-vote-for-handheld-human-rights-at-netsquared
 title: 4 Reasons to Vote For Handheld Human Rights at Netsquared
 wordpress_id: 448
 categories:
-- Burma/Myanmar
-- News
+- blog
 ---
 
 

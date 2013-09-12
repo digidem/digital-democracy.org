@@ -7,16 +7,7 @@ slug: were-sticking-to-it-get-stuckondd
 title: 'We''re sticking to it - Get #StuckonDd'
 wordpress_id: 2514
 categories:
-- Dd News
-- Local to Global Engagement
-- News
-tags:
-- '#stuckonDd'
-- fundraising
-- partners
-- party
-- stickers
-- support
+- blog
 ---
 
 For two years Digital Democracy has built programs and worked with people around the world to empower groups whose voices are silenced. We train them to use innovative technologies to serve the needs they tell us they have.

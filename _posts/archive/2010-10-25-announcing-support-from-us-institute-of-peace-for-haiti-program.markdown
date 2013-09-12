@@ -7,17 +7,7 @@ slug: announcing-support-from-us-institute-of-peace-for-haiti-program
 title: Announcing support from US Institute of Peace for Haiti Program
 wordpress_id: 2309
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- citizen reporting
-- elections
-- Haiti
-- haitiwomen
-- mapping
-- women
+- blog
 ---
 
 We are thrilled to announce support from [United States Institute of Peace](http://www.usip.org/) for our work with grassroots Haitian Women's groups. Thanks to an urgent grant from their Haiti program, we are launching a citizen reporting initiative for the upcoming presidential and parliamentary elections in Haiti, scheduled for November 28.

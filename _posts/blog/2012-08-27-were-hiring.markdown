@@ -8,23 +8,7 @@ slug: were-hiring
 title: We're Hiring!
 wordpress_id: 4202
 categories:
-- Dd News
-tags:
-- Communication
-- developer
-- digital democracy
-- editor
-- grants
-- hiring
-- intern
-- internship
-- job
-- photo
-- Research
-- team
-- video
-- volunteers
-- wordpress
+- blog
 ---
 
 Fall internships & volunteer opportunities with Dd are open. Do you have skills or interest in: Wordpress, Grant writing, Research, Communication Strategy, Development Strategy or Video & Photo Editing?? Apply NOW!

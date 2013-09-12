@@ -7,7 +7,7 @@ slug: published-in-nuvo
 title: Published In Nuvo!
 wordpress_id: 16
 categories:
-- News
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/boys.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/boys.jpg)

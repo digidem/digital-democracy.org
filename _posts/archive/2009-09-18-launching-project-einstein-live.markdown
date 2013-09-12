@@ -7,18 +7,7 @@ slug: launching-project-einstein-live
 title: 'Launching Project Einstein: Live!'
 wordpress_id: 698
 categories:
-- News
-- Project Einstein
-tags:
-- digidem
-- einstein
-- karen
-- mae la
-- photography
-- red_banana
-- refugees
-- Thailand
-- training
+- blog
 ---
 
 Over the next few days Mark and Emily will be in Western Thailand working in a refugee camp to launch our program [Project Einstein](http://www.digital-democracy.org/programming/#einstein) with a partner school. They'll be teaching digital photography skills to a group of 17 students so that the students can participate in Project Einstein, our digital pen pal program connecting refugee youth around Burma's borders with resettled refugees and their classmates in the United States.

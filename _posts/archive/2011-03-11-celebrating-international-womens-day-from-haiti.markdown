@@ -7,16 +7,7 @@ slug: celebrating-international-womens-day-from-haiti
 title: Celebrating International Women's Day from Haiti
 wordpress_id: 2751
 categories:
-- Events
-- Haiti
-- Local to Global Engagement
-tags:
-- digidem
-- digital democracy
-- emjacobi
-- Haiti
-- haitiwomen
-- women
+- blog
 ---
 
 Tuesday marked the 100th anniversary of International Women's Day, and Digital Democracy was [celebrating from Port-au-Prince](http://www.flickr.com/photos/digitaldemocracy/sets/72157626225210908/), where our Haiti Program Manager [Emilie Reiser](http://twitter.com/emreiser) joined one of our local partners, [KOFAVIV](http://kofaviv.org), for a day-long celebration.

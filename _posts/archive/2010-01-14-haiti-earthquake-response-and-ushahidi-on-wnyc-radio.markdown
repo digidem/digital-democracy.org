@@ -7,20 +7,7 @@ slug: haiti-earthquake-response-and-ushahidi-on-wnyc-radio
 title: Haiti Earthquake Response and Ushahidi on WNYC Radio
 wordpress_id: 906
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- crisis map
-- emergency
-- Haiti
-- Mark Belinsky
-- News
-- Project Einstein
-- response
-- technology
-- Ushahidi
+- blog
 ---
 
 This morning on New York's [WNYC ](http://www.wnyc.org/)Radio program "[The Takeaway](http://www.thetakeaway.org/)" Mark discussed technology in the developing world, emergency response, and specifically the [Ushahidi install in Haiti](http://haiti.ushahidi.com/) in response to Tuesday's devastating earthquake. Ushahidi is currently mapping crisis information from the ground including continuing threats to the area, locations of relief services, and information about survivors. Information can be sent to Ushahidi via text message, email, twitter, and the online form.

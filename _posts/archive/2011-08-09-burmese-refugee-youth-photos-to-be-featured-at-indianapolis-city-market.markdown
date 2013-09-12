@@ -7,22 +7,7 @@ slug: burmese-refugee-youth-photos-to-be-featured-at-indianapolis-city-market
 title: Burmese refugee youth photos to be featured at Indianapolis City Market
 wordpress_id: 3306
 categories:
-- Burma/Myanmar
-- Local to Global Engagement
-- Project Einstein
-tags:
-- Burma
-- City Market
-- education
-- edutech
-- farmer's market
-- hoosier
-- Indiana
-- Indianapolis
-- photography
-- Project Einstein
-- refugees
-- youth
+- blog
 ---
 
 **Indianapolis, IN:** Wednesday, August 10th, the students of Project Einstein Indianapolis will have an audience of hundreds as visitors to the Indianapolis City Market's weekly farmer's market will be able to view the work of young photographers, who are primarily refugees from Burma/Myanmar.

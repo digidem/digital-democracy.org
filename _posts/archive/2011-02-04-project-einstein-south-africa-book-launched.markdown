@@ -7,23 +7,7 @@ slug: project-einstein-south-africa-book-launched
 title: Project Einstein South Africa Book Launched
 wordpress_id: 2721
 categories:
-- Project Einstein
-- Tools &amp; Tech Approaches
-tags:
-- book
-- cameras
-- children
-- digital literacy
-- kids
-- literacy
-- media
-- media literacy
-- peace
-- photography
-- pretoria
-- Project Einstein
-- South Africa
-- youth
+- blog
 ---
 
 13 Kids + 4 Cameras = Project Einstein South Africa

@@ -7,19 +7,7 @@ slug: life-in-a-day
 title: Filming Worldwide for Life in a Day
 wordpress_id: 1979
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- digidem
-- Georgia
-- Guatemala
-- Kenya
-- lifeinaday
-- photography
-- Project Einstein
-- Thailand
+- blog
 ---
 
 If you filmed all around the world on the same day, what would it look like?

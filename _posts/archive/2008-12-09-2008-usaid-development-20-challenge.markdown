@@ -7,7 +7,7 @@ slug: 2008-usaid-development-20-challenge
 title: 2008 USAID Development 2.0 Challenge
 wordpress_id: 821
 categories:
-- News
+- blog
 ---
 
 We just entered our Virtual Community Center (VCC) project into the [2008 Development 2.0 Challenge](http://www.netsquared.org/challenges) being presented by NetSquared and USAID. The mission of USAID is to:

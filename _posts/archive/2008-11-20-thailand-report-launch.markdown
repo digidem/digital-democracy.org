@@ -7,15 +7,7 @@ slug: thailand-report-launch
 title: Thailand Report Launch!
 wordpress_id: 801
 categories:
-- Burma/Myanmar
-- News
-tags:
-- Burma
-- digidem
-- digital democracy
-- myanmar
-- report
-- Thailand
+- blog
 ---
 
 **Overcoming Obstacles, Creating Opportunities:

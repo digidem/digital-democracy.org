@@ -7,24 +7,7 @@ slug: advisor-receives-award-from-bill-clinton
 title: Advisor receives award from Bill Clinton
 wordpress_id: 1705
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- award
-- cgiu
-- cgiu10
-- clinton
-- democracy
-- digidem
-- digital democracy
-- Haiti
-- haititech
-- handshake
-- ICT4D
-- irevolution
-- Ushahidi
+- blog
 ---
 
 For the amazing work that has been done by the Ushahidi volunteers at SIPA, Tufts and elsewhere, [our advisory board member Patrick Meier](http://digital-democracy.org/who-we-are/advisors/#patrick1) received an award this past weekend from Bill Clinton at the [Clinton Global University Initiative](http://www.cgiu.org/). Well done Patrick!

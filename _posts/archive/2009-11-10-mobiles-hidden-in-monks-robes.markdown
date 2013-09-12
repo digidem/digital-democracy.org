@@ -7,14 +7,7 @@ slug: mobiles-hidden-in-monks-robes
 title: Mobiles Hidden in Monks Robes
 wordpress_id: 785
 categories:
-- Burma/Myanmar
-- News
-tags:
-- article
-- Burma
-- MobileActive
-- mobiles
-- tech
+- blog
 ---
 
 In September 2007, despite less than 1% mobile penetration, mobile phones played a critical role in monk-led protests inside Burma. How were mobiles used inside the country, and around the borders? Read about this in the 3-part article I just published on [MobileActive](http://mobileactive.org/mobiles-hidden-monks-robes):

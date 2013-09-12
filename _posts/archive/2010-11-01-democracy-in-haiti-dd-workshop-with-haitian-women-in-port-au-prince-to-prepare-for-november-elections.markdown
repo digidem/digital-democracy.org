@@ -8,19 +8,7 @@ title: Democracy In Haiti? Our workshop with Haitian Women To Prepare For Novemb
   Elections
 wordpress_id: 2325
 categories:
-- Haiti
-- International Programs
-- Local to Global Engagement
-- News
-tags:
-- democracy
-- digiabby
-- digidem
-- digital democracy
-- elections
-- mapping
-- technology
-- women
+- blog
 ---
 We are dying from the dust their fancy cars kick up.
 Voting won’t change anything.

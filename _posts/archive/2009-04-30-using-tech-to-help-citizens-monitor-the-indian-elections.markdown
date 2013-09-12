@@ -7,12 +7,7 @@ slug: using-tech-to-help-citizens-monitor-the-indian-elections
 title: Using tech to help citizens monitor the Indian Elections
 wordpress_id: 401
 categories:
-- News
-tags:
-- Election Monitoring
-- elections
-- india
-- Ushahidi
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/picture-2-300x198.png)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/picture-2.png)India is the world's biggest democracy. There are roughly 700 million people eligible to vote in the current parliamentary elections. The votes of these 700 million people are being contested by 6,719 candidates vying for 543 representative seats. Monitoring this massive democratic undertaking are various regional, national and international bodies keeping a watch on irregularities and violations of the electoral code. There is now an exciting new addition to this array of watchdogs: [Vote Report India](http://votereport.in/).

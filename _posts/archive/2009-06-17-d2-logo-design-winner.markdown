@@ -7,7 +7,7 @@ slug: d2-logo-design-winner
 title: D2 Logo Design Winner!
 wordpress_id: 486
 categories:
-- News
+- blog
 ---
 
 Huge congratulations and an even bigger thank you to Nickie Sekera and Luke, winners of Digital Democracy’s May Design Sprint.

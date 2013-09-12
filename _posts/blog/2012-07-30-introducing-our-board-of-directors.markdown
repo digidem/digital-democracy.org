@@ -7,19 +7,7 @@ slug: introducing-our-board-of-directors
 title: Introducing our Board of Directors
 wordpress_id: 3937
 categories:
-- Dd News
-- News
-tags:
-- Board
-- Board of Directors
-- CCR
-- Dd
-- Directors
-- Governance
-- Janet Harris
-- Michael Gaouette
-- team
-- Vince Warren
+- blog
 ---
 Off the coattails of our recent Board Retreat and Meeting in Port-Au-Prince, Haiti, we want to take a moment to officially introduce the three members of the Digital Democracy (Dd) inaugural Board of Directors: Michael Gaouette (Chair), Janet Harris & Vince Warren.
 

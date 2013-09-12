@@ -7,22 +7,7 @@ slug: two-days-left-to-support-burmese-activists
 title: 'Video message from Emily: 28 hours left to support Burmese activists'
 wordpress_id: 845
 categories:
-- Local to Global Engagement
-- News
-tags:
-- '1984'
-- Big Brother
-- books
-- Burma
-- campaign
-- Cory Doctorow
-- Doctorow
-- Kickstarter
-- literature
-- Little Brother
-- myanmar
-- tech
-- translations
+- blog
 ---
 
 

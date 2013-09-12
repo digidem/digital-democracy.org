@@ -7,7 +7,7 @@ slug: share-to-win
 title: Share to Win!
 wordpress_id: 676
 categories:
-- News
+- blog
 ---
 
 Our community of supporters has always been one of Digital Democracy's greatest assets. From our fundraising campaign last Winter to our NetSquared campaigns this Spring, our supporters have always been there to lift us and up and help us move forward. And today we are reaching out to you again.

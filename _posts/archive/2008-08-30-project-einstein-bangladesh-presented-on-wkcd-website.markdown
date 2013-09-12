@@ -7,22 +7,7 @@ slug: project-einstein-bangladesh-presented-on-wkcd-website
 title: Project Einstein Bangladesh Presented on WKCD Website
 wordpress_id: 797
 categories:
-- Burma/Myanmar
-- News
-- Project Einstein
-tags:
-- Bangladesh
-- book
-- Burma
-- digidem
-- digital democracy
-- media
-- myanmar
-- photography
-- photography training
-- rohingya
-- teknaf
-- youth
+- blog
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein-300x108.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein.jpg)

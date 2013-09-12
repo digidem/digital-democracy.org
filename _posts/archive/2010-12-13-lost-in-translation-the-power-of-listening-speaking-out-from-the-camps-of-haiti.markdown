@@ -8,22 +8,7 @@ title: Found in Translation? The power of listening & speaking out from the camp
   of Haiti
 wordpress_id: 2526
 categories:
-- Dd News
-- Haiti
-- International Programs
-tags:
-- Biz Ghormley
-- blogging
-- Communication
-- digital training
-- Fanm Pale
-- Fires
-- Haiti
-- HaitiElection
-- haitiwomen
-- kofaviv
-- translations
-- women
+- blog
 ---
 [![image](http://digital-democracy.org/wp-content/uploads/2010/12/5244371618_6f23751a89-300x225.jpg)](http://digital-democracy.org/2010/12/13/lost-in-translation-the-power-of-listening-speaking-out-from-the-camps-of-haiti/5244371618_6f23751a89/)Haiti caught [fire](http://haitirewired.wired.com/profiles/blogs/pictures-of-riots-in-haiti) last week, following the results of the recent Haitian election. They were announced and quickly protested by people in the country and [the international community](mailto:http://online.wsj.com/article/SB10001424052748703518604576013571222832508.html). Citizens took peacefully to the streets. Soon, fires blazed and innocent people were lost to shots fired. We followed the stories through [Dd’s Emilie Reiser on Twitter](https://twitter.com/emreiser) and our Haitian women partners in Port-Au-Prince’s blog, [Fanm Pale](http://fanmpale.blogspot.com/) — voices from the ground, speaking out in their own words.
 

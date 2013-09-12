@@ -7,36 +7,7 @@ slug: '3979'
 title: 'Dd | Haiti: Reflections from a first visit'
 wordpress_id: 3979
 categories:
-- Haiti
-- International Programs
-tags:
-- '572'
-- BAI
-- Biz Ghormley
-- Board
-- call center
-- data
-- database
-- Digicel
-- digidem
-- digital democracy
-- FAVILEK
-- gbv
-- Haiti
-- haitiwomen
-- ICT4D
-- ICT4HR
-- IRC
-- jocie philistin
-- kofaviv
-- marquise stillwell
-- openbox
-- rape
-- team
-- tech
-- women
-- women &amp; girls
-- women tech
+- blog
 ---
 
 “As a small grassroots group, we are not supposed to have access to these kinds of systems,” Jocie Philistin, Program Coordinator for our partner, KOFAVIV, recently told us in Haiti. She continued, “Now, tech is at the core of our organization and allows us to be better at all parts of our work.”![image](http://farm9.staticflickr.com/8003/7687034530_0f84b4c10f_o.jpg)
