@@ -14,17 +14,6 @@ prose:
           label: "Featured image"
           value: ""
           placeholder: "Enter a URL"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Tags"
-          placeholder: "Select from list or enter new tag below"
-          options:
-            - name: "front-page"
-              value: "front-page"
-            - name: "featured"
-              value: "featured"
-          alterable: true
       - name: "title"
         field:
           element: "text"
@@ -63,7 +52,7 @@ prose:
         field:
           element: "text"
           label: "Featured image"
-          value: "http://"
+          value: ""
           placeholder: "Enter a URL"
       - name: "title"
         field:
@@ -108,30 +97,13 @@ prose:
         field:
           element: "text"
           label: "Featured image"
-          value: "http://"
+          value: ""
           placeholder: "Enter a URL"
       - name: "title"
         field:
           element: "text"
           label: "Post Title"
           value: ""
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-          value: "Enter your name"
-      - name: "wordpress_id"
-        field:
-          element: "hidden"
-      - name: "slug"
-        field:
-          element: "hidden"
-      - name: "date"
-        field:
-          element: "hidden"
-      - name: "comments"
-        field:
-          element: "hidden"
       - name: "layout"
         field:
           element: "hidden"
