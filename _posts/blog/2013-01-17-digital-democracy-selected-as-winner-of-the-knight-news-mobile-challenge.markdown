@@ -2,15 +2,9 @@
 categories: 
   - blog
 layout: post
-comments: true
-date: 2013-01-17T19:45:51.000Z
-slug: "digital-democracy-selected-as-winner-of-the-knight-news-mobile-challenge"
-wordpress_id: 4715
 author: Emily Jacobi
 title: Knight News Mobile Challenge Winners
 image: "/assets/achuar-gps-monitoring.jpg"
-tags: 
-  - ""
 published: true
 ---
 
