@@ -1,20 +1,17 @@
 ---
 author: Emilie Reiser
 comments: true
-date: 2012-11-12 22:43:45+00:00
-layout: page
+layout: projects
 slug: programs-remote-access
 title: 'Remote Access: Tools for Hard-to-Reach Communities'
+image: /assets/achuar-gps-monitoring.jpg
 wordpress_id: 4597
+categories:
+- projects
+tags:
+- featured-large
 ---
-
-[BACK TO PROGRAMS](http://digital-democracy.org/what-we-do/programs/)
-
-
 Program in Development --
-
-
-
 
 Oil contamination, illegal land grabs, forced labor. Remote communities in environmentally sensitive locations face these and other pressing threats to their land rights, natural resources and way of life. Often “off the grid,” these communities are unable to ensure equal footing in negotiations about their lives and land. Dd is partnering with groups in Chiapas, Mexico and the Amazon basin to build a mobile reporting platform for remote and indigenous communities.
 

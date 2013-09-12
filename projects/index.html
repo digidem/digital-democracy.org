@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<div class="row projects" id="projects">
+  
+{% assign posts = '' %}
+
+{% assign limit = '-1' %}
+{% for post in site.posts %}
+{% if post.tags contains 'featured-large' and post.categories contains 'projects' and limit contains '-' %}
+{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
+{% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
+{% endif %}
+{% endfor %}
+
+{% assign limit = '-2' %}
+{% for post in site.posts %}
+{% if post.tags contains 'featured-small' and post.categories contains 'projects' and limit contains '-' %}
+{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
+{% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
+{% endif %}
+{% endfor %}
+
+{% assign limit = '-1' %}
+{% for post in site.posts %}
+{% if post.tags contains 'featured-medium' and post.categories contains 'projects' and limit contains '-' %}
+{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
+{% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
+{% endif %}
+{% endfor %}
+
+{% assign limit = '-1' %}
+{% assign offset = '-1' %}
+{% for post in site.posts %}
+{% if post.tags contains 'featured-large' and post.categories contains 'projects' and limit contains '-' %}
+{% unless offset contains '-' %}
+{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
+{% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
+{% endunless %}
+{% capture offset %}{{ offset | plus: 1 }}{% endcapture %}
+{% endif %}
+{% endfor %}
+{% assign posts = posts | split: "," %}
+
+{% for index in posts %}
+{% for post in site.posts %}
+{% capture index0 %}{{ forloop.index0 }}{% endcapture %}
+{% if index0 == index %}
+<div class="box columns {{ post.tags | join: " "}}">
+  <img src="{{ post.image }}">
+  <div class="caption">
+    <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+</div>
+
+<div class="row other-projects">
+  
+{% for post in site.posts %}
+{% if post.categories contains 'projects' %}
+{% capture index0 %}{{ forloop.index0 }}{% endcapture %}
+{% unless posts contains index0 %}
+<div class="columns large-6">
+    <h4><a href="{{post.url}}">{{ post.title }}</a></h3>
+</div>
+{% endunless %}
+{% endif %}
+{% endfor %}

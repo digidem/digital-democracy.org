@@ -1,16 +1,15 @@
 ---
 author: Emilie Reiser
 comments: true
-date: 2012-11-12 21:45:06+00:00
-layout: page
+layout: projects
 slug: burma-myanmar-program
 title: 'Handheld Human Rights: Amplifying Voices in Burma/Myanmar'
+image: http://placehold.it/800x600
 wordpress_id: 4579
+categories:
+- projects
+tags: featured-small
 ---
-
-[BACK TO PROGRAMS](http://digital-democracy.org/what-we-do/programs/)
-
-
 “In Burma, the obstacle is information – people inside the country need information,
 and they aren’t getting it.” – University student, 2007
 
