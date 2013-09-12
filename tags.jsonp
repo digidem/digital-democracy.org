@@ -2,9 +2,12 @@
 ---
 tags([
   {% for tag in site.tags %}
+  {% capture tagname %}{{ tag | first }}{% endcapture %}
+  {% if tagname != "" %}
   {
     "name": "{{ tag | first }}",
     "value": "{{ tag | first }}"
   },
-  {% endfor %}false]
+  {% endif %}
+  {% endfor %}false
 ])
