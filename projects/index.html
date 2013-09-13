@@ -57,14 +57,17 @@ layout: default
 {% endfor %}
 
 </div>
-
+<br><br>
 <div class="row other-projects">
   
 {% for post in site.posts %}
 {% if post.categories contains 'projects' %}
 {% capture index0 %}{{ forloop.index0 }}{% endcapture %}
 {% unless posts contains index0 %}
-<div class="columns large-6">
+<div class="columns large-2">
+  <img src="{{post.image}}">
+</div>
+<div class="columns large-4">
     <h4><a href="{{post.url}}">{{ post.title }}</a></h3>
 </div>
 {% endunless %}
