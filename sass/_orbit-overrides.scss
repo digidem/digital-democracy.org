@@ -1,0 +1,11 @@
+.orbit-caption p {
+  font-size: 130%; 
+}
+  
+.orbit-container 
+  .orbit-slides-container > * 
+  .orbit-caption {
+  @include grid-column(4);
+  position: absolute;
+}
+ 

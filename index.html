@@ -10,7 +10,7 @@ layout: default
         <img src="{{ post.image }}" />
       </div>
       <div class="row">
-        <div class="{% if post.overlay_position contains 'right' %}large-offset-5{% endif %} orbit-caption columns large-5">
+        <div class="{% if post.overlay_position contains 'right' %}large-offset-5{% endif %} orbit-caption">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <div class="hide-for-medium-down">{{ post.excerpt | markdownify }}</div>
         </div>
