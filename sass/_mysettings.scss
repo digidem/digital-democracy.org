@@ -44,6 +44,15 @@ $em-base: 16 !default;
   @return $emValues;
 }
 
+
+
+$dd-blue: rgb(57,82,123);
+$dd-grey: #afafaf;
+$dd-logo-size: 85px;
+
+
+
+
 // Change whether or not you include browser prefixes
 // $experimental: true;
 
@@ -685,7 +694,7 @@ $default-float: left;
 
 // We use this to control widescreen bottom padding
 
-// $flex-video-widescreen-padding-bottom: 57.25%;
+$flex-video-widescreen-padding-bottom: 56.25%;
 
 //
 // Inline List Variables

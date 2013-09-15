@@ -5,14 +5,6 @@ body {
 .left {
   margin-right: 1em; }
 
-.flex-video {
-  padding-top: 0;
-  margin-bottom: 0; }
-  
-.flex-video img {
-  width: 100%; 
-  position: absolute;
-  bottom: -10%; }
 
  
 .blogroll img {
@@ -61,9 +53,5 @@ padding: 0 0.5em;}
 font-size: 1.5em;}
 .projects .box.featured-small h3 {
 font-size: 1.3em;}
-@media only screen and (min-width: 1280px) {
-.flex-video {
-height: 720px;
-padding-bottom: 0 !important; }
-}
+
 

@@ -1,11 +1,45 @@
-.orbit-caption p {
-  font-size: 130%; 
+@import "compass/css3/transform";
+
+.slideshow-wrapper {
+  ul {
+    li {
+      height: 0;
+      padding-bottom: $flex-video-widescreen-padding-bottom;
+      overflow-y: hidden;
+      position: relative;
+      img {
+        width: 100%; 
+        position: absolute;
+        top: 50%;
+        @include translateY(-50%);
+      }
+    }
+  }
 }
   
-.orbit-container 
-  .orbit-slides-container > * 
-  .orbit-caption {
-  @include grid-column(4);
-  position: absolute;
+.orbit-container {
+  .orbit-slides-container > * {
+    .orbit-caption {
+      @include grid-column(4, false, false, 1);
+      position: absolute;
+      &.right {
+        @include grid-column(4, false, false, 7);
+        position: absolute;
+      }
+    }
+    p {
+      font-size: 130%; 
+    }
+  }
 }
- 
+
+.slideshow-wrapper {
+  margin-top: - $topbar-margin-bottom - emCalc($topbar-height) - $topbar-margin-top;
+}
+
+@media #{$medium} { 
+  .slideshow-wrapper ul li {
+    height: 0;
+    padding-bottom: 0.5625 * $medium-screen;
+  }
+}
