@@ -3312,7 +3312,7 @@ button.large, .button.large {
 
 /* line 1, ../sass/_foundation-overrides.scss */
 body {
-  margin: auto;
+  overflow-x: hidden;
 }
 
 /* line 5, ../sass/_foundation-overrides.scss */
@@ -3705,7 +3705,7 @@ nav ul li > a.button {
   color: white;
   -webkit-border-radius: 0;
   border-radius: 0;
-  margin-top: 0.2em;
+  margin: 0.2em;
   font-size: 1.125em;
 }
 /* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */

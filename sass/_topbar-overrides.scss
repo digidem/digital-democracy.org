@@ -263,7 +263,7 @@ nav {
         @include button-base;
         @include button-size;
         @include button-style($topbar-button-bg-color, 0);
-        margin-top: 0.2em;
+        margin: 0.2em;
         font-size: $topbar-link-font-size;
       }
     }
