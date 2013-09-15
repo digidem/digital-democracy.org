@@ -5,7 +5,7 @@ date: 2013-04-15 21:47:59+00:00
 layout: post
 slug: expanding-access-to-haitis-gender-based-violence-call-center
 title: Expanding Access to Haiti’s Gender-Based Violence Call Center
-image: https://farm9.staticflickr.com/8521/8472422804_452f11aa91_b.jpg
+image: http://farm9.staticflickr.com/8119/8758626267_5539c88388_k_d.jpg
 wordpress_id: 4755
 categories:
 - blog

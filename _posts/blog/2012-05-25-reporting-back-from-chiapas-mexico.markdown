@@ -5,7 +5,7 @@ date: 2012-05-25 12:00:28+00:00
 layout: post
 slug: reporting-back-from-chiapas-mexico
 title: Reporting back from Chiapas, Mexico
-image: /assets/chiapas-woman-walking.jpg
+image: http://farm6.staticflickr.com/5322/7414816750_e9be9db24b_h_d.jpg
 wordpress_id: 3815
 overlay_position: right
 categories:
