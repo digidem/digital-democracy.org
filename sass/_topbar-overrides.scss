@@ -1,0 +1,43 @@
+@import "compass/css3/border-radius";
+@import "compass/css3/transform";
+
+.contain-to-grid {
+  background-color: transparentize($dd-blue, 0.1);
+  position: relative;
+  z-index: 9999;
+  margin-top: $topbar-margin-top;
+}
+
+.title-area .name h1 {
+  margin-left: 100px;
+}
+
+.title-area h1:before {
+  content: "Dd";
+  color: $dd-blue;
+  position: absolute;
+  width: $dd-logo-size;
+  height: $dd-logo-size;
+  background-color: #fff;
+  top: -($dd-logo-size - $topbar-height) / 2;
+  left: ($dd-logo-size - $topbar-height) / 2;
+  border: 3px solid #444;
+  font-size: $dd-logo-size / 2;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding-top: 12px;
+}
+
+.title-area h1:after {
+  content: "";
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  border: 12px double $dd-grey;
+  top: 4px;
+  left: 53px;
+  clip: rect(0,17.5px,17.5px,0);
+  @include border-radius(17.5px 0 0);
+  @include rotate(25deg);
+}
