@@ -1243,7 +1243,7 @@ $orbit-caption-bg: rgba(0,0,0,0.8);
 
 // Background color for the top bar
 
-$topbar-bg: rgba(0,0,0,0);
+//$topbar-bg: rgba(0,0,0,0);
 
 // Height and margin
 
@@ -1262,7 +1262,7 @@ $topbar-title-font-size: emCalc(25);
 
 // Style the top bar dropdown elements
 
-$topbar-dropdown-bg: rgba(0,0,0,0);
+// $topbar-dropdown-bg: rgba(0,0,0,0);
 // $topbar-dropdown-link-color: #fff;
 // $topbar-dropdown-link-bg: lighten($topbar-bg, 5%);
 // $topbar-dropdown-toggle-size: 5px;
@@ -1277,7 +1277,7 @@ $topbar-dropdown-bg: rgba(0,0,0,0);
 // $topbar-link-weight: bold;
 $topbar-link-font-size: emCalc(18);
 // $topbar-link-hover-lightness: -30%; // Darken by 30%
-$topbar-link-bg-hover: darken($dd-blue, 10%);
+// $topbar-link-bg-hover: darken($dd-blue, 10%);
 // $topbar-link-bg-active: darken($topbar-bg, 3%);
 
 // $topbar-dropdown-label-color: #555;

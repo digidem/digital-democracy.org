@@ -1,43 +1,407 @@
 @import "compass/css3/border-radius";
 @import "compass/css3/transform";
 
-.contain-to-grid {
-  background-color: transparentize($dd-blue, 0.1);
+//
+// Top Bar Variables
+//
+$include-html-top-bar-classes: $include-html-classes !default;
+
+// Background color for the top bar
+$topbar-bg-color: transparentize($dd-blue, 0.1) !default;
+$topbar-bg: $topbar-bg-color !default;
+
+
+$topbar-button-bg-color: #9d261d;
+
+// Height and margin
+$topbar-height: 45px !default;
+$topbar-margin-bottom: 0 !default;
+
+// Control Input height for top bar
+$topbar-input-height: 2.45em !default;
+
+// Controlling the styles for the title in the top bar
+$topbar-title-weight: bold !default;
+$topbar-title-font-size: em-calc(17) !default;
+
+// Set the link colors and styles for top-level nav
+$topbar-link-color: #fff !default;
+$topbar-link-color-hover: #fff !default;
+$topbar-link-color-active: #fff !default;
+$topbar-link-weight: bold !default;
+$topbar-link-font-size: em-calc(13) !default;
+$topbar-link-hover-lightness: -10% !default; // Darken by 30%
+$topbar-link-bg-hover: transparentize(adjust-color($topbar-bg-color, $lightness: $topbar-link-hover-lightness), 0.1) !default;
+$topbar-link-bg-active: adjust-color($topbar-bg-color, $lightness: $topbar-link-hover-lightness) !default;
+
+// Top menu icon styles
+$topbar-menu-link-transform: uppercase !default;
+$topbar-menu-link-font-size: em-calc(13) !default;
+$topbar-menu-link-weight: bold !default;
+$topbar-menu-link-color: #fff !default;
+$topbar-menu-icon-color: #fff !default;
+$topbar-menu-link-color-toggled: #888 !default;
+$topbar-menu-icon-color-toggled: #888 !default;
+
+// Transitions and breakpoint styles
+$topbar-transition-speed: 300ms !default;
+// Using em-calc for the below breakpoint causes issues with top bar
+$topbar-breakpoint: 768px !default; // Change to 9999px for always mobile layout
+$topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
+
+// Wrapped around .top-bar to make it stick to the top
+.fixed {
+  width: 100%;
+  #{$default-float}: 0;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+
+  &.expanded:not(.top-bar) {
+      overflow-y: auto; 
+      height: auto;
+      width: 100%;
+      max-height: 100%;
+
+    .title-area {
+      position: fixed;
+      width: 100%;
+      z-index: 99;
+    }
+    // Ensure you can scroll the menu on small screens 
+    .top-bar-section {
+      z-index: 98;
+      margin-top: $topbar-height;
+    }
+  }
+}
+
+nav {
+  @include grid-row();
+  height: $topbar-height;
+  line-height: $topbar-height;
   position: relative;
-  z-index: 9999;
-  margin-top: $topbar-margin-top;
+  margin-bottom: $topbar-margin-bottom;
+  margin-top: $topbar-margin-bottom;
+  font-size: $em-base;
+  z-index: 10;
+  
+  &:before {
+    width: 500%;
+    background-color: $topbar-bg-color;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    z-index: -1;
+    margin-left: -250%;
+  }
+  
+  // Topbar Global list Styles
+  ul {
+    margin-bottom: 0;
+    list-style: none;
+    display: inline;
+    float: right;
+    li {
+      float: left;
+    }
+  }
+
+  form,
+  input { margin-bottom: 0; }
+
+  input { height: $topbar-input-height; }
+
+  .button { padding-top: .5em; padding-bottom: .5em; margin-bottom: 0; }
+
+  h1 {
+    line-height: $topbar-height;
+    font-size: $topbar-title-font-size;
+    margin: 0;
+    float: left;
+    margin-left: 100px;
+
+    &:before {
+      content: "Dd";
+      color: $dd-blue;
+      position: absolute;
+      width: $dd-logo-size;
+      height: $dd-logo-size;
+      background-color: #fff;
+      top: -($dd-logo-size - $topbar-height) / 2;
+      left: ($dd-logo-size - $topbar-height) / 2;
+      border: 3px solid #444;
+      font-size: $dd-logo-size / 2;
+      font-weight: bold;
+      text-align: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      padding-top: 12px;
+    }
+    &:after {
+      content: "";
+      position: absolute;
+      width: 35px;
+      height: 35px;
+      border: 12px double $dd-grey;
+      top: 4px;
+      left: 53px;
+      clip: rect(0,17.5px,17.5px,0);
+      @include border-radius(17.5px 0 0);
+      @include rotate(25deg);
+    }
+    a {
+      font-weight: $topbar-title-weight;
+      color: $topbar-link-color;
+      display: block;
+      padding: 0 $topbar-height / 3;
+    }
+  }
+
+  // Menu toggle button on small devices
+  .toggle-topbar {
+    position: absolute;
+    #{$opposite-direction}: 0;
+    top: 0;
+
+    a {
+      color: $topbar-link-color;
+      text-transform: $topbar-menu-link-transform;
+      font-size: $topbar-menu-link-font-size;
+      font-weight: $topbar-menu-link-weight;
+      position: relative;
+      display: block;
+      padding: 0 $topbar-height / 3;
+      height: $topbar-height;
+      line-height: $topbar-height;
+    }
+
+    // Adding the class "menu-icon" will add the 3-line icon people love and adore.
+    &.menu-icon {
+      #{$opposite-direction}: $topbar-height / 3;
+      top: 50%;
+      margin-top: -16px;
+      padding-#{$default-float}: 40px;
+
+      a {
+        text-indent: -48px;
+        width: 34px;
+        height: 34px;
+        line-height: 33px;
+        padding: 0;
+        color: $topbar-menu-link-color;
+
+        span {
+          position: absolute;
+          #{$opposite-direction}: 0;
+          display: block;
+          width: 16px;
+          height: 0;
+          // Shh, don't tell, but box-shadows create the menu icon :)
+          @if $experimental {
+            -webkit-box-shadow: 0 10px 0 1px $topbar-menu-icon-color,
+                                0 16px 0 1px $topbar-menu-icon-color,
+                                0 22px 0 1px $topbar-menu-icon-color;
+          }
+          box-shadow:         0 10px 0 1px $topbar-menu-icon-color,
+                              0 16px 0 1px $topbar-menu-icon-color,
+                              0 22px 0 1px $topbar-menu-icon-color;
+        }
+      }
+    }
+  }
+
+  // Change things up when the top-bar is expanded
+  &.expanded {
+    height: auto;
+    background: transparent;
+
+    .title-area { background: $topbar-bg; }
+
+    .toggle-topbar {
+      a { color: $topbar-menu-link-color-toggled;
+        span {
+          // Shh, don't tell, but box-shadows create the menu icon :)
+          @if $experimental {
+            -webkit-box-shadow: 0 10px 0 1px $topbar-menu-icon-color-toggled,
+                                0 16px 0 1px $topbar-menu-icon-color-toggled,
+                                0 22px 0 1px $topbar-menu-icon-color-toggled;
+          }
+          box-shadow:         0 10px 0 1px $topbar-menu-icon-color-toggled,
+                              0 16px 0 1px $topbar-menu-icon-color-toggled,
+                              0 22px 0 1px $topbar-menu-icon-color-toggled;
+        }
+      }
+    }
+  }
+
+  ul {
+    #{$default-float}: 0;
+    position: relative;
+    width: auto;
+    @include single-transition($default-float, $topbar-transition-speed);
+    height: $topbar-height;
+    display: block;
+    font-size: $em-base;
+    margin: 0;
+  }
+
+  ul li {
+    & > a {
+      display: block;
+      width: 100%;
+      color: $topbar-link-color;
+      padding: 12px 0 12px 0;
+      padding-#{$default-float}: $topbar-height / 3;
+      font-size: $topbar-link-font-size;
+      font-weight: $topbar-link-weight;
+
+      &:not(.button) {
+        padding: 0 $topbar-height / 3;
+        line-height: $topbar-height;
+      }
+      &.button {
+        @include button-base;
+        @include button-size;
+        @include button-style($topbar-button-bg-color, 0);
+        margin-top: 0.2em;
+        font-size: $topbar-link-font-size;
+      }
+    }
+
+    // Apply the hover link color when it has that class
+    &:hover > a {
+      background: $topbar-link-bg-hover;
+      color: $topbar-link-color-hover;
+    }
+  }
+
+  // Add some extra padding for list items contains buttons
+  .has-form { padding: $topbar-height / 3; }
+
 }
 
-.title-area .name h1 {
-  margin-left: 100px;
+// Apply the active link color when it has that class
+body[data-section="/projects/"] nav ul li > a[href="/projects/"],
+body[data-section="/blog/"] nav ul li > a[href="/blog/"],
+body[data-section="/team/"] nav ul li > a[href="/team/"],
+body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
+  background: $topbar-link-bg-active;
+  color: $topbar-link-color-active;
 }
 
-.title-area h1:before {
-  content: "Dd";
-  color: $dd-blue;
-  position: absolute;
-  width: $dd-logo-size;
-  height: $dd-logo-size;
-  background-color: #fff;
-  top: -($dd-logo-size - $topbar-height) / 2;
-  left: ($dd-logo-size - $topbar-height) / 2;
-  border: 3px solid #444;
-  font-size: $dd-logo-size / 2;
-  font-weight: bold;
-  text-align: center;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding-top: 12px;
+// Element that controls breakpoint, no need to change this ever
+.top-bar-js-breakpoint {
+  width: $topbar-breakpoint !important;
+  visibility: hidden;
+}
+.js-generated { display: block; }
+
+
+// Top Bar styles intended for screen sizes above the breakpoint.
+@media #{$topbar-media-query} {
+  .top-bar {
+    background: $topbar-bg;
+    @include clearfix;
+    overflow: visible;
+
+    .toggle-topbar { display: none; }
+
+    .title-area { float: $default-float; }
+    .name h1 a { width: auto; }
+
+    input,
+    .button {
+      line-height: 2em;
+      font-size: em-calc(14);
+      height: 2em;
+      padding: 0 10px;
+      position: relative;
+      top: 8px;
+    }
+
+    &.expanded { background: $topbar-bg; }
+  }
+
+  .contain-to-grid .top-bar {
+    max-width: $row-width;
+    margin: 0 auto;
+    margin-bottom: $topbar-margin-bottom;
+  }
+
+  .top-bar-section {
+    @include single-transition(none,0,0);
+    #{$default-float}: 0 !important;
+
+    ul {
+      width: auto;
+      height: auto !important;
+      display: inline;
+
+      li {
+        float: $default-float;
+        .js-generated { display: none; }
+      }
+    }
+
+    li {
+      &.hover { 
+        > a:not(.button) {
+          background: $topbar-link-bg-hover;
+          color: $topbar-link-color-hover;
+        }
+      }
+      a:not(.button) {
+        padding: 0 $topbar-height / 3;
+        line-height: $topbar-height;
+        background: $topbar-bg;
+        &:hover { background: $topbar-link-bg-hover; }
+      }
+    }
+
+    .has-form {
+      background: $topbar-bg;
+      padding: 0 $topbar-height / 3;
+      height: $topbar-height;
+    }
+
+    // Position overrides for ul.right
+    ul.right {
+      li .dropdown {
+        left: auto;
+        right: 0;
+
+        li .dropdown { right: 100%; }
+      }
+    }
+  }
+
+  // Degrade gracefully when Javascript is disabled. Displays dropdown and changes
+  // background & text color on hover.
+  .no-js .top-bar-section {
+  ul li {
+      // Apply the hover link color when it has that class
+      &:hover > a {
+        background: $topbar-link-bg-hover;
+        color: $topbar-link-color-hover;
+      }
+
+      // Apply the active link color when it has that class
+      &:active > a {
+        background: $topbar-link-bg-active;
+        color: $topbar-link-color-active;
+      }
+    }
+
+  .has-dropdown {
+      &:hover {
+        & > .dropdown {
+          display: block;
+        }
+      }
+  }
+}
 }
 
-.title-area h1:after {
-  content: "";
-  position: absolute;
-  width: 35px;
-  height: 35px;
-  border: 12px double $dd-grey;
-  top: 4px;
-  left: 53px;
-  clip: rect(0,17.5px,17.5px,0);
-  @include border-radius(17.5px 0 0);
-  @include rotate(25deg);
-}
+
+
+

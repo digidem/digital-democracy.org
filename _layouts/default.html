@@ -12,38 +12,20 @@
   <script src="/js/vendor/custom.modernizr.js"></script>
 
 </head>
-<body>
+<body data-section="{{ page.url }}">
 
-<div class="contain-to-grid">
-  <nav class="top-bar">
-  <ul class="title-area">
-    <!-- Title Area -->
-    <li class="name">
-      <h1><a href="/">Digital Democracy</a></h1>
+<nav>
+  <h1><a href="/">Digital Democracy</a></h1>
+  <ul>
+    <li><a href="/projects/">Projects</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li><a href="/team/">Team</a></li>
+    <li><a href="#">About Us</a></li>
+    <li>
+      <a class="button" href="#">Donate</a>
     </li>
-    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
-
-  <section class="top-bar-section">
-    <!-- Left Nav Section -->
-    <ul class="left">
-
-    </ul>
-
-    <!-- Right Nav Section -->
-    <ul class="right">
-      <li class="active"><a href="/projects">Projects</a></li>
-      <li><a href="/blog">Blog</a></li>
-      <li><a href="/team">Team</a></li>
-      <li><a href="#">About Us</a></li>
-      <li class="has-form">
-        <a class="button" href="#">Donate</a>
-      </li>
-    </ul>
-  </section>
 </nav>
-</div>
 
 {{ content }}
 

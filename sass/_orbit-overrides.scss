@@ -18,6 +18,7 @@
 }
   
 .orbit-container {
+  overflow: visible;
   .orbit-slides-container > * {
     .orbit-caption {
       @include grid-column(4, false, false, 1);
