@@ -3311,7 +3311,7 @@ button.large, .button.large {
 }
 
 /* line 1, ../sass/_foundation-overrides.scss */
-body {
+body, html {
   overflow-x: hidden;
 }
 
@@ -3418,7 +3418,7 @@ body {
   position: relative;
   padding-left: 0.9375em;
   padding-right: 0.9375em;
-  width: 33.33333%;
+  width: 41.66667%;
   margin-left: 8.33333%;
   float: left;
   position: absolute;
@@ -3428,8 +3428,8 @@ body {
   position: relative;
   padding-left: 0.9375em;
   padding-right: 0.9375em;
-  width: 33.33333%;
-  margin-left: 58.33333%;
+  width: 41.66667%;
+  margin-left: 50%;
   float: left;
   position: absolute;
 }
