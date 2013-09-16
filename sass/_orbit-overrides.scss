@@ -21,10 +21,10 @@
   overflow: visible;
   .orbit-slides-container > * {
     .orbit-caption {
-      @include grid-column(4, false, false, 1);
+      @include grid-column(5, false, false, 1);
       position: absolute;
       &.right {
-        @include grid-column(4, false, false, 7);
+        @include grid-column(5, false, false, 6);
         position: absolute;
       }
     }

@@ -2396,263 +2396,6 @@ blockquote p {
     display: inherit !important;
   }
 }
-/* line 171, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button, .button {
-  border-style: solid;
-  border-width: 1px;
-  cursor: pointer;
-  font-family: inherit;
-  font-weight: bold;
-  line-height: 1;
-  margin: 0 0 1.25em;
-  position: relative;
-  text-decoration: none;
-  text-align: center;
-  display: inline-block;
-  padding-top: 0.75em;
-  padding-right: 1.5em;
-  padding-bottom: 0.8125em;
-  padding-left: 1.5em;
-  font-size: 1em;
-  background-color: #2ba6cb;
-  border-color: #2284a1;
-  color: white;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #2284a1;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button:hover, button:focus, .button:hover, .button:focus {
-  color: white;
-}
-/* line 176, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.secondary, .button.secondary {
-  background-color: #e9e9e9;
-  border-color: #d0d0d0;
-  color: #333333;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-  background-color: #d0d0d0;
-}
-/* line 128, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-  color: #333333;
-}
-/* line 177, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.success, .button.success {
-  background-color: #5da423;
-  border-color: #457a1a;
-  color: white;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: #457a1a;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  color: white;
-}
-/* line 178, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.alert, .button.alert {
-  background-color: #c60f13;
-  border-color: #970b0e;
-  color: white;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
-  background-color: #970b0e;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
-  color: white;
-}
-/* line 180, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.large, .button.large {
-  padding-top: 1em;
-  padding-right: 2em;
-  padding-bottom: 1.0625em;
-  padding-left: 2em;
-  font-size: 1.25em;
-}
-/* line 181, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.small, .button.small {
-  padding-top: 0.5625em;
-  padding-right: 1.125em;
-  padding-bottom: 0.625em;
-  padding-left: 1.125em;
-  font-size: 0.8125em;
-}
-/* line 182, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.tiny, .button.tiny {
-  padding-top: 0.4375em;
-  padding-right: 0.875em;
-  padding-bottom: 0.5em;
-  padding-left: 0.875em;
-  font-size: 0.6875em;
-}
-/* line 183, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.expand, .button.expand {
-  padding-right: 0px;
-  padding-left: 0px;
-  width: 100%;
-}
-/* line 185, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.left-align, .button.left-align {
-  text-align: left;
-  text-indent: 0.75em;
-}
-/* line 186, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.right-align, .button.right-align {
-  text-align: right;
-  padding-right: 0.75em;
-}
-/* line 188, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #2ba6cb;
-  border-color: #2284a1;
-  color: white;
-  cursor: default;
-  opacity: 0.6;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #2284a1;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  color: white;
-}
-/* line 146, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #2ba6cb;
-}
-/* line 189, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
-  background-color: #e9e9e9;
-  border-color: #d0d0d0;
-  color: #333333;
-  cursor: default;
-  opacity: 0.6;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #d0d0d0;
-}
-/* line 128, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  color: #333333;
-}
-/* line 146, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #e9e9e9;
-}
-/* line 190, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
-  background-color: #5da423;
-  border-color: #457a1a;
-  color: white;
-  cursor: default;
-  opacity: 0.6;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #457a1a;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  color: white;
-}
-/* line 146, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #5da423;
-}
-/* line 191, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
-  background-color: #c60f13;
-  border-color: #970b0e;
-  color: white;
-  cursor: default;
-  opacity: 0.6;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-  background-color: #970b0e;
-}
-/* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-  color: white;
-}
-/* line 146, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-  background-color: #c60f13;
-}
-
-/* line 196, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button, .button {
-  padding-top: 0.8125em;
-  padding-bottom: 0.75em;
-  -webkit-appearance: none;
-}
-/* line 198, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.tiny, .button.tiny {
-  padding-top: 0.5em;
-  padding-bottom: 0.4375em;
-  -webkit-appearance: none;
-}
-/* line 199, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.small, .button.small {
-  padding-top: 0.625em;
-  padding-bottom: 0.5625em;
-  -webkit-appearance: none;
-}
-/* line 200, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-button.large, .button.large {
-  padding-top: 1.03125em;
-  padding-bottom: 1.03125em;
-  -webkit-appearance: none;
-}
-
-@media only screen {
-  /* line 206, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-  button, .button {
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-    -webkit-transition: background-color 300ms ease-out;
-    -moz-transition: background-color 300ms ease-out;
-    transition: background-color 300ms ease-out;
-  }
-  /* line 68, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
-  button:active, .button:active {
-    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
-    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
-  }
-  /* line 214, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-  button.radius, .button.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-  }
-  /* line 215, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-  button.round, .button.round {
-    -webkit-border-radius: 1000px;
-    border-radius: 1000px;
-  }
-}
-@media only screen and (min-width: 768px) {
-  /* line 223, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-  button, .button {
-    display: inline-block;
-  }
-}
 /* Flex Video */
 /* line 44, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_flex-video.scss */
 .flex-video {
@@ -3316,31 +3059,36 @@ body, html {
 }
 
 /* line 5, ../sass/_foundation-overrides.scss */
+body {
+  overflow-y: hidden;
+}
+
+/* line 9, ../sass/_foundation-overrides.scss */
 .left {
   margin-right: 1em;
 }
 
-/* line 10, ../sass/_foundation-overrides.scss */
+/* line 14, ../sass/_foundation-overrides.scss */
 .blogroll img {
   width: 200px;
   height: 150px;
   border: 1px solid #ccc;
 }
 
-/* line 15, ../sass/_foundation-overrides.scss */
+/* line 19, ../sass/_foundation-overrides.scss */
 .projects .box {
   /*position: absolute;*/
   overflow: hidden;
   padding-top: 2%;
 }
 
-/* line 21, ../sass/_foundation-overrides.scss */
+/* line 25, ../sass/_foundation-overrides.scss */
 .projects .box img {
   display: block;
   background-color: #eee;
 }
 
-/* line 26, ../sass/_foundation-overrides.scss */
+/* line 30, ../sass/_foundation-overrides.scss */
 .projects .caption {
   position: absolute;
   bottom: 0;
@@ -3349,43 +3097,43 @@ body, html {
   margin-right: 0.9375em;
 }
 
-/* line 34, ../sass/_foundation-overrides.scss */
+/* line 38, ../sass/_foundation-overrides.scss */
 .projects .caption h3 {
   color: white;
 }
 
-/* line 37, ../sass/_foundation-overrides.scss */
+/* line 41, ../sass/_foundation-overrides.scss */
 .projects .box.featured-large {
   height: 0;
   width: 66.67%;
   padding-bottom: 33.33%;
 }
 
-/* line 42, ../sass/_foundation-overrides.scss */
+/* line 46, ../sass/_foundation-overrides.scss */
 .projects .box.featured-medium {
   height: 0;
   width: 33.33%;
   padding-bottom: 33.33%;
 }
 
-/* line 46, ../sass/_foundation-overrides.scss */
+/* line 50, ../sass/_foundation-overrides.scss */
 .projects .box.featured-small {
   height: 0;
   width: 33.33%;
   padding-bottom: 15.667%;
 }
 
-/* line 50, ../sass/_foundation-overrides.scss */
+/* line 54, ../sass/_foundation-overrides.scss */
 .projects h3 {
   padding: 0 0.5em;
 }
 
-/* line 52, ../sass/_foundation-overrides.scss */
+/* line 56, ../sass/_foundation-overrides.scss */
 .projects .box.featured-medium h3 {
   font-size: 1.5em;
 }
 
-/* line 54, ../sass/_foundation-overrides.scss */
+/* line 58, ../sass/_foundation-overrides.scss */
 .projects .box.featured-small h3 {
   font-size: 1.3em;
 }
@@ -3451,33 +3199,6 @@ body, html {
   }
 }
 /* line 53, ../sass/_topbar-overrides.scss */
-.fixed {
-  width: 100%;
-  left: 0;
-  position: fixed;
-  top: 0;
-  z-index: 99;
-}
-/* line 60, ../sass/_topbar-overrides.scss */
-.fixed.expanded:not(.top-bar) {
-  overflow-y: auto;
-  height: auto;
-  width: 100%;
-  max-height: 100%;
-}
-/* line 66, ../sass/_topbar-overrides.scss */
-.fixed.expanded:not(.top-bar) .title-area {
-  position: fixed;
-  width: 100%;
-  z-index: 99;
-}
-/* line 72, ../sass/_topbar-overrides.scss */
-.fixed.expanded:not(.top-bar) .top-bar-section {
-  z-index: 98;
-  margin-top: 55px;
-}
-
-/* line 79, ../sass/_topbar-overrides.scss */
 nav {
   width: 100%;
   margin-left: auto;
@@ -3489,10 +3210,9 @@ nav {
   height: 55px;
   line-height: 55px;
   position: relative;
-  margin-bottom: 1.875em;
-  margin-top: 1.875em;
   font-size: 16;
-  z-index: 10;
+  z-index: 999;
+  background-color: #39527b;
 }
 /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
 nav:before, nav:after {
@@ -3503,171 +3223,110 @@ nav:before, nav:after {
 nav:after {
   clear: both;
 }
-/* line 89, ../sass/_topbar-overrides.scss */
-nav:before {
-  width: 500%;
-  background-color: rgba(57, 82, 123, 0.9);
-  height: 100%;
+/* line 63, ../sass/_topbar-overrides.scss */
+nav button {
+  color: white;
+  text-transform: uppercase;
+  font-size: 1em;
+  font-weight: bold;
+  display: block;
+  padding: 0 56.66667px 0 18.33333px;
+  height: 55px;
+  line-height: 55px;
   position: absolute;
-  left: 50%;
-  z-index: -1;
-  margin-left: -250%;
+  right: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
 }
-/* line 100, ../sass/_topbar-overrides.scss */
-nav ul {
-  margin-bottom: 0;
-  list-style: none;
-  display: inline;
-  float: right;
+/* line 77, ../sass/_topbar-overrides.scss */
+nav button:after {
+  content: "";
+  position: absolute;
+  -webkit-box-shadow: 0 20px 0 2px white, 0 28px 0 2px white, 0 36px 0 2px white;
+  width: 20px;
+  max-height: 0;
+  right: 18.33333px;
 }
-/* line 105, ../sass/_topbar-overrides.scss */
-nav ul li {
-  float: left;
+/* line 87, ../sass/_topbar-overrides.scss */
+nav button:hover + ul, nav ul:hover {
+  height: auto;
+  max-height: 500%;
 }
-/* line 111, ../sass/_topbar-overrides.scss */
-nav form,
-nav input {
-  margin-bottom: 0;
-}
-/* line 113, ../sass/_topbar-overrides.scss */
-nav input {
-  height: 2.45em;
-}
-/* line 115, ../sass/_topbar-overrides.scss */
-nav .button {
-  padding-top: .5em;
-  padding-bottom: .5em;
-  margin-bottom: 0;
-}
-/* line 117, ../sass/_topbar-overrides.scss */
+/* line 93, ../sass/_topbar-overrides.scss */
 nav h1 {
   line-height: 55px;
   font-size: 1.5625em;
   margin: 0;
   float: left;
-  margin-left: 100px;
+  margin-left: 70px;
 }
-/* line 124, ../sass/_topbar-overrides.scss */
+/* line 100, ../sass/_topbar-overrides.scss */
 nav h1:before {
   content: "Dd";
   color: #39527b;
   position: absolute;
-  width: 85px;
-  height: 85px;
+  width: 55px;
+  height: 55px;
   background-color: #fff;
-  top: -15px;
+  top: 0;
   left: 15px;
-  border: 3px solid #444;
-  font-size: 42.5px;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding-top: 12px;
+  padding-top: 1px;
 }
-/* line 140, ../sass/_topbar-overrides.scss */
+/* line 115, ../sass/_topbar-overrides.scss */
 nav h1:after {
   content: "";
   position: absolute;
-  width: 35px;
-  height: 35px;
-  border: 12px double #afafaf;
-  top: 4px;
-  left: 53px;
-  clip: rect(0, 17.5px, 17.5px, 0);
-  -webkit-border-radius: 17.5px 0 0;
-  -moz-border-radius: 17.5px 0 0;
-  -ms-border-radius: 17.5px 0 0;
-  -o-border-radius: 17.5px 0 0;
-  border-radius: 17.5px 0 0;
+  width: 24px;
+  height: 24px;
+  border: 8px double #afafaf;
+  top: 11px;
+  left: 40px;
+  clip: rect(0, 12px, 12px, 0);
+  -webkit-border-radius: 12px 0 0;
+  -moz-border-radius: 12px 0 0;
+  -ms-border-radius: 12px 0 0;
+  -o-border-radius: 12px 0 0;
+  border-radius: 12px 0 0;
   -webkit-transform: rotate(25deg);
   -moz-transform: rotate(25deg);
   -ms-transform: rotate(25deg);
   -o-transform: rotate(25deg);
   transform: rotate(25deg);
 }
-/* line 152, ../sass/_topbar-overrides.scss */
+/* line 127, ../sass/_topbar-overrides.scss */
 nav h1 a {
   font-weight: normal;
   color: white;
   display: block;
   padding: 0 18.33333px;
 }
-/* line 161, ../sass/_topbar-overrides.scss */
-nav .toggle-topbar {
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-/* line 166, ../sass/_topbar-overrides.scss */
-nav .toggle-topbar a {
-  color: white;
-  text-transform: uppercase;
-  font-size: em-calc(13);
-  font-weight: bold;
-  position: relative;
-  display: block;
-  padding: 0 18.33333px;
-  height: 55px;
-  line-height: 55px;
-}
-/* line 179, ../sass/_topbar-overrides.scss */
-nav .toggle-topbar.menu-icon {
-  right: 18.33333px;
-  top: 50%;
-  margin-top: -16px;
-  padding-left: 40px;
-}
-/* line 185, ../sass/_topbar-overrides.scss */
-nav .toggle-topbar.menu-icon a {
-  text-indent: -48px;
-  width: 34px;
-  height: 34px;
-  line-height: 33px;
-  padding: 0;
+/* line 132, ../sass/_topbar-overrides.scss */
+nav h1 a:hover {
   color: white;
 }
-/* line 193, ../sass/_topbar-overrides.scss */
-nav .toggle-topbar.menu-icon a span {
-  position: absolute;
-  right: 0;
-  display: block;
-  width: 16px;
-  height: 0;
-  -webkit-box-shadow: 0 10px 0 1px white, 0 16px 0 1px white, 0 22px 0 1px white;
-  box-shadow: 0 10px 0 1px white, 0 16px 0 1px white, 0 22px 0 1px white;
-}
-/* line 214, ../sass/_topbar-overrides.scss */
-nav.expanded {
-  height: auto;
-  background: transparent;
-}
-/* line 218, ../sass/_topbar-overrides.scss */
-nav.expanded .title-area {
-  background: rgba(57, 82, 123, 0.9);
-}
-/* line 221, ../sass/_topbar-overrides.scss */
-nav.expanded .toggle-topbar a {
-  color: #888888;
-}
-/* line 222, ../sass/_topbar-overrides.scss */
-nav.expanded .toggle-topbar a span {
-  -webkit-box-shadow: 0 10px 0 1px #888888, 0 16px 0 1px #888888, 0 22px 0 1px #888888;
-  box-shadow: 0 10px 0 1px #888888, 0 16px 0 1px #888888, 0 22px 0 1px #888888;
-}
-/* line 237, ../sass/_topbar-overrides.scss */
+/* line 138, ../sass/_topbar-overrides.scss */
 nav ul {
-  left: 0;
-  position: relative;
-  width: auto;
-  -webkit-transition: left 300ms ease-out;
-  -moz-transition: left 300ms ease-out;
-  transition: left 300ms ease-out;
-  height: 55px;
+  -webkit-transition: max-height 300ms;
+  -moz-transition: max-height 300ms;
+  -o-transition: max-height 300ms;
+  transition: max-height 300ms;
+  width: 100%;
+  list-style: none;
   display: block;
+  float: right;
+  background-color: #415e8c;
   font-size: 16;
   margin: 0;
+  margin-bottom: 1.875em;
+  height: 0;
+  overflow-y: hidden;
 }
-/* line 249, ../sass/_topbar-overrides.scss */
+/* line 151, ../sass/_topbar-overrides.scss */
 nav ul li > a {
   display: block;
   width: 100%;
@@ -3677,12 +3336,12 @@ nav ul li > a {
   font-size: 1.125em;
   font-weight: bold;
 }
-/* line 258, ../sass/_topbar-overrides.scss */
+/* line 160, ../sass/_topbar-overrides.scss */
 nav ul li > a:not(.button) {
   padding: 0 18.33333px;
   line-height: 55px;
 }
-/* line 262, ../sass/_topbar-overrides.scss */
+/* line 164, ../sass/_topbar-overrides.scss */
 nav ul li > a.button {
   border-style: solid;
   border-width: 1px;
@@ -3705,8 +3364,9 @@ nav ul li > a.button {
   color: white;
   -webkit-border-radius: 0;
   border-radius: 0;
-  margin: 0.2em;
   font-size: 1.125em;
+  line-height: 55px;
+  padding: 0 18.33333px;
 }
 /* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
 nav ul li > a.button:hover, nav ul li > a.button:focus {
@@ -3716,17 +3376,13 @@ nav ul li > a.button:hover, nav ul li > a.button:focus {
 nav ul li > a.button:hover, nav ul li > a.button:focus {
   color: white;
 }
-/* line 272, ../sass/_topbar-overrides.scss */
+/* line 175, ../sass/_topbar-overrides.scss */
 nav ul li:hover > a {
   background: rgba(41, 59, 88, 0.8);
   color: white;
 }
-/* line 279, ../sass/_topbar-overrides.scss */
-nav .has-form {
-  padding: 18.33333px;
-}
 
-/* line 287, ../sass/_topbar-overrides.scss */
+/* line 187, ../sass/_topbar-overrides.scss */
 body[data-section="/projects/"] nav ul li > a[href="/projects/"],
 body[data-section="/blog/"] nav ul li > a[href="/blog/"],
 body[data-section="/team/"] nav ul li > a[href="/team/"],
@@ -3735,131 +3391,88 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   color: white;
 }
 
-/* line 293, ../sass/_topbar-overrides.scss */
+/* line 193, ../sass/_topbar-overrides.scss */
 .top-bar-js-breakpoint {
-  width: 768px !important;
+  width: 980px !important;
   visibility: hidden;
 }
 
-/* line 297, ../sass/_topbar-overrides.scss */
+/* line 197, ../sass/_topbar-overrides.scss */
 .js-generated {
   display: block;
 }
 
-@media only screen and (min-width: 768px) {
-  /* line 302, ../sass/_topbar-overrides.scss */
-  .top-bar {
-    background: rgba(57, 82, 123, 0.9);
-    *zoom: 1;
-    overflow: visible;
-  }
-  /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
-  .top-bar:before, .top-bar:after {
-    content: " ";
-    display: table;
-  }
-  /* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
-  .top-bar:after {
-    clear: both;
-  }
-  /* line 307, ../sass/_topbar-overrides.scss */
-  .top-bar .toggle-topbar {
-    display: none;
-  }
-  /* line 309, ../sass/_topbar-overrides.scss */
-  .top-bar .title-area {
-    float: left;
-  }
-  /* line 310, ../sass/_topbar-overrides.scss */
-  .top-bar .name h1 a {
-    width: auto;
-  }
-  /* line 313, ../sass/_topbar-overrides.scss */
-  .top-bar input,
-  .top-bar .button {
-    line-height: 2em;
-    font-size: em-calc(14);
-    height: 2em;
-    padding: 0 10px;
-    position: relative;
-    top: 8px;
-  }
-  /* line 322, ../sass/_topbar-overrides.scss */
-  .top-bar.expanded {
-    background: rgba(57, 82, 123, 0.9);
-  }
-
-  /* line 325, ../sass/_topbar-overrides.scss */
-  .contain-to-grid .top-bar {
-    max-width: 62.5em;
-    margin: 0 auto;
+@media only screen and (min-width: 980px) {
+  /* line 203, ../sass/_topbar-overrides.scss */
+  nav {
+    margin-top: 1.875em;
     margin-bottom: 1.875em;
+    background-color: transparent;
   }
-
-  /* line 331, ../sass/_topbar-overrides.scss */
-  .top-bar-section {
-    -webkit-transition: none 0 0;
-    -moz-transition: none 0 0;
-    transition: none 0 0;
-    left: 0 !important;
+  /* line 209, ../sass/_topbar-overrides.scss */
+  nav:before {
+    width: 500%;
+    background-color: rgba(57, 82, 123, 0.9);
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    z-index: -1;
+    margin-left: -250%;
   }
-  /* line 335, ../sass/_topbar-overrides.scss */
-  .top-bar-section ul {
-    width: auto;
-    height: auto !important;
-    display: inline;
+  /* line 219, ../sass/_topbar-overrides.scss */
+  nav h1 {
+    margin-left: 100px;
   }
-  /* line 340, ../sass/_topbar-overrides.scss */
-  .top-bar-section ul li {
-    float: left;
+  /* line 222, ../sass/_topbar-overrides.scss */
+  nav h1:before {
+    width: 85px;
+    height: 85px;
+    top: -15px;
+    border: 3px solid #444;
+    font-size: 42.5px;
+    padding-top: 12px;
   }
-  /* line 342, ../sass/_topbar-overrides.scss */
-  .top-bar-section ul li .js-generated {
+  /* line 230, ../sass/_topbar-overrides.scss */
+  nav h1:after {
+    width: 35px;
+    height: 35px;
+    border: 12px double #afafaf;
+    top: 4px;
+    left: 53px;
+    clip: rect(0, 17.5px, 17.5px, 0);
+    -webkit-border-radius: 17.5px 0 0;
+    -moz-border-radius: 17.5px 0 0;
+    -ms-border-radius: 17.5px 0 0;
+    -o-border-radius: 17.5px 0 0;
+    border-radius: 17.5px 0 0;
+    -webkit-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -o-transform: rotate(25deg);
+    transform: rotate(25deg);
+  }
+  /* line 242, ../sass/_topbar-overrides.scss */
+  nav button {
     display: none;
   }
-  /* line 348, ../sass/_topbar-overrides.scss */
-  .top-bar-section li.hover > a:not(.button) {
-    background: rgba(41, 59, 88, 0.8);
-    color: white;
+  /* line 246, ../sass/_topbar-overrides.scss */
+  nav ul {
+    width: auto;
+    height: 55px;
+    max-height: 55px;
+    background-color: transparent;
+    margin: 0;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
   }
-  /* line 353, ../sass/_topbar-overrides.scss */
-  .top-bar-section li a:not(.button) {
-    padding: 0 18.33333px;
-    line-height: 55px;
-    background: rgba(57, 82, 123, 0.9);
-  }
-  /* line 357, ../sass/_topbar-overrides.scss */
-  .top-bar-section li a:not(.button):hover {
-    background: rgba(41, 59, 88, 0.8);
-  }
-  /* line 361, ../sass/_topbar-overrides.scss */
-  .top-bar-section .has-form {
-    background: rgba(57, 82, 123, 0.9);
-    padding: 0 18.33333px;
+  /* line 253, ../sass/_topbar-overrides.scss */
+  nav ul:hover {
     height: 55px;
   }
-  /* line 369, ../sass/_topbar-overrides.scss */
-  .top-bar-section ul.right li .dropdown {
-    left: auto;
-    right: 0;
-  }
-  /* line 373, ../sass/_topbar-overrides.scss */
-  .top-bar-section ul.right li .dropdown li .dropdown {
-    right: 100%;
-  }
-
-  /* line 383, ../sass/_topbar-overrides.scss */
-  .no-js .top-bar-section ul li:hover > a {
-    background: rgba(41, 59, 88, 0.8);
-    color: white;
-  }
-  /* line 389, ../sass/_topbar-overrides.scss */
-  .no-js .top-bar-section ul li:active > a {
-    background: rgba(41, 59, 88, 0.9);
-    color: white;
-  }
-  /* line 397, ../sass/_topbar-overrides.scss */
-  .no-js .top-bar-section .has-dropdown:hover > .dropdown {
-    display: block;
+  /* line 256, ../sass/_topbar-overrides.scss */
+  nav ul li {
+    float: left;
   }
 }

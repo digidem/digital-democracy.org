@@ -1,6 +1,10 @@
-body {
+body, html {
 
   overflow-x: hidden; }
+
+  body {
+    overflow-y: hidden;
+  }
 
 .left {
   margin-right: 1em; }
