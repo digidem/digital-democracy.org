@@ -97,7 +97,7 @@ nav {
     float: left;
     margin-left: 70px;
 
-    &:before {
+    a:before {
       content: "Dd";
       color: $dd-blue;
       position: absolute;
@@ -112,7 +112,7 @@ nav {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
       padding-top: 1px;
     }
-    &:after {
+    a:after {
       content: "";
       position: absolute;
       width: 24px;
@@ -219,7 +219,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     h1 {
       margin-left: 100px;
 
-      &:before {
+      a:before {
         width: $dd-logo-size;
         height: $dd-logo-size;
         top: -15px;
@@ -227,7 +227,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
         font-size: $dd-logo-size / 2;
         padding-top: 12px;
       }
-      &:after {
+      a:after {
         width: 35px;
         height: 35px;
         border: 12px double $dd-grey;

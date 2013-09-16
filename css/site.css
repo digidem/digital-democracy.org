@@ -3262,7 +3262,7 @@ nav h1 {
   margin-left: 70px;
 }
 /* line 100, ../sass/_topbar-overrides.scss */
-nav h1:before {
+nav h1 a:before {
   content: "Dd";
   color: #39527b;
   position: absolute;
@@ -3278,7 +3278,7 @@ nav h1:before {
   padding-top: 1px;
 }
 /* line 115, ../sass/_topbar-overrides.scss */
-nav h1:after {
+nav h1 a:after {
   content: "";
   position: absolute;
   width: 24px;
@@ -3424,7 +3424,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     margin-left: 100px;
   }
   /* line 222, ../sass/_topbar-overrides.scss */
-  nav h1:before {
+  nav h1 a:before {
     width: 85px;
     height: 85px;
     top: -15px;
@@ -3433,7 +3433,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     padding-top: 12px;
   }
   /* line 230, ../sass/_topbar-overrides.scss */
-  nav h1:after {
+  nav h1 a:after {
     width: 35px;
     height: 35px;
     border: 12px double #afafaf;
