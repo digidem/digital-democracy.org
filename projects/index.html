@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<div class="row projects" id="projects">
-  
 {% assign posts = '' %}
 
 {% assign limit = '-1' %}
@@ -42,6 +40,9 @@ layout: default
 {% endfor %}
 {% assign posts = posts | split: "," %}
 
+
+<div class="row projects" id="projects">
+  
 {% for index in posts %}
 {% for post in site.posts %}
 {% capture index0 %}{{ forloop.index0 }}{% endcapture %}
@@ -59,7 +60,7 @@ layout: default
 </div>
 <br><br>
 <div class="row other-projects">
-  
+
 {% for post in site.posts %}
 {% if post.categories contains 'projects' %}
 {% capture index0 %}{{ forloop.index0 }}{% endcapture %}
@@ -73,3 +74,5 @@ layout: default
 {% endunless %}
 {% endif %}
 {% endfor %}
+
+</div>
