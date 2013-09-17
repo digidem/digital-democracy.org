@@ -31,6 +31,11 @@ prose:
           element: "hidden"
           value: "archive"
     _posts/blog:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
       - name: "author"
         field:
           element: "text"
