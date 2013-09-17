@@ -1,0 +1,70 @@
+@import "image-ratio-mixin";
+
+section.mission-statement {
+  @include grid-row();
+  padding-left: $column-gutter / 2;
+  padding-right: $column-gutter / 2;
+  margin: 1em auto;
+  h2 {
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+  }
+}
+
+nav.subnav {
+  margin: 3em 0;
+  ul {
+    @include grid-row();
+    list-style: none;
+    li {
+      @include grid-column(4);
+      height: 0;
+      padding-bottom: 20%;
+      overflow: hidden;
+      a {
+        background-color: #ccc;
+        height: 500px;
+        display: block;
+      }
+    }
+  }
+}
+
+section.latest-news {
+  @include grid-row();
+  margin-top: 3em;
+  .post {
+    @include block-grid(1);
+    header {
+      @include image-ratio($ratio16x9);
+      background-color: #eee;
+      margin-bottom: 0.5em;
+      h4 {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        background-color: $orbit-caption-bg;
+        margin: 0;
+        padding: 0.5em 1em;
+      }
+    }
+    p {
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+  }
+}
+
+@media #{$small} {
+  section.latest-news .post {
+    @include block-grid(2, emCalc(40));
+  }
+}
+
+@media #{$medium} {
+  section.latest-news .post p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

@@ -48,9 +48,10 @@ $topbar-menu-icon-color-toggled: #888 !default;
 $topbar-transition-speed: 300ms !default;
 // Using em-calc for the below breakpoint causes issues with top bar
 $topbar-breakpoint: 980px !default; // Change to 9999px for always mobile layout
+$topbar-media-query-landscape: "only screen and (min-width: 480px)" !default;
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
-nav {
+header nav {
   @include grid-row();
   height: $topbar-height;
   line-height: $topbar-height;
@@ -92,10 +93,15 @@ nav {
   // Logo in CSS + Title
   h1 {
     line-height: $topbar-height;
+    height: $topbar-height;
     font-size: $topbar-title-font-size;
     margin: 0;
     float: left;
     margin-left: 70px;
+    
+    width: 0;
+    white-space: nowrap;
+    overflow: hidden;      
 
     a:before {
       content: "Dd";
@@ -104,6 +110,7 @@ nav {
       width: 55px;
       height: 55px;
       background-color: #fff;
+      text-indent: 0;
       top: 0;
       left: 15px;
       font-size: 30px;
@@ -180,6 +187,11 @@ nav {
   }
 }
 
+.touch header nav ul li:hover {
+  background: transparent;
+  color: $topbar-link-color;
+}
+
 // Highlight the active page
 body[data-section="/projects/"] nav ul li > a[href="/projects/"],
 body[data-section="/blog/"] nav ul li > a[href="/blog/"],
@@ -196,11 +208,16 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
 }
 .js-generated { display: block; }
 
+@media #{$topbar-media-query-landscape} {
+  nav h1 {
+    width: auto;
+  }
+}
 
 // Top Bar styles intended for screen sizes above the breakpoint.
-@media #{$topbar-media-query} {
+@media #{$small} {
   
-  nav {
+  header nav {
     margin-top: $topbar-margin-bottom;
     margin-bottom: $topbar-margin-bottom;
     background-color: transparent;
@@ -218,6 +235,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     
     h1 {
       margin-left: 100px;
+      width: 0;
 
       a:before {
         width: $dd-logo-size;
@@ -260,7 +278,11 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   }
 }
 
-
+@media #{$topbar-media-query} {
+  header nav h1 {
+    width: auto;
+  }
+}
 
 
 

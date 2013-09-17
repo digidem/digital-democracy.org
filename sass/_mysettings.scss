@@ -50,7 +50,8 @@ $dd-blue: rgb(57,82,123);
 $dd-grey: #afafaf;
 $dd-logo-size: 85px;
 
-
+$ratio16x9: 56.25%;
+$ratio4x3: 75%;
 
 
 // Change whether or not you include browser prefixes
@@ -122,9 +123,9 @@ $include-html-button-classes: false;
 
 // Media Queries
 
-// $small-screen: 768px;
-// $medium-screen: 1280px;
-// $large-screen: 1440px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1280px;
 
 // $screen: "only screen";
 // $small: "only screen and (min-width: #{$small-screen})";

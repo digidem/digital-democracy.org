@@ -1,41 +1,22 @@
 @import "compass/css3/transform";
+@import "image-ratio-mixin";
 
 .slideshow-wrapper {
   ul {
     li {
-      height: 0;
-      padding-bottom: $flex-video-widescreen-padding-bottom;
-      overflow-y: hidden;
-      position: relative;
-      img {
-        width: 100%; 
-        position: absolute;
-        top: 50%;
-        @include translateY(-50%);
-      }
+      @include image-ratio($ratio16x9);
     }
   }
 }
   
 .orbit-container {
   overflow: visible;
-  .orbit-slides-container > * {
-    .orbit-caption {
-      @include grid-column(5, false, false, 1);
-      position: absolute;
-      &.right {
-        @include grid-column(5, false, false, 6);
-        position: absolute;
-      }
-    }
-    p {
-      font-size: 130%; 
-    }
-  }
 }
 
-.slideshow-wrapper {
-  margin-top: - $topbar-margin-bottom - emCalc($topbar-height) - $topbar-margin-top;
+@media #{$small} {
+  .slideshow-wrapper {
+    margin-top: - $topbar-margin-bottom - emCalc($topbar-height) - $topbar-margin-top;
+  }
 }
 
 @media #{$medium} { 
@@ -43,4 +24,23 @@
     height: 0;
     padding-bottom: 0.5625 * $medium-screen;
   }
+  .orbit-container {
+    .orbit-slides-container > * {
+      .orbit-caption {
+        @include grid-column(5, false, false, 1);
+        position: absolute;
+        &.right {
+          @include grid-column(5, false, false, 6);
+          position: absolute;
+        }
+      }
+    }
+  }
 }
+
+@media #{$large} {
+  p {
+    font-size: 1.2em;
+  }
+}
+
