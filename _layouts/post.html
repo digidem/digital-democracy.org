@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="blogpost">
+  <header>
+    <img src="{{ page.image }}">
+    <div class="caption">
+      <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+      {{ page.excerpt }}
+    </div>
+  </header>
+  <div class="content">
+    {{ content }}
+  </div>
+</article>

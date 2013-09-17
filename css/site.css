@@ -3647,7 +3647,7 @@ section.latest-news .post p {
     padding-right: 0;
   }
 }
-/* line 3, ../sass/_projects-page.scss */
+/* line 4, ../sass/_projects-page.scss */
 section.projects {
   width: 100%;
   margin-left: auto;
@@ -3667,7 +3667,7 @@ section.projects:before, section.projects:after {
 section.projects:after {
   clear: both;
 }
-/* line 6, ../sass/_projects-page.scss */
+/* line 7, ../sass/_projects-page.scss */
 section.projects ul {
   display: block;
   padding: 0;
@@ -3690,17 +3690,17 @@ section.projects ul > li {
   float: left;
   padding: 0 1% 2%;
 }
-/* line 8, ../sass/_projects-page.scss */
+/* line 9, ../sass/_projects-page.scss */
 section.projects ul li {
   width: 100%;
   margin-bottom: 2%;
   padding-bottom: 0;
 }
-/* line 12, ../sass/_projects-page.scss */
+/* line 13, ../sass/_projects-page.scss */
 section.projects ul li img {
   display: none;
 }
-/* line 16, ../sass/_projects-page.scss */
+/* line 17, ../sass/_projects-page.scss */
 section.projects ul li.featured header {
   position: relative;
   height: 0;
@@ -3718,11 +3718,11 @@ section.projects ul li.featured header img {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-/* line 18, ../sass/_projects-page.scss */
+/* line 19, ../sass/_projects-page.scss */
 section.projects ul li.featured header img {
   display: block;
 }
-/* line 21, ../sass/_projects-page.scss */
+/* line 22, ../sass/_projects-page.scss */
 section.projects ul li.featured header h3 {
   position: absolute;
   width: 100%;
@@ -3731,70 +3731,144 @@ section.projects ul li.featured header h3 {
   margin: 0;
   padding: 0.5em 1em;
 }
-/* line 25, ../sass/_projects-page.scss */
+/* line 26, ../sass/_projects-page.scss */
 section.projects ul li.featured.medium header {
   padding-bottom: 56.25%;
 }
-/* line 28, ../sass/_projects-page.scss */
+/* line 29, ../sass/_projects-page.scss */
 section.projects ul li.featured.small header {
   padding-bottom: 50%;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 37, ../sass/_projects-page.scss */
+  /* line 38, ../sass/_projects-page.scss */
   section.projects ul li {
     width: 50%;
   }
-  /* line 40, ../sass/_projects-page.scss */
+  /* line 41, ../sass/_projects-page.scss */
   section.projects ul li.featured.large, section.projects ul li.featured.medium {
     width: 100%;
   }
-  /* line 43, ../sass/_projects-page.scss */
+  /* line 44, ../sass/_projects-page.scss */
   section.projects ul li.featured.medium header {
     padding-bottom: 50%;
   }
-  /* line 46, ../sass/_projects-page.scss */
+  /* line 47, ../sass/_projects-page.scss */
   section.projects ul li.featured.large header {
     padding-bottom: 56.25%;
   }
 }
 @media only screen and (min-width: 768px) and (orientation: landscape) {
-  /* line 55, ../sass/_projects-page.scss */
+  /* line 56, ../sass/_projects-page.scss */
   section.projects ul li.featured.large {
     width: 66.67%;
     float: right;
   }
-  /* line 58, ../sass/_projects-page.scss */
+  /* line 59, ../sass/_projects-page.scss */
   section.projects ul li.featured.large header {
     padding-bottom: 50%;
   }
-  /* line 62, ../sass/_projects-page.scss */
+  /* line 63, ../sass/_projects-page.scss */
   section.projects ul li.featured:first-child {
     float: left;
   }
-  /* line 65, ../sass/_projects-page.scss */
+  /* line 66, ../sass/_projects-page.scss */
   section.projects ul li.featured.medium {
     width: 33.33%;
   }
-  /* line 67, ../sass/_projects-page.scss */
+  /* line 68, ../sass/_projects-page.scss */
   section.projects ul li.featured.medium header {
     font-size: 0.875em;
     padding-bottom: 102%;
   }
-  /* line 72, ../sass/_projects-page.scss */
+  /* line 73, ../sass/_projects-page.scss */
   section.projects ul li.featured.medium + li.small {
     margin-top: 17%;
   }
-  /* line 75, ../sass/_projects-page.scss */
+  /* line 76, ../sass/_projects-page.scss */
   section.projects ul li.featured.small {
     width: 33.33%;
     position: absolute;
     top: 0;
     right: 0;
   }
-  /* line 80, ../sass/_projects-page.scss */
+  /* line 81, ../sass/_projects-page.scss */
   section.projects ul li.featured.small header {
     font-size: 0.75em;
     padding-bottom: 50%;
   }
+}
+/* line 4, ../sass/_post-page.scss */
+article.blogpost {
+  top: -7.1875em;
+  position: relative;
+}
+/* line 7, ../sass/_post-page.scss */
+article.blogpost header {
+  position: relative;
+  height: 0;
+  padding-bottom: 41.67%;
+  overflow: hidden;
+}
+/* line 8, ../sass/_mixin-image-ratio.scss */
+article.blogpost header img {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/* line 9, ../sass/_post-page.scss */
+article.blogpost header .caption {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 0;
+  padding: 0.5em 1em;
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 41.66667%;
+  margin-left: 8.33333%;
+  float: left;
+  position: absolute;
+}
+/* line 13, ../sass/_post-page.scss */
+article.blogpost header .caption p {
+  color: white;
+}
+/* line 18, ../sass/_post-page.scss */
+article.blogpost .content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1;
+}
+/* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+article.blogpost .content:before, article.blogpost .content:after {
+  content: " ";
+  display: table;
+}
+/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+article.blogpost .content:after {
+  clear: both;
+}
+/* line 20, ../sass/_post-page.scss */
+article.blogpost .content p {
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+}
+/* line 26, ../sass/_post-page.scss */
+article.blogpost .content p + p {
+  font-size: 1.3em;
+  margin: 0 7em 1.5em;
 }

@@ -1,4 +1,5 @@
 @import "mixin-caption";
+@import "mixin-image-ratio";
 
 section.projects {
   @include grid-row();
