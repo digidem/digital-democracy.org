@@ -49,3 +49,37 @@ prose:
         field:
           element: "hidden"
           value: "projects"
+    _posts/team:
+      - name: "image"
+        field:
+          element: "text"
+          label: "Profile image"
+          value: ""
+          placeholder: "Enter a URL"
+      - name: "background-image"
+        field:
+          element: "text"
+          label: "Background image (shown on individual details page)"
+          value: ""
+          placeholder: "Enter a URL"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          placeholder: "Choose tags"
+          options:
+            - name: "Core Team"
+              value: "core"
+            - name: "Board"
+              value: "board"
+            - name: "Advisor"
+              value: "advisor"
+          alterable: false
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "team"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "team"
