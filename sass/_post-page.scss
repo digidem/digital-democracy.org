@@ -17,13 +17,15 @@ article.blogpost {
   }
   .content {
     @include grid-row();
-    p {
-      font-family: 'Times New Roman', Times, serif;;
-      margin-top: 1em;
-      margin-bottom: 1em;
+    img { 
+      width: 100%;
+    }
+    p:first-child {
+      margin: 1em 0 1em;
       font-size: 1.5em;
     }
-    p + p {
+    p {
+      font-family: 'Times New Roman', Times, serif;;
       font-size: 1.3em;
       margin: 0 7em 1.5em;
     }

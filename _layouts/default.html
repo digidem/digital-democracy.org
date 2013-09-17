@@ -12,7 +12,7 @@
   <script src="/js/vendor/custom.modernizr.js"></script>
 
 </head>
-<body data-section="{{ page.url }}">
+<body data-section="/{{ page.url | remove_first: "/" | split: "/" | first }}/">
 
 <header class="site-header">
   <h1><a href="/">Digital Democracy</a></h1>
