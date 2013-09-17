@@ -5,6 +5,11 @@ prose:
   metadata:
     _posts:
     _posts/archive:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
       - name: "author"
         field:
           element: "text"
@@ -62,6 +67,11 @@ prose:
           element: "hidden"
           value: "blog"
     _posts/projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Project Title"
+          value: ""
       - name: "image"
         field:
           element: "text"
@@ -90,6 +100,11 @@ prose:
           element: "hidden"
           value: "projects"
     _posts/team:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Name"
+          value: ""
       - name: "role"
         field:
           element: "text"
