@@ -2,6 +2,32 @@ prose:
   siteurl: "http://beta.digital-democracy.org"
   media: "assets"
   metadata:
+    _posts/archive:
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          placeholder: "Enter your name"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          value: ""
+          placeholder: "Enter a URL"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          alterable: true
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "archive"
     _posts/blog:
       - name: "author"
         field:
@@ -23,7 +49,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "categories"
         field:
           element: "hidden"
