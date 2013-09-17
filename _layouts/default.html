@@ -55,8 +55,11 @@ document.write('<script src=' +
       bullets: false,
       timer_speed: 5000,
       timer: true,
-      slide_number: false
+      slide_number: false,
+      pause_on_hover: false
     });
+  $('.orbit-caption')
+    .on('mouseenter mouseleave', function (e) { $('[data-orbit]').click(); })
 </script>
 </body>
 </html>

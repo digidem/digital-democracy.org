@@ -3861,14 +3861,17 @@ article.blogpost .content:after {
   clear: both;
 }
 /* line 20, ../sass/_post-page.scss */
-article.blogpost .content p {
-  font-family: 'Times New Roman', Times, serif;
-  margin-top: 1em;
-  margin-bottom: 1em;
+article.blogpost .content img {
+  width: 100%;
+}
+/* line 23, ../sass/_post-page.scss */
+article.blogpost .content p:first-child {
+  margin: 1em 0 1em;
   font-size: 1.5em;
 }
-/* line 26, ../sass/_post-page.scss */
-article.blogpost .content p + p {
+/* line 27, ../sass/_post-page.scss */
+article.blogpost .content p {
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1.3em;
   margin: 0 7em 1.5em;
 }

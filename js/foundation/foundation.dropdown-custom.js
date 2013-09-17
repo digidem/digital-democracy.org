@@ -40,7 +40,6 @@
 
       $(this.scope)
         .on('click.fndtn.dropdown touchstart', 'header nav button', function (e) {
-          console.log(this);
           var settings = $.extend({}, self.settings, self.data_options($(this)));
           e.preventDefault();
 
@@ -51,7 +50,6 @@
 
       $(document).on('click.fndtn.dropdown touchstart', function (e) {
         var parent = $(e.target).closest('header nav ul');
-        console.log(parent, e.target);
         if ($(e.target).is('header nav button')) {
           return;
         }
@@ -71,7 +69,6 @@
     },
 
     close: function (dropdown) {
-      console.log("close", dropdown);
       var self = this;
       dropdown.each(function () {
         if ($(this).hasClass(self.settings.activeClass)) {
@@ -82,7 +79,6 @@
     },
 
     open: function (dropdown, target) {
-      console.log(dropdown, this, target)
         dropdown.addClass(this.settings.activeClass);
         dropdown.trigger('opened');
     },

@@ -35,7 +35,7 @@
     };
 
     self.build_markup = function() {
-      slides_container = slides_container.clone();
+      // slides_container = slides_container.clone();
       slides_container.wrap('<div class="'+settings.container_class+'"></div>');
       container = slides_container.parent();
       slides_container.addClass(settings.slides_container_class);
@@ -71,8 +71,8 @@
       if (settings.stack_on_small) {
         container.addClass(settings.stack_on_small_class);
       }
-      console.log(container);
-      el.replaceWith(container);
+      // el.replaceWith(container);
+      // slides_container = el.children().first();
       self.update_slide_number(0);
     };
 
