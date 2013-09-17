@@ -104,7 +104,7 @@ prose:
         field:
           element: "text"
           label: "Name"
-          value: ""
+          value: "Full Name"
       - name: "role"
         field:
           element: "text"
