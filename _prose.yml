@@ -65,9 +65,17 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Tags"
-          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
-          alterable: true
+          label: "Feature Project?"
+          options:
+            - name: "Featured Large"
+              value: "featured-large"
+            - name: "Featured Medium"
+              value: "featured-medium"
+            - name: "Featured Small"
+              value: "featured-small"
+            - name: "No"
+              value: ""
+          alterable: false
       - name: "layout"
         field:
           element: "hidden"
@@ -83,6 +91,12 @@ prose:
           label: "Role"
           value: ""
           placeholder: "Job Title"
+      - name: "email"
+        field:
+          element: "text"
+          label: "Email Address"
+          value: ""
+          placeholder: "Enter email"
       - name: "twitter"
         field:
           element: "text"
@@ -113,7 +127,6 @@ prose:
               value: "board"
             - name: "Advisor"
               value: "advisor"
-          alterable: false
       - name: "layout"
         field:
           element: "hidden"
