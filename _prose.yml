@@ -64,7 +64,7 @@ prose:
           placeholder: "Enter a URL"
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Feature Project?"
           options:
             - name: "Featured Large"
@@ -75,7 +75,6 @@ prose:
               value: "featured-small"
             - name: "No"
               value: ""
-          alterable: false
       - name: "layout"
         field:
           element: "hidden"
