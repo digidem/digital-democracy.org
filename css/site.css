@@ -3138,7 +3138,12 @@ body {
   font-size: 1.3em;
 }
 
-/* line 6, ../sass/_orbit-overrides.scss */
+/* line 4, ../sass/_orbit-overrides.scss */
+.slideshow-wrapper {
+  height: 0;
+  padding-bottom: 56.25%;
+}
+/* line 8, ../sass/_orbit-overrides.scss */
 .slideshow-wrapper ul li {
   position: relative;
   height: 0;
@@ -3157,25 +3162,27 @@ body {
   transform: translateY(-50%);
 }
 
-/* line 12, ../sass/_orbit-overrides.scss */
+/* line 14, ../sass/_orbit-overrides.scss */
 .orbit-container {
   overflow: visible;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 17, ../sass/_orbit-overrides.scss */
+  /* line 19, ../sass/_orbit-overrides.scss */
   .slideshow-wrapper {
     margin-top: -7.1875em;
   }
 }
 @media only screen and (min-width: 1024px) {
-  /* line 23, ../sass/_orbit-overrides.scss */
-  .slideshow-wrapper ul li {
+  /* line 27, ../sass/_orbit-overrides.scss */
+  .slideshow-wrapper ul li,
+  .slideshow-wrapper,
+  .orbit-container {
     height: 0;
     padding-bottom: 576px;
   }
 
-  /* line 29, ../sass/_orbit-overrides.scss */
+  /* line 33, ../sass/_orbit-overrides.scss */
   .orbit-container .orbit-slides-container > * .orbit-caption {
     position: relative;
     padding-left: 0.9375em;
@@ -3185,7 +3192,7 @@ body {
     float: left;
     position: absolute;
   }
-  /* line 32, ../sass/_orbit-overrides.scss */
+  /* line 36, ../sass/_orbit-overrides.scss */
   .orbit-container .orbit-slides-container > * .orbit-caption.right {
     position: relative;
     padding-left: 0.9375em;
@@ -3197,13 +3204,13 @@ body {
   }
 }
 @media only screen and (min-width: 1280px) {
-  /* line 42, ../sass/_orbit-overrides.scss */
+  /* line 46, ../sass/_orbit-overrides.scss */
   p {
     font-size: 1.2em;
   }
 }
 /* line 54, ../sass/_topbar-overrides.scss */
-header nav {
+header.site-header {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -3219,16 +3226,16 @@ header nav {
   background-color: #39527b;
 }
 /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
-header nav:before, header nav:after {
+header.site-header:before, header.site-header:after {
   content: " ";
   display: table;
 }
 /* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
-header nav:after {
+header.site-header:after {
   clear: both;
 }
 /* line 64, ../sass/_topbar-overrides.scss */
-header nav button {
+header.site-header button {
   color: white;
   text-transform: uppercase;
   font-size: 1em;
@@ -3244,7 +3251,7 @@ header nav button {
   cursor: pointer;
 }
 /* line 78, ../sass/_topbar-overrides.scss */
-header nav button:after {
+header.site-header button:after {
   content: "";
   position: absolute;
   -webkit-box-shadow: 0 20px 0 2px white, 0 28px 0 2px white, 0 36px 0 2px white;
@@ -3253,12 +3260,12 @@ header nav button:after {
   right: 18.33333px;
 }
 /* line 88, ../sass/_topbar-overrides.scss */
-header nav button:hover + ul, header nav ul:hover {
+header.site-header ul.open {
   height: auto;
   max-height: 500%;
 }
 /* line 94, ../sass/_topbar-overrides.scss */
-header nav h1 {
+header.site-header h1 {
   line-height: 55px;
   height: 55px;
   font-size: 1.5625em;
@@ -3270,7 +3277,7 @@ header nav h1 {
   overflow: hidden;
 }
 /* line 106, ../sass/_topbar-overrides.scss */
-header nav h1 a:before {
+header.site-header h1 a:before {
   content: "Dd";
   color: #39527b;
   position: absolute;
@@ -3287,7 +3294,7 @@ header nav h1 a:before {
   padding-top: 1px;
 }
 /* line 122, ../sass/_topbar-overrides.scss */
-header nav h1 a:after {
+header.site-header h1 a:after {
   content: "";
   position: absolute;
   width: 24px;
@@ -3308,18 +3315,18 @@ header nav h1 a:after {
   transform: rotate(25deg);
 }
 /* line 134, ../sass/_topbar-overrides.scss */
-header nav h1 a {
+header.site-header h1 a {
   font-weight: normal;
   color: white;
   display: block;
   padding: 0 18.33333px;
 }
 /* line 139, ../sass/_topbar-overrides.scss */
-header nav h1 a:hover {
+header.site-header h1 a:hover {
   color: white;
 }
 /* line 145, ../sass/_topbar-overrides.scss */
-header nav ul {
+header.site-header ul {
   -webkit-transition: max-height 300ms;
   -moz-transition: max-height 300ms;
   -o-transition: max-height 300ms;
@@ -3332,11 +3339,11 @@ header nav ul {
   font-size: 16;
   margin: 0;
   margin-bottom: 1.875em;
-  height: 0;
+  max-height: 0;
   overflow-y: hidden;
 }
 /* line 158, ../sass/_topbar-overrides.scss */
-header nav ul li > a {
+header.site-header ul li > a {
   display: block;
   width: 100%;
   color: white;
@@ -3346,12 +3353,12 @@ header nav ul li > a {
   font-weight: bold;
 }
 /* line 167, ../sass/_topbar-overrides.scss */
-header nav ul li > a:not(.button) {
+header.site-header ul li > a:not(.button) {
   padding: 0 18.33333px;
   line-height: 55px;
 }
 /* line 171, ../sass/_topbar-overrides.scss */
-header nav ul li > a.button {
+header.site-header ul li > a.button {
   border-style: solid;
   border-width: 1px;
   cursor: pointer;
@@ -3378,26 +3385,21 @@ header nav ul li > a.button {
   padding: 0 18.33333px;
 }
 /* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-header nav ul li > a.button:hover, header nav ul li > a.button:focus {
+header.site-header ul li > a.button:hover, header.site-header ul li > a.button:focus {
   background-color: #721c15;
 }
 /* line 133, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_buttons.scss */
-header nav ul li > a.button:hover, header nav ul li > a.button:focus {
+header.site-header ul li > a.button:hover, header.site-header ul li > a.button:focus {
   color: white;
 }
-/* line 182, ../sass/_topbar-overrides.scss */
-header nav ul li:hover > a {
+
+/* line 185, ../sass/_topbar-overrides.scss */
+html:not(.touch) header nav ul li:hover > a {
   background: rgba(41, 59, 88, 0.8);
   color: white;
 }
 
-/* line 190, ../sass/_topbar-overrides.scss */
-.touch header nav ul li:hover {
-  background: transparent;
-  color: white;
-}
-
-/* line 199, ../sass/_topbar-overrides.scss */
+/* line 195, ../sass/_topbar-overrides.scss */
 body[data-section="/projects/"] nav ul li > a[href="/projects/"],
 body[data-section="/blog/"] nav ul li > a[href="/blog/"],
 body[data-section="/team/"] nav ul li > a[href="/team/"],
@@ -3406,32 +3408,21 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   color: white;
 }
 
-/* line 205, ../sass/_topbar-overrides.scss */
-.top-bar-js-breakpoint {
-  width: 980px !important;
-  visibility: hidden;
-}
-
-/* line 209, ../sass/_topbar-overrides.scss */
-.js-generated {
-  display: block;
-}
-
 @media only screen and (min-width: 480px) {
-  /* line 212, ../sass/_topbar-overrides.scss */
-  nav h1 {
+  /* line 201, ../sass/_topbar-overrides.scss */
+  header.site-header h1 {
     width: auto;
   }
 }
 @media only screen and (min-width: 768px) {
-  /* line 220, ../sass/_topbar-overrides.scss */
-  header nav {
+  /* line 209, ../sass/_topbar-overrides.scss */
+  header.site-header {
     margin-top: 1.875em;
     margin-bottom: 1.875em;
     background-color: transparent;
   }
-  /* line 226, ../sass/_topbar-overrides.scss */
-  header nav:before {
+  /* line 215, ../sass/_topbar-overrides.scss */
+  header.site-header:before {
     width: 500%;
     background-color: rgba(57, 82, 123, 0.9);
     height: 100%;
@@ -3440,13 +3431,13 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     z-index: -1;
     margin-left: -250%;
   }
-  /* line 236, ../sass/_topbar-overrides.scss */
-  header nav h1 {
+  /* line 225, ../sass/_topbar-overrides.scss */
+  header.site-header h1 {
     margin-left: 100px;
     width: 0;
   }
-  /* line 240, ../sass/_topbar-overrides.scss */
-  header nav h1 a:before {
+  /* line 229, ../sass/_topbar-overrides.scss */
+  header.site-header h1 a:before {
     width: 85px;
     height: 85px;
     top: -15px;
@@ -3454,8 +3445,8 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     font-size: 42.5px;
     padding-top: 12px;
   }
-  /* line 248, ../sass/_topbar-overrides.scss */
-  header nav h1 a:after {
+  /* line 237, ../sass/_topbar-overrides.scss */
+  header.site-header h1 a:after {
     width: 35px;
     height: 35px;
     border: 12px double #afafaf;
@@ -3473,12 +3464,12 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     -o-transform: rotate(25deg);
     transform: rotate(25deg);
   }
-  /* line 260, ../sass/_topbar-overrides.scss */
-  header nav button {
+  /* line 249, ../sass/_topbar-overrides.scss */
+  header.site-header button {
     display: none;
   }
-  /* line 264, ../sass/_topbar-overrides.scss */
-  header nav ul {
+  /* line 253, ../sass/_topbar-overrides.scss */
+  header.site-header ul {
     width: auto;
     height: 55px;
     max-height: 55px;
@@ -3489,18 +3480,14 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
     -o-transition: none;
     transition: none;
   }
-  /* line 271, ../sass/_topbar-overrides.scss */
-  header nav ul:hover {
-    height: 55px;
-  }
-  /* line 274, ../sass/_topbar-overrides.scss */
-  header nav ul li {
+  /* line 260, ../sass/_topbar-overrides.scss */
+  header.site-header ul li {
     float: left;
   }
 }
 @media only screen and (min-width: 980px) {
-  /* line 282, ../sass/_topbar-overrides.scss */
-  header nav h1 {
+  /* line 268, ../sass/_topbar-overrides.scss */
+  header.site-header h1 {
     width: auto;
   }
 }
@@ -3513,8 +3500,6 @@ section.mission-statement {
   margin-bottom: 0;
   max-width: 62.5em;
   *zoom: 1;
-  padding-left: 0.9375em;
-  padding-right: 0.9375em;
   margin: 1em auto;
 }
 /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
@@ -3526,18 +3511,22 @@ section.mission-statement:before, section.mission-statement:after {
 section.mission-statement:after {
   clear: both;
 }
-/* line 8, ../sass/_front-page.scss */
-section.mission-statement h2 {
+/* line 6, ../sass/_front-page.scss */
+section.mission-statement blockquote {
+  padding: 0 0.9375em;
   font-weight: 300;
+  font-size: 1.2em;
   text-align: center;
+  text-wrap: balanced;
+  border: none;
   margin: 0;
 }
 
-/* line 15, ../sass/_front-page.scss */
+/* line 17, ../sass/_front-page.scss */
 nav.subnav {
   margin: 3em 0;
 }
-/* line 17, ../sass/_front-page.scss */
+/* line 19, ../sass/_front-page.scss */
 nav.subnav ul {
   width: 100%;
   margin-left: auto;
@@ -3557,7 +3546,7 @@ nav.subnav ul:before, nav.subnav ul:after {
 nav.subnav ul:after {
   clear: both;
 }
-/* line 20, ../sass/_front-page.scss */
+/* line 22, ../sass/_front-page.scss */
 nav.subnav ul li {
   position: relative;
   padding-left: 0.9375em;
@@ -3565,17 +3554,17 @@ nav.subnav ul li {
   width: 33.33333%;
   float: left;
   height: 0;
-  padding-bottom: 20%;
+  padding: 0 3% 20%;
   overflow: hidden;
 }
-/* line 25, ../sass/_front-page.scss */
+/* line 27, ../sass/_front-page.scss */
 nav.subnav ul li a {
   background-color: #ccc;
   height: 500px;
   display: block;
 }
 
-/* line 34, ../sass/_front-page.scss */
+/* line 36, ../sass/_front-page.scss */
 section.latest-news {
   width: 100%;
   margin-left: auto;
@@ -3595,7 +3584,7 @@ section.latest-news:before, section.latest-news:after {
 section.latest-news:after {
   clear: both;
 }
-/* line 37, ../sass/_front-page.scss */
+/* line 39, ../sass/_front-page.scss */
 section.latest-news .post {
   display: block;
   padding: 0;
@@ -3631,7 +3620,7 @@ section.latest-news .post > li:nth-of-type(n) {
 section.latest-news .post > li:nth-of-type(1n+1) {
   clear: both;
 }
-/* line 39, ../sass/_front-page.scss */
+/* line 41, ../sass/_front-page.scss */
 section.latest-news .post header {
   position: relative;
   height: 0;
@@ -3651,7 +3640,7 @@ section.latest-news .post header img {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-/* line 43, ../sass/_front-page.scss */
+/* line 45, ../sass/_front-page.scss */
 section.latest-news .post header h4 {
   position: absolute;
   width: 100%;
@@ -3660,14 +3649,14 @@ section.latest-news .post header h4 {
   margin: 0;
   padding: 0.5em 1em;
 }
-/* line 52, ../sass/_front-page.scss */
+/* line 54, ../sass/_front-page.scss */
 section.latest-news .post p {
   padding-left: 1em;
   padding-right: 1em;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 60, ../sass/_front-page.scss */
+  /* line 62, ../sass/_front-page.scss */
   section.latest-news .post {
     display: block;
     padding: 0;
@@ -3703,9 +3692,19 @@ section.latest-news .post p {
   section.latest-news .post > li:nth-of-type(2n+1) {
     clear: both;
   }
+
+  /* line 65, ../sass/_front-page.scss */
+  section.mission-statement blockquote {
+    font-size: 1.6em;
+  }
 }
 @media only screen and (min-width: 1024px) {
-  /* line 66, ../sass/_front-page.scss */
+  /* line 71, ../sass/_front-page.scss */
+  section.mission-statement blockquote {
+    font-size: 2em;
+  }
+
+  /* line 74, ../sass/_front-page.scss */
   section.latest-news .post p {
     padding-left: 0;
     padding-right: 0;

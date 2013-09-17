@@ -85,7 +85,7 @@ header.site-header {
     }
   }
   
-  button:hover + ul, ul:hover {
+  ul.open {
     height: auto;
     max-height: 500%;
   }
@@ -177,19 +177,15 @@ header.site-header {
           padding: 0 $topbar-height / 3;
         }
       }
-
-      // Apply the hover link color when it has that class
-      &:hover > a {
-        background: $topbar-link-bg-hover;
-        color: $topbar-link-color-hover;
-      }
     }
   }
 }
 
-.touch header nav ul li:hover {
-  background: transparent;
-  color: $topbar-link-color;
+html:not(.touch) header nav ul {
+  li:hover > a {
+    background: $topbar-link-bg-hover;
+    color: $topbar-link-color-hover;
+  }
 }
 
 // Highlight the active page
@@ -261,9 +257,6 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
       background-color: transparent;
       margin: 0;
       @include transition(none);
-      &:hover {
-        height: $topbar-height;
-      }
       li {
         float: left;
       }

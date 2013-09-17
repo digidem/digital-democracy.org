@@ -2,6 +2,8 @@
 @import "image-ratio-mixin";
 
 .slideshow-wrapper {
+  height: 0;
+  padding-bottom: $ratio16x9;
   ul {
     li {
       @include image-ratio($ratio16x9);
@@ -20,7 +22,9 @@
 }
 
 @media #{$medium} { 
-  .slideshow-wrapper ul li {
+  .slideshow-wrapper ul li, 
+  .slideshow-wrapper,
+  .orbit-container {
     height: 0;
     padding-bottom: 0.5625 * $medium-screen;
   }
