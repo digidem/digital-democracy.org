@@ -12,7 +12,6 @@ published: true
 image: /assets/8472422804_2450e6815d_h.jpg
 ---
 
-![8472422804_2450e6815d_h.jpg](/assets/8472422804_2450e6815d_h.jpg)
 In February, Dd brought together an unlikely mix of international software developers & designers, Haitian technical students and members of Haitian women's organization [KOFAVIV](http://kofaviv.org/) to host Haiti's first Hackathon, a three-day event designed to encourage collaboration between these diverse actors in order to build out tools to support KOFAVIV's efforts to turn the [572 Call Center](http://digital-democracy.org/2013/04/15/expanding-access-to-haitis-gender-based-violence-call-center/) into a national service for survivors of gender-based violence.
 
 ![image](https://farm9.staticflickr.com/8521/8472422804_452f11aa91_z.jpg)
