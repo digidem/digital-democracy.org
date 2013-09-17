@@ -3,6 +3,7 @@ prose:
   siteurl: "http://beta.digital-democracy.org"
   media: "assets"
   metadata:
+    _posts:
     _posts/archive:
       - name: "author"
         field:
