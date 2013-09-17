@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-07-30 17:00:18+00:00
 layout: post
 slug: introducing-our-board-of-directors
 title: Introducing our Board of Directors

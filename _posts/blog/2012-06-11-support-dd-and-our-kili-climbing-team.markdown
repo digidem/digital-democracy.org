@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-06-11 14:25:27+00:00
 layout: post
 slug: support-dd-and-our-kili-climbing-team
 title: Support Dd and our Kili-climbing team

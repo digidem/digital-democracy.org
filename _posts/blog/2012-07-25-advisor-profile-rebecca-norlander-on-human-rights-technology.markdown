@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-07-25 15:27:46+00:00
 layout: post
 slug: advisor-profile-rebecca-norlander-on-human-rights-technology
 title: 'Advisor Profile: Rebecca Norlander on Human Rights & Technology'

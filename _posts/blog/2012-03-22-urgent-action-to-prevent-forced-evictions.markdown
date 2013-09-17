@@ -1,7 +1,6 @@
 ---
 author: Emily Jacobi
 comments: true
-date: 2012-03-22 15:08:16+00:00
 layout: post
 slug: urgent-action-to-prevent-forced-evictions
 title: Urgent action to prevent forced evictions

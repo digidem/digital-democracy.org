@@ -1,7 +1,6 @@
 ---
 author: Emily Jacobi
 comments: true
-date: 2012-10-02 15:09:18+00:00
 layout: post
 slug: upcoming-haiti-hackathon-from-local-solutions-to-national-systems
 title: 'Upcoming Haiti Hackathon: From Local Solutions to National Systems'

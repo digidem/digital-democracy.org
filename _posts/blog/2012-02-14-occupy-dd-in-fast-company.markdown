@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-02-14 20:33:13+00:00
 layout: post
 slug: occupy-dd-in-fast-company
 title: Occupy & Dd in Fast Company

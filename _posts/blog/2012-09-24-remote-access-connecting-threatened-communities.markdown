@@ -1,7 +1,6 @@
 ---
 author: Emily Jacobi
 comments: true
-date: 2012-09-24 19:12:52+00:00
 layout: post
 slug: remote-access-connecting-threatened-communities
 title: 'Remote Access: Connecting Threatened Communities'

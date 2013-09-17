@@ -1,7 +1,6 @@
 ---
 author: admin
 comments: true
-date: 2012-12-11 23:03:17+00:00
 layout: post
 slug: ict4hr-world-bank-report-with-dd-authors-released
 title: ICT4HR World Bank Report with Dd authors released

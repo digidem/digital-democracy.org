@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-02-27 02:47:59+00:00
 layout: post
 slug: a-different-kind-of-record-burma-barcamp-and-the-lady
 title: 'A Different Kind of Record: Burma, BarCamp and the Lady'

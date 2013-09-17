@@ -1,7 +1,6 @@
 ---
 author: Emily Jacobi
 comments: true
-date: 2012-05-25 12:00:28+00:00
 layout: post
 slug: reporting-back-from-chiapas-mexico
 title: Reporting back from Chiapas, Mexico

@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-11-12 02:59:33+00:00
 layout: post
 slug: redefine-whats-possible-with-dd
 title: Redefine what's possible with Dd

@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-03-09 15:27:25+00:00
 layout: post
 slug: see-you-in-texas-come-hear-dd-at-sxswi
 title: See you in Texas... Come hear Dd at SXSWi

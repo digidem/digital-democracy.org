@@ -1,7 +1,6 @@
 ---
 author: Emily Jacobi
 comments: true
-date: 2013-01-16 21:43:25+00:00
 layout: post
 slug: barcamp-yangon-sparking-local-innovation-in-myanmarburma
 title: 'BarCamp Yangon: Sparking local innovation in Myanmar/Burma'

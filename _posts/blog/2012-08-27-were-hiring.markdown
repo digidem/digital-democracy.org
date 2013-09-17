@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-08-27 15:42:02+00:00
 layout: post
 published: false
 slug: were-hiring

@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-03-08 14:01:13+00:00
 layout: post
 slug: celebrating-international-womens-day-in-solidarity
 title: Celebrating International Women's Day in solidarity

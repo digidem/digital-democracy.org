@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-06-18 15:44:39+00:00
 layout: post
 slug: 572-call-center-in-haiti-now-open-24-hours
 title: 572 Call Center in Haiti now open 24 hours

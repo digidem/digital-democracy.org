@@ -1,7 +1,6 @@
 ---
 author: Biz Ghormley
 comments: true
-date: 2012-07-30 22:13:36+00:00
 layout: post
 slug: mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps
 title: 'Mapping Injustice: the three areas of work for Dd’s next steps.   '
