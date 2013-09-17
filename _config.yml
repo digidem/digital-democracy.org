@@ -3,4 +3,11 @@ description: Educating 21st Century Citizens
 timezone: America/NewYork
 markdown: rdiscount
 permalink: pretty
-exclude: [ 'wp-content', 'foundation-4.3.1', 'sass', 'config.rb' ]
+exclude: 
+  - wp-content
+  - sass
+  - config.rb
+  - README.md
+  - .gitignore
+  - .tm_properties
+  - CNAME
