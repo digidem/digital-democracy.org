@@ -51,7 +51,7 @@ $topbar-breakpoint: 980px !default; // Change to 9999px for always mobile layout
 $topbar-media-query-landscape: "only screen and (min-width: 480px)" !default;
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
-header nav {
+header.site-header {
   @include grid-row();
   height: $topbar-height;
   line-height: $topbar-height;
@@ -152,7 +152,7 @@ header nav {
     font-size: $em-base;
     margin: 0;
     margin-bottom: $topbar-margin-bottom;
-    height: 0;
+    max-height: 0;
     overflow-y: hidden;
     li {
       & > a {
@@ -201,15 +201,8 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   color: $topbar-link-color-active;
 }
 
-// Element that controls breakpoint, no need to change this ever
-.top-bar-js-breakpoint {
-  width: $topbar-breakpoint !important;
-  visibility: hidden;
-}
-.js-generated { display: block; }
-
 @media #{$topbar-media-query-landscape} {
-  nav h1 {
+  header.site-header h1 {
     width: auto;
   }
 }
@@ -217,7 +210,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
 // Top Bar styles intended for screen sizes above the breakpoint.
 @media #{$small} {
   
-  header nav {
+  header.site-header {
     margin-top: $topbar-margin-bottom;
     margin-bottom: $topbar-margin-bottom;
     background-color: transparent;
@@ -279,7 +272,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
 }
 
 @media #{$topbar-media-query} {
-  header nav h1 {
+  header.site-header h1 {
     width: auto;
   }
 }

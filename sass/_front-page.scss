@@ -2,12 +2,14 @@
 
 section.mission-statement {
   @include grid-row();
-  padding-left: $column-gutter / 2;
-  padding-right: $column-gutter / 2;
   margin: 1em auto;
-  h2 {
+  blockquote {
+    padding: 0 $column-gutter / 2;
     font-weight: 300;
+    font-size: 1.2em;
     text-align: center;
+    text-wrap: balanced;
+    border: none;
     margin: 0;
   }
 }
@@ -20,7 +22,7 @@ nav.subnav {
     li {
       @include grid-column(4);
       height: 0;
-      padding-bottom: 20%;
+      padding: 0 3% 20%;
       overflow: hidden;
       a {
         background-color: #ccc;
@@ -60,9 +62,15 @@ section.latest-news {
   section.latest-news .post {
     @include block-grid(2, emCalc(40));
   }
+  section.mission-statement blockquote {
+    font-size: 1.6em;
+  }
 }
 
 @media #{$medium} {
+  section.mission-statement blockquote {
+    font-size: 2em;
+  }
   section.latest-news .post p {
     padding-left: 0;
     padding-right: 0;
