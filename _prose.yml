@@ -77,6 +77,18 @@ prose:
           element: "hidden"
           value: "projects"
     _posts/team:
+      - name: "role"
+        field:
+          element: "text"
+          label: "Role"
+          value: ""
+          placeholder: "Job Title"
+      - name: "twitter"
+        field:
+          element: "text"
+          label: "Twitter Profile"
+          value: ""
+          placeholder: "Enter URL"
       - name: "image"
         field:
           element: "text"
@@ -91,7 +103,7 @@ prose:
           placeholder: "Enter a URL"
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Tags"
           placeholder: "Choose tags"
           options:
