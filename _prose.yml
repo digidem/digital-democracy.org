@@ -46,6 +46,11 @@ prose:
           element: "text"
           label: "Author"
           placeholder: "Enter your name"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Post Excerpt"
+          value: ""
       - name: "image"
         field:
           element: "text"
@@ -111,6 +116,11 @@ prose:
           label: "Role"
           value: ""
           placeholder: "Job Title"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Two-line excerpt from Bio"
+          value: ""
       - name: "email"
         field:
           element: "text"
