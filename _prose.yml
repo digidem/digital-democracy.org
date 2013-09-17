@@ -40,7 +40,7 @@ prose:
         field:
           element: "text"
           label: "Post Title"
-          value: ""
+          value: "Post Title"
       - name: "author"
         field:
           element: "text"
@@ -71,7 +71,7 @@ prose:
         field:
           element: "text"
           label: "Project Title"
-          value: ""
+          value: "Project Title"
       - name: "image"
         field:
           element: "text"
