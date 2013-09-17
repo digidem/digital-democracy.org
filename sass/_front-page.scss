@@ -1,4 +1,4 @@
-@import "image-ratio-mixin";
+@import "mixin-image-ratio";
 
 section.mission-statement {
   @include grid-row();

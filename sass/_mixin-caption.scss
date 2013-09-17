@@ -1,0 +1,8 @@
+@mixin caption($padding:0.5em 1em) {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: $orbit-caption-bg;
+  margin: 0;
+  padding: $padding;
+}

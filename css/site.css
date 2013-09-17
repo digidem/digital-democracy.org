@@ -3075,69 +3075,6 @@ body {
   border: 1px solid #ccc;
 }
 
-/* line 17, ../sass/_foundation-overrides.scss */
-.projects .box {
-  /*position: absolute;*/
-  overflow: hidden;
-  padding-top: 2%;
-}
-
-/* line 23, ../sass/_foundation-overrides.scss */
-.projects .box img {
-  display: block;
-  background-color: #eee;
-}
-
-/* line 28, ../sass/_foundation-overrides.scss */
-.projects .caption {
-  position: absolute;
-  bottom: 0;
-  float: left;
-  background-color: rgba(0, 0, 0, 0.7);
-  margin-right: 0.9375em;
-}
-
-/* line 36, ../sass/_foundation-overrides.scss */
-.projects .caption h3 {
-  color: white;
-}
-
-/* line 39, ../sass/_foundation-overrides.scss */
-.projects .box.featured-large {
-  height: 0;
-  width: 66.67%;
-  padding-bottom: 33.33%;
-}
-
-/* line 44, ../sass/_foundation-overrides.scss */
-.projects .box.featured-medium {
-  height: 0;
-  width: 33.33%;
-  padding-bottom: 33.33%;
-}
-
-/* line 48, ../sass/_foundation-overrides.scss */
-.projects .box.featured-small {
-  height: 0;
-  width: 33.33%;
-  padding-bottom: 15.667%;
-}
-
-/* line 52, ../sass/_foundation-overrides.scss */
-.projects h3 {
-  padding: 0 0.5em;
-}
-
-/* line 54, ../sass/_foundation-overrides.scss */
-.projects .box.featured-medium h3 {
-  font-size: 1.5em;
-}
-
-/* line 56, ../sass/_foundation-overrides.scss */
-.projects .box.featured-small h3 {
-  font-size: 1.3em;
-}
-
 /* line 4, ../sass/_orbit-overrides.scss */
 .slideshow-wrapper {
   height: 0;
@@ -3150,7 +3087,7 @@ body {
   padding-bottom: 56.25%;
   overflow: hidden;
 }
-/* line 8, ../sass/_image-ratio-mixin.scss */
+/* line 8, ../sass/_mixin-image-ratio.scss */
 .slideshow-wrapper ul li img {
   width: 100%;
   position: absolute;
@@ -3629,7 +3566,7 @@ section.latest-news .post header {
   background-color: #eee;
   margin-bottom: 0.5em;
 }
-/* line 8, ../sass/_image-ratio-mixin.scss */
+/* line 8, ../sass/_mixin-image-ratio.scss */
 section.latest-news .post header img {
   width: 100%;
   position: absolute;
@@ -3708,5 +3645,156 @@ section.latest-news .post p {
   section.latest-news .post p {
     padding-left: 0;
     padding-right: 0;
+  }
+}
+/* line 3, ../sass/_projects-page.scss */
+section.projects {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1;
+  position: relative;
+}
+/* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+section.projects:before, section.projects:after {
+  content: " ";
+  display: table;
+}
+/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+section.projects:after {
+  clear: both;
+}
+/* line 6, ../sass/_projects-page.scss */
+section.projects ul {
+  display: block;
+  padding: 0;
+  margin: 0 -1%;
+  *zoom: 1;
+}
+/* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+section.projects ul:before, section.projects ul:after {
+  content: " ";
+  display: table;
+}
+/* line 122, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
+section.projects ul:after {
+  clear: both;
+}
+/* line 27, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_block-grid.scss */
+section.projects ul > li {
+  display: inline;
+  height: auto;
+  float: left;
+  padding: 0 1% 2%;
+}
+/* line 8, ../sass/_projects-page.scss */
+section.projects ul li {
+  width: 100%;
+  margin-bottom: 2%;
+  padding-bottom: 0;
+}
+/* line 12, ../sass/_projects-page.scss */
+section.projects ul li img {
+  display: none;
+}
+/* line 16, ../sass/_projects-page.scss */
+section.projects ul li.featured header {
+  position: relative;
+  height: 0;
+  padding-bottom: 75%;
+  overflow: hidden;
+}
+/* line 8, ../sass/_mixin-image-ratio.scss */
+section.projects ul li.featured header img {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/* line 18, ../sass/_projects-page.scss */
+section.projects ul li.featured header img {
+  display: block;
+}
+/* line 21, ../sass/_projects-page.scss */
+section.projects ul li.featured header h3 {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 0;
+  padding: 0.5em 1em;
+}
+/* line 25, ../sass/_projects-page.scss */
+section.projects ul li.featured.medium header {
+  padding-bottom: 56.25%;
+}
+/* line 28, ../sass/_projects-page.scss */
+section.projects ul li.featured.small header {
+  padding-bottom: 50%;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 37, ../sass/_projects-page.scss */
+  section.projects ul li {
+    width: 50%;
+  }
+  /* line 40, ../sass/_projects-page.scss */
+  section.projects ul li.featured.large, section.projects ul li.featured.medium {
+    width: 100%;
+  }
+  /* line 43, ../sass/_projects-page.scss */
+  section.projects ul li.featured.medium header {
+    padding-bottom: 50%;
+  }
+  /* line 46, ../sass/_projects-page.scss */
+  section.projects ul li.featured.large header {
+    padding-bottom: 56.25%;
+  }
+}
+@media only screen and (min-width: 768px) and (orientation: landscape) {
+  /* line 55, ../sass/_projects-page.scss */
+  section.projects ul li.featured.large {
+    width: 66.67%;
+    float: right;
+  }
+  /* line 58, ../sass/_projects-page.scss */
+  section.projects ul li.featured.large header {
+    padding-bottom: 50%;
+  }
+  /* line 62, ../sass/_projects-page.scss */
+  section.projects ul li.featured:first-child {
+    float: left;
+  }
+  /* line 65, ../sass/_projects-page.scss */
+  section.projects ul li.featured.medium {
+    width: 33.33%;
+  }
+  /* line 67, ../sass/_projects-page.scss */
+  section.projects ul li.featured.medium header {
+    font-size: 0.875em;
+    padding-bottom: 102%;
+  }
+  /* line 72, ../sass/_projects-page.scss */
+  section.projects ul li.featured.medium + li.small {
+    margin-top: 17%;
+  }
+  /* line 75, ../sass/_projects-page.scss */
+  section.projects ul li.featured.small {
+    width: 33.33%;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  /* line 80, ../sass/_projects-page.scss */
+  section.projects ul li.featured.small header {
+    font-size: 0.75em;
+    padding-bottom: 50%;
   }
 }
