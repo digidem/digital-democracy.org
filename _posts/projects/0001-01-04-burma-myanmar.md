@@ -1,12 +1,14 @@
 ---
-comments: true
+categories: 
+  - projects
 layout: projects
-title: 'Handheld Human Rights: Amplifying Voices in Burma/Myanmar'
-image: http://placehold.it/800x600
-categories:
-- projects
+comments: true
+title: "Handheld Human Rights: Amplifying Voices in Burma/Myanmar"
+image: "http://farm8.staticflickr.com/7456/9805683943_613b0dfe48_o.png"
 featured: small
+published: true
 ---
+
 “In Burma, the obstacle is information – people inside the country need information,
 and they aren’t getting it.” – University student, 2007
 
@@ -68,6 +70,3 @@ BIT (Burma Information Technology Team)
 
 	
     * [Thailand with Karen refugee youth](http://www.flickr.com/photos/digitaldemocracy/sets/72157622892610180/)
-
-
-
