@@ -4,6 +4,7 @@ comments: true
 layout: post
 slug: redefine-whats-possible-with-dd
 title: Redefine what's possible with Dd
+image: http://farm8.staticflickr.com/7125/8161497250_3a8446049e_o.jpg
 wordpressid: 4379
 categories:
 - blog
