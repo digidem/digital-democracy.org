@@ -5,7 +5,7 @@ layout: default
 
 {% assign limit = '-2' %}
 {% for post in site.posts %}
-{% if post.tags contains 'featured-large' and post.categories contains 'projects' and limit contains '-' %}
+{% if post.featured contains 'large' and post.categories contains 'projects' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
@@ -13,7 +13,7 @@ layout: default
 
 {% assign limit = '-1' %}
 {% for post in site.posts %}
-{% if post.tags contains 'featured-medium' and post.categories contains 'projects' and limit contains '-' %}
+{% if post.featured contains 'medium' and post.categories contains 'projects' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
@@ -21,7 +21,7 @@ layout: default
 
 {% assign limit = '-2' %}
 {% for post in site.posts %}
-{% if post.tags contains 'featured-small' and post.categories contains 'projects' and limit contains '-' %}
+{% if post.featured contains 'small' and post.categories contains 'projects' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
@@ -41,14 +41,14 @@ layout: default
 <section class="projects">
   
   <ul>
-    {% for index in posts %}{% for post in site.posts %}{% capture index0 %}{{ forloop.index0 }}{% endcapture %}{% if index0 == index %}
-    <li class="project {{ post.tags | join: " " | split: "-" | join: " " }}">
+    {% assign limit = '-6' %}{% for index in posts %}{% for post in site.posts %}{% capture index0 %}{{ forloop.index0 }}{% endcapture %}{% if index0 == index %}{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}{% if limit contains '-' %}{% assign class = post.featured | append: " featured" %}{% endif %}
+    <li class="project {{ class }}">
       <header>
         <img src="{{ post.image }}">
         <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
       </header>
     </li>
-    {% endif %}{% endfor %}{% endfor %}
+    {% assign class = "" %}{% endif %}{% endfor %}{% endfor %}
   </ul>
   
 </section>

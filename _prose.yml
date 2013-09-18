@@ -33,8 +33,10 @@ prose:
           value: "post"
       - name: "categories"
         field:
-          element: "hidden"
-          value: "archive"
+          element: "button"
+          label: "Archived (permalink remains, but not listed on blog)"
+          on: "post"
+          off: "archive"
     _posts/blog:
       - name: "title"
         field:
@@ -54,7 +56,7 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "Featured image"
+          label: "Post image"
           value: ""
           placeholder: "Enter a URL"
       - name: "tags"
@@ -83,19 +85,24 @@ prose:
           label: "Featured image"
           value: ""
           placeholder: "Enter a URL"
-      - name: "tags"
+      - name: "featured"
         field:
           element: "select"
           label: "Feature Project?"
           options:
             - name: "Featured Large"
-              value: "featured-large"
+              value: "large"
             - name: "Featured Medium"
-              value: "featured-medium"
+              value: "medium"
             - name: "Featured Small"
-              value: "featured-small"
+              value: "small"
             - name: "No"
               value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Select tag(s) to list related blog posts"
+          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
       - name: "layout"
         field:
           element: "hidden"
@@ -148,8 +155,8 @@ prose:
       - name: "tags"
         field:
           element: "select"
-          label: "Tags"
-          placeholder: "Choose tags"
+          label: "Core Team / Board / Advisor"
+          placeholder: "Select an option"
           options:
             - name: "Core Team"
               value: "core"

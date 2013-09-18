@@ -5,7 +5,7 @@ title: 'Handheld Human Rights: Amplifying Voices in Burma/Myanmar'
 image: http://placehold.it/800x600
 categories:
 - projects
-tags: featured-small
+featured: small
 ---
 “In Burma, the obstacle is information – people inside the country need information,
 and they aren’t getting it.” – University student, 2007

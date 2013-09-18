@@ -4,8 +4,7 @@ title: 'Remote Access: Tools for Hard-to-Reach Communities'
 image: /assets/achuar-gps-monitoring.jpg
 categories:
 - projects
-tags:
-- featured-large
+featured: large
 ---
 Program in Development --
 
