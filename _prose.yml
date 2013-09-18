@@ -103,6 +103,7 @@ prose:
           element: "multiselect"
           label: "Select tag(s) to list related blog posts"
           options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          alterable: true
       - name: "layout"
         field:
           element: "hidden"
