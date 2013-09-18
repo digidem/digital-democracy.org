@@ -1,13 +1,17 @@
 ---
+categories: 
+  - blog
+layout: post
 author: Biz Ghormley
 comments: true
-layout: post
-slug: introducing-our-board-of-directors
+slug: "introducing-our-board-of-directors"
 title: Introducing our Board of Directors
 wordpress_id: 3937
-categories:
-- blog
+published: true
+excerpt: null
+image: "http://farm9.staticflickr.com/8025/7677866038_41f74ea5e3_o.jpg"
 ---
+
 Off the coattails of our recent Board Retreat and Meeting in Port-Au-Prince, Haiti, we want to take a moment to officially introduce the three members of the Digital Democracy (Dd) inaugural Board of Directors: Michael Gaouette (Chair), Janet Harris & Vince Warren.
 
 They have expertise in peace-keeping, international development and humanitarian work, human rights law, non-profit management. And, to the governance process they bring passion for what Dd can achieve as a nimble, lean organization using technology to catalyze change. [Learn more about Michael, Janet and Vince here](http://digital-democracy.org/who-we-are/board/).
