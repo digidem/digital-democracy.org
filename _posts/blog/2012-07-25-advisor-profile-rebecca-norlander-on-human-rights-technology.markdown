@@ -1,12 +1,15 @@
 ---
+categories: 
+  - blog
+layout: post
 author: Biz Ghormley
 comments: true
-layout: post
-slug: advisor-profile-rebecca-norlander-on-human-rights-technology
-title: 'Advisor Profile: Rebecca Norlander on Human Rights & Technology'
+slug: "advisor-profile-rebecca-norlander-on-human-rights-technology"
+title: "Advisor Profile: Rebecca Norlander on Human Rights & Technology"
 wordpress_id: 3921
-categories:
-- blog
+published: true
+excerpt: null
+image: "http://farm8.staticflickr.com/7254/7644027618_24a1239b01_o.jpg"
 ---
 
 Rebecca Joy Norlander is a PhD candidate focused on the intersection of digital tools and social transformation. She first joined Dd as a volunteer in 2011 and is now one of our Strategic Advisors, helping us broaden our exposure to the many different ways digital tools are creating opportunities for empowerment and peace.
@@ -16,5 +19,3 @@ Check our her recent journal publication, [A Digital Approach to Human Rights Ed
 ![image](http://farm8.staticflickr.com/7254/7644027618_24a1239b01_o.jpg)
 
 Curious to learn more about her academic research or get involved? Don't be shy. Email her at rnorlander [at] digital-democracy [dot] org.
-
-
