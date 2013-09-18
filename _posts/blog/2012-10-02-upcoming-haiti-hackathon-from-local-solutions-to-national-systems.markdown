@@ -1,12 +1,15 @@
 ---
+categories: 
+  - blog
+layout: post
 author: Emily Jacobi
 comments: true
-layout: post
-slug: upcoming-haiti-hackathon-from-local-solutions-to-national-systems
-title: 'Upcoming Haiti Hackathon: From Local Solutions to National Systems'
+slug: "upcoming-haiti-hackathon-from-local-solutions-to-national-systems"
+title: "Upcoming Haiti Hackathon: From Local Solutions to National Systems"
 wordpressid: 4242
-categories:
-- blog
+published: true
+excerpt: null
+image: "http://farm4.staticflickr.com/3817/9801177555_ee607efff0_k.jpg"
 ---
 
 ![image](http://farm9.staticflickr.com/8169/80473255484354277fa0.jpg)
