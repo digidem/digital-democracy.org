@@ -50,7 +50,7 @@ prose:
           placeholder: "Enter your name"
       - name: "excerpt"
         field:
-          element: "textarea"
+          element: "text"
           label: "Post Excerpt"
           value: ""
       - name: "image"
