@@ -10,7 +10,7 @@ featured:
 dsq_thread_id: 
   - 1056727333
 published: true
-excerpt: null
+excerpt
 image: "http://farm9.staticflickr.com/8317/8043723849_6fa653d93f_o.jpg"
 ---
 

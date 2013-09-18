@@ -8,7 +8,7 @@ slug: "ict4hr-world-bank-report-with-dd-authors-released"
 title: ICT4HR World Bank Report with Dd authors released
 wordpress_id: 4684
 published: true
-excerpt: null
+excerpt
 image: "http://farm9.staticflickr.com/8216/8265715146_73a4c8cf99_o.png"
 ---
 

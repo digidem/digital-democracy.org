@@ -8,7 +8,7 @@ slug: "upcoming-haiti-hackathon-from-local-solutions-to-national-systems"
 title: "Upcoming Haiti Hackathon: From Local Solutions to National Systems"
 wordpressid: 4242
 published: true
-excerpt: null
+excerpt
 image: "http://farm4.staticflickr.com/3817/9801177555_ee607efff0_k.jpg"
 ---
 
