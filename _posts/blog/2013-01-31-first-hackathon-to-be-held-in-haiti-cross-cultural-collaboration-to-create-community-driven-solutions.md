@@ -1,15 +1,19 @@
 ---
-title: 'First Hackathon to be held in Haiti: Cross-cultural collaboration to create community-driven solutions'
-author: Emily Jacobi
+categories: 
+  - blog
 layout: post
-featured:
-  - http://farm9.staticflickr.com/8317/8043723849_8bb21d0748_z.jpg
-  - http://farm9.staticflickr.com/8317/8043723849_8bb21d0748.jpg
-dsq_thread_id:
+title: "First Hackathon to be held in Haiti: Cross-cultural collaboration to create community-driven solutions"
+author: Emily Jacobi
+featured: 
+  - "http://farm9.staticflickr.com/8317/8043723849_8bb21d0748_z.jpg"
+  - "http://farm9.staticflickr.com/8317/8043723849_8bb21d0748.jpg"
+dsq_thread_id: 
   - 1056727333
-categories:
-- blog
+published: true
+excerpt: null
+image: "http://farm9.staticflickr.com/8317/8043723849_6fa653d93f_o.jpg"
 ---
+
 *February 1-3, 2013* –  This weekend, Digital Democracy – along with partners [KOFAVIV][1], [ESIH][2] & more – is hosting “From Local Solutions to National Systems,” a Hackathon in Port-au-Prince, Haiti. We’re thrilled to be convening a talented group of Haitian & international developers, designers and issue areas experts for the **first Hackathon **FOR Haiti to be hosted **IN Haiti**.
 
  [1]: http://kofaviv.org/
@@ -98,6 +102,4 @@ Follow [#HaitiHack][39] this weekend to join the activities virtually!
  [39]: https://twitter.com/search/realtime?q=#haitihack&src=typd
 
 **  
-** 
-
-
+**
