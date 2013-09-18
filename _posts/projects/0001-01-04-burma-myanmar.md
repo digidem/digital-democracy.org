@@ -4,7 +4,7 @@ categories:
 layout: projects
 comments: true
 title: "Handheld Human Rights: Amplifying Voices in Burma/Myanmar"
-image: "http://farm8.staticflickr.com/7456/9805683943_613b0dfe48_o.png"
+image: "http://farm4.staticflickr.com/3769/9805657885_7a00a51762_o.png"
 featured: small
 published: true
 ---
