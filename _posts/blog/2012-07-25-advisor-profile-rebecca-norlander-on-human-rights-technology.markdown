@@ -8,7 +8,6 @@ slug: "advisor-profile-rebecca-norlander-on-human-rights-technology"
 title: "Advisor Profile: Rebecca Norlander on Human Rights & Technology"
 wordpress_id: 3921
 published: true
-excerpt:
 image: "http://farm8.staticflickr.com/7254/7644027618_24a1239b01_o.jpg"
 ---
 

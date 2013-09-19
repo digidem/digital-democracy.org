@@ -8,7 +8,6 @@ slug: "3979"
 title: "Dd | Haiti: Reflections from a first visit"
 wordpress_id: 3979
 published: true
-excerpt:
 image: "http://farm8.staticflickr.com/7459/9807000083_bb7a116a3c_k.jpg"
 ---
 

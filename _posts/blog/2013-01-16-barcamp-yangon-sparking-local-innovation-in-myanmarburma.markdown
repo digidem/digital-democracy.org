@@ -8,7 +8,6 @@ slug: "barcamp-yangon-sparking-local-innovation-in-myanmarburma"
 title: "BarCamp Yangon: Sparking local innovation in Myanmar/Burma"
 wordpress_id: 4709
 published: true
-excerpt
 image: "http://farm9.staticflickr.com/8369/8426202079_7ea8fdbcd8_o.jpg"
 ---
 
