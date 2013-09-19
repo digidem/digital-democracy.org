@@ -104,6 +104,12 @@ prose:
           label: "Select tag(s) to list related blog posts"
           options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          placeholder: "/link/to/this/page"
+          value: ""
       - name: "layout"
         field:
           element: "hidden"
