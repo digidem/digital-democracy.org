@@ -8,7 +8,7 @@ slug: "introducing-our-board-of-directors"
 title: Introducing our Board of Directors
 wordpress_id: 3937
 published: true
-excerpt: null
+excerpt:
 image: "http://farm9.staticflickr.com/8025/7677866038_41f74ea5e3_o.jpg"
 ---
 
