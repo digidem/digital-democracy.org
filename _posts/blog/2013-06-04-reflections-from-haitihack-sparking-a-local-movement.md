@@ -15,7 +15,6 @@ In February, Dd brought together an unlikely mix of international software devel
 
 ![image](https://farm9.staticflickr.com/8521/8472422804_452f11aa91_z.jpg)
 
-
 The following four months have passed quickly, and we're thrilled to report that the spirit of the Hackathon - one of collaboration and coming together to create something for the greater good - is alive and well. In fact, hackathon participants embraced this spirit by identifying its roots in Haitian culture:
 “This event has brought us back to a piece of Haitian culture, the ‘konbit’, that we have largely left behind. The Hackathon has showed us how this collaborative methodology can be transformed beyond agriculture into other realms to accelerate Haiti’s development.” - Richardson Ciguene, [ESIH](http://www.esih.edu/) student
 For the Dd team, few outcomes are more rewarding than for our own role in a program to become unnecessary. That's the state of our Haiti Program - we have fully transitioned it into the capable hands of KOFAVIV's leadership & tech team. Now, it's also the state of hackathons in Haiti - Richardson and other students at ESIH are hosting the first official "Konbit Teknolojik" in June and we look forward to sharing news on how it goes.
