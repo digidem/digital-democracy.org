@@ -126,7 +126,7 @@ prose:
           placeholder: "Job Title"
       - name: "excerpt"
         field:
-          element: "textarea"
+          element: "text"
           label: "Two-line excerpt from Bio"
           value: ""
       - name: "email"
