@@ -8,7 +8,6 @@ slug: "mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps"
 title: "Mapping Injustice: the three areas of work for Dd’s next steps.   "
 wordpress_id: 3953
 published: true
-excerpt:
 image: "http://farm8.staticflickr.com/7269/7679845896_e5ca2f990e_o.jpg"
 ---
 
