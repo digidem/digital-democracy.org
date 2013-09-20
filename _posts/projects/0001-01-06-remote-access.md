@@ -1,10 +1,11 @@
 ---
-layout: projects
+layout: project
 title: 'Remote Access: Tools for Hard-to-Reach Communities'
 image: /assets/achuar-gps-monitoring.jpg
 categories:
 - projects
 featured: large
+permalink: /projects/ra
 ---
 Program in Development --
 

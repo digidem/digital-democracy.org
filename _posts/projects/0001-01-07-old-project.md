@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Another Non-Featured Project
 image: http://placehold.it/800x800
 categories:

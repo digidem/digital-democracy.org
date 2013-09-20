@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Old Project that isn't that important
 image: http://placehold.it/800x800
 categories:

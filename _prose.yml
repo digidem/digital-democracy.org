@@ -113,7 +113,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "projects"
+          value: "project"
       - name: "categories"
         field:
           element: "hidden"
