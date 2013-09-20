@@ -51,6 +51,17 @@ $topbar-breakpoint: 980px !default; // Change to 9999px for always mobile layout
 $topbar-media-query-landscape: "only screen and (min-width: 480px)" !default;
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
+// I use a :before element to create the wide bar behind the navigation.
+// this technique creates a wide page, which needs to be hidden.
+
+body, html {
+  overflow-x: hidden; 
+}
+
+body {
+  overflow-y: hidden;
+}
+
 header.site-header {
   @include grid-row();
   height: $topbar-height;
