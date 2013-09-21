@@ -1,33 +1,56 @@
 @import "mixin-caption";
 @import "mixin-image-ratio";
 
+$caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
+$left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
+$leftbar-width: emCalc(85);
+
 article.project {
   top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
   position: relative;
   header {
     @include image-ratio($ratio24x10);
     .caption {
-      @include caption();
-      @include grid-column(5, false, false, 1);
+      @include caption($caption-bg, $row-width / 2 - $leftbar-width, 50%);
       position: absolute;
-      p {
-        color: white;
+      text-align: center;
+      h2 {
+        color: #fff;
+        font-style: italic;
+      }
+      h3 {
+        color: #eee;
+        font-weight: 300;
       }
     }
   }
   .content {
     @include grid-row();
+    position: relative;
+    padding-left: 3em + $leftbar-width;
+    padding-top: 2em;
+    &:before {
+      height: 999em;
+      position: absolute;
+      top: 0;
+      right: $row-width - $leftbar-width;
+      width: 999em;
+      background-color: $left-bg;
+    }
     img { 
       width: 100%;
+      float: right;
+      position: relative;
+      margin: 0.25em -50% 0.25em 1em;
     }
-    p:first-child {
-      margin: 1em 0 1em;
-      font-size: 1.5em;
+    & > p:first-child {
+      padding-right: 0;
+      font-size: 1.6em;
     }
     p {
       font-family: 'Times New Roman', Times, serif;;
-      font-size: 1.3em;
-      margin: 0 7em 1.5em;
+      font-size: 1.4em;
+      padding-right: percentage(1/3);
     }
   }
 }

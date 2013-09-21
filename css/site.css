@@ -3695,6 +3695,7 @@ section.projects ul li.featured header img {
 /* line 22, ../sass/_projects-page.scss */
 section.projects ul li.featured header h3 {
   position: absolute;
+  right: 0;
   width: 100%;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.8);
@@ -3768,12 +3769,12 @@ section.projects ul li.featured.small header {
     padding-bottom: 50%;
   }
 }
-/* line 4, ../sass/_single-project-page.scss */
+/* line 8, ../sass/_single-project-page.scss */
 article.project {
   top: -7.1875em;
   position: relative;
 }
-/* line 7, ../sass/_single-project-page.scss */
+/* line 11, ../sass/_single-project-page.scss */
 article.project header {
   position: relative;
   height: 0;
@@ -3791,27 +3792,29 @@ article.project header img {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-/* line 9, ../sass/_single-project-page.scss */
+/* line 13, ../sass/_single-project-page.scss */
 article.project header .caption {
   position: absolute;
-  width: 100%;
+  right: 50%;
+  width: 25.9375em;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(25, 36, 53, 0.9);
   margin: 0;
   padding: 0.5em 1em;
-  position: relative;
-  padding-left: 0.9375em;
-  padding-right: 0.9375em;
-  width: 41.66667%;
-  margin-left: 8.33333%;
-  float: left;
   position: absolute;
+  text-align: center;
 }
-/* line 13, ../sass/_single-project-page.scss */
-article.project header .caption p {
-  color: white;
+/* line 17, ../sass/_single-project-page.scss */
+article.project header .caption h2 {
+  color: #fff;
+  font-style: italic;
 }
-/* line 18, ../sass/_single-project-page.scss */
+/* line 21, ../sass/_single-project-page.scss */
+article.project header .caption h3 {
+  color: #eee;
+  font-weight: 300;
+}
+/* line 27, ../sass/_single-project-page.scss */
 article.project .content {
   width: 100%;
   margin-left: auto;
@@ -3820,6 +3823,9 @@ article.project .content {
   margin-bottom: 0;
   max-width: 62.5em;
   *zoom: 1;
+  position: relative;
+  padding-left: 8.3125em;
+  padding-top: 2em;
 }
 /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
 article.project .content:before, article.project .content:after {
@@ -3830,20 +3836,32 @@ article.project .content:before, article.project .content:after {
 article.project .content:after {
   clear: both;
 }
-/* line 20, ../sass/_single-project-page.scss */
+/* line 32, ../sass/_single-project-page.scss */
+article.project .content:before {
+  height: 999em;
+  position: absolute;
+  top: 0;
+  right: 57.1875em;
+  width: 999em;
+  background-color: #e9f0fd;
+}
+/* line 40, ../sass/_single-project-page.scss */
 article.project .content img {
   width: 100%;
+  float: right;
+  position: relative;
+  margin: 0.25em -50% 0.25em 1em;
 }
-/* line 23, ../sass/_single-project-page.scss */
-article.project .content p:first-child {
-  margin: 1em 0 1em;
-  font-size: 1.5em;
+/* line 46, ../sass/_single-project-page.scss */
+article.project .content > p:first-child {
+  padding-right: 0;
+  font-size: 1.6em;
 }
-/* line 27, ../sass/_single-project-page.scss */
+/* line 50, ../sass/_single-project-page.scss */
 article.project .content p {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 1.3em;
-  margin: 0 7em 1.5em;
+  font-size: 1.4em;
+  padding-right: 33.33333%;
 }
 
 /* line 4, ../sass/_post-page.scss */
@@ -3872,6 +3890,7 @@ article.blogpost header img {
 /* line 9, ../sass/_post-page.scss */
 article.blogpost header .caption {
   position: absolute;
+  right: 0;
   width: 100%;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.8);
