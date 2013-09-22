@@ -1,7 +1,7 @@
 name: Digital Democracy
 description: Educating 21st Century Citizens
 timezone: America/NewYork
-markdown: rdiscount
+markdown: redcarpet
 permalink: pretty
 exclude: 
   - wp-content
