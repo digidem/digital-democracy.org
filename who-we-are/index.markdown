@@ -12,7 +12,7 @@ wordpress_id: 2
 
 In 2008, we formed Digital Democracy (Dd) based on a simple but powerful idea: Technology should be used to empower even the most marginalized groups to engage in democratic action, whether locally, on a national or international scale. We are an independent non-profit 501c3 organization registered in New York.
 
-<caption id="" align="alignright" width="350" caption="The Dd Theory of Change">[![image](http://farm6.static.flickr.com/5267/5580859500_ab279712ce.jpg)](http://www.flickr.com/photos/digitaldemocracy/)</caption>
+[![image](http://farm6.static.flickr.com/5267/5580859500_ab279712ce.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
 
 **Mission**: Empower marginalized communities to use technology to fight for their human rights.
 

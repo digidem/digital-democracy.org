@@ -5,7 +5,7 @@ $caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
 $left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 $leftbar-width: emCalc(85);
 
-article.project {
+article.article {
   top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
   position: relative;
   header {
@@ -14,13 +14,23 @@ article.project {
       @include caption($caption-bg, $row-width / 2 - $leftbar-width, 50%);
       position: absolute;
       text-align: center;
+      color: #eee;
       h2 {
         color: #fff;
         font-style: italic;
+        margin-bottom: 0.25em;
       }
       h3 {
         color: #eee;
         font-weight: 300;
+      }
+      .byline {
+        line-height: 1.6em;
+        margin-bottom: 0.5em;
+        font-size: 1.2em;
+      }
+      .author {
+        color: $author-link;
       }
     }
   }

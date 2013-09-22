@@ -182,7 +182,7 @@ header.site-header {
         &.button {
           @include button-base;
           @include button-size;
-          @include button-style($topbar-button-bg-color, 0);
+          @include button-style($donate-button, 0);
           font-size: $topbar-link-font-size;
           line-height: $topbar-height;
           padding: 0 $topbar-height / 3;

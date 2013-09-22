@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
-<article class="blogpost">
+<article class="article blogpost">
   <header>
     <img src="{{ page.image }}">
     <div class="caption">
-      <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
-      {{ page.excerpt }}
+      <h2>{{ page.title }}</h4>
+        <div class="byline">
+          <address class="author">
+            By {{ page.author}}
+          </address> 
+          on <time pubdate datetime="{{ page.date | date: "%Y-%m-%dT%H:%M" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        </div>
     </div>
   </header>
   <div class="content">
