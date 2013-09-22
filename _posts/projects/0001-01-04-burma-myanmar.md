@@ -10,11 +10,13 @@ published: true
 permalink: /projects/myanmar
 ---
 
-“In Burma, the obstacle is information – people inside the country need information,
-and they aren’t getting it.” – University student, 2007
+> “In Burma, the obstacle is information – people inside the country need information,
+> and they aren’t getting it.” <cite>University student, 2007</cite>
 
 
-![image](http://farm9.staticflickr.com/8482/8183327504_0ffa6ee8d8_z.jpg)Although recently transitioned to civilian rule, for close to 50 years Burma/Myanmar was strictly controlled by a ruling military junta. During its tenure, the government crushed peaceful protests and barred public gatherings of more than 5 people without official permission. Escaping ethnic violence, forced labor and political incarceration, millions have fled the country and live as refugees. Since 2008, Dd has worked with people across the spectrum within the country and along the borders in Thailand, India, Bangladesh, and China to amplify diverse voices. Collaborating with Burmese students and technologists, as well as religious and social leaders, Dd has helped drive international awareness about the complex realities in the country, and support efforts to reduce human rights violations and encourage more participation.
+![image](http://farm9.staticflickr.com/8482/8183327504_0ffa6ee8d8_z.jpg)
+
+Although recently transitioned to civilian rule, for close to 50 years Burma/Myanmar was strictly controlled by a ruling military junta. During its tenure, the government crushed peaceful protests and barred public gatherings of more than 5 people without official permission. Escaping ethnic violence, forced labor and political incarceration, millions have fled the country and live as refugees. Since 2008, Dd has worked with people across the spectrum within the country and along the borders in Thailand, India, Bangladesh, and China to amplify diverse voices. Collaborating with Burmese students and technologists, as well as religious and social leaders, Dd has helped drive international awareness about the complex realities in the country, and support efforts to reduce human rights violations and encourage more participation.
 
 **Community Partners:
 **ABITSU (All Burma IT Student Union)
