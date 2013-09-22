@@ -29,6 +29,6 @@ The reception was a truly special event, made possible by the work of many volun
 
 [Check out more images from the reception](http://www.flickr.com/photos/digitaldemocracy/sets/72157626528398141/with/5689851903/), and stay tuned as we organize a joint show for the students work this spring. Contact info(at)digital-democracy.org if you would like to purchase any of the students' images.
 
-<caption id="" align="alignnone" width="576" caption="Photographers Eh Blue and Shar Ka Pru Say greet visitors along with Washington Township Superintendent Dr. Mervilde">![image](http://farm6.static.flickr.com/5187/5689851903_f87a25176e_z.jpg)</caption>
+![image](http://farm6.static.flickr.com/5187/5689851903_f87a25176e_z.jpg)
 
-<caption id="" align="alignleft" width="614" caption="Family members walking up the ramp at North Central, representing the journey from "Thailand" to "Indianapolis."">[![image](http://farm3.static.flickr.com/2650/5711996217_52ffb9415a_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/5711996217/in/set-72157626528398141)</caption>
+[![image](http://farm3.static.flickr.com/2650/5711996217_52ffb9415a_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/5711996217/in/set-72157626528398141)

@@ -24,4 +24,4 @@ Finally, we owe our biggest thank yous to our Burmese friends who translated Ush
 
 
 
-<caption id="" align="aligncenter" width="688" caption="Handheld Human Rights in Burmese ">[![image](http://farm5.static.flickr.com/4061/4518986728_c1300043d0_o.png)](http://handheldhumanrights.org/)</caption>
+[![image](http://farm5.static.flickr.com/4061/4518986728_c1300043d0_o.png)](http://handheldhumanrights.org/)

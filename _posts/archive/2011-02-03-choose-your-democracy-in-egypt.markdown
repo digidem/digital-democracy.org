@@ -19,10 +19,10 @@ We call it "Choose Your Democracy"
 
 Arabic Version:
 
-<caption id="" align="aligncenter" width="400" caption=" ماذا تعني لك الديمقراطية؟">[![image](http://farm5.static.flickr.com/4139/5412068639_a77a9817dc.jpg)](http://bit.ly/democracy_ar)</caption>
+[![image](http://farm5.static.flickr.com/4139/5412068639_a77a9817dc.jpg)](http://bit.ly/democracy_ar)
 
 English Version:
 
-<caption id="" align="aligncenter" width="400" caption="What does democracy mean to you?">[![image](http://farm6.static.flickr.com/5172/5412068959_27a2e78282.jpg)](http://bit.ly/democracy_en )</caption>
+[![image](http://farm6.static.flickr.com/5172/5412068959_27a2e78282.jpg)](http://bit.ly/democracy_en )
 
 Special Thanks to Yousef Ali, Marwa Kamel, Lori and Meredith White, Richie Frohlichstein, Nickie Sekera, Matthew Salganik, and those I can not thank by name (you know who you are).

@@ -14,7 +14,7 @@ I just returned from Vilnius, Lithuania where Secretary of State Hilary Clinton'
 
 [Techcamp](http://wiki.techcampglobal.org/index.php?title=TechCamp:Vilnius) was a fantastic experience, bringing together 18 facilitators & experts from around the digital space (Twitter, Facebook, VOA, NGOs) & activists and NGOs from the Russian speaking world (70+ organizations from 15 countries). I was the only facilitator translating for myself, thanks to my Russian upbringing. and so of course I cracked jokes & bonded over stories about the unique qualities of different parts of the region.
 
-<caption id="" align="alignleft" width="415" caption="Secretary Clinton and Alec Ross speak at Techcamp Vilnius">[![image](http://farm7.static.flickr.com/6054/5910531543_df7975961e.jpg)](http://www.flickr.com/photos/digitaldemocracy/5910531543/in/photostream)</caption>
+[![image](http://farm7.static.flickr.com/6054/5910531543_df7975961e.jpg)](http://www.flickr.com/photos/digitaldemocracy/5910531543/in/photostream)
 
 A lot of why I do the work I do at Digital Democracy is because I see technology transcending the opposition politics that people know all too well in the post-Soviet. People feel exploited by their leaders and lied to by their journalists. But this is a unique time where citizens can speak to citizens, based on a new era of transparency. There was a palpable energy as people tried to strategize on what this might look like in their country.
 

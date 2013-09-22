@@ -18,6 +18,6 @@ Project partner Against All Odds Productions contacted us to help connect them 
 
 Please see some of the pictures from their shoots:
 
-<caption id="" align="alignnone" width="400" caption="Life in a Day: Georgia">[![image](http://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838090566/)</caption>
+[![image](http://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838090566/)
 
-<caption id="" align="alignnone" width="400" caption="Life in a Day: Kenya">[![image](http://farm5.static.flickr.com/4154/4838091632_046665b49c.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838091632/)</caption>
+[![image](http://farm5.static.flickr.com/4154/4838091632_046665b49c.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838091632/)

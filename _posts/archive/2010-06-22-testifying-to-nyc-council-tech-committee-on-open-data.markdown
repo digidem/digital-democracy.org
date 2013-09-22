@@ -12,7 +12,7 @@ categories:
 
 Liz Hodes represented Digital  Democracy today while testifying to the New York City Council Technology Committee on Open Data.
 
-<caption id="" align="alignright" width="240" caption="Liz Hodes testifies at NYC Council Tech Committee  on Open Data">[![image](http://farm2.static.flickr.com/1005/4722608461_ebf14ef37e_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/4722608461/)</caption>
+[![image](http://farm2.static.flickr.com/1005/4722608461_ebf14ef37e_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/4722608461/)
 
 Introduction 029-2010, seeking to establish open data  standards for all city agencies.  Int. 029-2010 (formerly Intro.  991-2009) aims to increase government transparency and facilitate easier  access to public data.
 

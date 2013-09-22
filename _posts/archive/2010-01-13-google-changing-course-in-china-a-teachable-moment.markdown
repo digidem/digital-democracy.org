@@ -10,7 +10,7 @@ categories:
 - archive
 ---
 
-<caption id="" align="alignright" width="387" caption="Flowers left at Google headquarters in China">[![image](http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)</caption>
+[![image](http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)
 
 In August 2008, Digital Democracy [conducted research with Burmese community groups operating in southern China](http://www.digital-democracy.org/2008/08/15/news-from-the-china-burma-border/), near the Burma/Myanmar border. While researching the use of communications technologies, one young Kachin man explained the difference between the Internet in China and Burma, stating, "To me the web in China is totally free." Censored though the Chinese web may be, his statement helps us keep in mind the complex realities - and differing degrees - of modern communication tools.
 

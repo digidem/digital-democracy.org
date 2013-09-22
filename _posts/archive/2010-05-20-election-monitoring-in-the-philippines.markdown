@@ -16,4 +16,4 @@ That's why it was so exciting for us to be involved in another election monitori
 
 As elections continue to occur around the world, it will be increasingly important to engage local populations in not only the process itself, but also in the oversight of it. The beauty is in taking a moment that captures the hearts and minds of participants and teaching the lesson that democracy is more than casting the ballot, but it's the process of civic engagement and protecting those votes. Whether in the USA with [Twitter Vote Report](http://twittervotereport.com/) or in the [Philippines](http://handheldhumanrights.org/philippines/), citizens are starting to engage more and we'll continue to facilitate this in any way that we can.
 
-<caption id="" align="aligncenter" width="350" caption="People lining up in a precint in Barangay Merville to vote in the first automated elections in the Philippines">[![image](http://farm4.static.flickr.com/3310/4595032492_b4313ab685.jpg)](http://www.flickr.com/photos/jonasdelosreyes/4595032492/)</caption>
+[![image](http://farm4.static.flickr.com/3310/4595032492_b4313ab685.jpg)](http://www.flickr.com/photos/jonasdelosreyes/4595032492/)

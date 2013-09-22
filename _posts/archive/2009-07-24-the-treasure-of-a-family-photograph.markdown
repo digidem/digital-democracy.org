@@ -10,7 +10,7 @@ categories:
 - archive
 ---
 
-<caption id="attachment_587" align="alignright" width="230" caption="Portrait of Mohammed Salam and his family">![Portrait of Mohammed Salam and his family](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-family-portait1-230x300.jpg)</caption>
+![Portrait of Mohammed Salam and his family](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-family-portait1-230x300.jpg)
 
 Do you remember your first family photograph?
 
@@ -20,7 +20,7 @@ Last year we worked on a photo project with eleven refugee youth in a camp for B
 "Because Einstein was a refugee but could still do great things."
 Now we need your help to complete this project. Working with the images the young photographers chose,  we published [Project Einstein Bangladesh](http://issuu.com/markb/docs/project_einstein_bangladesh_book3), an 80-page book of their photographs. Next month, we're returning to the Bangladesh-Burma border, and we'd like to bring each young photographer a copy for them and their families to treasure.
 
-<caption id="attachment_590" align="alignleft" width="300" caption="The photographers of Project Einstein Bangladesh">![The photographers of Project Einstein Bangladesh](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-Book2-300x200.jpg)</caption>
+![The photographers of Project Einstein Bangladesh](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/07/PE-Book2-300x200.jpg)
 
 Now through July 29, we're asking supporters to take advantage of a special deal, and purchase a book for yourself and a book for one of the young photographers, at a reduced rate of $55 (includes all shipping costs). Email info@digital-democracy.org to place an order.
 

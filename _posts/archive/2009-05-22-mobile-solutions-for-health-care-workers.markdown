@@ -21,7 +21,7 @@ Brave health care workers, such as the [Back Pack Health Worker](http://www.geoc
 
 Handheld Health is D2's response to the needs of these brave individuals and organizations. Modeled off the same functionality that powers Handheld Human Rights, it allows health workers to communicate critical information while providing an avenue for people displaced from Burma to query health information via mobile phone. We posted it on the [NetSquared](http://netsquared.org/) website this week in conjunction with the [Microsoft Mobile Development Challenge](http://netsquared.org/microsoft). Winners will be announced next week at [N2Y4](http://www.netsquared.org/conference/n2y4), where D2 will also be representing Handheld Human Rights as a [finalist project](http://www.netsquared.org/n2y4/featuredprojects). Stay tuned to learn what happens next.
 
-<caption id="attachment_434" align="alignright" width="200" caption="A pregnant woman at Mae Tao clinic on the Thai-Burma border.">[![A pregnant woman at Mae Tao clinic on the Thai-Burma border](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/maetao_bhurwitz-200x300.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/maetao_bhurwitz.jpg)</caption>
+[![A pregnant woman at Mae Tao clinic on the Thai-Burma border](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/maetao_bhurwitz-200x300.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/maetao_bhurwitz.jpg)
 
 From our [NetSquared Project description](http://www.netsquared.org/projects/handheld-health):
 

@@ -23,7 +23,7 @@ Quickly we ran into problems unique to the country. For instance, there are thre
 
 Problems with the mobile provider proved to be a good lesson for our training on [FrontlineSMS](http://www.frontlinesms.com/). After installing the system and showing it's Arabic version, the demonstration failed when messages couldn't be sent or received. After some head scratching, one of the participants realized that SIM cards get canceled after a certain amount of time, and replaced the SIM in the USB modem with the one in his own phone. Problem solved. The whole group jumped to celebrate an Arabic SMS sent through gateway also translated in Arabic. For me as a trainer, I'm going to purposely make sure the SIM is expired or doesn't have money to encourage the solution coming from the trainees.
 
-<caption id="" align="aligncenter" width="500" caption="#IraqTech Training">[![image](http://farm5.static.flickr.com/4124/4832159628_69c14465c0.jpg)](http://www.flickr.com/photos/digitaldemocracy/4832159628/)</caption>
+[![image](http://farm5.static.flickr.com/4124/4832159628_69c14465c0.jpg)](http://www.flickr.com/photos/digitaldemocracy/4832159628/)
 
 Our [Ushahidi](http://ushahidi.com/) training was similarly greeted with intrigue. The simple complexity of a text to map interface captured their imaginations. We first taught the, about [GitHub](https://github.com/) and social coding. I'm a big fan of using this to explain transparency and accountability through code. And it puts the power into the users hand where they can fix problems rather than waiting for the company to release an update. Installing it as a  web app offline using [XAMPP](http://www.apachefriends.org/en/xampp.html) demoed this further.  While fairly complicated, everyone got it to work, some after tweaking the MySql database a few times, others after going into the PHP and adjusting a time zone error. While the group was technical, some even with programming experience, none had a good PHP editor. [Syn](http://sourceforge.net/projects/syn/) was a good and quick FOSS solution. And of course [FileZilla](http://filezilla-project.org/) as a free FTP application.
 
@@ -68,7 +68,7 @@ A key part of our training of trainers program was to push a Do It Yourself (DIY
 
 Overall it was a fantastic start and I'm excited to see what these initial seeds will sprout into. With elections coming in October and the US military (eventually) pulling out, I'm hoping that tech can be one of the factors that leads to increased stability, sustainability and peace for the people of Iraq.
 
-<caption id="" align="aligncenter" width="500" caption="Powerlines in Kurdistan by Steve Flamingo">[![image](http://farm5.static.flickr.com/4095/4830190440_ac6c975008.jpg)](http://www.flickr.com/photos/stevieflamingo/4830190440/in/set-72157624583217186/)</caption>
+[![image](http://farm5.static.flickr.com/4095/4830190440_ac6c975008.jpg)](http://www.flickr.com/photos/stevieflamingo/4830190440/in/set-72157624583217186/)
 
 ********
 

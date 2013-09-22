@@ -43,7 +43,7 @@ I wonder: could the earthquake shake this structure of discrimination so hard it
 
 Sometimes communication happens amongst words – as with Eramithe and Fanm Pale. Sometimes it happens without them, like in the powerful photos that emerged from Dd’s photo training with Haitian women earlier this year.
 
-<caption id="attachment_2537" align="aligncenter" width="300" caption="Women of KOFAVIV speak out in Port-Au-Prince">[![image](http://digital-democracy.org/wp-content/uploads/2010/12/5215413135_2dd09a3f31-300x169.jpg)](http://digital-democracy.org/2010/12/13/lost-in-translation-the-power-of-listening-speaking-out-from-the-camps-of-haiti/5215413135_2dd09a3f31/)</caption>
+[![image](http://digital-democracy.org/wp-content/uploads/2010/12/5215413135_2dd09a3f31-300x169.jpg)](http://digital-democracy.org/2010/12/13/lost-in-translation-the-power-of-listening-speaking-out-from-the-camps-of-haiti/5215413135_2dd09a3f31/)
 
 
 The process has started. Every day brings new realities [on the ground in Haiti](http://heartofhaiti.wordpress.com/2010/12/11/violence-in-port-au-prince/). If all parties communicate, listen effectively, build partnerships with the most affected women and voices and inform their actions with the testimony of those living on the ground, there is hope.

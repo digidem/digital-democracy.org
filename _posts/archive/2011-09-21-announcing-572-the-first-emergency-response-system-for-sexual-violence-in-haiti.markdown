@@ -28,7 +28,7 @@ Our partnership with KOFAVIV directly addresses this lack of information. Women 
 
 KOFAVIV and Dd first partnered in April 2010, building a comprehensive system that uses technology to improve the fight against sGBV in Haiti. The partnership is the cornerstone of Dd’s commitment to CGI, promising to provide Haitian women’s groups the technical tools and training needed in their work to create a comprehensive approach to prevent rape in Haiti with a coalition of lawyers, health and psychosocial service providers, and strong networks of Haitian women and girls.
 
-<caption id="" align="alignnone" width="410" caption="KOFAVIV & Digital Democracy Database System">[![image](https://farm7.static.flickr.com/6088/6125507676_ce64193b4b_z.jpg)](https://secure.flickr.com/photos/digitaldemocracy/sets/72157623791167187/)</caption>
+[![image](https://farm7.static.flickr.com/6088/6125507676_ce64193b4b_z.jpg)](https://secure.flickr.com/photos/digitaldemocracy/sets/72157623791167187/)
 
 “572 not only provides support to victims, it represents urgent medical care. When a woman calls our number within 72 hours of an incident, we ensure she gets the medical care she needs to prevent transmission of disease, HIV/AIDS and unwanted pregnancy,” says Jocie Philistin, a Project Coordinator for KOFAVIV. “Medical support is the first step to receiving ongoing legal and psychological support.”
 

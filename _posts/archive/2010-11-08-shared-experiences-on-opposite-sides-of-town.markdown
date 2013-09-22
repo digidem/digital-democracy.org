@@ -14,7 +14,7 @@ categories:
 
 That's the distance I've been driving every day this past week to work with two communities of refugee youth living on opposite sides of town in Indianapolis, Indiana. Many of their experiences - moving to a new country, resettling in the US, adapting to life at an Indianapolis high school - are quite similar, yet they aren't connected in a way that they are able to talk with and support one another. And many other people in the community aren't even aware that several thousand refugees from Burma have resettled in Indianapolis, much less do they know about the hopes and dreams of these newcomers.
 
-<caption id="" align="alignleft" width="376" caption="The distance between the two high schools">![image](http://farm5.static.flickr.com/4041/5157311122_83fc6cf505.jpg)</caption>
+![image](http://farm5.static.flickr.com/4041/5157311122_83fc6cf505.jpg)
 
 We're working to change that.
 

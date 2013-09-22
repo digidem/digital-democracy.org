@@ -10,7 +10,7 @@ categories:
 - archive
 ---
 
-<caption id="" align="alignright" width="161" caption="A participant in Project Einstein Thailand">![image](http://farm3.static.flickr.com/2625/4140640187_570421884b_m.jpg)</caption>
+![image](http://farm3.static.flickr.com/2625/4140640187_570421884b_m.jpg)
 
 Digital Democracy is delighted to announce that we have been awarded a grant from the [Clowes Fund](http://www.clowesfund.org/) of Indianapolis, Indiana. The grant will support the launch of Project Einstein Indianapolis, a digital penpal program that teaches 21st century skills while facilitating cross-cultural dialogue. Project Einstein will connect young Burmese refugees and their classmates in Indianapolis with students in Burmese refugee camps in Southeast Asia.
 
@@ -28,5 +28,5 @@ We will be launching the project with two Indianapolis-area high schools in the 
 
 About the foundation: [The Clowes Fund](http://www.clowesfund.org/) is a family foundation established in 1952, in Indianapolis, Indiana. It makes grants in Indianapolis; Seattle, Washington; and northern New England to support human services, education and the arts. We are grateful for their support and excited to launch Project Einstein Indy!
 
-<caption id="attachment_1658" align="aligncenter" width="300" caption="A refugee from Burma displays his "Hoosier Works" card that connects him and his family to Social Services. ">[![image](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks-300x200.jpg)](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks.jpg)</caption>
+[![image](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks-300x200.jpg)](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks.jpg)
 

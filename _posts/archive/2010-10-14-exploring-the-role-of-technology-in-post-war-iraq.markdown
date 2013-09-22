@@ -9,7 +9,7 @@ wordpress_id: 2290
 categories:
 - archive
 ---
-<caption id="" align="alignright" width="392" caption="Noel presenting in hands-on workshop">[![image](http://farm5.static.flickr.com/4133/5073555298_38d5391a54_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555450/)</caption>
+[![image](http://farm5.static.flickr.com/4133/5073555298_38d5391a54_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555450/)
 
 
 
@@ -31,7 +31,7 @@ Localization and security are the two aspects of open source tools that the peop
 
 Locals who studied computer programming and engineering were educated on proprietary Microsoft systems. As such, those who have worked on web applications in the past have done so on a .NET framework. While not interoperable with open source products, the skillset is a useful one when teaching similar concepts in different languages. For instance, teaching local coders how to build on a LAMP [Linux (operating system), Apache HTTP Server, MySQL (database software) and PHP/Perl/Python] stack proved easier than expected. As the principal components to build a viable general purpose web server, this is an important skill to have, given that it’s widely applicable. However, the programmers we worked with have generally shown more pessimism when confronted with the opportunity to develop their own web applications. This could be for many different reasons, from not having advanced enough skills, not being given the opportunity to do so in the past, or needing additional training. With more training and education, their existing skills can be built upon to incorporate more current standards. An additional benefit of being tied to these standards is having help from the resources produced in large developer communities in them from around the world.
 
-<caption id="" align="aligncenter" width="392" caption="A student at Kurdistan University asks a question on verification in one of the hands-on trainings.">[![image](http://farm5.static.flickr.com/4091/5072957785_e8a667d2a5_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5072957785/)</caption>
+[![image](http://farm5.static.flickr.com/4091/5072957785_e8a667d2a5_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5072957785/)
 
 Iraq still faces an uphill battle in building a digital infrastructure, a digitally savvy government, civil society and technology industry. Developing programs that embrace open source and entrench open culture is a promising alternative to a bleak reality of sectarianism and stagnate government. There is no better time to act than now. If IREX can help facilitate a community of developers who are translating content and applications into Arab and Kurdish, these tools can have a positive impact across the region.
 
@@ -41,7 +41,7 @@ Speaking with Ministers and lawyers working on new Iraqi legal statutes, we brou
 
 We also helped the business sector to incorporate crucial rights issues by working with the telecoms to establish the Iraq Telecoms and IT Industry Association (IATA). We helped to craft the consumer protections and ensure that their services are being accessed to the greatest extent possible. We spent a lot of time working through the bylaws, to ensure proper representation from business and civil society. We fought detractors in the group to make sure that the rights of young people and developers were included. Our concerns were addressed and the bylaws now allow for more mentorship and youth-driven innovation in ICT. Measures for environmental and public health were also tweaked in positive manners, and matters of security and privacy starting to be addressed.
 
-<caption id="" align="alignleft" width="395" caption="Word cloud of key terms in our report findings">[![image](http://farm2.static.flickr.com/1080/5099660330_cfbe8ac8db.jpg)](http://www.wordle.net/show/wrdl/2578863/IraqTech2)</caption>
+[![image](http://farm2.static.flickr.com/1080/5099660330_cfbe8ac8db.jpg)](http://www.wordle.net/show/wrdl/2578863/IraqTech2)
 
 Our goal is to find and nurture existing open source communities in order to utilize ICT as the post-conflict tool to prevent further violence and encourage collaborative democratic space. Eben Moglen, professor of law and legal history at Columbia University and founder, Director-Counsel and Chairman of Software Freedom Law Center, points out that free software is a fundamental requirement for a democratic and free society in which we are surrounded by and dependent upon technical devices. Only if controlling these devices is open to all via free software, can we balance power equally. Our belief is also that one can not have an open society with closed source software. While open source isn't inherently democratic, there is more of an option to use it well and with more benevolence, thus impacting society. What is the return on investment on sharing? This is part of our monitoring and evaluation research, showing a new model for development.
 
@@ -51,7 +51,7 @@ In Iraq there is the potential to lay the groundwork of local open source jobs b
 
 However, in a country that still doesn't have credit cards, there are serious limits as to what can be done. But facilitating a way to get over those hurdles means a collaborative method that will lead to the mutual benefit of all those involved.
 
-<caption id="" align="aligncenter" width="392" caption="Erbil, Iraq Skyline">[![image](http://farm5.static.flickr.com/4128/5073555542_d97f4e77c5_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555542/sizes/o/in/photostream/)</caption>
+[![image](http://farm5.static.flickr.com/4128/5073555542_d97f4e77c5_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555542/sizes/o/in/photostream/)
 
 Check out our presentations on slideshare:
 

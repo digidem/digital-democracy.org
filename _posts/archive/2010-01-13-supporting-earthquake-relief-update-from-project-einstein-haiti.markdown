@@ -20,7 +20,7 @@ While communication with the island remains limited, colleagues around the world
 
 **Update from our colleagues in Haiti**
 
-<caption id="" align="alignright" width="400" caption="Project Einstein: Haiti group photo">![image](http://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg)</caption>
+![image](http://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg)
 
 Last night, we received that our colleagues from Fletcher are safe, however we have not received an update since. News reports make it clear that many buildings are unstable, and electricity and cell phone networks are only working intermittently.
 

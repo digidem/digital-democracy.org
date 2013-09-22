@@ -27,4 +27,4 @@ On May 20, we reached out to you, the Digital Democracy community, to help us co
  [2]: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/06/luke-and-nickie-300x225.jpg "luke and nickie"
 Thanks to the designers who have volunteered their time and skills for our logo and website. Stay tuned for our revamping of the Digital Democracy site in the near future!
 
-<caption id="attachment_496" align="aligncenter" width="300" caption="The winners behind the winning design">![The winners behind the winning design](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/06/luke-and-nickie-300x225.jpg)</caption>
+![The winners behind the winning design](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/06/luke-and-nickie-300x225.jpg)

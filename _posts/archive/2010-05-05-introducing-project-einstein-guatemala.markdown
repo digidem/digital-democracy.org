@@ -14,7 +14,7 @@ Project Einstein started as photo training with a group of youth in a refugee ca
 
 We've since expanded the project, working with youth in Pretoria, South Africa, a Burmese refugee camp in Thailand, and the town of Gros Monde in northern Haiti.
 
-<caption id="" align="alignleft" width="255" caption="Young Guatemalan girl. Photos by Emma Hulse.">![image](http://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg)</caption>
+![image](http://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg)
 
 What's next? Project Einstein Guatemala, in partnership with longtime friend of Digital Democracy Emma Hulse and local organization [Proyecto de Desarrollo Santiago](http://www.prodessa.net/) (PRODESSA). Last week, we sent cameras to Emma in Guatemala City, who is leaving soon for an isolated region of Guatemala known as the Zona Reyna. In the Zona Reyna, she'll be working with indigenous women's groups for the next few months on literacy projects. Additionally, she'll be using the cameras and Project Einstein curriculum to do a two-month long photo project with youth in the community.
 

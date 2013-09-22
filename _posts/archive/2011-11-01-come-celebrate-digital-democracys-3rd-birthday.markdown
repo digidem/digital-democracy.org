@@ -35,7 +35,7 @@ There will be fun to go around...
 
 & you can **WIN**. Enter our raffle for a chance to take home a brand new Google Chromebook...
 
-<caption id="" align="alignnone" width="350" caption="...thanks to Google's New York City office of Community Affairs">[![image](http://www.google.com/chromebook/static/images/samsung-series5-leftperspective-350x232.png)](http://www.google.com/chromebook/#chromebooks-samsung)</caption>
+[![image](http://www.google.com/chromebook/static/images/samsung-series5-leftperspective-350x232.png)](http://www.google.com/chromebook/#chromebooks-samsung)
 
 Play telephone, spread the word, and if you bring 10 friends you get a free raffle ticket. Questions? Email Biz at biz [at] digital-democracy [dot] org.
 

@@ -20,7 +20,7 @@ Digital Democracy's programs have already made broad use the idea of crisis mapp
 
 But it's not just the idea of peace mapping that we're inspired by. We're also inspired by the dynamic duo working on the project, Rachel Brown & Cody Valdes. Rachel is Sisi ni Amani's Project Director. Last spring, she was living in Nairobi, and noticed the work of graffiti artist Solo 7 who was painting messages of peace all over the city.
 
-<caption id="" align="aligncenter" width="249" caption="graffiti artist Solo 7">![image](http://farm3.static.flickr.com/2740/4427000637_5b0d4dd171.jpg)</caption>
+![image](http://farm3.static.flickr.com/2740/4427000637_5b0d4dd171.jpg)
 
 Inspired by him and other courageous peace leaders she met during her semester of study, she came up with the idea ofSisi ni Amani to support these brave individuals by highlighting their work and networking them. A graduating senior at Tufts University, Rachel speaks Swahili and has done previous work in Guatelmala, worked with tenant organizers in Massachusetts and high school students in India.
 

@@ -42,7 +42,7 @@ Emily and I had the pleasure of guest lecturing at Nathan Freitas’ [Social Act
 
 > 
 
-<caption id="" align="aligncenter" width="300" caption="Social Activism using Mobile Technology class & Dd Advisor Abby Goldberg">[![Social Activism using Mobile Technology class & Dd Advisor Abby Goldberg](http://4hours.files.wordpress.com/2009/11/img_1041.jpg?w=300&h=225)](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/)</caption>
+[![Social Activism using Mobile Technology class & Dd Advisor Abby Goldberg](http://4hours.files.wordpress.com/2009/11/img_1041.jpg?w=300&h=225)](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/)
 
 
 [Visit my blog to read more](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/) about the class and their projects.

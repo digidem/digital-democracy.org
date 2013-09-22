@@ -12,7 +12,7 @@ categories:
 
 This week, the G8 met in in France to discuss policies that will shape the future of the internet. While it's interesting to see this on the agenda,  it's a crucial time to reiterate the principles agreed to upon all nations in the Universal Declaration of Human Rights (UDHR).
 
-<caption id="" align="alignnone" width="436" caption="Defending Open Internet - An improvised press conference during the e-G8 Forum with Jeremie Zimmermann, Jeff Jarvis, Lawrence Lessig, Susan Crawford, Jean-Francois Julliard and Yochai Benkler">[![image](http://farm3.static.flickr.com/2613/5762779271_60679712b7_z.jpg)](http://www.flickr.com/photos/digitaldemocracy/5762779271/in/photostream)</caption>
+[![image](http://farm3.static.flickr.com/2613/5762779271_60679712b7_z.jpg)](http://www.flickr.com/photos/digitaldemocracy/5762779271/in/photostream)
 
 Digital Democracy believes in the importance of defending the principles of the UDHR in the 21st century by defining the specifics of what the right to free expression means. The deterioration of this right is proving to be the cornerstone for the deterioration of all rights.
 

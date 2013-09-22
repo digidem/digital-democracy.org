@@ -13,7 +13,7 @@ In early 2010, Cody Valdes and I approached Digital Democracy with a project pro
 
 "Sisi ni Amani" means "We Are Peace" in Swahili. Our innovation was to use mapping to support existing peace leaders by connecting them, instead of bringing in new peace programs. Our hope was to give community members the information to connect with peace activities near them. We joined Digital Democracy and launched in Kenya. Now, having left Digital Democracy to pursue a more permanent local structure and a new program of activities, we want to share with Digidem's supporters what we have accomplished and learned over the past seven months in Kenya.
 
-<caption id="" align="aligncenter" width="400" caption="Photo by Youth Participant from Project Einstein Kenya Curriculum">[![image](http://farm5.static.flickr.com/4108/4840898740_88951296ef.jpg)](http://www.flickr.com/photos/digitaldemocracy/4840898740/)</caption>
+[![image](http://farm5.static.flickr.com/4108/4840898740_88951296ef.jpg)](http://www.flickr.com/photos/digitaldemocracy/4840898740/)
 
 We arrived in Kenya last July along with then-Media Manager [Tegan Bukowski](http://www.teganbukowski.com/) and started our peace photography workshops to understand local definitions of peace, modeled on the Project Einstein curriculum. The Kibera photo project workshop produced some [incredible work by our young participants](http://www.wemappeace.org/photo). Tegan Bukowski, who led the workshops, has done incredible work in the past months to create a book of the childrens’ photography and to organize an exhibition of their work. Looking forward, we are excited to see the work of these youth gain its well-deserved audience!
 
@@ -21,7 +21,7 @@ In early September, the Sisi ni Amani team decided that, based on what it had le
 
 The day culminated with a peace concert for which performers donated their time and talent, and which was attended by upwards of 400 community members. The day was a bright and colorful success in terms of getting the community to mobilize around the theme of peace.
 
-<caption id="" align="aligncenter" width="400" caption="Sisi Ni Amani Peace Mapping Training Participants">[![image](http://farm5.static.flickr.com/4110/5054000153_9f427ba553.jpg)](http://sisiniamani.org/)</caption>
+[![image](http://farm5.static.flickr.com/4110/5054000153_9f427ba553.jpg)](http://sisiniamani.org/)
 
 After the launch, we worked with the local groups to designate a temporary leadership structure, which then planned a team-building picnic for members of peace groups from both Baba Dogo and the neighboring Korogocho slum. The picnic included team-building exercises and discussion about how to mobilize the represented youth groups towards accomplishing the mission of Sisi ni Amani. The team then decided to make a launch in Korogocho, and this launch took place at the end of November. Again, the launch included participation of ten community groups from Korogocho, and consisted of a peace procession as well as a concert.
 
@@ -33,7 +33,7 @@ Asking people to send mobile SMS about peace events or groups was often confusin
 
 
 
-<caption id="" align="aligncenter" width="400" caption="Uchaguzi: Mapping the Constitutional Referendum">[![image](http://farm5.static.flickr.com/4073/4862791389_9f7c6996d0.jpg)](http://www.uchaguzi.co.ke/)</caption>
+[![image](http://farm5.static.flickr.com/4073/4862791389_9f7c6996d0.jpg)](http://www.uchaguzi.co.ke/)
 
 Ahead of Kenya’s vote on a constitutional referendum on August 4, 2010, we worked with the Ushahidi team on [Uchaguzi,  an effort to map information during the event](http://blog.ushahidi.com/index.php/2010/08/03/uchaguzi-kenya-video-and-press-release/). For us it was an opportunity to help map to encourage peace and prevent violence. This was the  second attempt to give Kenya a new constitution. The first was in 2005,  and the motion was defeated. It has been noted that the failure to adopt  a constitution was one of the causes of the post election violence in  2008 that killed thousands, displaced 300,000 and affected all Kenyans.  Cody and I taught volunteers how to use the system while Tegan and other Ushahidi  techies did some troubleshooting.
 
@@ -46,4 +46,4 @@ We will be taking new and innovative approaches to our work in upcoming years le
  [7]: http://www.sisiniamani.org
  Stay tuned for my chapter on peacemapping in the the forthcoming book, for which Dd's Emily Jacobi has also written a chapeter:Mobile Technologies for Conflict Management: New Avenues for Online Dispute Resolution,ed. Marta Poble.
 
-<caption id="" align="aligncenter" width="384" caption="Sisi Ni Amani Team with Project Einstein Kenya Youth ">[![image](http://farm5.static.flickr.com/4146/5411332698_514b760a35.jpg)](http://www.flickr.com/photos/digitaldemocracy/5411332698/)</caption>
+[![image](http://farm5.static.flickr.com/4146/5411332698_514b760a35.jpg)](http://www.flickr.com/photos/digitaldemocracy/5411332698/)

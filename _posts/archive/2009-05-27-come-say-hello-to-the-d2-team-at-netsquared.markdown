@@ -10,7 +10,7 @@ categories:
 - archive
 ---
 
-<caption id="attachment_446" align="alignright" width="300" caption="(left to right) Emily, Morgan and Mark">[![Come Say Hello!](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo-300x224.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo.jpg)</caption>
+[![Come Say Hello!](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo-300x224.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo.jpg)
 
 Howdy dear readers andmobile advocacy for human rightsfans. The D2 Team is currently at the NetSquared conference working, jamming and spreading the word about our cool project, [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights).
 

@@ -12,7 +12,7 @@ categories:
 
 What is the current discussion around how technology is being used for supporting people advocating for democracy around the world? Please vote for the panels we and are friends are trying to host at the upcoming South by Southwest Conference in Austin, Texas.
 
-<caption id="" align="alignnone" width="403" caption="Vote for our panels at SXSW">[![image](http://farm7.static.flickr.com/6201/6053942371_77784af056_o.png)](http://panelpicker.sxsw.com/ideas/view/11566)</caption>
+[![image](http://farm7.static.flickr.com/6201/6053942371_77784af056_o.png)](http://panelpicker.sxsw.com/ideas/view/11566)
 
 SXSW is shaping up to be a pretty exciting festival this year. Kudos to [the awesome Baratunde who is going to give the opening keynote](http://www.baratunde.com/blog/2011/7/28/keynotunde-its-true-im-delivering-the-opening-keynote-addres.html). This year we're exploring the little discussed aspects of the implications of technology. How can it empower but also endanger people and what creative strategies are currently being pursued around the world? The second is about how women are drivers of change. Please check out more details about them below:
 
@@ -190,7 +190,7 @@ Speakers: Anthony Nicalo – [ Foodtree ](http://panelpicker.sxsw.com/ideas/view
   4. Britta Riley – [Windowfarms](http://www.windowfarms.org/)
 
 
-<caption id="" align="alignnone" width="213" caption="SXSW2012 panel picker data visualization">[![image](https://lh6.googleusercontent.com/-5AOGQnVf7HU/TkrVaGH7e6I/AAAAAAAAAF8/lNMOVsXnmLU/h301/sxsw2012_topics.jpg)](https://plus.google.com/u/0/114200438004839793612/posts/BqkZcGwNZYg)</caption>
+[![image](https://lh6.googleusercontent.com/-5AOGQnVf7HU/TkrVaGH7e6I/AAAAAAAAAF8/lNMOVsXnmLU/h301/sxsw2012_topics.jpg)](https://plus.google.com/u/0/114200438004839793612/posts/BqkZcGwNZYg)
 
 If you'd like to see more about what SXSW is all about, see above for an interactive dataviz on what the focus is this year.
 

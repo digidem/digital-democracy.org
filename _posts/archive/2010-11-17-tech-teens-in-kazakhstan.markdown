@@ -24,4 +24,4 @@ The topics of their videos  really impressed me. They included drug abuse, helpi
 
 At the event, I was interviewed by a reporter from the local Atyrau paper. His tool? A Nokia n97. I'm hoping that there continue to be more trainings of this type throughout the country. Not only are they desperately needed, but it's not long before the skills and tools of these youth surpass the older professionals there. I look forward to seeing what comes next.
 
-<caption id="" align="alignleft" width="403" caption="Students are interviewed at the public event">![image](http://farm5.static.flickr.com/4126/5185189765_a5fe46d047.jpg)</caption>
+![image](http://farm5.static.flickr.com/4126/5185189765_a5fe46d047.jpg)

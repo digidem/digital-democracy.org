@@ -16,6 +16,6 @@ I have a [post on my personal blog](http://4hours.wordpress.com/2009/05/11/techn
 
 A digital pen that is inconspicuous, durable and reliable. It records what it writes into its internal memory, creating PDFs from each written page of text from the special pixelated paper...
 
-<caption id="" align="alignnone" width="500" caption="Questionnaire for Torture Using Safe and Efficient Smartpen Technology">[![Questionnaire for Torture Using Safe and Efficient Smartpen Technology](http://4hours.files.wordpress.com/2009/05/torture-questions.jpg?w=500&h=647)](http://4hours.wordpress.com)</caption>
+[![Questionnaire for Torture Using Safe and Efficient Smartpen Technology](http://4hours.files.wordpress.com/2009/05/torture-questions.jpg?w=500&h=647)](http://4hours.wordpress.com)
 
 [Read More](http://4hours.wordpress.com/2009/05/11/technology-for-human-rights/)

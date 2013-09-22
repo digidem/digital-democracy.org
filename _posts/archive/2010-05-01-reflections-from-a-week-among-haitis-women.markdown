@@ -14,7 +14,7 @@ After a whirlwind six days in Port au Prince, Emily and I have much to share. Ou
 
 Just a few days later we were in the air and then suddenly on the ground in the midst of the rubble and rebuilding efforts under way. Our first engagement, after a brief meeting with our host, was a security briefing with MINUSTAH – the UN security detail operating in Haiti for the better part of the past decade. We then attended a brief coordination meeting at which we heard the organizer asking for suggestions of more realistic and concrete items they could request from donors in the US, who most recently had supplied a number of gas guzzling SUV’s to this country – where gas is in short supply if available at all.
 
-<caption id="" align="alignleft" width="280" caption="Abby at BAI office">![image](http://farm5.static.flickr.com/4031/4548212808_67e960ea42.jpg)</caption>
+![image](http://farm5.static.flickr.com/4031/4548212808_67e960ea42.jpg)
 
 Port-Au-Prince is a city of contradictions, at once completely devastated, at once filled with hope for a different kind of future for Haiti. One week later, after meeting with thirteen local women leaders  from five different organizations, teaching and actually learning far more in the process, we are back in New York. This post includes some early reflections and learning that resulted from our time in Haiti.
 

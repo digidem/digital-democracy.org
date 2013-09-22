@@ -14,7 +14,7 @@ On January 12th, a devastating earthquake shook Haiti. We had a team of people o
 
 This report details the findings of their research, gives an overview of the Project Einstein curriculum adapted for Haiti and provides recommendations for how training young people will be a critical aspect of reconstruction, providing 21st century skills and an infrastructure of empowerment by monitoring aid and corruption.
 
-<caption id="" align="aligncenter" width="432" caption="Project Einstein Haiti">[![image](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)</caption>
+[![image](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)
 
 The project on the ground was led by two students at the Fletcher School at Tufts University, Joshua Haynes and Chrissy Martin. Chrissy had this to say about her experiences:
 
