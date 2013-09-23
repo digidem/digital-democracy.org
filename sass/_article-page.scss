@@ -11,8 +11,7 @@ article.article {
   header {
     @include image-ratio($ratio24x10);
     .caption {
-      @include caption($caption-bg, $row-width / 2 - $leftbar-width, 50%);
-      position: absolute;
+      @include caption($caption-bg);
       text-align: center;
       color: #eee;
       h2 {
@@ -43,8 +42,8 @@ article.article {
       height: 999em;
       position: absolute;
       top: 0;
-      right: $row-width - $leftbar-width;
-      width: 999em;
+      left: 0;
+      width: $leftbar-width;
       background-color: $left-bg;
     }
     img { 
@@ -61,6 +60,29 @@ article.article {
       font-family: 'Times New Roman', Times, serif;;
       font-size: 1.4em;
       padding-right: percentage(1/3);
+    }
+  }
+}
+
+@media #{$small} {
+  article.article header .caption {
+    left: $leftbar-width;
+    width: auto;
+    right: 33%%;
+  }
+}
+
+@media only screen and (min-width:"#{$row-width}") {
+  article.article {
+    header .caption {
+      width: $row-width / 2 - $leftbar-width;
+      right: 50%;
+      left: auto;
+    }
+    .content:before {
+      left: auto;
+      right: $row-width - $leftbar-width;
+      width: 999em;
     }
   }
 }

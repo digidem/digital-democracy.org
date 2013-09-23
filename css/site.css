@@ -3795,38 +3795,37 @@ article.article header img {
 /* line 13, ../sass/_article-page.scss */
 article.article header .caption {
   position: absolute;
-  right: 50%;
-  width: 25.9375em;
+  right: 0;
+  width: 100%;
   bottom: 0;
   background-color: rgba(25, 36, 53, 0.9);
   margin: 0;
   padding: 0.5em 1em;
-  position: absolute;
   text-align: center;
   color: #eee;
 }
-/* line 18, ../sass/_article-page.scss */
+/* line 17, ../sass/_article-page.scss */
 article.article header .caption h2 {
   color: #fff;
   font-style: italic;
   margin-bottom: 0.25em;
 }
-/* line 23, ../sass/_article-page.scss */
+/* line 22, ../sass/_article-page.scss */
 article.article header .caption h3 {
   color: #eee;
   font-weight: 300;
 }
-/* line 27, ../sass/_article-page.scss */
+/* line 26, ../sass/_article-page.scss */
 article.article header .caption .byline {
   line-height: 1.6em;
   margin-bottom: 0.5em;
   font-size: 1.2em;
 }
-/* line 32, ../sass/_article-page.scss */
+/* line 31, ../sass/_article-page.scss */
 article.article header .caption .author {
   color: #e09602;
 }
-/* line 37, ../sass/_article-page.scss */
+/* line 36, ../sass/_article-page.scss */
 article.article .content {
   width: 100%;
   margin-left: auto;
@@ -3848,30 +3847,53 @@ article.article .content:before, article.article .content:after {
 article.article .content:after {
   clear: both;
 }
-/* line 42, ../sass/_article-page.scss */
+/* line 41, ../sass/_article-page.scss */
 article.article .content:before {
   height: 999em;
   position: absolute;
   top: 0;
-  right: 57.1875em;
-  width: 999em;
+  left: 0;
+  width: 5.3125em;
   background-color: #e9f0fd;
 }
-/* line 50, ../sass/_article-page.scss */
+/* line 49, ../sass/_article-page.scss */
 article.article .content img {
   width: 100%;
   float: right;
   position: relative;
   margin: 0.25em -50% 0.25em 1em;
 }
-/* line 56, ../sass/_article-page.scss */
+/* line 55, ../sass/_article-page.scss */
 article.article .content > p:first-child {
   padding-right: 0;
   font-size: 1.6em;
 }
-/* line 60, ../sass/_article-page.scss */
+/* line 59, ../sass/_article-page.scss */
 article.article .content p {
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.4em;
   padding-right: 33.33333%;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 68, ../sass/_article-page.scss */
+  article.article header .caption {
+    left: 5.3125em;
+    width: auto;
+    right: 33%%;
+  }
+}
+@media only screen and (min-width: 62.5em) {
+  /* line 77, ../sass/_article-page.scss */
+  article.article header .caption {
+    width: 25.9375em;
+    right: 50%;
+    left: auto;
+  }
+  /* line 82, ../sass/_article-page.scss */
+  article.article .content:before {
+    left: auto;
+    right: 57.1875em;
+    width: 999em;
+  }
 }
