@@ -3769,6 +3769,12 @@ section.projects ul li.featured.small header {
     padding-bottom: 50%;
   }
 }
+/* line 1, ../sass/_team-page.scss */
+.team img {
+  width: 200px;
+  height: 200px;
+}
+
 /* line 8, ../sass/_article-page.scss */
 article.article {
   top: -7.1875em;
