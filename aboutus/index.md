@@ -1,8 +1,7 @@
 ---
 layout: aboutus
+image: /assets/burma-mobile-magazines.jpg
 ---
-### Our Mission
-
 Digital Democracy’s mission is to empower marginalized communities to use technology to defend their rights. As technology becomes cheaper and more accessible, we believe it can and should be used to bring more voices to the table. Digital Democracy helps our partners achieve transformative change and works toward a world where all people can participate in decisions that govern their lives.
 
 Over the past five years, we’ve seen firsthand that change does not come from technology, but from how people use it. Our local partners represent marginalized communities around the globe, from Haiti to Burma to Peru. Working at the intersection of human rights and technology, Dd pairs local leaders with strategic use of tools to catalyze community-driven solutions.
