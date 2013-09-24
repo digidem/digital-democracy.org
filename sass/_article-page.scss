@@ -36,8 +36,8 @@ article.article {
   .content {
     @include grid-row();
     position: relative;
-    padding-left: 3em + $leftbar-width;
-    padding-top: 2em;
+    padding-left: 1em + $leftbar-width;
+    padding-top: 1em;
     &:before {
       height: 999em;
       position: absolute;
@@ -53,13 +53,11 @@ article.article {
       margin: 0.25em -50% 0.25em 1em;
     }
     & > p:first-child {
-      padding-right: 0;
-      font-size: 1.6em;
+      padding-right: 0.5em;
+      font-size: 1.1em;
     }
     p {
-      font-family: 'Times New Roman', Times, serif;;
-      font-size: 1.4em;
-      padding-right: percentage(1/3);
+//      font-family: 'Times New Roman', Times, serif;
     }
   }
 }
@@ -69,6 +67,17 @@ article.article {
     left: $leftbar-width;
     width: auto;
     right: 33%%;
+  }
+  article.article .content {
+    padding-left: 3em + $leftbar-width;
+    padding-top: 2em;
+    & > p:first-child {
+      padding-right: 1em;
+      font-size: 1.2em;
+    }
+    p {
+      padding-right: percentage(1/3);
+    }
   }
 }
 
@@ -83,6 +92,17 @@ article.article {
       left: auto;
       right: $row-width - $leftbar-width;
       width: 999em;
+    }
+  }
+}
+
+@media #{$large} {
+  article.article .content {
+    & > p:first-child {
+      font-size: 1.6em;
+    }
+    p {
+      font-size: 1.4em;
     }
   }
 }

@@ -3877,8 +3877,8 @@ article.article .content {
   max-width: 62.5em;
   *zoom: 1;
   position: relative;
-  padding-left: 8.3125em;
-  padding-top: 2em;
+  padding-left: 6.3125em;
+  padding-top: 1em;
 }
 /* line 121, ../../../../../.rvm/gems/ruby-1.9.3-p392@rails32/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
 article.article .content:before, article.article .content:after {
@@ -3907,35 +3907,54 @@ article.article .content img {
 }
 /* line 55, ../sass/_article-page.scss */
 article.article .content > p:first-child {
-  padding-right: 0;
-  font-size: 1.6em;
-}
-/* line 59, ../sass/_article-page.scss */
-article.article .content p {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 1.4em;
-  padding-right: 33.33333%;
+  padding-right: 0.5em;
+  font-size: 1.1em;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 68, ../sass/_article-page.scss */
+  /* line 66, ../sass/_article-page.scss */
   article.article header .caption {
     left: 5.3125em;
     width: auto;
     right: 33%%;
   }
+
+  /* line 71, ../sass/_article-page.scss */
+  article.article .content {
+    padding-left: 8.3125em;
+    padding-top: 2em;
+  }
+  /* line 74, ../sass/_article-page.scss */
+  article.article .content > p:first-child {
+    padding-right: 1em;
+    font-size: 1.2em;
+  }
+  /* line 78, ../sass/_article-page.scss */
+  article.article .content p {
+    padding-right: 33.33333%;
+  }
 }
 @media only screen and (min-width: 62.5em) {
-  /* line 77, ../sass/_article-page.scss */
+  /* line 86, ../sass/_article-page.scss */
   article.article header .caption {
     width: 25.9375em;
     right: 50%;
     left: auto;
   }
-  /* line 82, ../sass/_article-page.scss */
+  /* line 91, ../sass/_article-page.scss */
   article.article .content:before {
     left: auto;
     right: 57.1875em;
     width: 999em;
+  }
+}
+@media only screen and (min-width: 1280px) {
+  /* line 101, ../sass/_article-page.scss */
+  article.article .content > p:first-child {
+    font-size: 1.6em;
+  }
+  /* line 104, ../sass/_article-page.scss */
+  article.article .content p {
+    font-size: 1.4em;
   }
 }
