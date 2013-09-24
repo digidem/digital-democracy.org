@@ -10,13 +10,27 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
   }
 }
 
-.blogroll img {
-  border: 1px solid #ccc;
-  margin-top: 0.25em;
+.blogroll, .featured {
+  .byline {
+    line-height: 1.2em;
+    margin-top: -0.3em;
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+    .author {
+  //    color: $author-link;
+      display: inline;
+    }
+  }
 }
 
-.blogroll.row {
+.blogroll {
+  &.row {
   margin-bottom: 2em;
+  }
+  img {
+   border: 1px solid #ccc;
+   margin-top: 0.25em;
+  }
 }
 
 @media #{$small} {
