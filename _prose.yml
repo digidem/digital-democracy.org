@@ -25,7 +25,7 @@ prose:
         field:
           element: "multiselect"
           label: "Tags"
-          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
       - name: "layout"
         field:
@@ -63,7 +63,7 @@ prose:
         field:
           element: "multiselect"
           label: "Tags"
-          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
       - name: "layout"
         field:
