@@ -44,7 +44,7 @@ layout: default
     {% assign limit = '-6' %}{% for index in posts %}{% for post in site.posts %}{% capture index0 %}{{ forloop.index0 }}{% endcapture %}{% if index0 == index %}{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}{% if limit contains '-' %}{% assign class = post.featured | append: " featured" %}{% endif %}
     <li class="project {{ class }}">
       <header>
-        <img src="{{ post.image }}">
+        <a href="{{post.url}}"><img src="{{ post.image }}"></a>
         <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
       </header>
     </li>
