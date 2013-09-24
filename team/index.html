@@ -4,7 +4,7 @@ layout: default
 <section class="row team">
   <h2>Core Team</h2>
   <ul class="large-block-grid-2">
-    {% for post in site.categories.team %}
+    {% for post in site.categories.team reversed %}
     {% if post.tags contains "core" %}
     <li>
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
