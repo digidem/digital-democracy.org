@@ -3604,43 +3604,41 @@ section.latest-news .post p {
     padding-right: 0;
   }
 }
-/* line 3, ../sass/_blog-page.scss */
-.featured {
+/* line 4, ../sass/_blog-page.scss */
+.blog.featured {
   background-color: #e9f0fd;
   padding-top: 1em;
   padding-bottom: 1em;
   margin-bottom: 2em;
 }
-/* line 8, ../sass/_blog-page.scss */
-.featured img {
+/* line 9, ../sass/_blog-page.scss */
+.blog.featured img {
   margin-top: 0.5em;
 }
-
-/* line 14, ../sass/_blog-page.scss */
-.blogroll .byline, .featured .byline {
+/* line 15, ../sass/_blog-page.scss */
+.blog.postlist .byline, .blog.featured .byline {
   line-height: 1.2em;
   margin-top: -0.3em;
   margin-bottom: 0.5em;
   font-size: 0.9em;
 }
-/* line 19, ../sass/_blog-page.scss */
-.blogroll .byline .author, .featured .byline .author {
+/* line 20, ../sass/_blog-page.scss */
+.blog.postlist .byline .author, .blog.featured .byline .author {
   display: inline;
 }
-
-/* line 27, ../sass/_blog-page.scss */
-.blogroll.row {
+/* line 28, ../sass/_blog-page.scss */
+.blog.postlist.row {
   margin-bottom: 2em;
 }
-/* line 30, ../sass/_blog-page.scss */
-.blogroll img {
+/* line 31, ../sass/_blog-page.scss */
+.blog.postlist img {
   border: 1px solid #ccc;
   margin-top: 0.25em;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 37, ../sass/_blog-page.scss */
-  .featured {
+  /* line 40, ../sass/_blog-page.scss */
+  .blog.featured {
     box-shadow: -25rem 0 0 #e9f0fd, 25rem 0 0 #e9f0fd;
   }
 }
