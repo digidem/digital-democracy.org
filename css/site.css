@@ -3454,12 +3454,11 @@ nav.subnav ul li {
 }
 /* line 27, ../sass/_front-page.scss */
 nav.subnav ul li a {
-  background-color: #ccc;
   height: 500px;
   display: block;
 }
 
-/* line 36, ../sass/_front-page.scss */
+/* line 35, ../sass/_front-page.scss */
 section.latest-news {
   width: 100%;
   margin-left: auto;
@@ -3479,7 +3478,7 @@ section.latest-news:before, section.latest-news:after {
 section.latest-news:after {
   clear: both;
 }
-/* line 39, ../sass/_front-page.scss */
+/* line 38, ../sass/_front-page.scss */
 section.latest-news .post {
   display: block;
   padding: 0;
@@ -3515,7 +3514,7 @@ section.latest-news .post > li:nth-of-type(n) {
 section.latest-news .post > li:nth-of-type(1n+1) {
   clear: both;
 }
-/* line 41, ../sass/_front-page.scss */
+/* line 40, ../sass/_front-page.scss */
 section.latest-news .post header {
   position: relative;
   height: 0;
@@ -3535,7 +3534,7 @@ section.latest-news .post header img {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-/* line 45, ../sass/_front-page.scss */
+/* line 44, ../sass/_front-page.scss */
 section.latest-news .post header h4 {
   position: absolute;
   width: 100%;
@@ -3544,14 +3543,14 @@ section.latest-news .post header h4 {
   margin: 0;
   padding: 0.5em 1em;
 }
-/* line 54, ../sass/_front-page.scss */
+/* line 53, ../sass/_front-page.scss */
 section.latest-news .post p {
   padding-left: 1em;
   padding-right: 1em;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 62, ../sass/_front-page.scss */
+  /* line 61, ../sass/_front-page.scss */
   section.latest-news .post {
     display: block;
     padding: 0;
@@ -3588,18 +3587,18 @@ section.latest-news .post p {
     clear: both;
   }
 
-  /* line 65, ../sass/_front-page.scss */
+  /* line 64, ../sass/_front-page.scss */
   section.mission-statement blockquote {
     font-size: 1.6em;
   }
 }
 @media only screen and (min-width: 1024px) {
-  /* line 71, ../sass/_front-page.scss */
+  /* line 70, ../sass/_front-page.scss */
   section.mission-statement blockquote {
     font-size: 2em;
   }
 
-  /* line 74, ../sass/_front-page.scss */
+  /* line 73, ../sass/_front-page.scss */
   section.latest-news .post p {
     padding-left: 0;
     padding-right: 0;
