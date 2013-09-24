@@ -7,7 +7,7 @@ title: "Handheld Human Rights: Amplifying Voices in Burma/Myanmar"
 image: "http://farm4.staticflickr.com/3769/9805657885_7a00a51762_o.png"
 featured: small
 published: true
-permalink: /projects/myanmar
+permalink: /ourwork/myanmar
 ---
 
 > “In Burma, the obstacle is information – people inside the country need information,
