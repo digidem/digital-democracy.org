@@ -5,7 +5,7 @@ published: true
 title: Janet Harris
 tags: board
 role: Board Member
-image: (/assets/Janet_Harris.jpg)
+image: /assets/Janet_Harris.jpg
 ---
 
 **Janet Harris** has 20 years experience leading development in science, humanitarian and arts non-profits. Since 2010, she has been Chief Development Officer at the California Academy of the Sciences. There, she leads the Academy’s program to support its museum in Golden Gate Park and their world-class scientific research and education programs. For the ten years prior, Janet was VP of Development for the International Rescue Committee (IRC), a humanitarian relief organization that operates in more than 40 countries around the world and resettles refugees in 22 cities across the United States. During her tenure the IRC raised over $350 million in private support and $110-million in endowment funds and Janet traveled to Afghanistan, the Democratic Republic of Congo, Rwanda, Liberia, Kenya, Sudan, Uganda, Thailand and Indonesia.
