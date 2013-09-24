@@ -50,7 +50,16 @@ section.latest-news {
         padding: 0.5em 1em;
       }
     }
-    p {
+    .byline {
+      line-height: 1.2em;
+      margin-bottom: 0.5em;
+      font-size: 0.9em;
+      .author {
+    //    color: $author-link;
+        display: inline;
+      }
+    }
+    p, .byline {
       padding-left: 1em;
       padding-right: 1em;
     }
@@ -70,8 +79,10 @@ section.latest-news {
   section.mission-statement blockquote {
     font-size: 2em;
   }
-  section.latest-news .post p {
-    padding-left: 0;
-    padding-right: 0;
+  section.latest-news .post {
+    p, .byline {
+      padding-left: 0;
+      padding-right: 0; 
+    }
   }
 }

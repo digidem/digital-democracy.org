@@ -3544,13 +3544,23 @@ section.latest-news .post header h4 {
   padding: 0.5em 1em;
 }
 /* line 53, ../sass/_front-page.scss */
-section.latest-news .post p {
+section.latest-news .post .byline {
+  line-height: 1.2em;
+  margin-bottom: 0.5em;
+  font-size: 0.9em;
+}
+/* line 57, ../sass/_front-page.scss */
+section.latest-news .post .byline .author {
+  display: inline;
+}
+/* line 62, ../sass/_front-page.scss */
+section.latest-news .post p, section.latest-news .post .byline {
   padding-left: 1em;
   padding-right: 1em;
 }
 
 @media only screen and (min-width: 768px) {
-  /* line 61, ../sass/_front-page.scss */
+  /* line 70, ../sass/_front-page.scss */
   section.latest-news .post {
     display: block;
     padding: 0;
@@ -3587,19 +3597,19 @@ section.latest-news .post p {
     clear: both;
   }
 
-  /* line 64, ../sass/_front-page.scss */
+  /* line 73, ../sass/_front-page.scss */
   section.mission-statement blockquote {
     font-size: 1.6em;
   }
 }
 @media only screen and (min-width: 1024px) {
-  /* line 70, ../sass/_front-page.scss */
+  /* line 79, ../sass/_front-page.scss */
   section.mission-statement blockquote {
     font-size: 2em;
   }
 
-  /* line 73, ../sass/_front-page.scss */
-  section.latest-news .post p {
+  /* line 83, ../sass/_front-page.scss */
+  section.latest-news .post p, section.latest-news .post .byline {
     padding-left: 0;
     padding-right: 0;
   }
