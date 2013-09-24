@@ -3605,15 +3605,14 @@ section.latest-news .post p {
   }
 }
 /* line 3, ../sass/_blog-page.scss */
-.left {
-  margin-right: 1em;
+.blogroll img {
+  border: 1px solid #ccc;
+  margin-top: 0.25em;
 }
 
-/* line 6, ../sass/_blog-page.scss */
-.blogroll img {
-  width: 200px;
-  height: 150px;
-  border: 1px solid #ccc;
+/* line 8, ../sass/_blog-page.scss */
+.blogroll.row {
+  margin-bottom: 2em;
 }
 
 /* line 4, ../sass/_projects-page.scss */

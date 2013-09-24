@@ -13,49 +13,16 @@ layout: default
   {% endfor %}
 </section>
 
-<section class="row">
-  <div class="panel small-4 columns hide-for-small">
-    <div class="row">
-      <div class="small-4 columns">
-        <img src="http://placehold.it/150x200" class="left">
-      </div>
-      <div class="small-8 columns">
-        <h5>UPDATES</h5>
-        <p>Read the latest updates on our projects across the world.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="small-4 columns">
-        <img src="http://placehold.it/150x200" class="left">
-      </div>
-      <div class="small-8 columns">
-        <h5>TECH</h5>
-        <p>The latest Dd experiments with cutting edge technology</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="small-4 columns">
-        <img src="http://placehold.it/150x200" class="left">
-      </div>
-      <div class="small-8 columns">
-        <h5>LEARN</h5>
-        <p>Learn how to use key technologies for community rights</p>
-      </div>
-    </div>
+{% for post in site.categories.blog limit:10 %}
+<section class="row blogroll">
+  <div class="small-12 large-4 columns">
+    <a href="{{post.url}}">
+    <img src="{{ post.image }}">
+    </a>
   </div>
-  <div class="small-12 large-8 columns blogroll">
-    {% for post in site.categories.blog limit:10 %}
-    <div class="row">
-      <div class="small-4 columns">
-        <a href="{{post.url}}">
-        <img src="{{ post.image }}" class="left">
-        </a>
-      </div>
-      <div class="small-8 columns">
-        <h5><a href="{{ post.url }}">{{ post.title}}</a></h5>
-        <p>{{ post.excerpt }}</p>
-      </div>
-    </div>
-    {% endfor %}
+  <div class="small-12 large-8 columns">
+    <h5><a href="{{ post.url }}">{{ post.title}}</a></h5>
+    <p>{{ post.excerpt }}</p>
   </div>
 </section>
+{% endfor %}
