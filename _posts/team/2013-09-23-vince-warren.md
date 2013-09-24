@@ -3,7 +3,8 @@ categories: team
 layout: team
 published: false
 title: Vince Warren
-tags: core
+tags: board
+role: Board Member
 ---
 
 ## A New Post
