@@ -1,4 +1,14 @@
+$featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
+.featured {
+  background-color: $featured-blog-bg;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+  img {
+    margin-top: 0.5em;
+  }
+}
 
 .blogroll img {
   border: 1px solid #ccc;
@@ -7,4 +17,10 @@
 
 .blogroll.row {
   margin-bottom: 2em;
+}
+
+@media #{$small} {
+  .featured {
+    box-shadow: -25rem 0 0 $featured-blog-bg, 25rem 0 0 $featured-blog-bg;
+  }
 }
