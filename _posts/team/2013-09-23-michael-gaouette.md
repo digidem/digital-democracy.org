@@ -7,5 +7,4 @@ tags: board
 role: Board Member
 ---
 
-
 **Michael Gaouette** is
