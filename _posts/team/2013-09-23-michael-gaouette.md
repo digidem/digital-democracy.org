@@ -8,3 +8,4 @@ role: President of the Board
 ---
 
 
+**Michael Gaouette** is
