@@ -102,7 +102,7 @@ prose:
         field:
           element: "multiselect"
           label: "Select tag(s) to list related blog posts"
-          options: "http://beta.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
       - name: "permalink"
         field:
