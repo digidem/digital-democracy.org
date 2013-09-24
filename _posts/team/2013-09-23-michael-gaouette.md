@@ -1,7 +1,7 @@
 ---
 categories: team
 layout: team
-published: false
+published: true
 title: Michael Gaouette
 tags: board
 role: Board Member
