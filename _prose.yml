@@ -159,6 +159,12 @@ prose:
           label: "Background image (shown on individual details page)"
           value: ""
           placeholder: "Enter a URL"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          placeholder: "/link/to/this/page"
+          value: ""
       - name: "tags"
         field:
           element: "select"
