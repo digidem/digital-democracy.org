@@ -1,6 +1,6 @@
 prose:
   rooturl: '_posts'
-  siteurl: "http://beta.digital-democracy.org"
+  siteurl: "http://www.digital-democracy.org"
   media: "assets"
   metadata:
     _posts:
