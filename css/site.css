@@ -3789,6 +3789,7 @@ section.projects ul li.featured.small header {
 .team img {
   width: 200px;
   height: 200px;
+  margin-right: 1em;
 }
 
 /* line 8, ../sass/_article-page.scss */
