@@ -3,6 +3,8 @@ categories: blog
 layout: post
 published: false
 title: "New team, new programs, new website"
+image: "file:///Users/emjacobi/Pictures/iPhoto%20Library/Previews/2013/07/20/20130720-092220/IMG_5637.jpg"
+author: Emily Jacobi
 ---
 
 The Dd team has been quiet lately, but we've been anything but idle. This year we have completed a three-year program, launched new initiatives  - and oh yeah, hosted Haiti's first hackathon! It's been a period of challenges, new learning and very rewarding work expanding our reach to more marginalized communities. 
