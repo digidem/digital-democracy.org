@@ -7,10 +7,8 @@ author: Emily Jacobi
 "": HaitiReport
 tags: 
   - CGI2013
-image: /assets/photo.jpg
+image: /assets/photocgi2013.jpg
 ---
-
-###  Clinton Global Initiative Annual Conference 2013
 
 Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
 
