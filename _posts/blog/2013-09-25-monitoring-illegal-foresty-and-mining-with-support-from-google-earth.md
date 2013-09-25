@@ -5,7 +5,7 @@ published: true
 title: Monitoring Illegal Foresty and Mining with Support from Google Earth
 author: Emily Jacobi
 image: "http://farm4.staticflickr.com/3669/9909672286_594d3d9d12_o.jpg"
-excerpt: "Digital Democracy is a proud recipient of a 2013 Google Earth Outreach Developer Grant. The award is given to non-profits to support their efforts to use maps to promote public benefit causes. We're using the grant to build Wapichana Deforestation Alert System, an early warning system ..."
+excerpt: ""
 tags: 
   - "front-page"
 ---
