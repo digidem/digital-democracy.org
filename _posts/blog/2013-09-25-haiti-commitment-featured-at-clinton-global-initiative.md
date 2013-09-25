@@ -7,7 +7,7 @@ author: Emily Jacobi
 "": HaitiReport
 tags: 
   - CGI2013
-image: /assets/photocgi2013.jpg
+image: /assets/photocgi2013onstage.jpg
 ---
 
 Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
@@ -19,3 +19,5 @@ Secretary Clinton shared a few benchmarks from our commitment. Since making a co
 Watch the video of this morning's session [here.](http://new.livestream.com/CGI/CGI2013/videos/30820637)
 
 Stay tuned for the official release of our full report on Dd's Haiti program.
+
+![photocgi2013onstage.jpg](/assets/photocgi2013onstage.jpg)
