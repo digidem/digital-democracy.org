@@ -52,12 +52,10 @@ prose:
         field:
           element: "text"
           label: "Post Excerpt"
-          value: ""
       - name: "image"
         field:
           element: "text"
           label: "Post image"
-          value: ""
           placeholder: "Enter a URL"
       - name: "tags"
         field:
