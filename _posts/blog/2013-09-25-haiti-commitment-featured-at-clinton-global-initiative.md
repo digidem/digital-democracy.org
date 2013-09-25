@@ -1,7 +1,7 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: Haiti Commitment Featured at Clinton Global Initiative
 author: Emily Jacobi
 "": HaitiReport
