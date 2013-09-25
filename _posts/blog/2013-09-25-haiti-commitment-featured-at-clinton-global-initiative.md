@@ -3,6 +3,10 @@ categories: blog
 layout: post
 published: false
 title: Haiti Commitment Featured at Clinton Global Initiative
+author: Emily Jacobi
+"": HaitiReport
+tags: 
+  - CGI2013
 ---
 
 ## Clinton Global Initiative Annual Conference 2013
