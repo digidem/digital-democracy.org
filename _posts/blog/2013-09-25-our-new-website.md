@@ -8,6 +8,8 @@ tags:
   - "front-page"
 ---
 
+## Our New Website
+
 Welcome to our [new website](http://www.digital-democracy.org), a complete rewrite and rethink of the code, structure and design of our original site. The new design aims to be clean and simple with a heavy emphasis on photographs, while looking good on mobile, tablet and desktop.
 
 We have moved away from [Wordpress](http://wordpress.org/) to a [CMS-free](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) site built from static files with [Jekyll](http://jekyllrb.com) on [Github Pages](http://pages.github.com/). We add [CloudFlare CDN](http://cloudflare.com/) on top of that, giving us a fast, responsive site that can handle large spikes in traffic at no cost.
