@@ -17,6 +17,6 @@ Secretary Clinton shared a few benchmarks from our commitment. Since making a co
 - fielded more than 13,000 calls through the 572 Call Center (link to blog about that) & connected more than 800 survivors with services
 - short description of number of files in the database 
 
-Watch the video of this morning's session [here]. (http://new.livestream.com/CGI/CGI2013/videos/30820637)
+Watch the video of this morning's session [here.](http://new.livestream.com/CGI/CGI2013/videos/30820637)
 
 Stay tuned for the official release of our full report on Dd's Haiti program.
