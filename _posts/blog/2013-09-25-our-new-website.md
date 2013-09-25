@@ -5,6 +5,8 @@ published: true
 title: Our New Website
 author: Gregor MacLennan
 image: "/assets/new-website.jpg"
+tags:
+- featured
 ---
 
 Welcome to our [new website](http://www.digital-democracy.org), a complete rewrite and rethink of the code, structure and design of our original site. The new design aims to be clean and simple with a heavy emphasis on photographs, while looking good on mobile, tablet and desktop.
