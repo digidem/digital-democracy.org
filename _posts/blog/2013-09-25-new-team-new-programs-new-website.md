@@ -3,8 +3,10 @@ categories: blog
 layout: post
 published: false
 title: "New team, new programs, new website"
-image: "file:///Users/emjacobi/Pictures/iPhoto%20Library/Previews/2013/07/20/20130720-092220/IMG_5637.jpg"
+image: "http://farm4.staticflickr.com/3815/9931258076_7e78a655b7_o.jpg"
 author: Emily Jacobi
+tags: 
+  - "front-page"
 ---
 
 The Dd team has been quiet lately, but we've been anything but idle. This year we have completed a three-year program, launched new initiatives  - and oh yeah, hosted Haiti's first hackathon! It's been a period of challenges, new learning and very rewarding work expanding our reach to more marginalized communities. 
@@ -17,4 +19,8 @@ Secondly, a warm welcome to [Shahla Fatemi](https://twitter.com/sFate), who join
 Finally, we want to extend our deep gratitude to [Liz Hodes](https://twitter.com/Red_Banana) and [Biz Ghormley](https://twitter.com/onewitness). Although they transitioned out of day-to-day operations this spring & winter (respectively), their irreplacable spirits live on in the organization, and we're glad to still call on them as friends and advisors to Dd.
 
 ### New Programs
-In February, we ended a three-year program focused on leveraging technology to address gender-based violence in Haiti. We ended the program with a bang, hosting an inspiring & fast paced-hackathin in Port-au-Prince that has now been replicated by local tech students. By the end of the month, we fully transitioned the technical and managerial tasks to the hands of our partner, Haitian women's organization KOFAVIV. This fall we're releasing our report on our work in Haiti, alongside recommendations for incorporating 
+In February, we ended a three-year program focused on leveraging technology to address gender-based violence in Haiti. We ended the program with a bang, hosting an inspiring & fast paced-hackathin in Port-au-Prince that has now been replicated by local tech students. By the end of the month, we fully transitioned the technical and managerial tasks to the hands of our partner, Haitian women's organization KOFAVIV. This fall we're releasing our report on our work in Haiti, alongside recommendations for incorporating technology into international development & human rights programs. We're excited to use the report as a tool to inspire others to take a holistic approach to integrating technology into community development programs. Today, we'll also be reporting back on our Haiti program at the Clinton Global Initiative annual meeting - [check out the livestream on the morning plenary "Women Decision-Makers in the Global Economy."](http://www.clintonglobalinitiative.org/ourmeetings/2013/agenda/webcasts/?day=3) 
+
+Even as our work in Haiti has been winding down, our work addressing environmental issues with indigenous communities is ramping up. Our main focus this year has been piloting a new initative thanks to support from the Knight News Challenge. Our project, Remote Access, is a mobile toolkit to empower groups in remote areas to share critical human rights and environmental information. We're piloting Remote Access with indigenous groups who are taking on oil contamination in the northern Peruvian Amazon. We'll be writing more about it soon; in the meantime, [take this photographic journey](http://www.slideshare.net/emjacobi/launching-remote-access-in-the-amazon) to meet our partners and see the oil contamination for yourself.
+
+In addition to tool building for Remote Access, we are continuing to support grassroots community mapping, primarily in Peru, Ecuador & Chiapas, Mexico. At the request of our Peruvian partners we are also looking to do trainings specifically for indigenous women to do monitoring in their communities, and we just announced a new initiative to 
