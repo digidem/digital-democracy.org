@@ -3951,10 +3951,10 @@ article.article .content > p:first-child {
 @media only screen and (min-width: 1280px) {
   /* line 101, ../sass/_article-page.scss */
   article.article .content > p:first-child {
-    font-size: 1.6em;
+    font-size: 1.4em;
   }
   /* line 104, ../sass/_article-page.scss */
   article.article .content p {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
