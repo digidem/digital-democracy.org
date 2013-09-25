@@ -4,8 +4,7 @@ layout: post
 published: true
 title: Our New Website
 author: Gregor MacLennan
-tags: 
-  - "front-page"
+tags: ""
 image: "http://farm8.staticflickr.com/7007/6801673411_36e99e6d41_o.jpg"
 excerpt: ""
 ---
