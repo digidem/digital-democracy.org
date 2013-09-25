@@ -3,6 +3,7 @@ layout: default
 ---
 <section class="blog row featured">
   {% for post in site.tags.featured limit:1 %}
+  {% assign featuredPostUrl = post.url %}
   <div class="small-12 push-4 large-8 columns">
     <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
   </div>
@@ -18,6 +19,7 @@ layout: default
 </section>
 
 {% for post in site.categories.blog limit:10 %}
+{% unless post.url == featuredPostUrl %}
 <section class="blog row postlist">
   <div class="small-12 large-4 columns">
     <a href="{{post.url}}">
@@ -33,4 +35,5 @@ layout: default
     {{ post.excerpt }}
   </div>
 </section>
+{% endunless %}
 {% endfor %}
