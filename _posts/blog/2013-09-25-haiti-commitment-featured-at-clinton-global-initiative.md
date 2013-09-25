@@ -24,3 +24,5 @@ Secretary Clinton shared a few benchmarks from our commitment. Since making a co
 Watch the video of this morning's session [here.](http://new.livestream.com/CGI/CGI2013/videos/30820637)
 
 Stay tuned for the official release of our full report on Dd's Haiti program.
+
+![CGI graphics banner.jpg](/assets/CGI graphics banner.jpg)
