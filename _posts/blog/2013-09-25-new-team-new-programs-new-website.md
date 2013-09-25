@@ -7,6 +7,7 @@ image: "http://farm4.staticflickr.com/3815/9931258076_7e78a655b7_o.jpg"
 author: Emily Jacobi
 tags: 
   - "front-page"
+  - featured
 ---
 
 The Dd team has been quiet lately, but we've been anything but idle. This year we have completed a three-year program, launched new initiatives  - and oh yeah, hosted Haiti's [first hackathon](http://www.digital-democracy.org/blog/2013/06/04/reflections-from-haitihack-sparking-a-local-movement/)! It's been a period of challenges, new learning and very rewarding work expanding our reach to more marginalized communities. 
