@@ -2,12 +2,14 @@
 categories: blog
 layout: post
 published: true
-date: 2013-09-25 17:00 -0400
+date: "2013-09-25 17:00 -0400"
 title: Haiti Commitment Featured at Clinton Global Initiative
 author: Emily Jacobi
 tags: 
+  - "front-page"
   - CGI2013
 image: /assets/photocgi2013onstage.jpg
+"": haiti
 ---
 
 Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
