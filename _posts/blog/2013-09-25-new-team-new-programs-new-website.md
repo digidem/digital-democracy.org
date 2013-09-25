@@ -3,7 +3,7 @@ categories: blog
 layout: post
 published: true
 title: "New team, new programs, new website"
-image: "http://farm4.staticflickr.com/3815/9931258076_7e78a655b7_o.jpg"
+image: "/assets/fediquep-monitor-training.jpg"
 author: Emily Jacobi
 tags: 
   - "front-page"
