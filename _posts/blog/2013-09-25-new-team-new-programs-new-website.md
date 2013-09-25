@@ -1,7 +1,7 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: "New team, new programs, new website"
 image: "http://farm4.staticflickr.com/3815/9931258076_7e78a655b7_o.jpg"
 author: Emily Jacobi
@@ -23,7 +23,7 @@ In February, we ended a three-year program focused on leveraging technology to a
 
 Even as our work in Haiti has been winding down, our work addressing environmental issues with indigenous communities is ramping up. Our main focus this year has been piloting a new initative thanks to support from the [Knight News Challenge](http://www.knightfoundation.org/grants/20123670/). Our project, [Remote Access](http://www.digital-democracy.org/ourwork/ra/), is a mobile toolkit to empower groups in remote areas to share critical human rights and environmental information. We're piloting Remote Access with indigenous groups who are taking on oil contamination in the northern Peruvian Amazon. We'll be writing more about it soon; in the meantime, [take this photographic journey](http://www.slideshare.net/emjacobi/launching-remote-access-in-the-amazon) to meet our partners and see the oil contamination for yourself.
 
-In addition to tool building for Remote Access, we are continuing to support grassroots community mapping, primarily in Peru, Ecuador & Chiapas, Mexico. At the request of our Peruvian partners we are also looking to do trainings specifically for indigenous women to do monitoring in their communities, and we just announced a [new initiative to build a remote sensing application](http://www.digital-democracy.org/blog/2013/09/25/monitoring-illegal-foresty-and-mining-with-support-from-google-earth/) to help local groups better monitor for illegal logging and mining in Guyana, thanks to a Google Earth Outreach Developer Grant. We're also partnering with more established groups in the human rights space in order to amplify our impact much further than we could do alone. 
+In addition to tool building for Remote Access, we are continuing to support grassroots community mapping, primarily in Peru, Guyana & Chiapas, Mexico. At the request of our Peruvian partners we are also looking to do trainings specifically for indigenous women to do monitoring in their communities, and we just announced a [new initiative to build a remote sensing application](http://www.digital-democracy.org/blog/2013/09/25/monitoring-illegal-foresty-and-mining-with-support-from-google-earth/) to help local groups better monitor for illegal logging and mining in Guyana, thanks to a Google Earth Outreach Developer Grant. We're also partnering with more established groups in the human rights space in order to amplify our impact much further than we could do alone. 
 
 ### What's Next?
 As we move forward with our programs this fall, you can expect to see more frequent updates, including from Gregor about the tech details. We're still figuring out essential infrastructure questions - like how to keep operations going when we're doing so much programming in the outer world. But we're approaching these questions with an open mind, and we're having refreshingly honest conversations with fellow NGOs in the tech for civic good space. We know some pretty amazing things can be accomplished through partnership, and we're excited to apply that to our structure and backend needs just like we've helped create innovative systems that last for our partners around the globe. 
