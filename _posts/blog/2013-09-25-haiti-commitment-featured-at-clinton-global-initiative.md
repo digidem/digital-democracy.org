@@ -10,9 +10,9 @@ tags:
 image: /assets/photo.jpg
 ---
 
-##  Clinton Global Initiative Annual Conference 2013
+###  Clinton Global Initiative Annual Conference 2013
 
-Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization KOFAVIV. 
+Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
 
 Secretary Hillary Clinton said, "This is the kind of success story that we love to highlight here at CGI because they said they were going to do something, they got to work, and they're really producing results." 
 
