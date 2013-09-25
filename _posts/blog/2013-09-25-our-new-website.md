@@ -1,7 +1,7 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: Our New Website
 author: Gregor MacLennan
 tags: 
