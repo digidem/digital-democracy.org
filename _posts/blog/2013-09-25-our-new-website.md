@@ -6,7 +6,7 @@ title: Our New Website
 author: Gregor MacLennan
 tags: 
   - "front-page"
-image: "http://www.flickr.com/photos/digitaldemocracy/6801673411/"
+image: "http://farm8.staticflickr.com/7007/6801673411_36e99e6d41_o.jpg"
 excerpt: "Welcome to our new website, a complete rewrite and rethink of the code, structure and design of our original site. The new design aims to be clean and simple with a heavy emphasis on photographs, while looking good on mobile, tablet and desktop. "
 ---
 
