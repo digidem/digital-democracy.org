@@ -5,6 +5,7 @@ published: true
 title: Vince Warren
 tags: board
 role: Board Member
+permalink: /team/vince
 image: /assets/vince_warren.jpg
 ---
 
