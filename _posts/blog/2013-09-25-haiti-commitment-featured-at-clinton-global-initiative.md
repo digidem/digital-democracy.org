@@ -8,13 +8,15 @@ author: Emily Jacobi
 tags: 
   - "front-page"
   - CGI2013
-image: /assets/photocgi2013onstage.jpg
+image: /assets/Emily w Hillary.png
 "": haiti
 ---
 
 Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
 
 Secretary Hillary Clinton said, "This is the kind of success story that we love to highlight here at CGI because they said they were going to do something, they got to work, and they're really producing results." 
+![Emily w Hillary.png](/assets/Emily w Hillary.png)
+
 
 Secretary Clinton shared a few benchmarks from our commitment. Since making a commitment to use technology to address gender-based violence in 2010, Dd & KOFAVIV have trained more than 120 women in technology skills, fielded more than 13,000 calls through the [572 Call Center](http://www.digital-democracy.org/blog/2013/04/15/expanding-access-to-haitis-gender-based-violence-call-center/), and connected more than 800 survivors with services.
 
