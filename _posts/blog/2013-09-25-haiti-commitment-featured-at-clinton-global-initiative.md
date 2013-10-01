@@ -4,7 +4,7 @@ layout: post
 published: true
 date: "2013-09-25 17:00 -0400"
 title: Haiti Commitment Featured at Clinton Global Initiative
-author: Emily Jacobi
+author: Shahla Fatemi
 tags: 
   - "front-page"
   - CGI2013
