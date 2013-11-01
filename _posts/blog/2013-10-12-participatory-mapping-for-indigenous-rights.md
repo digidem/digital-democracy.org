@@ -1,7 +1,7 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: Participatory Mapping for Indigenous Rights
 author: Gregor MacLennan
 ---
@@ -17,4 +17,4 @@ Read more about the conference in [this blog post](http://participatorygis.blogs
 
 The participants highlighted the importance that the technology for mapping and monitoring is accessible to indigenous peoples and that the information is controlled by them.
 
-Over the coming months we will be releasing new tools that we hope will make mapping, GIS and environmental monitoring more accessible to indigenous peoples in remote areas. Follow our ongoing work with indigenous people in [Chiapas](http://www.digital-democracy.org/ourwork/chiapas/), [Peru](http://www.digital-democracy.org/ourwork/ra/) and [Guyana](http://www.digital-democracy.org/ourwork/guyana/). 
+Over the coming months we will be releasing new tools that we hope will make mapping, GIS and environmental monitoring more accessible to indigenous peoples in remote areas. Follow our ongoing work with indigenous people in [Chiapas](http://www.digital-democracy.org/ourwork/chiapas/), [Peru](http://www.digital-democracy.org/ourwork/ra/) and [Guyana](http://www.digital-democracy.org/ourwork/guyana/).
