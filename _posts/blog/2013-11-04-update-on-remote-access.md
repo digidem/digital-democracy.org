@@ -1,9 +1,13 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: Update on Remote Access
 image: "/assets/fediquep-monitoring-water-sample.jpg"
+author: Emily Jacobi
+tags: 
+  - "front-page"
+  - Remote Access
 ---
 
 What would you do if a multi-national company was polluting your waters? If the rivers you depended on were degraded by oil spills, the water unsafe to drink or fish from? Would you petition the government to step in and force the company to clearn it up? What if, for years, the government didn't listen and turned a blind eye?
