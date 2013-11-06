@@ -3,7 +3,7 @@ categories: blog
 layout: post
 published: true
 title: Update on Remote Access
-image: "/assets/fediquep-monitoring-water-sample.jpg"
+image: "/assets/fediquep-monitoring-water-sample-2.jpg"
 author: Emily Jacobi
 tags: 
   - "front-page"
