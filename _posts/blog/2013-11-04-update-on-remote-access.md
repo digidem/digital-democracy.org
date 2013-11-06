@@ -10,7 +10,7 @@ tags:
   - Remote Access
 ---
 
-What would you do if a multi-national company was polluting your waters? If the rivers you depended on were degraded by oil spills, the water unsafe to drink or fish from? Would you petition the government to step in and force the company to clearn it up? What if, for years, the government didn't listen and turned a blind eye?
+What would you do if a multi-national company was polluting your waters? If the rivers you depended on were degraded by oil spills, the water unsafe to drink or fish from? Would you petition the government to step in and force the company to clean it up? What if, for years, the government didn't listen and turned a blind eye?
 
 This is exactly the challenge faced by Digital Democracy's local partners in Peru, indigenous federations living along the Pastaza, Corientes & Tigre river basins, which feed into the larger Amazon River in the northern Peruvian rainforest. For four decades, they have lived alongside oil production which has led to hundreds of spills and sites of contamination. For many years, the government was negligent and absent, and the communities had very little recourse.
 
