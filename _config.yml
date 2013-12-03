@@ -4,7 +4,7 @@ timezone: America/NewYork
 markdown: redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
-permalink: pretty
+permalink: /:categories/:title/
 exclude: 
   - wp-content
   - sass
