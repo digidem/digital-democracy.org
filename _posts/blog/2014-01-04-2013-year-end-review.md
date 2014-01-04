@@ -3,6 +3,7 @@ categories: blog
 layout: post
 published: false
 title: "2013: Year-End Review"
+author: Emily Jacobi
 ---
 
 ## Digital Democracy in 2013: A Year in Review
