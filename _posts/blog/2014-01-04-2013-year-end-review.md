@@ -6,6 +6,7 @@ title: "2013: Year-End Review"
 author: Emily Jacobi
 ---
 
+![Respeto_with_black_background_cropped.jpg](/assets/Respeto_with_black_background_cropped.jpg)
 ## Digital Democracy in 2013: A Year in Review
 
 As the year comes to a close, the Digital Democracy team feels great joy for all we've accomplished in the past 12 months. As you reflect on your own year and look forward to the next, we wanted to share some of our favorite moments & memories from 2013.
