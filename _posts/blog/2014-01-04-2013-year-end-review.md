@@ -4,7 +4,7 @@ layout: post
 published: false
 title: "2013: Year-End Review"
 author: Emily Jacobi
-image: (/assets/Respeto_with_black_background_cropped.jpg)
+image: /assets/Respeto_with_black_background_cropped.jpg
 ---
 
 ## Digital Democracy in 2013: A Year in Review
