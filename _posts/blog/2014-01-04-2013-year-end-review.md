@@ -4,10 +4,8 @@ layout: post
 published: true
 title: "2013: Year-End Review"
 author: Emily Jacobi
-image: ""
+image: /assets/Chiapaswoman.jpg
 ---
-
-![Chiapaswoman.jpg](/assets/Chiapaswoman.jpg)
 
 ## Digital Democracy in 2013: A Year in Review
 
