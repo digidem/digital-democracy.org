@@ -7,8 +7,6 @@ author: Emily Jacobi
 image: /assets/Chiapaswoman.jpg
 ---
 
-## Digital Democracy in 2013: A Year in Review
-
 As the year comes to a close, the Digital Democracy team feels great joy for all we've accomplished in the past 12 months. As you reflect on your own year and look forward to the next, we wanted to share some of our favorite moments & memories from 2013.
 
 **January:** Dd wins [an award from the Knight News Challenge](http://www.digital-democracy.org/blog/digital-democracy-selected-as-winner-of-the-knight-news-mobile-challenge/) to launch a new program called Remote Access. Executive Director Emily Jacobi travels to Yangon, Myanmar to give the [opening address](http://www.youtube.com/watch?v=3mOkTtVT7CM) at [BarCamp Yangon](https://www.facebook.com/barcampyangon).
