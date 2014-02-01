@@ -18,7 +18,7 @@ The Achuar’s home is under threat from oil drilling, which would irreversibly 
 
 In an historic gathering in 2003 Achuar elders and leaders from 40 Achuar villages in Peru developed a “Plan de Vida” (“Life Plan”) which lays out the Peruvian Achuar vision for the future of their territory and their people. They saw the threat of encroaching oil and logging industries and had seen the government maps that show their territory as an empty space. They asked for help to make detailed maps to show how they occupy and use this land, and how it is important to every aspect of their lands and identity.
 
-![Achuar leader](assets/peas-looking-out.jpg)
+![Achuar leader](/assets/peas-looking-out.jpg)
 
 The territory maps were completed in 2006 with the help of a local partner organization. They were critical in the Achuars’ [successful fight](http://amazonwatch.org/news/2012/0913-talisman-energy-withdraws-from-peruvian-amazon) to keep Canadian oil company Talisman Energy from drilling on their land.
 
