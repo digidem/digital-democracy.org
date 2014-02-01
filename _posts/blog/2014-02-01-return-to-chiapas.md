@@ -3,6 +3,10 @@ categories: blog
 layout: post
 published: false
 title: Return to Chiapas
+image: "/assets/chiapas-women-flipcam.jpg"
+tags: 
+  - featured
+author: Emily Jacobi
 ---
 
 This month, Dd is returning to Chiapas, Mexico to continue an initiative we began in 2012 called [Equal Footing](http://www.digital-democracy.org/ourwork/chiapas/). Working with Mayan villages in the Lacondon Jungle, we are supporting their efforts to communicate with the Mexican authorities who have threatened them with eviction from the rainforest where they live. 
