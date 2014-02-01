@@ -4,6 +4,10 @@ layout: post
 published: false
 title: Help the Achuar people defend their rainforest home
 author: Gregor MacLennan
+image: "/assets/Achuar%20map%20zoom.jpg"
+tags: 
+  - featured
+  - "front-page"
 ---
 
 In remote Amazon headwaters in Peru and Ecuador, the Achuar people have lived for generations in tropical rainforest of astounding natural beauty and biodiversity. For the Achuar, the rainforest provides them with water, food, medicine, stories, their identity, and their future.
@@ -24,4 +28,4 @@ We need your help to make this possible. We’re raising $5,000 to cover travel,
 
 Our aim is to provide the Achuar with the tools to tell their story to the world and demonstrate how their rights and way of life are under threat from oil development in their rainforest home. In the field, we’ll be working with the remote, unmapped Achuar village to develop detailed maps of their territory: their hunting camps, fishing grounds, spiritual sites, and stories. Afterward, we’ll be combining this map into an interactive map of all Achuar territory, which the Achuar can use as an advocacy tool to help defend their rights and territory.
 
-To help the Achuar defend their rainforest home you can **[donate now via paypal](http://www.digital-democracy.org/donate)**, or email info(at)digital-democracy.org to discuss other forms of support. 
+To help the Achuar defend their rainforest home you can **[donate now via paypal](http://www.digital-democracy.org/donate)**, or email info(at)digital-democracy.org to discuss other forms of support.
