@@ -9,7 +9,6 @@ wordpress_id: 4755
 categories:
 - blog
 tags:
-- front-page
 ---
 _Port-au-Prince, Haiti:_ Starting March 8, 2013 the KOFAVIV Gender-based Violence Call Center received nearly 2000 calls over the course of a mere 48 hours. Thankfully, the influx of calls was not a result of a spike in violence in Haiti, but rather a response to a campaign launched by [Digicel](http://www.digicelgroup.com/) in honor of International Women’s Day.
 

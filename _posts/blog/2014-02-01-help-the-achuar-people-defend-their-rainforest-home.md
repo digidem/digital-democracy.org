@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Help the Achuar people defend their rainforest home
 author: Gregor MacLennan
-image: "/assets/Achuar%20map%20zoom.jpg"
+image: "/assets/achuar-map-clip.jpg"
 tags: 
   - featured
   - "front-page"
