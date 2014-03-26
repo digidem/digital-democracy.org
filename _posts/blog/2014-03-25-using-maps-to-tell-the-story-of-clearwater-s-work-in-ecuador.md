@@ -15,7 +15,6 @@ tags:
 image: /assets/Clearwater Overview.jpg)
 ---
 
-![ClearWater overview 2.jpg](/assets/ClearWater overview 2.jpg)
 The Dd team is excited to announce the launch of a site we've been working on for months: An interactive map-based platform that tells the inspiring story of the [ClearWater Project](http://www.giveclearwater.org/introducing-clearwater/), an indigenous-led effort in Ecuador's northern Amazon region to bring clean water to thousands of people suffering from water contaminated by oil drilling. Check it out at http://www.giveclearwater.org/map/
 
 To highlight ClearWater's innovative approach to increasing access to clean water in contaminated areas, we collaborated to build an innovative map that animates the stories of the communities where ClearWater works. The ClearWater map shifts the usual way in which online readers view maps. Stories are connected along a narrative arc that guides the user through the communities and the featured stories. The website uses cutting edge web technologies to push to the limits what is possible in online mapping.
