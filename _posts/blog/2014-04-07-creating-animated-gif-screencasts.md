@@ -18,4 +18,8 @@ For [ClearWater's blog post](http://www.giveclearwater.org/2014/04/clearwaters-o
 
 [GifQuickMaker](https://itunes.apple.com/us/app/gifquickmaker/id411431426?mt=12) ($0.99) for fine-tuning the GIF frame-by-frame. In this case I added a pause to the first and last frame.
 
+And the final result:
+
+![Screencast 2 sm.gif](/assets/Screencast 2 sm.gif)
+
 An easier way to do this would be to upload to Youtube directly from Screencastify and convert to GIF using [yt2gif](http://yt2gif.com/) or similar, but this would now allow the same control over the output in terms of framerate, size, and timing.
