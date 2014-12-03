@@ -5,6 +5,7 @@ published: true
 title: Michal Migurski
 tags: board
 role: Board Member
+permalink: /team/mike/
 image: /assets/headshot_Mike_Migurski.jpg
 twitter: "@michalmigurski"
 ---

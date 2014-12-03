@@ -5,7 +5,7 @@ image: /assets/achuar-gps-monitoring.jpg
 categories:
 - projects
 featured: large
-permalink: /ourwork/ra
+permalink: /ourwork/ra/
 ---
 Oil contamination, illegal land grabs, forced labor. Remote communities in environmentally sensitive locations face these and other pressing threats to their land rights, natural resources and way of life. Often “off the grid,” these communities are unable to ensure equal footing in negotiations about their lives and land. Dd is partnering with groups in Chiapas, Mexico and the Amazon basin to build a mobile reporting platform for remote and indigenous communities.
 
