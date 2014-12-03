@@ -12,7 +12,7 @@ tags:
   - maps
   - ClearWater
   - Ecuador
-image: /assets/Clearwater Overview.jpg
+image: /assets/clearwater-overview.jpg
 ---
 
 The Dd team is excited to announce the launch of a site we've been working on for months: An interactive map-based platform that tells the inspiring story of the [ClearWater Project](http://www.giveclearwater.org/introducing-clearwater/), an indigenous-led effort in Ecuador's northern Amazon region to bring clean water to thousands of people suffering from water contaminated by oil drilling. Check it out at http://www.giveclearwater.org/map/
