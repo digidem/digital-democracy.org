@@ -8,7 +8,6 @@ twitter: "https://twitter.com/gmaclennan"
 tags: 
   - core
 published: true
-permalink: /team/gregor/
 image: /assets/headshot2.jpg
 ---
 

@@ -1,12 +1,9 @@
 ---
-categories: 
-  - projects
 layout: project
 title: "Empowering Women in Haiti: Harnessing Technology to Address GBV"
 image: "/assets/haiti-women-cameras-phone.jpg"
-featured: large
+featured: medium
 published: true
-permalink: /ourwork/haiti/
 ---
 
 > “There are realities we are living here that cannot remain hidden. If we ensure

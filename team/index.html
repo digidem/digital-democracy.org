@@ -4,7 +4,7 @@ layout: default
 <section class="row team">
   <h2>Core Team</h2>
   <ul class="large-block-grid-2">
-    {% for post in site.categories.team reversed %}
+    {% for post in site.team_and_board reversed %}
     {% if post.tags contains "core" %}
     <li>
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
@@ -19,7 +19,7 @@ layout: default
 <section class="row team">
   <h2>Board</h2>
   <ul class="large-block-grid-2">
-    {% for post in site.categories.team reversed %}
+    {% for post in site.team_and_board reversed %}
     {% if post.tags contains "board" %}
     <li>
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>

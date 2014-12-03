@@ -1,11 +1,8 @@
 ---
-categories: 
-  - projects
 layout: project
 title: Forest Change Monitoring in Guyana
 image: "/assets/guyana-truck-satellite.jpg"
-featured: medium
-permalink: /ourwork/guyana/
+featured: large
 published: true
 ---
 

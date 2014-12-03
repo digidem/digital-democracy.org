@@ -1,12 +1,9 @@
 ---
-categories: 
-  - projects
 layout: project
 title: "Equal Footing: Fighting Forced Evictions in Chiapas"
 image: "/assets/chiapas-women-flipcam.jpg"
 featured: small
 published: true
-permalink: /ourwork/chiapas/
 ---
 
 > "The government is ... saying that we are burning down the trees, but that's not true.
