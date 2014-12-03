@@ -8,7 +8,7 @@ author: Shahla Fatemi
 tags: 
   - "front-page"
   - CGI2013
-image: /assets/Emily w Hillary.png
+image: /assets/emily-hillary.jpg
 "": haiti
 ---
 
