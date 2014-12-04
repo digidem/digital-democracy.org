@@ -37,7 +37,7 @@ layout: default
       By <address class="author">{{ post.author}}</address> 
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
-    {{ post.excerpt | markdownify }}
+    <p>{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
   {% endfor %}
 </section>
@@ -59,7 +59,7 @@ layout: default
       By <address class="author">{{ post.author}}</address> 
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
-    {{ post.excerpt | markdownify }}
+    <p>{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </section>
 {% endunless %}
