@@ -26,7 +26,13 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
   &.postlist {
     &.row {
-    margin-bottom: 2em;
+      margin-bottom: 2em;
+
+      &::before {
+        display: block;
+        float: left;
+        padding-bottom: 25%;
+      }
     }
     .aspect-ratio {
       margin-top: 0.6em;
