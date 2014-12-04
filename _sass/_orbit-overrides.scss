@@ -3,10 +3,10 @@
 
 .slideshow-wrapper {
   height: 0;
-  padding-bottom: $ratio16x9;
+  padding-bottom: map-get($ratios, "ratio2x1");
   ul {
     li {
-      @include image-ratio($ratio16x9);
+      @include image-ratio(map-get($ratios, "ratio2x1"));
     }
   }
 }
@@ -17,7 +17,7 @@
 
 @media #{$small} {
   .slideshow-wrapper {
-    margin-top: - $topbar-margin-bottom - remCalc($topbar-height) - $topbar-margin-top;
+    margin-top: - $topbar-margin-bottom - emCalc($topbar-height) - $topbar-margin-top;
   }
 }
 

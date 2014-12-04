@@ -3,13 +3,12 @@
 
 $caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
 $left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
-$leftbar-width: remCalc(85);
+$leftbar-width: emCalc(85);
 
 article.article {
-  top: - $topbar-margin-top - remCalc($topbar-height) - $topbar-margin-top;
+  top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
   position: relative;
   header {
-    @include image-ratio($ratio24x10);
     .caption {
       @include caption($caption-bg);
       text-align: center;

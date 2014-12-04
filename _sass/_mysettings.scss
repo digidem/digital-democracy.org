@@ -52,11 +52,14 @@ $dd-logo-size: 85px;
 $donate-button: #e09602;
 $author-link: #e09602;
 
-$ratio24x10: 41.67%;
-$ratio2x1: 50%;
-$ratio16x9: 56.25%;
-$ratio4x3: 75%;
-$ratio1x1: 100%;
+$ratios: (
+  ratio24x10: 41.67%,
+  ratio2x1: 50%,
+  ratio16x9: 56.25%,
+  ratio4x3: 75%,
+  ratio1x1: 100%,
+  ratio3x2: 66.67%
+);
 
 
 // Change whether or not you include browser prefixes

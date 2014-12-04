@@ -1,5 +1,3 @@
-@import "mixin-image-ratio";
-
 section.mission-statement {
   @include grid-row();
   margin: 1em auto;
@@ -38,7 +36,6 @@ section.latest-news {
   .post {
     @include block-grid(1);
     header {
-      @include image-ratio($ratio16x9);
       background-color: #eee;
       margin-bottom: 0.5em;
       h4 {
