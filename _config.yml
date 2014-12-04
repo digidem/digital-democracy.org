@@ -21,3 +21,5 @@ collections:
   projects:
     output: true
     permalink: /ourwork/:path/
+paginate: 10
+paginate_path: "blog/:num/"
