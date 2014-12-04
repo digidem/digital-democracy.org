@@ -43,7 +43,7 @@ layout: default
 <section class="latest-news">
   <h3>Latest From <a href="/blog/">Our Blog</a></h3>
   <ul class="post">
-    {% for post in site.categories.blog limit:4 %}
+    {% for post in site.posts limit:4 %}
     <li>
       <header class="aspect-ratio ratio16x9">
         <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
