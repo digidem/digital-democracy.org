@@ -14,3 +14,12 @@ exclude:
   - .gitignore
   - .tm_properties
   - CNAME
+collections:
+  team_and_board:
+    output: true
+    permalink: /team/:path/
+  projects:
+    output: true
+    permalink: /ourwork/:path/
+paginate: 10
+paginate_path: "blog/:num/"

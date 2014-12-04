@@ -1,11 +1,35 @@
 ---
 layout: default
 ---
+{% if paginator.page > 1 %}
+<!-- Pagination links -->
+<div class="blog pagination row">
+  <div class="previous small-4 columns">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">&lt; Newer posts</a>
+  {% else %}
+    &nbsp;
+  {% endif %}
+  </div>
+  <div class="page_number small-4 columns">Page: {{ paginator.page }} of {{ paginator.total_pages }}</div>
+  <div  class="next small-4 columns">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Older posts &gt;</a>
+  {% else %}
+    &nbsp;
+  {% endif %}
+  </div>
+</div>
+
+{% else %}
+
 <section class="blog row featured">
   {% for post in site.tags.featured limit:1 %}
   {% assign featuredPostUrl = post.url %}
   <div class="small-12 push-4 large-8 columns">
+    <div class="aspect-ratio ratio3x2">
     <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
+    </div>
   </div>
   <div class="small-12 pull-8 large-4 columns">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -13,27 +37,49 @@ layout: default
       By <address class="author">{{ post.author}}</address> 
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
-    {{ post.excerpt | markdownify }}
+    <p>{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
   {% endfor %}
 </section>
+{% endif %}
 
-{% for post in site.categories.blog limit:10 %}
+{% for post in paginator.posts %}
 {% unless post.url == featuredPostUrl %}
 <section class="blog row postlist">
   <div class="small-12 large-4 columns">
+    <div class="aspect-ratio ratio3x2">
     <a href="{{post.url}}">
-    <img src="{{ post.image }}">
+    <img src="{% if post.image %}{{ post.image }}{% else %}/assets/1x1aaaaaa.png{% endif %}">
     </a>
+    </div>
   </div>
   <div class="small-12 large-8 columns">
-    <h5><a href="{{ post.url }}">{{ post.title}}</a></h5>
+    <h4><a href="{{ post.url }}">{{ post.title}}</a></h4>
     <div class="byline">
       By <address class="author">{{ post.author}}</address> 
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
-    {{ post.excerpt }}
+    <p>{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </section>
 {% endunless %}
 {% endfor %}
+
+<!-- Pagination links -->
+<div class="blog pagination row">
+  <div class="previous small-4 columns">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">&lt; Newer posts</a>
+  {% else %}
+    &nbsp;
+  {% endif %}
+  </div>
+  <div class="page_number small-4 columns">Page: {{ paginator.page }} of {{ paginator.total_pages }}</div>
+  <div  class="next small-4 columns">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Older posts &gt;</a>
+  {% else %}
+    &nbsp;
+  {% endif %}
+  </div>
+</div>

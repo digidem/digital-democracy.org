@@ -4,36 +4,34 @@ layout: default
 {% assign posts = '' %}
 
 {% assign limit = '-2' %}
-{% for post in site.posts %}
-{% if post.featured contains 'large' and post.categories contains 'projects' and limit contains '-' %}
+{% for post in site.projects %}
+{% if post.featured contains 'large' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
 {% endfor %}
 
 {% assign limit = '-1' %}
-{% for post in site.posts %}
-{% if post.featured contains 'medium' and post.categories contains 'projects' and limit contains '-' %}
+{% for post in site.projects %}
+{% if post.featured contains 'medium' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
 {% endfor %}
 
 {% assign limit = '-2' %}
-{% for post in site.posts %}
-{% if post.featured contains 'small' and post.categories contains 'projects' and limit contains '-' %}
+{% for post in site.projects %}
+{% if post.featured contains 'small' and limit contains '-' %}
 {% capture limit %}{{ limit | plus: 1 }}{% endcapture %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endif %}
 {% endfor %}
 
-{% for post in site.posts %}
-{% if post.categories contains 'projects' %}
+{% for post in site.projects %}
 {% capture index0 %}{{ forloop.index0 }}{% endcapture %}
 {% unless posts contains index0 %}
 {% capture posts %}{{ posts | append: forloop.index0 }},{% endcapture %}
 {% endunless %}
-{% endif %}
 {% endfor %}
 
 {% assign posts = posts | split: "," %}
@@ -41,9 +39,9 @@ layout: default
 <section class="projects">
   
   <ul>
-    {% assign limit = '-6' %}{% for index in posts %}{% for post in site.posts %}{% capture index0 %}{{ forloop.index0 }}{% endcapture %}{% if index0 == index %}{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}{% if limit contains '-' %}{% assign class = post.featured | append: " featured" %}{% endif %}
+    {% assign limit = '-6' %}{% for index in posts %}{% for post in site.projects %}{% capture index0 %}{{ forloop.index0 }}{% endcapture %}{% if index0 == index %}{% capture limit %}{{ limit | plus: 1 }}{% endcapture %}{% if limit contains '-' %}{% assign class = post.featured | append: " featured" %}{% endif %}
     <li class="project {{ class }}">
-      <header>
+      <header class="aspect-ratio">
         <a href="{{post.url}}"><img src="{{ post.image }}"></a>
         <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
       </header>
