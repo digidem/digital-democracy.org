@@ -48,7 +48,9 @@ layout: default
 <section class="blog row postlist">
   <div class="small-12 large-4 columns">
     <div class="aspect-ratio ratio3x2">
-    <a href="{{post.url}}"><img src="{{ post.image }}"></a>
+    <a href="{{post.url}}">
+    <img src="{% if post.image %}{{ post.image }}{% else %}/assets/1x1aaaaaa.png{% endif %}">
+    </a>
     </div>
   </div>
   <div class="small-12 large-8 columns">
