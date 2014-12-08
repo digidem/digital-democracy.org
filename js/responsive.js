@@ -9,8 +9,6 @@
 
         var images = document.getElementsByTagName('IMG');
 
-        console.log(images);
-
         for (var i = 0; i < images.length; i++) {
             width = images[i].clientWidth;
             if (width > 0) {
@@ -20,7 +18,7 @@
             }
         }
 
-        function loadResponsive() {
+        function loadResponsive(e) {
             var image = this,
                 width = image.clientWidth,
                 responsiveImage = new Image(),
@@ -28,6 +26,8 @@
                 i = 0,
                 hostname,
                 url;
+
+            if (e) console.log("loaded", this.src, width);
 
             image.removeEventListener('load', loadResponsive);
 
@@ -43,10 +43,12 @@
 
             responsiveImage.onload = function() {
                 this.onload = null;
+                console.log('setting source from %s to %s', image.src, url);
                 image.src = url;
             };
 
             responsiveImage.onerror = function(e) {
+                console.log("Error loading:", this.src);
                 this.onload = null;
             };
 
