@@ -4,15 +4,15 @@ layout: default
 {% if paginator.page > 1 %}
 <!-- Pagination links -->
 <div class="blog pagination row">
-  <div class="previous small-4 columns">
+  <div class="previous small-6 large-4 columns">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">&lt; Newer posts</a>
   {% else %}
     &nbsp;
   {% endif %}
   </div>
-  <div class="page_number small-4 columns">Page: {{ paginator.page }} of {{ paginator.total_pages }}</div>
-  <div  class="next small-4 columns">
+  <div class="page_number large-4 show-for-medium-up columns">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
+  <div  class="next small-6 large-4 columns">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Older posts &gt;</a>
   {% else %}
@@ -67,15 +67,15 @@ layout: default
 
 <!-- Pagination links -->
 <div class="blog pagination row">
-  <div class="previous small-4 columns">
+  <div class="previous small-6 large-4 columns">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">&lt; Newer posts</a>
   {% else %}
     &nbsp;
   {% endif %}
   </div>
-  <div class="page_number small-4 columns">Page: {{ paginator.page }} of {{ paginator.total_pages }}</div>
-  <div  class="next small-4 columns">
+  <div class="page_number large-4 show-for-medium-up columns">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
+  <div  class="next small-6 large-4 columns">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Older posts &gt;</a>
   {% else %}
