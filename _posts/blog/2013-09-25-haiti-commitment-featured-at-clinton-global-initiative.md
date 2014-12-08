@@ -9,7 +9,6 @@ tags:
   - "front-page"
   - CGI2013
 image: /assets/emily-hillary.jpg
-"": haiti
 ---
 
 Today, Dd was honored to make a commitment progress report onstage at the Clinton Global Initiative Annual Meeting 2013 with Eramithe Delva, co-founder of Haitian women's organization, KOFAVIV. 
