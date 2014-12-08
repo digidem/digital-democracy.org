@@ -14,15 +14,18 @@
             } else {
                 intervalID = window.setInterval(monitor, 50);
                 $img.on('load', resizeImage);
-                $img.on('error', function() {
-                    window.clearInterval(intervalID);
-                });
+                $img.on('error', onError);
+            }
+
+            function onError() {
+                window.clearInterval(intervalID);
             }
 
             function monitor() {
                 if (!img.clientHeight) return;
                 window.clearInterval(intervalID);
-                $img.off('load error');
+                $img.off('load', resizeImage);
+                $img.off('error', onError);
                 resizeImage.call(img);
             }
         });
