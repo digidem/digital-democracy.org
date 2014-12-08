@@ -22,8 +22,8 @@
             var image = this,
                 width = image.clientWidth,
                 responsiveImage = new Image(),
-                responsiveWidth = 0,
-                i = 0,
+                responsiveWidth = sizes[0],
+                i = 1,
                 hostname,
                 url;
 
@@ -31,7 +31,7 @@
 
             image.removeEventListener('load', loadResponsive);
 
-            while (i < sizes.length && width > sizes[i]) {
+            while (i < sizes.length && width > sizes[i - 1]) {
                 responsiveWidth = sizes[i];
                 i++;
             }
