@@ -48,7 +48,8 @@
             if (img.clientHeight < offsetParent.clientHeight) {
                 img.style.height = '100%';
                 img.style.width = 'auto';
-            } else {
+            } 
+            if (img.clientWidth < offsetParent.clientWidth) {
                 img.style.height = 'auto';
                 img.style.width = '100%';
             }
@@ -116,8 +117,7 @@
     window.addEventListener('resize', onresize);
 
     function onresize() {
-        //if (getWindowWidth() < windowWidth) return;
-        if (Date.now() < lastRun + 100) return;
+        if (Math.abs(getWindowWidth() - windowWidth) < 100) return;
         windowWidth = getWindowWidth();
         window[scriptName](elements, options);
     }
