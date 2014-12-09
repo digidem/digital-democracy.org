@@ -5,7 +5,6 @@ published: true
 title: Meg Satterthwaite
 tags: board
 role: Board Member
-permalink: /team/meg/
 image: /assets/Satterthwaite headshot.jpg
 twitter: "https://twitter.com/SatterthwaiteML"
 ---

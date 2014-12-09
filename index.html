@@ -50,7 +50,7 @@ layout: default
         <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       </header>
       <div class="byline">
-        By <address class="author">{{ post.author}}</address> 
+        By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address>
         on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
       </div>
       <p>{{ post.excerpt | strip_html}}</p>

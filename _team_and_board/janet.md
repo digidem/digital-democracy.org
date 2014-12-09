@@ -5,7 +5,6 @@ published: true
 title: Janet Harris
 tags: board
 role: Board President
-permalink: /team/janet/
 image: /assets/Janet_Harris.jpg
 ---
 

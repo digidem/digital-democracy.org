@@ -17,7 +17,7 @@ exclude:
 collections:
   team_and_board:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:title/
   projects:
     output: true
     permalink: /ourwork/:path/

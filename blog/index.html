@@ -34,7 +34,7 @@ layout: default
   <div class="small-12 pull-8 large-4 columns">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <div class="byline">
-      By <address class="author">{{ post.author}}</address> 
+      By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address>
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
     <p>{{ post.excerpt | strip_html }}</p>
@@ -65,7 +65,7 @@ layout: default
   <div class="small-12 large-8 columns">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     <div class="byline">
-      By <address class="author">{{ post.author}}</address> 
+      By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address>
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </div>
     <p>{{ post.excerpt | strip_html }}</p>
