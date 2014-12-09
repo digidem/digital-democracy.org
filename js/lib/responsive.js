@@ -1,7 +1,7 @@
 ;
 (function($, window, document, undefined) {
 
-    var scriptName = 'loadResponsiveImages'
+    var scriptName = 'loadResponsiveImages';
 
     window[scriptName] = function() {
         var options = arguments[1],
@@ -25,10 +25,25 @@
         var images = document.getElementsByTagName('IMG');
 
         for (var i = 0; i < images.length; i++) {
-            onHasWidth(images[i], loadResponsive);
+            onHasDimensions(images[i], function() {
+                fixAspectRatio.call(this);
+                loadResponsive.call(this);
+            });
         }
 
-        function loadResponsive(e) {
+        function fixAspectRatio() {
+            var img = this;
+            var offsetParent = img.offsetParent;
+
+            if (offsetParent.className.indexOf('aspect-ratio') === -1) return;
+
+            if (img.clientHeight < offsetParent.clientHeight) {
+                img.style.height = '100%';
+                img.style.width = 'auto';
+            }
+        }
+
+        function loadResponsive() {
             var image = this,
                 responsiveImage = new Image(),
                 responsiveWidth = sizes[0],
@@ -61,27 +76,27 @@
 
     if ($) $.fn[scriptName] = window[scriptName];
 
-    function onHasWidth(img, callback) {
-        if (img.clientWidth > 0) {
-            hasWidth.call(img);
+    function onHasDimensions(img, callback) {
+        if (img.clientWidth && img.clientHeight) {
+            hasDim.call(img);
         } else {
             var intervalID = window.setInterval(monitor, 10);
-            img.addEventListener('load', hasWidth);
+            img.addEventListener('load', hasDim);
             img.addEventListener('error', stopMonitoring);
         }
 
         function stopMonitoring() {
             window.clearInterval(intervalID);
-            img.removeEventListener('load', hasWidth);
+            img.removeEventListener('load', hasDim);
             img.removeEventListener('error', stopMonitoring);
         }
 
         function monitor() {
-            if (!img.clientWidth) return;
-            hasWidth.call(img);
+            if (!img.clientWidth || !img.clientHeight) return;
+            hasDim.call(img);
         }
 
-        function hasWidth() {
+        function hasDim() {
             stopMonitoring();
             callback.call(img);
         }
