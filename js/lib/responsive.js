@@ -1,11 +1,16 @@
 ;
 (function($, window, document, undefined) {
 
+    function getWindowWidth() {
+        return window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    }
+
     var scriptName = 'loadResponsiveImages';
+    var elements, options, lastRun;
+    var windowWidth = getWindowWidth();
 
     window[scriptName] = function() {
-        var options = arguments[1],
-            elements;
+        options = arguments[1];
 
         if ($ && this instanceof $) elements = this;
 
@@ -24,6 +29,8 @@
 
         var images = document.getElementsByTagName('IMG');
 
+        lastRun = Date.now();
+
         for (var i = 0; i < images.length; i++) {
             onHasDimensions(images[i], function() {
                 fixAspectRatio.call(this);
@@ -35,11 +42,15 @@
             var img = this;
             var offsetParent = img.offsetParent;
 
+            if (!offsetParent) return;
             if (offsetParent.className.indexOf('aspect-ratio') === -1) return;
 
             if (img.clientHeight < offsetParent.clientHeight) {
                 img.style.height = '100%';
                 img.style.width = 'auto';
+            } else {
+                img.style.height = 'auto';
+                img.style.width = '100%';
             }
         }
 
@@ -57,7 +68,7 @@
 
             url = image.src.replace(/^https?:\/\/[^\/]*/, hostname);
             url = url.split('?').shift();
-            url = url.replace(/(\.[^\.]{1,4})$/, '-' + responsiveWidth + retina + '$1');
+            url = url.replace(/(?:-\d{1,4})?(?:@2x)?(\.[^\.]{1,4})$/, '-' + responsiveWidth + retina + '$1');
 
             responsiveImage.onload = function() {
                 this.onload = null;
@@ -100,6 +111,15 @@
             stopMonitoring();
             callback.call(img);
         }
+    }
+
+    window.addEventListener('resize', onresize);
+
+    function onresize() {
+        //if (getWindowWidth() < windowWidth) return;
+        if (Date.now() < lastRun + 100) return;
+        windowWidth = getWindowWidth();
+        window[scriptName](elements, options);
     }
 
 })($, window, document);
