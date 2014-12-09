@@ -8,7 +8,10 @@ $leftbar-width: emCalc(85);
 article.article {
   top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
   position: relative;
+
   header {
+    width: 100%;
+    @include image-ratio(map-get($ratios, "ratio4x3"));
     .caption {
       @include caption($caption-bg);
       text-align: center;
@@ -32,11 +35,38 @@ article.article {
       }
     }
   }
+
   .content {
     @include grid-row();
     position: relative;
-    padding-left: 1em + $leftbar-width;
     padding-top: 1em;
+    img {
+      width: 100%;
+    }
+    & > p:first-child {
+      padding-right: 0.5em;
+      font-size: 1.1em;
+    }
+    p {
+      padding-left: 1em;
+      padding-right: 1em;
+//      font-family: 'Times New Roman', Times, serif;
+    }
+  }
+}
+
+@media #{$small} {
+  article.article header {
+    padding-bottom: map-get($ratios, "ratio16x9");
+    .caption {
+      left: $leftbar-width;
+      width: auto;
+      right: 33%;
+    }
+  }
+  article.article .content {
+    padding-left: 3em + $leftbar-width;
+    padding-top: 2em;
     &:before {
       height: 999em;
       position: absolute;
@@ -52,30 +82,12 @@ article.article {
       margin: 0.25em -50% 0.25em 1em;
     }
     & > p:first-child {
-      padding-right: 0.5em;
-      font-size: 1.1em;
-    }
-    p {
-//      font-family: 'Times New Roman', Times, serif;
-    }
-  }
-}
-
-@media #{$small} {
-  article.article header .caption {
-    left: $leftbar-width;
-    width: auto;
-    right: 33%;
-  }
-  article.article .content {
-    padding-left: 3em + $leftbar-width;
-    padding-top: 2em;
-    & > p:first-child {
       padding-right: 1em;
       font-size: 1.2em;
     }
     p {
       padding-right: percentage(1/3);
+      padding-left: 0;
     }
   }
 }
@@ -96,6 +108,9 @@ article.article {
 }
 
 @media #{$large} {
+  article.article header {
+    padding-bottom: map-get($ratios, "ratio24x10");
+  }
   article.article .content {
     & > p:first-child {
       font-size: 1.4em;

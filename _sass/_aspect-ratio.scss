@@ -1,19 +1,7 @@
-@import "compass/css3/transform";
+@import "mixin-image-ratio";
 
 .aspect-ratio {
-  position: relative;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-  img {
-    width: 100%;
-    max-width: none;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    height: auto;
-    @include translate(-50%, -50%);
-  }
+  @include image-ratio();
 }
 
 @each $classname, $ratio in $ratios {
