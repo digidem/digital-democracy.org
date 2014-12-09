@@ -23,3 +23,6 @@ collections:
     permalink: /ourwork/:path/
 paginate: 10
 paginate_path: "blog/:num/"
+sass:
+  style: :nested
+  line_comments: true
