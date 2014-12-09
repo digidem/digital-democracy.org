@@ -33,7 +33,7 @@
 
     function resizeImage() {
         var $img = $(this);
-        if ($img.height() < $img.offsetParent().innerHeight()) {
+        if ($img.height() < $img.offsetParent().height()) {
             $img.height('100%');
             $img.width('auto');
         }
