@@ -45,16 +45,25 @@ layout: default
 
 {% for post in paginator.posts %}
 {% unless post.url == featuredPostUrl %}
+{% capture has_content_image %}{{ post.content | split: '.jpg"' | size }}{% endcapture %}
+{% if post.image %}
+{% capture post_image %}{{ post.image }}{% endcapture %}
+{% elsif has_content_image != '1' %}
+{% capture post_image %}{{ post.content | split: '.jpg"' | first }}.jpg{% endcapture %}
+{% capture post_image %}{{ post_image | split: 'src="' | last }}{% endcapture %}
+{% else %}
+{% capture post_image %}/assets/1x1aaaaaa.png{% endcapture %}
+{% endif %}
 <section class="blog row postlist">
   <div class="small-12 large-4 columns">
     <div class="aspect-ratio ratio3x2">
     <a href="{{post.url}}">
-    <img src="{% if post.image %}{{ post.image }}{% else %}/assets/1x1aaaaaa.png{% endif %}">
+    <img src="{{ post_image }}">
     </a>
     </div>
   </div>
   <div class="small-12 large-8 columns">
-    <h4><a href="{{ post.url }}">{{ post.title}}</a></h4>
+    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     <div class="byline">
       By <address class="author">{{ post.author}}</address> 
       on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
