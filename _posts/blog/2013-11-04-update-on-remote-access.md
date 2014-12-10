@@ -21,6 +21,7 @@ What role is Digital Democracy playing? For years we have been working with marg
 To read more about the situation in Peru and the work we're doing to address it, check out my recent guest blog post for the Transparency & Accountability Initiative (TAI) blog, [Documenting Oil Spills: Transparency in Hard to Reach Places](http://tech.transparency-initiative.org/emily-jacobi-documenting-oil-spills-transparency-in-hard-to-reach-places/).
 
 To see firsthand what Gregor and I were up to in Peru this spring, including photos of the oil spills, view our recent slideshow:
+
 <iframe src="http://www.slideshare.net/slideshow/embed_code/26455085" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/emjacobi/launching-remote-access-in-the-amazon" title="Tech, Oil Spills &amp; Indigenous Communities in the Amazon" target="_blank">Tech, Oil Spills &amp; Indigenous Communities in the Amazon</a> </strong> from <strong><a href="http://www.slideshare.net/emjacobi" target="_blank">Emily Jacobi</a></strong> </div>
 
 Next up, we are focusing on building out prototype devices to make it easier for our local partners to collect and manage information in the field. We aim to reduce the time it takes for them to aggregate information on oil spills. Currently, it takes 6-18 months - we hope to reduce this time to days/weeks.

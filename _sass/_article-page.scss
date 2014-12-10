@@ -90,11 +90,17 @@ article.article {
         width: 100%;
         float: right;
         position: relative;
-        margin: 0.25em -50% 0.25em 1em;
+        margin: 0.85em -50% 0.85em 1em;
       }
       & > p:first-child {
         padding-right: 1em;
         font-size: 1.2em;
+      }
+      h1 {
+        font-size: emCalc(27);        
+      }
+      h2 {
+        font-size: emCalc(23);
       }
       p, p.image {
         padding-right: percentage(1/3);

@@ -18,9 +18,9 @@ During the month of March, call center operators fielded thousands of calls from
 
 For our partner KOFAVIV, the promotion from Digicel was a major victory in their efforts to support survivors of sexual violence throughout the country. According to Wismide, one of the call center operators, “Even if callers aren't victims at the time of the call, we hope they will remember 572 as a resource and share it with people close to them. The more people are informed about what to do, the more support survivors will have in their communities in the future.”
 
-![image](http://farm9.staticflickr.com/8119/8758626267_be595757a5_z.jpg)
-
 ##Calls in Context: Current Rates of Sexual Violence in PaP
+
+![image](http://farm9.staticflickr.com/8119/8758626267_be595757a5_z.jpg)
 
 KOFAVIV and other women’s organizations continue to be alarmed by the steady rates of sexual violence in and around Port-au-Prince. In the first 3 months of 2013 alone, KOFAVIV has documented 110 incidents. But despite the consistent influx of cases, community agents have noted some positive changes as a result of ongoing awareness-raising campaigns like this one. As Fania, one of the KOFAVIV Technology Agents, shared:
 
