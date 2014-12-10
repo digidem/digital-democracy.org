@@ -12,7 +12,13 @@ article.article {
     width: 100%;
     @include image-ratio(map-get($ratios, "ratio1x1"));
     .caption {
-      @include caption($caption-bg);
+      position: absolute;
+      right: 0;
+      width: 100%;
+      bottom: 0;
+      background-color: $caption-bg;
+      margin: 0;
+      padding: 0.5em 1em;
       text-align: center;
       color: #eee;
       h2 {

@@ -1,3 +1,7 @@
+a:hover {
+  text-decoration: underline;
+}
+
 //
 // Foundation Variables
 //
@@ -824,7 +828,7 @@ $flex-video-widescreen-padding-bottom: 56.25%;
 
 // $orbit-container-bg: #f5f5f5;
 // $orbit-caption-bg-old: rgb(0,0,0);
-$orbit-caption-bg: rgba(0,0,0,0.8);
+$orbit-caption-bg: rgba(0,0,0,0.4);
 // $orbit-caption-font-color: #fff;
 
 // We use these to control the left/right nav styles

@@ -2,31 +2,26 @@
 @import "mixin-image-ratio";
 
 section.projects {
-  @include grid-row();
+  width: 100%;
   position: relative;
   ul {
-    @include block-grid(false, 2%);
+    @include block-grid(null, 0);
     li {
       width: 100%;
-      margin-bottom: 2%;
-      padding-bottom: 0;
+      padding: 0;
       img {
         display: none;
       }
       &.featured {
         header {
+          padding-bottom: map-get($ratios, "ratio4x3");
           img {
             display: block;
           }
-          h3 {
-            @include caption();
+          @include caption();
+          .title {
+            display: none;
           }
-        }
-        &.medium header {
-          padding-bottom: map-get($ratios, "ratio16x9");
-        }
-        &.small header {
-          padding-bottom: map-get($ratios, "ratio2x1");
         }
       }
     }
@@ -36,51 +31,89 @@ section.projects {
 @media #{$small} {
   section.projects ul li {
     width: 50%;
-    &.featured {
-      &.large, &.medium {
-        width: 100%;
+    h3 {
+      font-size: $h4-font-size;
+    }
+    header {
+      padding-bottom: map-get($ratios, "ratio1x1");
+    }
+    img {
+      display: block;
+    }
+    &.large:first-child {
+      width: 100%;
+      h3 {
+        font-size: $h3-font-size;
       }
-      &.medium header {
-        padding-bottom: map-get($ratios, "ratio2x1");
-      }
-      &.large header {
+      header {
+        .title {
+          display: block;
+        }
+        .short-title {
+          display: none;
+        }
         padding-bottom: map-get($ratios, "ratio16x9");
       }
     }
   }
 }
 
-@media only screen and (min-width:"#{$small-screen}") and (orientation: landscape) {
-  section.projects ul li.featured {
-    &.large {
-      width: 66.67%;
-      float: right;
-      header {
-        padding-bottom: map-get($ratios, "ratio2x1");
+@media #{$medium} {
+  section.projects ul li {
+    width: 33.33%;
+    h3 {
+        font-size: $h3-font-size;
+    }
+    &.featured {
+      &.large {
+        width: 66.67%;
+        float: right;
+        header {
+          padding-bottom: map-get($ratios, "ratio2x1");
+          .title {
+            display: block;
+          }
+          .short-title {
+            display: none;
+          }
+        }
+        &:first-child {
+          float: left;
+          header {
+            padding-bottom: map-get($ratios, "ratio4x3");
+          }
+        }
+      }
+      &.medium {
+        header {
+          padding-bottom: map-get($ratios, "ratio1x1");
+        }
+      }
+      &.small {
+        position: absolute;
+        top: 0;
+        right: 0;
+        h3 {
+          font-size: $h4-font-size;
+        }
+        header {
+          padding-bottom: map-get($ratios, "ratio4x3");
+        }
+        &:last-child {
+          margin-top: 25%;
+        }
       }
     }
-    &:first-child {
-      float: left;
+  }
+}
+
+@media #{$large} {
+  section.projects ul li.featured header {
+    .title {
+      display: block;
     }
-    &.medium {
-      width: 33.33%;
-      header {
-        font-size: emCalc(14);
-        padding-bottom: map-get($ratios, "ratio1x1") + 2;
-      }
-    }
-    &.medium + li.small {
-      margin-top: 17%;
-    }
-    &.small {
-      width: 33.33%;
-      position: absolute;
-      top: 0;
-      right: 0;
-      header {
-        font-size: emCalc(12);
-        padding-bottom: map-get($ratios, "ratio2x1");
-      }
+    .short-title {
+      display: none;
     }
   }
 }

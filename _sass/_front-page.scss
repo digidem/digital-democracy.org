@@ -1,3 +1,6 @@
+@import "mixin-caption";
+@import "compass/css3/transform";
+
 section.mission-statement {
   @include grid-row();
   margin: 1em auto;
@@ -19,11 +22,25 @@ nav.subnav {
     list-style: none;
     li {
       @include grid-column(4);
-      height: 0;
-      padding: 0 3% 20%;
-      overflow: hidden;
       a {
+        &:before {
+          content: " ";
+          display: block;
+          padding-bottom: map-get($ratios, "ratio3x2");
+        }
         display: block;
+        width: 100%;
+        position: relative;
+        background-color: blue;
+      }
+      h2 {
+        color: white;
+        text-align: center;
+        position: absolute;
+        margin-top: 0;
+        width: 100%;
+        top: 50%;
+        @include translateY(-50%);
       }
       img {
         width: 100%;
@@ -38,16 +55,8 @@ section.latest-news {
   .post {
     @include block-grid(1);
     header {
-      background-color: #eee;
       margin-bottom: 0.5em;
-      h4 {
-        position: absolute;
-        width: 100%;
-        bottom: 0;
-        background-color: $orbit-caption-bg;
-        margin: 0;
-        padding: 0.5em 1em;
-      }
+      @include caption(rgba(0,0,0,0.3));
     }
     .byline {
       line-height: 1.2em;
