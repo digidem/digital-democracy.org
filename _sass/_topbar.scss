@@ -214,7 +214,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
 }
 
 // Top Bar styles intended for screen sizes above the breakpoint.
-@media #{$small} {
+@media #{$medium} {
 
   header.site-header {
     margin-top: $topbar-margin-bottom;
