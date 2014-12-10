@@ -24,7 +24,7 @@ nav.subnav {
       @include grid-column(4);
       a {
         &:before {
-          content: " ";
+          // content: " ";
           display: block;
           padding-bottom: map-get($ratios, "ratio3x2");
         }
