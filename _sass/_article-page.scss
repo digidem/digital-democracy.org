@@ -57,6 +57,10 @@ article.article {
       padding-right: 1em;
 //      font-family: 'Times New Roman', Times, serif;
     }
+    p.image {
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
 }
 
@@ -92,7 +96,7 @@ article.article {
         padding-right: 1em;
         font-size: 1.2em;
       }
-      p {
+      p, p.image {
         padding-right: percentage(1/3);
         padding-left: 0;
       }

@@ -15,7 +15,7 @@ layout: default
     </div>
   </header>
   <div class="content">
-    {{ content }}
+    {{ content | replace: '<p><img', '<p class="image"><img' }}
   </div>
   {% include disqus.html %}
 </article>
