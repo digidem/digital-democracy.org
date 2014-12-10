@@ -1,0 +1,17 @@
+$anchor-underline-color: #95d2e5;
+
+p a {
+  border-bottom: 2px solid $anchor-underline-color;
+  box-shadow: inset 0 -2px 0 $anchor-underline-color;
+  color: inherit;
+  &:hover {
+    color: inherit;
+  }
+}
+
+@media #{$medium} {
+  p a {
+    border-bottom-width: 3px;
+    box-shadow: inset 0 -3px 0 $anchor-underline-color;
+  }
+}
