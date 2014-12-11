@@ -1,0 +1,120 @@
+@import "compass/css3/transform";
+@import "extend-fixed-ratio";
+@import "mixin-underline";
+@import "mixin-hover-zoom";
+$underline-color: rgba(255, 255, 255, 0.7);
+$background-color: rgba(0, 0, 0, 0.3);
+.excerpt {
+  .wrapper, header {
+    @extend %fixed-ratio-outer;
+  }
+  header {
+    img {
+      @extend %fixed-ratio-inner;
+    }
+    h3 {
+      pointer-events: none;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 0.7em 0.8em 0.5em;
+      margin: 0;
+      color: white;
+      text-shadow: #333 0 0 2px;
+      transition: bottom 200ms ease-in-out;
+      &.background {
+        background-color: $background-color;
+      }
+      .full-title {
+        display: none;
+      }
+      a {
+        color: inherit;
+        &:hover {
+          color: inherit;
+        }
+      }
+    }
+  }
+  &.hover h3 a, header:hover h3 a {
+    @include underline($underline-color, 0, 3px);
+  }
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border: none;
+    > * {
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+    transition: top 200ms ease-in-out;
+    .byline {
+      line-height: 1.2em;
+      margin-bottom: 0.5em;
+      margin-top: 0.8em;
+      font-size: 0.9em;
+      address {
+        &:before {
+          content: "\2014 ";
+        }
+        display: inline;
+      }
+      time {
+        display: inline;
+      }
+    }
+    &, p {
+      color: inherit;
+      line-height: inherit;
+    }
+  }
+  &:after {
+    content: " ";
+  }
+  @media #{$small} {
+    header h3 {
+      font-size: em-calc(22);
+    }
+  }
+}
+html.no-touch .excerpt {
+  @include hover-zoom();
+  .wrapper {
+    color: white;
+    blockquote {
+      position: absolute;
+      top: 100%;
+      height: 100%;
+      .byline {
+        margin-top: 0;
+      }
+      p {
+        padding: 0.5em 1.5em;
+      }
+    }
+  }
+  @media #{$medium} {
+    &.has-byline {
+      .byline {
+        padding-left: 1.5em;
+        address:before {
+          content: "By ";
+          font-style: normal;
+        }
+        time:before {
+          content: " on ";
+        }
+        a {
+          color: white;
+        }
+      }
+    }
+  }
+}
+
+
+html.touch .excerpt .wrapper {
+  padding-bottom: 0 !important;
+  height: auto !important;
+}

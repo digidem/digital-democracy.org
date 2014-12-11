@@ -1,43 +1,16 @@
 $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
-
 .blog {
-  &.featured {
-    background-color: $featured-blog-bg;
-    margin-bottom: 2em;
-    div:last-child {
-      padding-top: 0.5em;
-    }
-  }
-
-  &.postlist, &.featured {
-    .byline {
-      line-height: 1.2em;
-      margin-top: -0.3em;
-      margin-bottom: 0.5em;
-      font-size: 0.9em;
-      .author {
-    //    color: $author-link;
-        display: inline;
+  width: 100%;
+  position: relative;
+  ul {
+    @include block-grid(null, 0);
+    li.excerpt {
+      width: 100%;
+      .wrapper, header {
+        padding-bottom: map-get($ratios, "ratio4x3");
       }
     }
   }
-
-  &.postlist {
-    &.row {
-      margin-bottom: 2em;
-
-      &::before {
-        display: block;
-        float: left;
-        padding-bottom: 25%;
-      }
-    }
-    .aspect-ratio {
-      margin-top: 0.6em;
-      // border: 1px solid #ccc;
-    }
-  }
-
   &.pagination {
     margin-top: 2em;
     margin-bottom: 2em;
@@ -49,10 +22,58 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
     }
   }
 }
-
-
 @media #{$small} {
-  .blog.featured {
-    box-shadow: -25rem 0 0 $featured-blog-bg, 25rem 0 0 $featured-blog-bg;
+  .blog ul {
+    li.excerpt {
+      width: 50%;
+      &.featured {
+        width: 100%;
+        .wrapper, header {
+          padding-bottom: map-get($ratios, "ratio16x9");
+        }
+      }
+      h3 {
+        font-size: $h4-font-size;
+      }
+    }
+  }
+}
+@media #{$medium} {
+  .blog ul li.excerpt {
+    width: 33.33%;
+    h3 {
+      font-size: $h3-font-size;
+    }
+    &.featured {
+      width: 66.67%;
+      float: left;
+      .wrapper, header {
+        padding-bottom: map-get($ratios, "ratio2x1");
+      }
+    }
+    .wrapper, header {
+      padding-bottom: map-get($ratios, "ratio1x1");
+    }
+    header img {
+      width: auto;
+      height: 100%;
+    }
+  }
+}
+@media #{$large} {
+  .blog ul li.excerpt.has-byline {
+    h3 {
+      padding-bottom: 1.5em;
+    }
+    .byline {
+      position: absolute;
+      -webkit-text-fill-color: white;
+      bottom: 100%;
+      line-height: 1.6em;
+      padding-bottom: 0.5em;
+    }
+  }
+  .blog ul li.excerpt.featured blockquote p {
+    margin-right: 50%;
   }
 }

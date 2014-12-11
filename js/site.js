@@ -6,3 +6,4 @@
 {% include_relative foundation/foundation.topbar.js %}
 {% include_relative foundation/foundation.dropdown-custom.js %}
 {% include_relative lib/responsive.js %}
+{% include_relative lib/excerpt-hovers.js %}

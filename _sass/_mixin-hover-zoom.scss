@@ -1,0 +1,63 @@
+$hover-background-color: rgba(0, 0, 0, 0.85);
+$blur-radius: 4px;
+
+@mixin hover-zoom() {
+  header {
+    > a {
+      &:after {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0;
+        background-color: rgba(0, 0, 0, 0.6);
+        transition: opacity 100ms linear 200ms;
+        -webkit-transform: translate3d(0,0,0);
+        transform: translate3d(0,0,0);
+      }
+    }
+  }
+  blockquote {
+    background-image: linear-gradient(to bottom, white 75%, rgba(255, 255, 255, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    pointer-events: none;
+    a.read-more {
+      position: absolute;
+      box-shadow: none;
+      display: block;
+      -webkit-text-fill-color: currentcolor;
+      margin: 1.5em;
+      right: 0;
+      bottom: 0;
+      border: 1px solid white;
+      pointer-events: all;
+      background-color: rgba(0, 0, 0, 0.2);
+      padding: 0.4em 0.6em;
+      &:hover {
+        background-color: $hover-background-color;
+        box-shadow: 0 0 2px 1px white;
+      }
+    }
+  }
+  header:hover, &.hover header {
+    h3.background {
+      background: none;
+    }
+    > a {
+      img {
+        -webkit-filter: blur($blur-radius);
+        filter: blur($blur-radius);
+      }
+      &:after {
+        opacity: 1;
+        transition: none;
+      }
+      // &:before {
+      //   bottom: 0%;
+      // }
+    }
+  }
+}

@@ -9,22 +9,24 @@
 {% else %}
   {% assign post_excerpt = post.content | split: "</p>" | first %}
 {% endif %}
-
-<li class="excerpt {{ class }}">
-  <header>
-    <a href="{{post.url}}"><img src="{{ post.image }}"></a>
-    <h3>
-      <a href="{{post.url}}">
-        <span class="full-title">{{ post.title }}</span>
-        <span class="short-title">{{ short_title }}</span>
-      </a>
-    </h3>
-  </header>
-  <blockquote cite="{{post.url}}">
-    {% if post.author %}{% include byline.html link = include.link %}{% endif %}
-    <p>
-      {{ post_excerpt | strip_html }}
-      <a class="read-more" href="{{ post.url }}">Read more&hellip;</a>
-    </p>
-  </blockquote>
+{% if post.author %}{% assign byline_class = "has-byline" %}{% endif %}
+<li class="excerpt {{ include.class }} {{ byline_class }}">
+  <div class="wrapper">
+    <header>
+      <a href="{{ post.url }}"><img src="{{ post.image }}" class="check-aspect-ratio"></a>
+      <h3 class="{% if post.light_image %}background{% endif %}">
+        <a href="{{ post.url }}">
+          <span class="full-title">{{ post.title }}</span>
+          <span class="short-title">{{ short_title }}</span>
+        </a>
+      </h3>
+    </header>
+    <blockquote cite="{{ post.url }}">
+      {% if post.author %}{% include byline.html link = include.link %}{% endif %}
+      <p>
+        {{ post_excerpt | strip_html }}
+        <a class="read-more" href="{{ post.url }}">Read more&hellip;</a>
+      </p>
+    </blockquote>
+  </div>
 </li>

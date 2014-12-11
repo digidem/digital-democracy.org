@@ -43,7 +43,7 @@
             var offsetParent = img.offsetParent;
 
             if (!offsetParent) return;
-            if (offsetParent.className.indexOf('aspect-ratio') === -1) return;
+            if (img.className.indexOf('check-aspect-ratio') === -1) return;
 
             if (img.clientHeight < offsetParent.clientHeight) {
                 img.style.height = '100%';

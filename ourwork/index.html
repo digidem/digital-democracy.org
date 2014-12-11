@@ -35,7 +35,7 @@ the forloop index to a string to compare it.
     {% if post.featured contains size and limit > 0 %}
     {% assign limit = limit | minus: 1 %}
     {% assign class = post.featured | append: " featured" %}
-{% include excerpt.html class = post.featured %}
+{% include excerpt.html class = class %}
     {% assign featured_posts = featured_posts | append: forloop.index0 | append: "," %}
     {% endif %}
   {% endfor %}

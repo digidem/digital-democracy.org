@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-
 <section class="slideshow-wrapper">
-  
   <ul data-orbit>
-    {% for post in site.tags.front-page %}
+    {% for post in site.tags.front-page limit: 5 %}
     <li>
       <img src="{{ post.image }}" />
       <div class="{{ post.overlay_position }} orbit-caption">
@@ -17,13 +15,12 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  
 </section>
 
 <section class="mission-statement">
-  
-  <blockquote>Digital Democracy empowers marginalized communities to use technology to defend their rights</blockquote>
-  
+  <blockquote>
+    Digital Democracy empowers marginalized communities to use technology to defend their rights
+  </blockquote> 
 </section>
 
 <nav class="subnav">
@@ -32,7 +29,7 @@ layout: default
       <a href="/ourwork/"><img src="/assets/our-work.jpg" alt="Our Work"></a>
     </li>
     <li>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590" target="_blank"><img src="/assets/support-us.jpg" alt="Support Us"></a>
+      <a href="/donate/" target="_blank"><img src="/assets/support-us.jpg" alt="Support Us"></a>
     </li>
     <li>
       <a href="/aboutus/"><img src="/assets/our-approach.jpg" alt="Our Approach"></a>
@@ -42,21 +39,9 @@ layout: default
 
 <section class="latest-news">
   <h3>Latest From <a href="/blog/">Our Blog</a></h3>
-  <ul class="post">
-    {% for post in site.posts limit:4 %}
-    <li>
-      <header class="aspect-ratio ratio16x9">
-        <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
-        <h4 class="{% if post.light_image != true %}no-background{% endif %}"><a href="{{ post.url }}">
-        {{ post.title }}
-        </a></h4>
-      </header>
-      <div class="byline">
-        By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address> 
-        on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-      </div>
-      <p>{{ post.excerpt | strip_html}} <a href="{{ post.url }}">Read more&hellip;</a></p>
-    </li>
+  <ul>
+    {% for post in site.posts limit:8 %}
+    {% include excerpt.html link = true %}
     {% endfor %}
   </ul>
 </section>
