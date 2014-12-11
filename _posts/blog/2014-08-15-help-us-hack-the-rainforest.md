@@ -7,7 +7,7 @@ title: Help us Hack the Rainforest
 
 ## Help us Hack the Rainforest
 
-Calling all technologists, mobile app developers and passionate civic-techers: Digital Democracy is partnering with [Seamless Planet](http://seamlessplanet.com) to offer a once-in-a-lifetime opportunity to travel to the Peruvian Rainforest and collaborate with local indigenous leaders to design and build a mobile data collection app to empower their work to defend their territory.
+Calling all technologists, mobile app developers and passionate civic-hackers: Digital Democracy is partnering with [Seamless Planet](http://seamlessplanet.com) to offer a once-in-a-lifetime opportunity to travel to the Peruvian Rainforest and collaborate with local indigenous leaders to design and build a mobile data collection app to empower their work to defend their territory.
 
 What's at stake?
 Across the Amazon, and rainforests around the globe, indigenous people face multiple threats, including oil contamination, pollution from mining, and deforestation. Dd is supporting local communities who are working to document and respond to oil contamination and environmental threats in the Peruvian & Ecuadorian Amazon. 
