@@ -2,17 +2,15 @@
 categories: blog
 layout: post
 published: true
-title: Post Title
+title: Help us Hack the Rainforest
 author: Emily Jacobi
 tags: 
   - featured
   - "front-page"
   - Remote Access
   - Amazon
-image: /assets/DSC_0642.JPG
+image: /assets/rafael-achuar-monitor.jpg
 ---
-
-## Help us Hack the Rainforest
 
 Calling all technologists, mobile app developers and passionate civic-hackers: Digital Democracy is partnering with [Seamless Planet](http://seamlessplanet.com) to offer a once-in-a-lifetime opportunity to travel to the Peruvian Rainforest and collaborate with local indigenous leaders to design and build a mobile data collection app to empower their work to defend their territory.
 
