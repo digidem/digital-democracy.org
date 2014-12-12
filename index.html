@@ -5,7 +5,7 @@ layout: default
 <section class="slideshow-wrapper">
   
   <ul data-orbit>
-    {% for post in site.tags.front-page %}
+    {% for post in site.tags.front-page limit: 5 %}
     <li>
       <img src="{{ post.image }}" />
       <div class="{{ post.overlay_position }} orbit-caption">
