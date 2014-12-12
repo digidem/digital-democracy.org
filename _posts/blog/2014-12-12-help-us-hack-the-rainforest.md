@@ -1,7 +1,7 @@
 ---
 categories: blog
 layout: post
-published: false
+published: true
 title: Post Title
 author: Emily Jacobi
 tags: 
