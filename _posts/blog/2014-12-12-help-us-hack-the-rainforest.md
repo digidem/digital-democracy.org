@@ -20,17 +20,17 @@ Across the Amazon, and rainforests around the globe, indigenous people face mult
 
 _Why should you go?_
 
-1) To put your technical skills to great use! You'll help build open-source tools that can be used by people around the globe working in low-tech environments to combat environmental & human rights threats.
+1. To put your technical skills to great use! You'll help build open-source tools that can be used by people around the globe working in low-tech environments to combat environmental & human rights threats.
 
-2) To work directly with indigenous environmental monitors from Peru & Ecuador who are taking action to address oil contamination and environmental threats in remote parts of the rainforest.
+2. To work directly with indigenous environmental monitors from Peru & Ecuador who are taking action to address oil contamination and environmental threats in remote parts of the rainforest.
 
-3) To visit the Amazon & the bustling town of Tarapoto, Peru, located in the cloud forest.
+3. To visit the Amazon & the bustling town of Tarapoto, Peru, located in the cloud forest.
 
-4) To collaborate with incredible technologists & creators from around the world, including the Dd & Seamless Planet crews.
+4. To collaborate with incredible technologists & creators from around the world, including the Dd & Seamless Planet crews.
 
-5) (Optional) To follow-up the hackathon with a trek to Machu Picchu, heart of the Incan Empire & one of the world's most beautiful world heritage sites 
+5. (Optional) To follow-up the hackathon with a trek to Machu Picchu, heart of the Incan Empire & one of the world's most beautiful world heritage sites
 
-Interested in joining us? 
+**Interested in joining us?**
 
 Check out the full details, itinerary and apply at [www.hacktherainforest.org](http://www.hacktherainforest.org/home/#intro). Read below for the technical skills we're looking for in participants.
 
