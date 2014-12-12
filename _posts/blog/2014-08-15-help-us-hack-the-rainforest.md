@@ -3,6 +3,12 @@ categories: blog
 layout: post
 published: false
 title: Help us Hack the Rainforest
+author: Emily Jacobi
+tags: 
+  - featured
+  - "front-page"
+  - Remote Access
+  - Amazon
 ---
 
 ## Help us Hack the Rainforest
@@ -36,4 +42,5 @@ The key challenges we are trying to address are:
 Would your company or organization like to be a sponsor of this hackathon? Email emily(at)ddem(dot)us.
 
 More about our partnership
-We're exciteded to partner with ethical tourism company Seamless Planet, an adventure travel company devoted to supporting local people and cultures. Dd first worked with Seamless Planet in 2012, when they led a group to climb Mt. Kilimanjoro and raise funds for Dd. In 2013, Dan & Andrew of Seamless Planet traveled with me to Yangon, Myanmar to participate in BarCamp Yangon, an annual self-organized conference of Burmese technologists. We're excited to take our collaboration to the next level, by combining a trip to one of the world's most sacred places with a hands-on hackathon that will directly benefit our programs and partners.
+We're exciteded to partner with ethical tourism company Seamless Planet, an adventure travel company devoted to supporting local people and cultures. Dd first worked with Seamless Planet in 2012, when they led a group to climb Mt. Kilimanjoro and raise funds for Dd. In 2013, Dan & Andrew of Seamless Planet traveled with me to Yangon, Myanmar to participate in BarCamp Yangon, an annual self-organized conference of Burmese technologists. We're excited to![DSC_0642.JPG](/assets/DSC_0642.JPG)
+ take our collaboration to the next level, by combining a trip to one of the world's most sacred places with a hands-on hackathon that will directly benefit our programs and partners.
