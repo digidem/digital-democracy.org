@@ -15,12 +15,6 @@
   overflow: visible;
 }
 
-@media #{$small} {
-  .slideshow-wrapper {
-    margin-top: - $topbar-margin-bottom - emCalc($topbar-height) - $topbar-margin-top;
-  }
-}
-
 @media #{$medium} {
   .slideshow-wrapper ul li,
   .slideshow-wrapper,

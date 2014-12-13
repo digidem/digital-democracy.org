@@ -56,12 +56,14 @@
 // @import "foundation/components/tooltips";
 // @import "foundation/components/dropdown";
 
-@import "aspect-ratio";
 @import "typography";
+@import "excerpt";
+@import "aspect-ratio";
 @import "orbit-overrides";
 @import "topbar";
 @import "front-page";
-@import "blog-page";
 @import "projects-page";
+@import "blog-page";
 @import "team-page";
 @import "article-page";
+@import "footer";

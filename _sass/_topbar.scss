@@ -149,6 +149,7 @@ header.site-header {
       padding: 0 $topbar-height / 3;
       &:hover {
         color: $topbar-link-color;
+        background-color: $topbar-link-bg-hover;
       }
     }
   }

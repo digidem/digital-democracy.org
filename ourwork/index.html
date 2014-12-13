@@ -35,7 +35,7 @@ the forloop index to a string to compare it.
     {% if post.featured contains size and limit > 0 %}
     {% assign limit = limit | minus: 1 %}
     {% assign class = post.featured | append: " featured" %}
-{% include excerpt.html class = post.featured %}
+{% include excerpt.html class = class no_excerpt = true %}
     {% assign featured_posts = featured_posts | append: forloop.index0 | append: "," %}
     {% endif %}
   {% endfor %}
@@ -46,7 +46,7 @@ the forloop index to a string to compare it.
 {% for post in site.projects %}
   {% assign index0 = forloop.index0 | append: "" %}
   {% unless featured_posts contains index0 %}
-{% include excerpt.html class = "small" %}
+{% include excerpt.html class = "small" no_excerpt = true %}
   {% endunless %}
 {% endfor %}
 <!-- End all other posts -->

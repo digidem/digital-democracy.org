@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<section class="blog">
 {% if paginator.page > 1 %}
 <!-- Pagination links -->
 <div class="blog pagination row">
@@ -20,60 +21,29 @@ layout: default
   {% endif %}
   </div>
 </div>
-
+<ul>
 {% else %}
-
-<section class="blog row featured">
+<ul>
   {% for post in site.tags.featured limit:1 %}
   {% assign featuredPostUrl = post.url %}
-  <div class="small-12 push-4 large-8 columns">
-    <div class="aspect-ratio ratio4x3">
-    <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
-    </div>
-  </div>
-  <div class="small-12 pull-8 large-4 columns">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <div class="byline">
-      By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address> 
-      on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-    </div>
-    <p>{{ post.excerpt | strip_html }} <a href="{{ post.url }}">Read more&hellip;</a></p>
-  </div>
+{% include excerpt.html class = 'featured' link = true %}
   {% endfor %}
-</section>
 {% endif %}
 
 {% for post in paginator.posts %}
 {% unless post.url == featuredPostUrl %}
-{% capture has_content_image %}{{ post.content | split: '.jpg"' | size }}{% endcapture %}
+{% assign has_content_image = post.content | split: '.jpg"' | size %}
 {% if post.image %}
 {% capture post_image %}{{ post.image }}{% endcapture %}
-{% elsif has_content_image != '1' %}
-{% capture post_image %}{{ post.content | split: '.jpg"' | first }}.jpg{% endcapture %}
-{% capture post_image %}{{ post_image | split: 'src="' | last }}{% endcapture %}
+{% elsif has_content_image > 1 %}
+{% assign post_image = post.content | split: '.jpg"' | first | append: ".jpg" | split: 'src="' | last %}
 {% else %}
-{% capture post_image %}/assets/1x1aaaaaa.png{% endcapture %}
+{% assign post_image = "/assets/1x1aaaaaa.png" %}
 {% endif %}
-<section class="blog row postlist">
-  <div class="small-12 large-4 columns">
-    <div class="aspect-ratio ratio4x3">
-    <a href="{{post.url}}">
-    <img src="{{ post_image }}">
-    </a>
-    </div>
-  </div>
-  <div class="small-12 large-8 columns">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <div class="byline">
-      By <address class="author"><a href="/team/{{ post.author | slugify }}/">{{ post.author}}</a></address> 
-      on <time pubdate datetime="{{ post.date | date: "%Y-%m-%dT%H:%M" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-    </div>
-    <p>{{ post.excerpt | strip_html }} <a href="{{ post.url }}">Read more&hellip;</a></p>
-  </div>
-</section>
+{% include excerpt.html link = true %}
 {% endunless %}
 {% endfor %}
-
+</ul>
 <!-- Pagination links -->
 <div class="blog pagination row">
   <div class="previous small-6 large-4 columns">

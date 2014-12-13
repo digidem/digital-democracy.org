@@ -1,7 +1,7 @@
 @import "mixin-caption";
 @import "compass/css3/transform";
 
-section.mission-statement {
+.mission-statement {
   @include grid-row();
   margin: 1em auto;
   blockquote {
@@ -49,48 +49,48 @@ nav.subnav {
   }
 }
 
-section.latest-news {
+.latest-news {
   @include grid-row();
   margin-top: 3em;
-  .post {
-    @include block-grid(1);
-    header {
-      margin-bottom: 0.5em;
-      @include caption(rgba(0,0,0,0.3));
-    }
-    .byline {
-      line-height: 1.2em;
-      margin-bottom: 0.5em;
-      font-size: 0.9em;
-      .author {
-    //    color: $author-link;
-        display: inline;
-      }
-    }
-    p, .byline {
-      padding-left: 1em;
-      padding-right: 1em;
+  ul {
+    @include block-grid(1, 0);
+    li:nth-child(n+5) {
+      display: none;
     }
   }
 }
 
 @media #{$small} {
-  section.latest-news .post {
+  .slideshow-wrapper {
+    margin-top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
+  }
+  .latest-news ul {
     @include block-grid(2, emCalc(40));
   }
-  section.mission-statement blockquote {
+  .mission-statement blockquote {
     font-size: 1.6em;
   }
 }
 
 @media #{$medium} {
-  section.mission-statement blockquote {
+  .mission-statement blockquote {
     font-size: 2em;
   }
-  section.latest-news .post {
+  .latest-news ul {
     p, .byline {
       padding-left: 0;
       padding-right: 0;
+    }
+    li:nth-child(-n+6) {
+      display: block;
+    }
+  }
+}
+
+@media #{$large} {
+  .latest-news ul {
+    li:nth-child(-n+8) {
+      display: block;
     }
   }
 }

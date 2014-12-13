@@ -1,16 +1,18 @@
 @import "mixin-caption";
 @import "mixin-image-ratio";
 
-section.projects {
-  width: 100%;
-  position: relative;
+.projects {
+  @include grid-row();
   ul {
     @include block-grid(null, 0);
-    li {
+    position: relative;
+    li.excerpt {
       width: 100%;
-      padding: 0;
       img {
         display: none;
+      }
+      header {
+        border-bottom: 1px solid white;
       }
       &.featured {
         header {
@@ -18,48 +20,55 @@ section.projects {
           img {
             display: block;
           }
-          @include caption();
-          .title {
-            display: none;
-          }
         }
+      }
+      html.touch & blockquote {
+        display: none;
       }
     }
   }
 }
 
 @media #{$small} {
-  section.projects ul li {
-    width: 50%;
-    h3 {
-      font-size: $h4-font-size;
-    }
-    header {
-      padding-bottom: map-get($ratios, "ratio1x1");
-    }
-    img {
-      display: block;
-    }
-    &.large:first-child {
-      width: 100%;
+  .projects ul {
+    li.excerpt {
+      width: 50%;
       h3 {
-        font-size: $h3-font-size;
+        font-size: $h4-font-size;
       }
       header {
-        .title {
-          display: block;
+        padding-bottom: map-get($ratios, "ratio3x2");
+        border-right: 1px solid white;
+      }
+      img {
+        display: block;
+      }
+      &.large:first-child {
+        width: 100%;
+        h3 {
+          font-size: $h3-font-size;
         }
-        .short-title {
-          display: none;
+        header {
+          padding-bottom: map-get($ratios, "ratio16x9");
         }
-        padding-bottom: map-get($ratios, "ratio16x9");
+        header {
+          .full-title {
+            display: inline;
+          }
+          .short-title {
+            display: none;
+          }
+        }
+        blockquote > * {
+          margin: -0.5em 50% 0em 0.3em;
+        }
       }
     }
   }
 }
 
 @media #{$medium} {
-  section.projects ul li {
+  .projects ul li.excerpt {
     width: 33.33%;
     h3 {
         font-size: $h3-font-size;
@@ -70,8 +79,13 @@ section.projects {
         float: right;
         header {
           padding-bottom: map-get($ratios, "ratio2x1");
-          .title {
-            display: block;
+        }
+        header {
+          h3 {
+            transition-duration: 400ms;
+          }
+          .full-title {
+            display: inline;
           }
           .short-title {
             display: none;
@@ -81,6 +95,12 @@ section.projects {
           float: left;
           header {
             padding-bottom: map-get($ratios, "ratio4x3");
+          }
+        }
+        blockquote {
+          transition-duration: 400ms;
+          > * {
+            margin: -0.5em 50% 0em 0.3em;
           }
         }
       }
@@ -93,6 +113,8 @@ section.projects {
         position: absolute;
         top: 0;
         right: 0;
+        width: 33.33%;
+        z-index: 1;
         h3 {
           font-size: $h4-font-size;
         }
@@ -101,6 +123,7 @@ section.projects {
         }
         &:last-child {
           margin-top: 25%;
+          z-index: 0;
         }
       }
     }
@@ -108,9 +131,9 @@ section.projects {
 }
 
 @media #{$large} {
-  section.projects ul li.featured header {
-    .title {
-      display: block;
+  .projects ul li.excerpt.featured header {
+    .full-title {
+      display: inline;
     }
     .short-title {
       display: none;

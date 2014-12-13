@@ -1,8 +1,11 @@
+@import "extend-fixed-ratio";
+@import "mixin-underline";
+
 $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
 .blog {
   &.featured {
-    background-color: $featured-blog-bg;
+    
     margin-bottom: 2em;
     div:last-child {
       padding-top: 0.5em;
@@ -52,7 +55,84 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
 
 @media #{$small} {
-  .blog.featured {
-    box-shadow: -25rem 0 0 $featured-blog-bg, 25rem 0 0 $featured-blog-bg;
+  .blog .excerpt {
+    @include grid-row();
+    header {
+      position: static;
+      height: auto;
+      overflow: visible;
+      padding-bottom: 0;
+      > a {
+        position: relative;
+        height: 0;
+        float: left;
+        width: 33%;
+        padding-bottom: 33%;
+        display: block;
+        overflow: hidden;
+        border-bottom: 1px solid white;
+      }
+      h3 {
+        position: static;
+        color: initial;
+        text-shadow: none;
+        margin-left: 33%;
+        padding-left: 0.6em;
+        padding-bottom: 0;
+        padding-top: 0.4em;
+        margin-left: 33%;
+        pointer-events: all;
+        a {
+          @include underline($anchor-underline-color, 1px, 3px);
+          &:hover {
+            @include underline();
+          }
+        }
+      }
+    }
+    blockquote {
+      margin-left: 33%;
+      .byline {
+        margin-bottom: 0.6em;
+        margin-top: 0.3em;
+      }
+    }
+    // &:nth-child(even) {
+
+    // }
+  }
+}
+
+@media #{$medium} {
+  .blog .excerpt {
+    margin-bottom: 2em;
+    &.featured {
+      box-shadow: -25rem 0 0 $featured-blog-bg, 25rem 0 0 $featured-blog-bg;
+      background-color: $featured-blog-bg;
+      header {
+        > a {
+          float: right;
+          width: 67%;
+          padding-bottom: 50%;
+        }
+        h3 {
+          margin-left: 0;
+          margin-right: 67%;
+          padding-top: 0.6em
+        }
+      }
+      blockquote {
+        margin-left: 0;
+        margin-right: 67%;
+      }
+    }
+    header {
+      > a {
+        padding-bottom: 25%;
+      }
+      h3 {
+        padding-top: 0.2em;
+      }
+    }
   }
 }
