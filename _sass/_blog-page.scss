@@ -4,6 +4,9 @@
 $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
 .blog {
+  .excerpt header > a {
+    background-color: #eee;
+  }
   &.featured {
     
     margin-bottom: 2em;
@@ -13,6 +16,7 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
   }
 
   &.postlist, &.featured {
+
     .byline {
       line-height: 1.2em;
       margin-top: -0.3em;

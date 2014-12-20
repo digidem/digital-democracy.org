@@ -32,11 +32,6 @@ layout: default
 
 {% for post in paginator.posts %}
 {% unless post.url == featuredPostUrl %}
-{% if post.image %}
-{% assign post_image = post.image %}
-{% else %}
-{% assign post_image = "/assets/1x1aaaaaa.png" %}
-{% endif %}
 {% include excerpt.html link = true %}
 {% endunless %}
 {% endfor %}
