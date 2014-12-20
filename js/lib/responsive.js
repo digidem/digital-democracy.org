@@ -1,12 +1,16 @@
-;
-(function($, window, document, undefined) {
+// Loads responsive images as soon as it knows what size
+// the image will be on the page.
+// Requires `image-has-dim.js` which adds a custom event to images
+// that fires as soon as they have a height and width.
+
+;(function($, window, document, undefined) {
 
     function getWindowWidth() {
         return window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
     }
 
     var scriptName = 'loadResponsiveImages';
-    var elements, options, lastRun;
+    var elements, options;
     var windowWidth = getWindowWidth();
 
     window[scriptName] = function() {
@@ -18,40 +22,25 @@
             elements = arguments[0];
         } else if (arguments[0] instanceof Element) {
             elements = [arguments[0]];
+        } else if (typeof arguments[0] === 'string') {
+            elements = document.querySelectorAll(arguments[0]);
         } else {
-            elements = document.getElementsByTagName('IMG');
+            elements = elements || document.querySelectorAll('img');
             options = options || arguments[0] || {};
         }
 
         var sizes = options.sizes || [200, 300, 400, 600, 800, 1000, 1200, 1600],
             hostname = options.hostname || 'http://images.digital-democracy.org',
-            retina = window.devicePixelRatio > 1 ? '@2x' : '';
+            retina = window.devicePixelRatio > 1 ? '@2x' : '',
+            img;
 
-        var images = document.getElementsByTagName('IMG');
-
-        lastRun = Date.now();
-
-        for (var i = 0; i < images.length; i++) {
-            onHasDimensions(images[i], function() {
-                fixAspectRatio.call(this);
-                loadResponsive.call(this);
-            });
-        }
-
-        function fixAspectRatio() {
-            var img = this;
-            var offsetParent = img.offsetParent;
-
-            if (!offsetParent) return;
-            if (img.className.indexOf('check-aspect-ratio') === -1) return;
-
-            if (img.clientHeight < offsetParent.clientHeight) {
-                img.style.height = '100%';
-                img.style.width = 'auto';
-            } 
-            if (img.clientWidth < offsetParent.clientWidth) {
-                img.style.height = 'auto';
-                img.style.width = '100%';
+        for (var i = 0; i < elements.length; i++) {
+            el = elements[i];
+            if (el.tagName.toLowerCase() !== 'img') continue;
+            if (el.clientWidth && el.clientHeight) {
+                loadResponsive.call(el);
+            } else {
+                el.addEventListener('hasdim', loadResponsive);
             }
         }
 
@@ -73,7 +62,6 @@
 
             responsiveImage.onload = function() {
                 this.onload = null;
-                // console.log('setting source from %s to %s', image.src, url);
                 image.src = url;
             };
 
@@ -84,35 +72,11 @@
 
             responsiveImage.src = url;
         }
+
+        return this;
     };
 
     if ($) $.fn[scriptName] = window[scriptName];
-
-    function onHasDimensions(img, callback) {
-        if (img.clientWidth && img.clientHeight) {
-            hasDim.call(img);
-        } else {
-            var intervalID = window.setInterval(monitor, 10);
-            img.addEventListener('load', hasDim);
-            img.addEventListener('error', stopMonitoring);
-        }
-
-        function stopMonitoring() {
-            window.clearInterval(intervalID);
-            img.removeEventListener('load', hasDim);
-            img.removeEventListener('error', stopMonitoring);
-        }
-
-        function monitor() {
-            if (!img.clientWidth || !img.clientHeight) return;
-            hasDim.call(img);
-        }
-
-        function hasDim() {
-            stopMonitoring();
-            callback.call(img);
-        }
-    }
 
     window.addEventListener('resize', onresize);
 

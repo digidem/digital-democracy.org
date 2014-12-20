@@ -63,7 +63,13 @@
 <script src="/js/site.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
 
 <script>
-  loadResponsiveImages();
+(function() {
+  // Load larger images according to resolution & retina
+  $('img').loadResponsiveImages();
+  // Size images to fill containers (like background-size: cover)
+  $('.check-aspect-ratio').fixAspectRatio();
+})();
+
   $(document)
     .foundation('dropdown')
     .foundation('topbar')
