@@ -54,12 +54,8 @@ $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !defau
 // I use a :before element to create the wide bar behind the navigation.
 // this technique creates a wide page, which needs to be hidden.
 
-body, html {
+html {
   overflow-x: hidden;
-}
-
-body {
-  overflow-y: hidden;
 }
 
 header.site-header {

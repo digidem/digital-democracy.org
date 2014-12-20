@@ -5,13 +5,11 @@ $caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
 $left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 $leftbar-width: emCalc(85);
 
-article.article {
-  position: relative;
-
-  header {
+  header.article {
+    background-color: black;
     width: 100%;
     @include image-ratio(map-get($ratios, "ratio1x1"));
-    .caption {
+    .caption-inner {
       position: absolute;
       right: 0;
       width: 100%;
@@ -41,7 +39,7 @@ article.article {
     }
   }
 
-  .content {
+  article.article .content {
     @include grid-row();
     position: relative;
     padding-top: 1em;
@@ -55,7 +53,6 @@ article.article {
     > * {
       padding-left: 16px;
       padding-right: 16px;
-//      font-family: 'Times New Roman', Times, serif;
     }
     ol, ul {
       padding-left: 2.5em;
@@ -65,65 +62,98 @@ article.article {
       padding-right: 0;
     }
   }
-}
+
 
 @media #{$small} {
-  article.article {
-    top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
-    header {
-      padding-bottom: map-get($ratios, "ratio3x2");
-      .caption {
-        left: $leftbar-width;
-        width: auto;
-        right: 33%;
-      }
+  header.article {
+    padding-bottom: map-get($ratios, "ratio3x2");
+    .caption-inner {
+      left: $leftbar-width;
+      width: auto;
+      right: 33%;
     }
-    .content {
-      padding-left: 3em + $leftbar-width;
-      padding-top: 2em;
-      &:before {
-        height: 999em;
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: $leftbar-width;
-        background-color: $left-bg;
-      }
-      img {
-        width: 100%;
-        float: right;
-        position: relative;
-        margin: 0.85em -50% 0.85em 1em;
-      }
-      & > p:first-child {
-        padding-right: 1em;
-        font-size: 1.2em;
-      }
-      h1 {
-        font-size: emCalc(27);        
-      }
-      h2 {
-        font-size: emCalc(23);
-      }
-      > *, p.image {
-        padding-right: percentage(1/3);
-        padding-left: 0;
-      }
-      ol, ul {
-        padding-left: 0;
-      }
+  }
+  article.article .content {
+    box-shadow: -62.5em 0 $left-bg;
+    padding-left: 3em;
+    padding-top: 2em;
+    img {
+      width: 100%;
+      float: right;
+      position: relative;
+      margin: 0.85em -50% 0.85em 1em;
+    }
+    & > p:first-child {
+      padding-right: 1em;
+      font-size: 1.2em;
+    }
+    h1 {
+      font-size: emCalc(27);
+    }
+    h2 {
+      font-size: emCalc(23);
+    }
+    > *, p.image {
+      padding-right: percentage(1/3);
+      padding-left: 0;
+    }
+    ol, ul {
+      padding-left: 0;
     }
   }
 }
 
+
 @media #{$medium} {
-  article.article header {
-    padding-bottom: map-get($ratios, "ratio16x9");
+  body.full-header {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    header.article {
+      position: absolute;
+      height: auto;
+      padding-bottom: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      img {
+        cursor: n-resize;
+        &.zoom-pointer {
+          cursor: s-resize;
+        }
+      }
+      .caption-outer {
+        @include grid-row();
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        .caption-inner {
+          @include grid-column(6);
+          left: 0;
+          right: 0;
+        }
+      }
+    }
+    article.article {
+      position: relative;
+      top: 100%;
+      width: 100%;
+    }
+    footer {
+      position: relative;
+      top: 100%;
+    }
   }
 }
 
 @media only screen and (min-width:"#{$row-width}") {
-  article.article {
+  .article {
     header .caption {
       width: $row-width / 2 - $leftbar-width;
       right: 50%;
@@ -138,10 +168,10 @@ article.article {
 }
 
 @media #{$large} {
-  article.article header {
+  .article header {
     padding-bottom: map-get($ratios, "ratio24x10");
   }
-  article.article .content {
+  .article .content {
     & > p:first-child {
       font-size: 1.4em;
     }
