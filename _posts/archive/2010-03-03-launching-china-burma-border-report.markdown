@@ -6,6 +6,7 @@ title: Launching China-Burma Border Report
 wordpress_id: 1501
 categories:
 - archive
+image: http://farm4.static.flickr.com/3137/2853142727_4b393fb6e7.jpg
 ---
 
 Ever since Digital Democracy began working with Burmese populations we have believed that it is essential to have a completely comprehensive understanding of the country and the challenges it faces. This means going beyond the well-understood populations living on the border with Thailand to understand conditions on the ground inside Burma and along all of it's international borders.

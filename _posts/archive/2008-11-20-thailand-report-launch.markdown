@@ -6,6 +6,7 @@ title: Thailand Report Launch!
 wordpress_id: 801
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/picture-10.png
 ---
 
 **Overcoming Obstacles, Creating Opportunities:

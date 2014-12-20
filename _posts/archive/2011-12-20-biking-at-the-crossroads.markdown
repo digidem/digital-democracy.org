@@ -6,6 +6,7 @@ title: Biking at the Crossroads
 wordpress_id: 3642
 categories:
 - archive
+image: http://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png
 ---
 
 [![image](http://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png)](http://bikehispaniola.tumblr.com/)

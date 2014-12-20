@@ -6,6 +6,7 @@ title: What Does A Successful Revolution Look Like? Dispatches from Georgia
 wordpress_id: 3287
 categories:
 - archive
+image: http://www.europeanweek.ge/events/0014/12.jpg
 ---
 
 [![20110803-112128.jpg](http://farm7.static.flickr.com/6012/6008382341_d47c03c42d_o.png)](http://www.flickr.com/photos/digitaldemocracy/6008382341/)

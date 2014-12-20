@@ -6,6 +6,7 @@ title: Introducing Project Einstein Guatemala
 wordpress_id: 1739
 categories:
 - archive
+image: http://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg
 ---
 
 Project Einstein started as photo training with a group of youth in a refugee camp in Bangladesh, so named by one of the participants because "Einstein was a refugee but could still do great things."

@@ -5,6 +5,7 @@ title: Take the Social Tech Census — Support Global Digital Advocacy
 wordpress_id: 3817
 categories:
 - blog
+image: http://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg
 ---
 Our partners at the Engine Room are working to coordinate and streamline digital activism and advocacy around the globe. Participation is the key to doing that successfully. They need your input. Please take the Social Tech Census here and check out the blog post below from their Susannah Villa to learn more.  
 ***

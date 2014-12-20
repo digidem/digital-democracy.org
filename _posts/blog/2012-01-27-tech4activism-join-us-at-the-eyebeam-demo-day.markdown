@@ -5,6 +5,7 @@ title: 'Tech4Activism: Join us at the Eyebeam DEMO Day!'
 wordpress_id: 3656
 categories:
 - blog
+image: http://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg
 ---
 
 Tomorrow, January 28 from 3:00 to 6:00 pm, we'll be presenting at [Eyebeam's Activist Technology Demo Day]( http://eyebeam.org/events/activist-technology-demo-day). Come say hi and check out our [Occupy Votes]( http://www.allourideas.org/occupywallstreet?info=digidem ) & [Choose Your Democracy](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/) systems in action.

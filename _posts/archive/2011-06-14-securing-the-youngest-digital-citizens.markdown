@@ -6,6 +6,7 @@ title: Securing the Youngest Digital Citizens
 wordpress_id: 3170
 categories:
 - archive
+image: http://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg
 ---
 
 What is the future of cybersecurity and what is the impact on youth, as well as democracy advocates around the world? I recently attended the EastWest Institute’s Cybersecurity Summit to discuss and present on these issues amongst the worlds leading technology security firms. There I met [Michel Nienhuis][1] who wrote a thoughtful piece that I’m happy to re-post here:

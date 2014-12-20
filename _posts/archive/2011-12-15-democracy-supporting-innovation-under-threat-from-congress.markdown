@@ -6,6 +6,7 @@ title: Democracy-Supporting Innovation Under Threat from Congress
 wordpress_id: 3607
 categories:
 - archive
+image: http://farm8.staticflickr.com/7172/6520969629_020b132bb8.jpg
 ---
 **Editors Note: **In Dd's work around the world, we have seen first-hand the critical need for ordinary citizens to access unfiltered content online. Take Thailand, where we have profiled the work of journalist [Chiranuch Premchaiporn](http://digital-democracy.org/2010/09/24/censoring-liberty-in-thailand/) who has faced jail time for content posted to the comment section of the news site [Prachatai](http://www.prachatai.com/english/). Currently, legislation is afoot in US Congress that reminds us all too closely of internet rules that have negatively impacted the lives of our partners abroad. Dd welcomes our newest Advisory board member, [Jesse Friedman](https://twitter.com/jessecfriedman) who guest authors this post:
 You may have heard about SOPA, the innocuously-named yet frighteningly over-broad Stop Online Piracy Act. If you believe in the power of technology as a social and economic good, and think that due process of law is a good thing, now is the time to take action against this noxious bill that's zooming through the US House of Representatives. If you are an American citizen, you can call your representative now to voice your opinion on it: [http://engineadvocacy.com/voice/](http://engineadvocacy.com/voice/) [![image](http://farm8.staticflickr.com/7172/6520969629_020b132bb8.jpg)](http://americancensorship.org/)

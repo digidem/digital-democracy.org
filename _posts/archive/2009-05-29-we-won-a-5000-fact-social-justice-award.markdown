@@ -6,6 +6,7 @@ title: We Won a $5000 FACT Social Justice Award!
 wordpress_id: 457
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/photo3-225x300.jpg
 ---
 
 It came as a total surprise, but along with 4 other unsuspecting projects, we won a special [$5000 FACT Social Justice Award](http://www.netsquared.org/blog/amy-sample-ward/fact-social-justice-award-winners-announced-n2y4) on Wednesday at the awesome [Netsquared Conference](http://www.netsquared.org/conference/n2y4).

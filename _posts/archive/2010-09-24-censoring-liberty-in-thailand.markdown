@@ -6,6 +6,7 @@ title: Censoring Liberty in Thailand
 wordpress_id: 2172
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2010/09/Screen-shot-2010-09-24-at-10.20.06-300x218.png
 ---
 
 **Thai journalist and anti-censorship activist is detained & released on bail 12 hours later

@@ -6,6 +6,7 @@ title: Supporting earthquake relief & update from Project Einstein Haiti
 wordpress_id: 881
 categories:
 - archive
+image: http://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg
 ---
 
 In the wake of [yesterday evening's devastating, 7.0 earthquake in Haiti](http://www.nytimes.com/2010/01/14/world/americas/14haiti.html?hp), we join the many other groups expressing concern for the people of Haiti.

@@ -6,6 +6,7 @@ title: 'We''re sticking to it - Get #StuckonDd'
 wordpress_id: 2514
 categories:
 - archive
+image: http://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg
 ---
 
 For two years Digital Democracy has built programs and worked with people around the world to empower groups whose voices are silenced. We train them to use innovative technologies to serve the needs they tell us they have.

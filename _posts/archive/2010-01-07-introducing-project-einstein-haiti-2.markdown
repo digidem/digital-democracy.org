@@ -6,6 +6,7 @@ title: 'Introducing Project Einstein: Haiti'
 wordpress_id: 874
 categories:
 - archive
+image: http://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg
 ---
 
 The year is certainly off to an exciting start. Digital Democracy is putting together our annual report for 2009 and pushing out new projects for 2010. We're excited to announce **Project Einstein: Haiti**

@@ -6,6 +6,7 @@ title: Speaking at the White House
 wordpress_id: 3257
 categories:
 - archive
+image: http://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg
 ---
 
 [![image](http://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)

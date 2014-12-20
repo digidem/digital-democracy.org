@@ -6,6 +6,7 @@ title: Digital Democracy Presents at Digital Democracy
 wordpress_id: 264
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/02/photo1-300x225.jpg
 ---
 
 Mark and Emily spent this week in Boston where they met with several people at MIT's [Center for Future Civic Media](http://civic.mit.edu/). In addition, they were the guest lecturers at [Digital Democracy](http://digitaldemocracy.pbwiki.com/), an undergraduate course taught by [Patrick Meier](http://irevolution.wordpress.com/) at Tufts University. Before the class, the students were encouraged to post responses to assigned readings (including our own [_Overcoming Obstacles, Creating Opportunities_](http://www.dtwo.org/2008/11/20/thailand-report-launch/), and [_Year of the Rats_,](http://www.dtwo.org/2008/06/18/published-in-nuvo/) as well as [Drowning](http://www.newyorker.com/reporting/2008/08/25/080825fa_fact_packer?currentPage=all)by George Packer) on the class's [blog](http://tuftsdigitaldemocracy.wordpress.com/). The class combined lecture and discussion, and during the second half, the student's were asked to tweet* their responses to problems and questions that arose as the class progressed. The discussion centered on technology and effective communication in and around Burma, as well as possible barriers to this communication.

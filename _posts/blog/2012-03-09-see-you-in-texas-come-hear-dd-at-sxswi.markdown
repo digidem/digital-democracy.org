@@ -5,6 +5,7 @@ title: See you in Texas... Come hear Dd at SXSWi
 wordpress_id: 3764
 categories:
 - blog
+image: http://farm8.staticflickr.com/7051/6965496693_233564e18c_o.jpg
 ---
 
 We are excited to have both our co-founders on stage in Austin this week, participating in Tech4Good panels at SXSWi. If you'll be at SXSWi, please come by and join the conversation.

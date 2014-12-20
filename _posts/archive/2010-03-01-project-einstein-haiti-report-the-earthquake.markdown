@@ -6,6 +6,7 @@ title: Project Einstein Haiti Report & The Earthquake
 wordpress_id: 1510
 categories:
 - archive
+image: http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg
 ---
 
 On January 12th, a devastating earthquake shook Haiti. We had a team of people on the ground working with young Haitians. Thankfully they all survived, but what was life like before and what can it be like after? Today we're proudly publishing our report from the research they were conducting, looking at the economic livelihoods of  young people in the country.

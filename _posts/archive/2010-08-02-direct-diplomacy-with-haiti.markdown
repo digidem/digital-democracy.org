@@ -6,6 +6,7 @@ title: Direct Diplomacy with Haiti
 wordpress_id: 1987
 categories:
 - archive
+image: http://farm5.static.flickr.com/4113/4841852439_65f612e048.jpg
 ---
 
 This past Wednesday, Digital Democracy attempted an experiment in direct diplomacy.  We brought together 75 people at NYU’s Interactive Telecommunications Program (ITP) for “In their own hands: Live video exchange with Haitian women 6 months after the earthquake.”  We were joined at ITP via skype by my project partner, DigiDem Co-Director, Emily Jacobi, our translator (and project partner from the Institute for Justice and Democracy in Haiti (IJDH), Blaine Bookey, and our three guests of honor, Malya, Eramithe and Dulud from KOFAVIV, one of the leading grassroots women's organizations working to address violence against women in Haiti. They were speaking with us from the Bureau des Avocats Internationaux (BAI) offices, the human rights law organization that serves as a gathering place for poor and marginalized groups who the BAI represents, many of whom are women’s networks and coalitions fighting for their rights and protection. At the event, DigiDem also premiered its newest episode of DDTV, which highlighted the trip that Emily and I took to Haiti, during which time we met with Haitian women leaders and conducted photography trainings to empower women to raise awareness by documenting their lives and struggle. The episode is [now online for viewing](http://vimeo.com/13843931).

@@ -6,6 +6,7 @@ title: 'Streaming the World Cup in a Thai Refugee Camp '
 wordpress_id: 2071
 categories:
 - archive
+image: http://farm5.static.flickr.com/4040/4272151366_343ffd2a70.jpg
 ---
 
 From late April through the end of July, I was working and living in Western Thailand. This work enabled me to visit Mae La refugee camp quite often, during which I was able to take advantage of the time to pay several visits to the Leadership and Management Training Center (LMTC), a school inside Mae La.  I went to follow up on [Mark and Emily’s visit to LMTC last year](http://digital-democracy.org/2010/04/13/ddtv-episode-11-stories-from-a-thai-refugee-camp/) when they led the students in a [Project Einstein photo training](http://digital-democracy.org/what-we-do/programs/#projecteinstein).

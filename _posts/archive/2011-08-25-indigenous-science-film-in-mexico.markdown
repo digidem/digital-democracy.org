@@ -6,6 +6,7 @@ title: Indigenous Science & Film in Mexico
 wordpress_id: 3343
 categories:
 - archive
+image: http://farm7.static.flickr.com/6063/6079781301_10868fdd1b_o.png
 ---
 
 **Update, March 22, 2012:** Three of the communities we're working with for Equal Footing have been given verbal warnings of eviction from the Mexican authorities. We're deploying a rapid response team to respond to this concerning turn of events. [See our blog post on 3/22/12 for more information](http://digital-democracy.org/2012/03/22/urgent-action-to-prevent-forced-evictions/).

@@ -6,6 +6,7 @@ title: Media & Peacebuilding Live Webcast
 wordpress_id: 1754
 categories:
 - archive
+image: http://farm3.static.flickr.com/2768/4141398806_a1effd1a01.jpg
 ---
 
 What is the connection between media and peacebuilding? This is the question being tackled at the upcoming ["Seizing the Moment"](http://www.usip.org/events/seizing-the-moment-media-peacebuilding) summit being put on by the [United States Institute of Peace](http://usip.org) and the [Independent Television Service](http://www.itvs.org/),  in collaboration with [Sesame Workshop.](http://www.sesameworkshop.org) I'm proud to announce that Digital Democracy is an online partner for this event.

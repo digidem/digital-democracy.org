@@ -6,6 +6,7 @@ title: Haiti Earthquake Response and Ushahidi on WNYC Radio
 wordpress_id: 906
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2010/01/Ushahidi-300x191.png
 ---
 
 This morning on New York's [WNYC ](http://www.wnyc.org/)Radio program "[The Takeaway](http://www.thetakeaway.org/)" Mark discussed technology in the developing world, emergency response, and specifically the [Ushahidi install in Haiti](http://haiti.ushahidi.com/) in response to Tuesday's devastating earthquake. Ushahidi is currently mapping crisis information from the ground including continuing threats to the area, locations of relief services, and information about survivors. Information can be sent to Ushahidi via text message, email, twitter, and the online form.

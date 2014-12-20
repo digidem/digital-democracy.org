@@ -6,6 +6,7 @@ title: Shared experiences on opposite sides of town
 wordpress_id: 2364
 categories:
 - archive
+image: http://farm5.static.flickr.com/4041/5157311122_83fc6cf505.jpg
 ---
 
 26.3 miles.

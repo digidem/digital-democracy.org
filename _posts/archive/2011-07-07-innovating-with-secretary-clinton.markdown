@@ -6,6 +6,7 @@ title: Innovating with Secretary Clinton
 wordpress_id: 3186
 categories:
 - archive
+image: http://farm7.static.flickr.com/6054/5910531543_df7975961e.jpg
 ---
 
 I just returned from Vilnius, Lithuania where Secretary of State Hilary Clinton's Innovation Team gathered over 100 people to discuss how technology can be used to further civic engagement.

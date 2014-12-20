@@ -6,6 +6,7 @@ title: UC Berkeley Human Rights Center Mobile Challenge
 wordpress_id: 335
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/myawaddy-phone-crop2-300x240.jpg
 ---
 
 We have been working on Handheld Human Rights, a mobile component of the Virtual Community Center. We just entered it in [UC Berkeley's Human Rights Center Mobile Challenge](http://www.netsquared.org/hrc-ucb) being presented by [Netsquared](http://www.netsquared.org/).

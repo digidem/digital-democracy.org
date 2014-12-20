@@ -6,6 +6,7 @@ title: Choose Your Democracy in Egypt
 wordpress_id: 2700
 categories:
 - archive
+image: http://farm5.static.flickr.com/4152/5411178653_45b80f2430.jpg
 ---
 
 [![image](http://farm5.static.flickr.com/4152/5411178653_45b80f2430.jpg)](http://bit.ly/democracy_en)

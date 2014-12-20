@@ -6,6 +6,7 @@ title: Sponsoring Participation Camp 2009
 wordpress_id: 517
 categories:
 - archive
+image: http://mudball.net/pcamp09/wp-content/themes/dfblog/images/logo.png
 ---
 
 [![image](http://mudball.net/pcamp09/wp-content/themes/dfblog/images/logo.png)](http://mudball.net/pcamp09/)How do we make democracy more inclusive, more fair, and more fun? Participation Camp will provide the spark for an explosion of sharing, experimentation, and collaboration around this vital question.

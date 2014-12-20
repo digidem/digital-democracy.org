@@ -6,6 +6,7 @@ title: 'The Power of Volunteers part 1: Haiti'
 wordpress_id: 1693
 categories:
 - archive
+image: http://farm3.static.flickr.com/2762/4379912183_d0b1826786.jpg
 ---
 
 The power of new technologies has made a lot of headlines recently,  but behind these new tools is a deeper story - the power of the people  who wield [![image](http://farm3.static.flickr.com/2762/4379912183_d0b1826786.jpg)](http://www.flickr.com/photos/digitaldemocracy/4379912183/)them. When it comes to open-source and particularly  crowd-sourcing tools, those people are so often volunteers, and they are  the true heroes of technological successes.

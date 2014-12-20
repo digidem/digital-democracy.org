@@ -6,6 +6,7 @@ title: Come Celebrate Digital Democracy's 3rd Birthday!
 wordpress_id: 3492
 categories:
 - archive
+image: https://farm7.static.flickr.com/6057/6302696445_f5a431b91c_o.png
 ---
 
 [![image](https://farm7.static.flickr.com/6057/6302696445_f5a431b91c_o.png)](http://ddturns3.eventbrite.com/)

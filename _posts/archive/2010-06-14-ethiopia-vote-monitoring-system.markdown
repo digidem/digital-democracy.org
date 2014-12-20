@@ -6,6 +6,7 @@ title: Election Monitoring System In Ethiopia
 wordpress_id: 1879
 categories:
 - archive
+image: http://farm2.static.flickr.com/1285/4698968696_d2a269ecd4.jpg
 ---
 
 Violence is closely correlated to elections in the minds of many voters in young democracies. With elections and democracy correlated as well, there's a dangerous chance that people will draw causation between violence and democracy.

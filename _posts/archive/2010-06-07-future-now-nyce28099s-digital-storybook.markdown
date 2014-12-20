@@ -6,6 +6,7 @@ title: 'Future Now: NYC’s Digital Storybook'
 wordpress_id: 1848
 categories:
 - archive
+image: http://farm5.static.flickr.com/4034/4678708755_aa77aab5e6_b.jpg
 ---
 
 What does real-time mapping with NYC school kids look like? On Saturday, Digital Democracy was invited to work with 120 young people from all 5 boroughs as part of the [Department of Education's "Future Now" program](http://www.futurenownyc.org/). Having gone through the system myself, I jumped at the chance to help them innovate. While technology access is growing, so is censorship, and I worry about the education we're giving kids when the banned website list resembles [the one in Tunisia](http://advocacy.globalvoicesonline.org/2010/04/28/tunisia-flickr-video-sharing-websites-blogs-aggregators-and-critial-blogs-are-not-welcome/). Access to engaging curriculum is also key. One of the girls I taught was named "Tunisia" and when I made a crack about her being named after a country, she didn't know what I was talking about.

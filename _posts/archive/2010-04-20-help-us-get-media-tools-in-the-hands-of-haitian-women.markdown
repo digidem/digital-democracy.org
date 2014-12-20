@@ -6,6 +6,7 @@ title: Help us get media tools in the hands of Haitian women
 wordpress_id: 1716
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2010/04/donatenowlogo1.gif
 ---
 
 Tomorrow morning [Abby and I travel to Port-au-Prince](http://digital-democracy.org/2010/04/19/traveling-to-haiti-to-support-local-women/) to focus on the needs of Haitian women. On our trip we have two objectives, and we need your help to meet them.

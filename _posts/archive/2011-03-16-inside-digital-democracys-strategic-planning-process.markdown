@@ -6,6 +6,7 @@ title: Inside Digital Democracy's Strategic Planning Process
 wordpress_id: 2757
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2011/03/TOC-300x245.jpg
 ---
 In 2008, we formed Digital Democracy based on a simple but powerful idea: Technology should be used to empower even the most marginalized groups to engage in democratic action, whether locally, on a national or international scale.
 

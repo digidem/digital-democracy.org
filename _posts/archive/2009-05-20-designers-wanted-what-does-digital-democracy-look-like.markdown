@@ -6,6 +6,7 @@ title: 'Designers wanted: What does Digital Democracy look like?'
 wordpress_id: 425
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/design-300x158.jpg
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/design-300x158.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/design.jpg)D2 is holding a 5 Day Design Sprint to come up with a new logo for our organization - and we're asking for your designs and ideas! D2 needs a logo that expresses our mission to empower civic engagement through digital technologies. So we're asking you to put your digital skills to use.

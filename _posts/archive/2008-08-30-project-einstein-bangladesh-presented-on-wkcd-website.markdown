@@ -6,6 +6,7 @@ title: Project Einstein Bangladesh Presented on WKCD Website
 wordpress_id: 797
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein-300x108.jpg
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein-300x108.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein.jpg)

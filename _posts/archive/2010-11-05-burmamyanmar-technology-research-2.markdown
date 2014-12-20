@@ -6,6 +6,7 @@ title: Burma/Myanmar Technology Research
 wordpress_id: 2349
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2010/11/burmaddos-300x200.jpg
 ---
 
 Allegedly a country with less than 1% Internet & mobile penetration,

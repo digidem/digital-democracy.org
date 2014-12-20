@@ -6,6 +6,7 @@ title: 'Celebrate Two Years of Digital Democracy! '
 wordpress_id: 2572
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2010/12/Dd-2nd-B-day-Blog-Post2-300x199.jpg
 ---
 
 Join us this Monday night at New Work City's SoHo space for Digital Democracy's 2nd birthday bash!

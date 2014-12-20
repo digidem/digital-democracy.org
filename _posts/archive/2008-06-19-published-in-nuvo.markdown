@@ -6,6 +6,7 @@ title: Published In Nuvo!
 wordpress_id: 16
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/boys.jpg
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/boys.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/boys.jpg)

@@ -7,6 +7,7 @@ title: Democracy In Haiti? Our workshop with Haitian Women To Prepare For Novemb
 wordpress_id: 2325
 categories:
 - archive
+image: http://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg
 ---
 We are dying from the dust their fancy cars kick up.
 Voting won’t change anything.

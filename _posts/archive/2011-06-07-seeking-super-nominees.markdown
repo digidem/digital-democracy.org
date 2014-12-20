@@ -6,6 +6,7 @@ title: Seeking Super Nominees
 wordpress_id: 3144
 categories:
 - archive
+image: http://farm4.static.flickr.com/3286/5809376937_1f19e5ff85_z.jpg
 ---
 
 [![image](http://farm4.static.flickr.com/3286/5809376937_1f19e5ff85_z.jpg)](http://teardroptc.deviantart.com/art/Pinoy-Superheroes-74243511?q=boost%3Apopular%20age_sigma%3A24h%20age_scale%3A5%20superheroes&qo=5)

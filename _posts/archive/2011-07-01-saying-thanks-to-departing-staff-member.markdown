@@ -6,6 +6,7 @@ title: Saying thanks to departing staff member
 wordpress_id: 3207
 categories:
 - archive
+image: http://farm2.static.flickr.com/1155/5136505297_5517d9c135_z.jpg
 ---
 
 Since its inception, Digital Democracy has been fortunate to have the support, guidance and strategic vision of [Abby Goldberg](https://twitter.com/#!/digiabby). Starting on our Advisory Board, and since 2010 working as a member of Dd's core team, Abby has made a large impact on our identity and vision as an organization. Now, as she transitions out of day-to-day work at Digital Democracy, we remain grateful for all she has accomplished, and excited to see what good work she will do next.

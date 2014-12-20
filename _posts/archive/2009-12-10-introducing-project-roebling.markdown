@@ -6,6 +6,7 @@ title: Introducing Project Roebling
 wordpress_id: 843
 categories:
 - archive
+image: http://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg
 ---
 
 [![image](http://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg)](http://en.wikipedia.org/wiki/Brooklyn_Bridge)When the Brooklyn Bridge was built in 1893, it was the longest suspension bridge in the world. [Built by John, Washington and Emily Warren Roebling](http://en.wikipedia.org/wiki/Brooklyn_Bridge#Construction), it was a feet of engineering that has connected millions of people.

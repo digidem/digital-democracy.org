@@ -6,6 +6,7 @@ title: 1st Year Anniversary Party
 wordpress_id: 864
 categories:
 - archive
+image: http://farm3.static.flickr.com/2693/4222974097_79cd2b2e99_o.jpg
 ---
 
 
