@@ -1,7 +1,7 @@
 @import "compass/css3/transform";
 @import "compass/css3/transition";
 
-$hover-background-color: rgba(0, 0, 0, 0.85);
+$hover-background-color: rgba(0, 0, 0, 0.3);
 $blur-radius: 4px;
 
 @mixin hover-zoom() {
@@ -30,7 +30,7 @@ $blur-radius: 4px;
         right: 0;
         bottom: 0;
         opacity: 0;
-        background-color: rgba(0, 0, 0, 0.6);
+        background-color: $hover-background-color;
         transition: opacity 100ms linear 200ms;
         -webkit-transform: translate3d(0,0,0);
         transform: translate3d(0,0,0);
