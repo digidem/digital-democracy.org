@@ -25,7 +25,7 @@
   mixpanel.init("7cd6ff0e2c4ba05faca6b8af51b655ff");</script><!-- end Mixpanel -->
   
 </head>
-<body data-section="/{{ page.url | remove_first: "/" | split: "/" | first }}/" class="{{ page.body_class }}">
+<body data-section="/{{ page.url | remove_first: "/" | split: "/" | first }}/" class="{{ page.body_class }} {{ layout.body_class }}">
 
 <!--[if lt IE 8]>
     <style>.browserupgrade{margin: 0.2em 0;background: #ccc;color: #000;padding: 0.2em 0;}</style>
@@ -66,8 +66,27 @@
 (function() {
   // Load larger images according to resolution & retina
   $('img').loadResponsiveImages();
+
   // Size images to fill containers (like background-size: cover)
   $('.check-aspect-ratio').fixAspectRatio();
+
+  var offset;
+
+  function updateOffset() {
+    offset = $('body.full-header').height() / 3;
+  }
+
+  $(window).on('resize', updateOffset);
+  updateOffset();
+
+  // Affix the header to the top of the page for full-size header image articles
+  $('body.full-header .site-header').affix({
+    offset: {
+      top: function() {
+        return offset;
+      }
+    }
+  })
 })();
 
   $(document)

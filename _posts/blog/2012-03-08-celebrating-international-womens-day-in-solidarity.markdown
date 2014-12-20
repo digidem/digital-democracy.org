@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: celebrating-international-womens-day-in-solidarity
 title: Celebrating International Women's Day in solidarity
 wordpress_id: 3762

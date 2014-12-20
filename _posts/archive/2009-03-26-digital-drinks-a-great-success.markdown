@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-03-26 16:35:23+00:00
-layout: post
 slug: digital-drinks-a-great-success
 title: Digital Drinks - a great success!
 wordpress_id: 371

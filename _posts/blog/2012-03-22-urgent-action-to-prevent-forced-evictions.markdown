@@ -1,7 +1,5 @@
 ---
 author: Emily Jacobi
-comments: true
-layout: post
 slug: urgent-action-to-prevent-forced-evictions
 title: Urgent action to prevent forced evictions
 wordpress_id: 3793

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-07-26 21:11:54+00:00
-layout: post
 slug: join-us-wednesday-livestream-with-haitian-women
 title: Join us Wednesday - Livestream with Haitian Women
 wordpress_id: 1952

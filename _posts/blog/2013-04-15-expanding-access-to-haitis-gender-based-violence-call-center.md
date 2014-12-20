@@ -1,7 +1,5 @@
 ---
 author: Emilie Reiser
-comments: true
-layout: post
 slug: expanding-access-to-haitis-gender-based-violence-call-center
 title: Expanding Access to Haiti’s Gender-Based Violence Call Center
 image: /assets/haiti-call-center.jpg

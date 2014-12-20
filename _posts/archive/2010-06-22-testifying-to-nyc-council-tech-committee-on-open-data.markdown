@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-06-22 02:49:27+00:00
-layout: post
 slug: testifying-to-nyc-council-tech-committee-on-open-data
 title: Testifying to NYC Council Tech Committee on Open Data
 wordpress_id: 1900

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-12-18 19:11:28+00:00
-layout: post
 slug: future-of-libraries-in-ukraine-and-romania
 title: Future of Libraries in Ukraine and Romania
 wordpress_id: 2606

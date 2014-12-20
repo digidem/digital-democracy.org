@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-06-20 18:24:20+00:00
-layout: post
 slug: world-refugee-day
 title: World Refugee Day
 wordpress_id: 19

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-07-01 14:31:45+00:00
-layout: post
 slug: saying-thanks-to-departing-staff-member
 title: Saying thanks to departing staff member
 wordpress_id: 3207

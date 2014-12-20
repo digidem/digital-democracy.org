@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Help us Hack the Rainforest
 author: Emily Jacobi

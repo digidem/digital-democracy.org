@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-10-15 04:00:05+00:00
-layout: post
 slug: mobileactive-08-conference
 title: MobileActive 08 Conference
 wordpress_id: 33

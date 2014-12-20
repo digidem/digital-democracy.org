@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-05-12 10:29:35+00:00
-layout: post
 slug: media-peacebuilding
 title: Media & Peacebuilding Live Webcast
 wordpress_id: 1754

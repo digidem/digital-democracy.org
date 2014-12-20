@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-06-22 19:59:48+00:00
-layout: post
 slug: video-subsersive-tech-and-democracy-in-burma
 title: 'Video: Subversive Tech & Burma’s Struggle for Democracy'
 wordpress_id: 501

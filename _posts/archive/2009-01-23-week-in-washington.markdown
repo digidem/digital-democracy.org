@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-01-23 04:49:26+00:00
-layout: post
 slug: week-in-washington
 title: Week in Washington
 wordpress_id: 179

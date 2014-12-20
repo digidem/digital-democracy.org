@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-04-13 21:25:49+00:00
-layout: post
 slug: d2-is-in-the-final-round-of-the-n2y4-mobile-challenge
 title: D2 is in the final round of the N2Y4 Mobile Challenge
 wordpress_id: 388

@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: support-dd-and-our-kili-climbing-team
 title: Support Dd and our Kili-climbing team
 wordpress_id: 3878

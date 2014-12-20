@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-11-23 14:36:41+00:00
-layout: post
 slug: little-brother-vs-big-brother-campaign
 title: Little Brother vs. Big Brother Campaign
 wordpress_id: 834

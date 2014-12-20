@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-11-23 19:53:40+00:00
-layout: post
 slug: celebrating-two-years-of-digital-democracy
 title: Celebrating two years of Digital Democracy
 wordpress_id: 2449

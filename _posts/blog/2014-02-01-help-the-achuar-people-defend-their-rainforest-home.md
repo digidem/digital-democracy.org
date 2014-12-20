@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Help the Achuar people defend their rainforest home
 author: Gregor MacLennan

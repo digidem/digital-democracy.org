@@ -1,8 +1,6 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2010-12-13 17:54:59+00:00
-layout: post
 slug: lost-in-translation-the-power-of-listening-speaking-out-from-the-camps-of-haiti
 title: Found in Translation? The power of listening & speaking out from the camps
   of Haiti

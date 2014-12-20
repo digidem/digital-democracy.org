@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-05-23 17:07:10+00:00
-layout: post
 slug: telling-the-stories-of-young-refugees-in-indianapolis
 title: Telling the stories of young refugees in Indianapolis
 wordpress_id: 3073

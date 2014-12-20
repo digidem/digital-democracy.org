@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-11-09 11:17:40+00:00
-layout: post
 slug: welcoming-three-new-members-to-our-team
 title: Welcoming three new members to our team
 wordpress_id: 2386

@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: occupy-dd-in-fast-company
 title: Occupy & Dd in Fast Company
 wordpress_id: 3690

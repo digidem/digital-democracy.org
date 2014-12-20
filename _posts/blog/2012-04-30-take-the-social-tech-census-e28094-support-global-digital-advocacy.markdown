@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: take-the-social-tech-census-%e2%80%94-support-global-digital-advocacy
 title: Take the Social Tech Census — Support Global Digital Advocacy
 wordpress_id: 3817

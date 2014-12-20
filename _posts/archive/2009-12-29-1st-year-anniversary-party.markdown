@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-12-29 18:18:17+00:00
-layout: post
 slug: 1st-year-anniversary-party
 title: 1st Year Anniversary Party
 wordpress_id: 864

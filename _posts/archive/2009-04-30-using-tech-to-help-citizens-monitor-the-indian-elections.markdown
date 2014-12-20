@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-04-30 03:55:08+00:00
-layout: post
 slug: using-tech-to-help-citizens-monitor-the-indian-elections
 title: Using tech to help citizens monitor the Indian Elections
 wordpress_id: 401

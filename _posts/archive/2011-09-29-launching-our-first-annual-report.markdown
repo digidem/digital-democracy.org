@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-09-29 14:20:39+00:00
-layout: post
 slug: launching-our-first-annual-report
 title: Launching Our First Annual Report
 wordpress_id: 3411

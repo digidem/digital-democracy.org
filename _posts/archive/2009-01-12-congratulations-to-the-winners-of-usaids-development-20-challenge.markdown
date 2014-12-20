@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-01-12 18:04:54+00:00
-layout: post
 slug: congratulations-to-the-winners-of-usaids-development-20-challenge
 title: Congratulations USAID Development 2.0 Challenge winners!
 wordpress_id: 165

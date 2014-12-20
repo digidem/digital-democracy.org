@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-05-07 13:11:43+00:00
-layout: post
 slug: a-human-rights-victory-in-berkeley
 title: A Human Rights Victory in Berkeley!
 wordpress_id: 414

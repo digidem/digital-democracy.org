@@ -1,8 +1,6 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-09-21 15:25:23+00:00
-layout: post
 slug: announcing-572-the-first-emergency-response-system-for-sexual-violence-in-haiti
 title: 'Announcing 572: the First Emergency Response System Dedicated to Sexual Violence
   in Haiti'

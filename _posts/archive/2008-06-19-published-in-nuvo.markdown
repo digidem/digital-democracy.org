@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-06-19 03:10:00+00:00
-layout: post
 slug: published-in-nuvo
 title: Published In Nuvo!
 wordpress_id: 16

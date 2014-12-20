@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2010-08-02 19:00:01+00:00
-layout: post
 slug: direct-diplomacy-with-haiti
 title: Direct Diplomacy with Haiti
 wordpress_id: 1987

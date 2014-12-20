@@ -1,8 +1,6 @@
 ---
 author: Michael Morgenstern
-comments: true
 date: 2009-10-20 15:56:31+00:00
-layout: post
 slug: introducing-michael-a-face-behind-ddtv
 title: Putting together DdTv
 wordpress_id: 733

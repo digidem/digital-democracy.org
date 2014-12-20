@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-10-22 19:01:24+00:00
-layout: post
 slug: we-present-testimony-on-new-media-to-us-congress
 title: Testifying at US Congress
 wordpress_id: 738

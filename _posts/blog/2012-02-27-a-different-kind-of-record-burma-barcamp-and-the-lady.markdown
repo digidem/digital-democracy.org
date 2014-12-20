@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: a-different-kind-of-record-burma-barcamp-and-the-lady
 title: 'A Different Kind of Record: Burma, BarCamp and the Lady'
 wordpress_id: 3754

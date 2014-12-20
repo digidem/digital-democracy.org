@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-03-23 20:36:07+00:00
-layout: post
 slug: vote-for-us-in-the-human-rights-center-mobile-challenge
 title: Vote for us in the Human Rights Center Mobile Challenge
 wordpress_id: 356

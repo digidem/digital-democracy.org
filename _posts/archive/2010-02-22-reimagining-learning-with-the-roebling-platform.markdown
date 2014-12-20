@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-02-22 19:18:32+00:00
-layout: post
 slug: reimagining-learning-with-the-roebling-platform
 title: Reimagining Learning with the Roebling Platform
 wordpress_id: 1430

@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2010-03-03 16:30:23+00:00
-layout: post
 slug: launching-china-burma-border-report
 title: Launching China-Burma Border Report
 wordpress_id: 1501

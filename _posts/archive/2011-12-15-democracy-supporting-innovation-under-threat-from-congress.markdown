@@ -1,8 +1,6 @@
 ---
 author: Jesse Friedman
-comments: true
 date: 2011-12-15 19:11:45+00:00
-layout: post
 slug: democracy-supporting-innovation-under-threat-from-congress
 title: Democracy-Supporting Innovation Under Threat from Congress
 wordpress_id: 3607

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-04-19 18:36:03+00:00
-layout: post
 slug: advisor-receives-award-from-bill-clinton
 title: Advisor receives award from Bill Clinton
 wordpress_id: 1705

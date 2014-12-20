@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-11-21 18:17:16+00:00
-layout: post
 slug: celebrating-3-years
 title: Celebrating 3 years
 wordpress_id: 3569

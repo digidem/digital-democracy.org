@@ -1,8 +1,6 @@
 ---
 author: morgan
-comments: true
 date: 2009-05-29 22:42:05+00:00
-layout: post
 slug: we-won-a-5000-fact-social-justice-award
 title: We Won a $5000 FACT Social Justice Award!
 wordpress_id: 457

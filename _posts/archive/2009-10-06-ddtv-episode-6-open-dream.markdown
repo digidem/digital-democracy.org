@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-10-06 23:00:40+00:00
-layout: post
 slug: ddtv-episode-6-open-dream
 title: 'DdTv Episode 6: Open Dream'
 wordpress_id: 723

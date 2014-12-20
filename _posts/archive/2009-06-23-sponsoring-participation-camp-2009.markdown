@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-06-23 17:48:34+00:00
-layout: post
 slug: sponsoring-participation-camp-2009
 title: Sponsoring Participation Camp 2009
 wordpress_id: 517

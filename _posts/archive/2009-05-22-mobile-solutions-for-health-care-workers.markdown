@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-05-22 13:28:44+00:00
-layout: post
 slug: mobile-solutions-for-health-care-workers
 title: Mobile solutions for health care workers
 wordpress_id: 431

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-20 14:14:31+00:00
-layout: post
 slug: help-us-get-media-tools-in-the-hands-of-haitian-women
 title: Help us get media tools in the hands of Haitian women
 wordpress_id: 1716

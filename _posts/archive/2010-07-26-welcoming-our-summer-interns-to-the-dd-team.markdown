@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-07-26 20:31:13+00:00
-layout: post
 slug: welcoming-our-summer-interns-to-the-dd-team
 title: Welcoming Our Summer Interns  to the Dd Team
 wordpress_id: 1891

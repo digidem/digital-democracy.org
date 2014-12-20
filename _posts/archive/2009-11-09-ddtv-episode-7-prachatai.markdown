@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-11-09 19:17:26+00:00
-layout: post
 slug: ddtv-episode-7-prachatai
 title: 'DdTv Episode 7: Prachatai'
 wordpress_id: 779

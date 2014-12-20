@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-08-18 15:58:36+00:00
-layout: post
 slug: vote-to-discuss-technology-for-democracy-at-sxsw
 title: Vote To Discuss Technology For Democracy at SXSW
 wordpress_id: 3319

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-08-06 15:18:50+00:00
-layout: post
 slug: digital-democracys-new-logo
 title: Digital Democracy's new logo
 wordpress_id: 616

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-02-02 21:44:08+00:00
-layout: post
 slug: einstein-media-curriculum-now-available
 title: Einstein Media Curriculum Now Available
 wordpress_id: 2684

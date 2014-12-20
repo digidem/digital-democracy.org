@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-07-16 20:22:42+00:00
-layout: post
 slug: peace-mapping-team-arrives-in-kenya
 title: Peace Mapping team arrives in Kenya
 wordpress_id: 1918

@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-02-20 02:38:21+00:00
-layout: post
 slug: digital-democracy-presents-at-digital-democracy
 title: Digital Democracy Presents at Digital Democracy
 wordpress_id: 264

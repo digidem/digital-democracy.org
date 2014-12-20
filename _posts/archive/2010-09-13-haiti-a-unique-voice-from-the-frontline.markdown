@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-09-13 23:42:47+00:00
-layout: post
 slug: haiti-a-unique-voice-from-the-frontline
 title: 'Haiti: A Unique Voice from the Frontline'
 wordpress_id: 2477

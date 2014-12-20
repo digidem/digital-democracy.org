@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-05-20 21:39:12+00:00
-layout: post
 slug: designers-wanted-what-does-digital-democracy-look-like
 title: 'Designers wanted: What does Digital Democracy look like?'
 wordpress_id: 425

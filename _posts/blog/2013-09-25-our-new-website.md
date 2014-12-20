@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Our New Website
 author: Gregor MacLennan

@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-04-06 13:09:14+00:00
-layout: post
 slug: is-a-closed-society-a-bad-society
 title: Is a closed society a bad society?
 wordpress_id: 381

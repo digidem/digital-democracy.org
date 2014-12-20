@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-11-17 21:52:17+00:00
-layout: post
 slug: tech-teens-in-kazakhstan
 title: Tech Teens in Kazakhstan
 wordpress_id: 2426

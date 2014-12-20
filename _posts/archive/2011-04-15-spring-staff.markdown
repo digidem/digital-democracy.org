@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-04-15 18:03:50+00:00
-layout: post
 slug: spring-staff
 title: Starting Spring in NYC By Welcoming New Staff
 wordpress_id: 2983

@@ -1,5 +1,4 @@
 ---
-layout: project
 comments: true
 title: "Handheld Human Rights: Amplifying Voices in Burma/Myanmar"
 short_title: "Amplifying Voices in Burma"

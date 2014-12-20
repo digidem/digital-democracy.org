@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-11-17 21:03:59+00:00
-layout: post
 slug: zimbabwe-during-transition-and-hyperinflation
 title: Zimbabwe during transition and hyperinflation
 wordpress_id: 2425

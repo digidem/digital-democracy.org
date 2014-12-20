@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-03-25 14:03:55+00:00
-layout: post
 slug: innovation-from-new-york-to-amsterdam
 title: Innovation from New York to Amsterdam
 wordpress_id: 360

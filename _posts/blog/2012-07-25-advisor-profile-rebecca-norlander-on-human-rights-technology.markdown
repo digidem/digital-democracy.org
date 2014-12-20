@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Biz Ghormley
-comments: true
 slug: "advisor-profile-rebecca-norlander-on-human-rights-technology"
 title: "Advisor Profile: Rebecca Norlander on Human Rights & Technology"
 wordpress_id: 3921

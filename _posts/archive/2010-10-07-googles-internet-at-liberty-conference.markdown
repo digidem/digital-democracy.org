@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-10-07 18:32:18+00:00
-layout: post
 slug: googles-internet-at-liberty-conference
 title: Google's Internet at Liberty Conference
 wordpress_id: 2248

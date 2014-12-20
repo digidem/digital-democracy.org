@@ -1,8 +1,6 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-12-06 20:24:00+00:00
-layout: post
 slug: participation-transforms-possibility
 title: Participation transforms possibility. Please Give to Dd!
 wordpress_id: 3584

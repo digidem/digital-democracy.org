@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Emily Jacobi
-comments: true
 slug: "remote-access-connecting-threatened-communities"
 title: "Remote Access: Connecting Threatened Communities"
 wordpress_id: 4232

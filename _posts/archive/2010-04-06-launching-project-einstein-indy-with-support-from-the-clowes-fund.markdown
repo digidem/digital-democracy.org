@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-06 17:55:54+00:00
-layout: post
 slug: launching-project-einstein-indy-with-support-from-the-clowes-fund
 title: Launching Project Einstein Indy with support from the Clowes Fund
 wordpress_id: 1650

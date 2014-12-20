@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-08-09 05:45:17+00:00
-layout: post
 slug: burmese-refugee-youth-photos-to-be-featured-at-indianapolis-city-market
 title: Burmese refugee youth photos to be featured at Indianapolis City Market
 wordpress_id: 3306

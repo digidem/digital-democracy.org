@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Emily Jacobi
-comments: true
 slug: "barcamp-yangon-sparking-local-innovation-in-myanmarburma"
 title: "BarCamp Yangon: Sparking local innovation in Myanmar/Burma"
 wordpress_id: 4709

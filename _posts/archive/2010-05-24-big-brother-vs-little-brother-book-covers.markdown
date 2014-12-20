@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-05-24 21:41:09+00:00
-layout: post
 slug: big-brother-vs-little-brother-book-covers
 title: '"Big Brother" vs. Little Brother Book Covers'
 wordpress_id: 1768

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-08-25 17:27:09+00:00
-layout: post
 slug: indigenous-science-film-in-mexico
 title: Indigenous Science & Film in Mexico
 wordpress_id: 3343

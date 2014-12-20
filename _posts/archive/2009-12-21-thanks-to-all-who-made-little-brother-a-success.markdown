@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-12-21 17:02:57+00:00
-layout: post
 slug: thanks-to-all-who-made-little-brother-a-success
 title: Thanks to all who made Little Brother a success
 wordpress_id: 855

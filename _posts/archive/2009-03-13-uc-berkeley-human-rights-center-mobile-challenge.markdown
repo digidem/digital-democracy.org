@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-03-13 17:21:00+00:00
-layout: post
 slug: uc-berkeley-human-rights-center-mobile-challenge
 title: UC Berkeley Human Rights Center Mobile Challenge
 wordpress_id: 335

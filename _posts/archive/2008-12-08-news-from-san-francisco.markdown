@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-12-08 14:18:38+00:00
-layout: post
 slug: news-from-san-francisco
 title: News From San Francisco
 wordpress_id: 820

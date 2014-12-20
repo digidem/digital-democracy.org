@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: see-you-in-texas-come-hear-dd-at-sxswi
 title: See you in Texas... Come hear Dd at SXSWi
 wordpress_id: 3764

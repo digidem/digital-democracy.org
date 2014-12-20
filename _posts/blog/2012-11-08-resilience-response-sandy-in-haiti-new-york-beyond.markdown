@@ -1,7 +1,5 @@
 ---
 author: Emily Jacobi
-comments: true
-layout: post
 slug: resilience-response-sandy-in-haiti-new-york-beyond
 title: 'Resilience & Response: Sandy in Haiti, New York & Beyond'
 image: http://farm9.staticflickr.com/8348/8167492684_60c24e736c_o.jpg

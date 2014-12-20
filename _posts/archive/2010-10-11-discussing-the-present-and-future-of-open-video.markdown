@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-10-11 14:05:18+00:00
-layout: post
 slug: discussing-the-present-and-future-of-open-video
 title: Discussing the Present and Future of Open Video
 wordpress_id: 2283

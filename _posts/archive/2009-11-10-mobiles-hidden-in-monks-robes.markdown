@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-11-10 17:35:34+00:00
-layout: post
 slug: mobiles-hidden-in-monks-robes
 title: Mobiles Hidden in Monks Robes
 wordpress_id: 785

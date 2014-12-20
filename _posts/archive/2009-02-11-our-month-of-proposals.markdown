@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-02-11 20:47:42+00:00
-layout: post
 slug: our-month-of-proposals
 title: Our Month of Proposals
 wordpress_id: 230

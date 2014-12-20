@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-12-10 18:41:03+00:00
-layout: post
 slug: introducing-project-roebling
 title: Introducing Project Roebling
 wordpress_id: 843

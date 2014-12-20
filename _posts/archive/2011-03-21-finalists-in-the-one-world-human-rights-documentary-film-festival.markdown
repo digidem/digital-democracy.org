@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2011-03-21 15:05:56+00:00
-layout: post
 slug: finalists-in-the-one-world-human-rights-documentary-film-festival
 title: Finalists in the One World Human Rights Documentary Film Festival
 wordpress_id: 2760

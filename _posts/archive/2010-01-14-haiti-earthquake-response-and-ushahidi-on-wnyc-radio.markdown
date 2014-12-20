@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-01-14 17:01:09+00:00
-layout: post
 slug: haiti-earthquake-response-and-ushahidi-on-wnyc-radio
 title: Haiti Earthquake Response and Ushahidi on WNYC Radio
 wordpress_id: 906

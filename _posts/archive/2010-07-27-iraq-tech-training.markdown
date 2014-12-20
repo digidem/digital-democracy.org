@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-07-27 17:32:26+00:00
-layout: post
 slug: iraq-tech-training
 title: Iraq Tech Training
 wordpress_id: 1968

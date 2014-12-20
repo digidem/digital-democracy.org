@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-17 17:14:48+00:00
-layout: post
 slug: support-ongoing-haiti-earthquake-response-efforts
 title: Support Ongoing Haiti Earthquake Response Efforts
 wordpress_id: 915

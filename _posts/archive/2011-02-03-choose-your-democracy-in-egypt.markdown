@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-02-03 05:47:38+00:00
-layout: post
 slug: choose-your-democracy-in-egypt
 title: Choose Your Democracy in Egypt
 wordpress_id: 2700

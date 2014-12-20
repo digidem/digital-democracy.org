@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: tech4activism-join-us-at-the-eyebeam-demo-day
 title: 'Tech4Activism: Join us at the Eyebeam DEMO Day!'
 wordpress_id: 3656

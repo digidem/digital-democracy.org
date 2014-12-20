@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-06-14 15:15:55+00:00
-layout: post
 slug: securing-the-youngest-digital-citizens
 title: Securing the Youngest Digital Citizens
 wordpress_id: 3170

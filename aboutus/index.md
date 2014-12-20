@@ -1,5 +1,7 @@
 ---
-layout: aboutus
+layout: article
+title: "Our Approach: Our Mission"
+class: aboutus
 image: /assets/burma-mobile-magazines.jpg
 ---
 Digital Democracy’s mission is to empower marginalized communities to use technology to defend their rights. As technology becomes cheaper and more accessible, we believe it can and should be used to bring more voices to the table. Digital Democracy helps our partners achieve transformative change and works toward a world where all people can participate in decisions that govern their lives.

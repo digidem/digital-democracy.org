@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Participatory Mapping for Indigenous Rights
 image: /assets/pandumaan-indonesia.jpg

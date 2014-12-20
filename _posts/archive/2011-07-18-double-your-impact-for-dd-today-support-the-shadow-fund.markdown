@@ -1,8 +1,6 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-07-18 18:12:18+00:00
-layout: post
 slug: double-your-impact-for-dd-today-support-the-shadow-fund
 title: Double your impact for Dd today! Support the Shadow Fund
 wordpress_id: 3221

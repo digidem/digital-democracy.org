@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2011-03-26 16:30:26+00:00
-layout: post
 slug: '%e2%80%9chaitian-women-are-starting-a-revolution-a-tech-revolution%e2%80%9d'
 title: '“Haitian Women are Starting A Revolution, a Tech Revolution!” '
 wordpress_id: 2847

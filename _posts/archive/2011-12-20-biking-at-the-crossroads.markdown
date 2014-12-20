@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-12-20 22:28:54+00:00
-layout: post
 slug: biking-at-the-crossroads
 title: Biking at the Crossroads
 wordpress_id: 3642

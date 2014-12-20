@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-08-04 03:20:45+00:00
-layout: post
 slug: what-does-a-successful-revolution-look-like-dispatches-from-georgia
 title: What Does A Successful Revolution Look Like? Dispatches from Georgia
 wordpress_id: 3287

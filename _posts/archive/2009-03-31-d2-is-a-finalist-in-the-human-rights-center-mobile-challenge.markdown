@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-03-31 20:34:48+00:00
-layout: post
 slug: d2-is-a-finalist-in-the-human-rights-center-mobile-challenge
 title: D2 is a finalist in the Human Rights Center Mobile Challenge
 wordpress_id: 377

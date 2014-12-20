@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-09-24 14:16:54+00:00
-layout: post
 slug: censoring-liberty-in-thailand
 title: Censoring Liberty in Thailand
 wordpress_id: 2172

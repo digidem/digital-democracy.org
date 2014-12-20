@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-10-14 22:56:33+00:00
-layout: post
 slug: heading-to-the-first-international-conference-on-crisis-mapping
 title: Heading to the first International Conference on Crisis Mapping
 wordpress_id: 727

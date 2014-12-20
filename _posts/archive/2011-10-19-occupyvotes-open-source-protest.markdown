@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-10-19 19:55:33+00:00
-layout: post
 slug: occupyvotes-open-source-protest
 title: 'OccupyVotes: Democracy In An Open Source Protest'
 wordpress_id: 3476

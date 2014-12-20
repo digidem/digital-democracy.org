@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-02-06 18:18:06+00:00
-layout: post
 slug: january-2009-press-release
 title: Rohingya Refugees Face Uncertain Future
 wordpress_id: 212

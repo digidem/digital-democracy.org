@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-05-05 17:30:53+00:00
-layout: post
 slug: introducing-project-einstein-guatemala
 title: Introducing Project Einstein Guatemala
 wordpress_id: 1739

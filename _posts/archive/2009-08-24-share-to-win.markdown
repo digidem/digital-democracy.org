@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-08-24 18:09:10+00:00
-layout: post
 slug: share-to-win
 title: Share to Win!
 wordpress_id: 676

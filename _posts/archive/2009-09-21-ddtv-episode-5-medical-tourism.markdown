@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-09-21 16:17:56+00:00
-layout: post
 slug: ddtv-episode-5-medical-tourism
 title: 'DdTv Episode 5: Medical Tourism'
 wordpress_id: 703

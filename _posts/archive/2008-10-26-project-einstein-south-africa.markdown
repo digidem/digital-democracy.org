@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-10-26 18:22:54+00:00
-layout: post
 slug: project-einstein-south-africa
 title: Project Einstein South Africa
 wordpress_id: 798

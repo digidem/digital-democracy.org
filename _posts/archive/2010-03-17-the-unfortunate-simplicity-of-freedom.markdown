@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-03-17 20:12:30+00:00
-layout: post
 slug: the-unfortunate-simplicity-of-freedom
 title: The Unfortunate Simplicity of Freedom
 wordpress_id: 1622

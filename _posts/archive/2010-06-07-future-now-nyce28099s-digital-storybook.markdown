@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-06-07 16:46:37+00:00
-layout: post
 slug: future-now-nyc%e2%80%99s-digital-storybook
 title: 'Future Now: NYC’s Digital Storybook'
 wordpress_id: 1848

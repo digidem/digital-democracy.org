@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-09-20 13:44:52+00:00
-layout: post
 slug: commitment-to-clinton-global-a-visitor-from-haiti
 title: Commitment to Clinton Global & A Visitor from Haiti
 wordpress_id: 2124

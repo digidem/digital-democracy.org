@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-18 17:35:10+00:00
-layout: post
 slug: reflections-on-project-einstein-haiti-personal-story-of-earthquake-survivor
 title: 'Reflections on Project Einstein: Haiti - personal story of earthquake survivor'
 wordpress_id: 923

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-03-01 18:59:34+00:00
-layout: post
 slug: project-einstein-haiti-report-the-earthquake
 title: Project Einstein Haiti Report & The Earthquake
 wordpress_id: 1510

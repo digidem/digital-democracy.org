@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-14 18:18:12+00:00
-layout: post
 slug: the-power-of-volunteers-part-1-haiti
 title: 'The Power of Volunteers part 1: Haiti'
 wordpress_id: 1693

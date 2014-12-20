@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-09-18 00:25:37+00:00
-layout: post
 slug: launching-project-einstein-live
 title: 'Launching Project Einstein: Live!'
 wordpress_id: 698

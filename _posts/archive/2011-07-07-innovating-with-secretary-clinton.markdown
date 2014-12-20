@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-07-07 12:31:11+00:00
-layout: post
 slug: innovating-with-secretary-clinton
 title: Innovating with Secretary Clinton
 wordpress_id: 3186

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-08-04 19:57:24+00:00
-layout: post
 slug: project-einstein-bangladesh-deadline-extension
 title: Project Einstein Bangladesh book extension
 wordpress_id: 593

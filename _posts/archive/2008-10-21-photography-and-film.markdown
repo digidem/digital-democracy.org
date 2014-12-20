@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-10-21 04:11:52+00:00
-layout: post
 slug: photography-and-film
 title: Photography and Film
 wordpress_id: 42

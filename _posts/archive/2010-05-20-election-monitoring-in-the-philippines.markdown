@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-05-20 16:17:00+00:00
-layout: post
 slug: election-monitoring-in-the-philippines
 title: Election Monitoring in the Philippines
 wordpress_id: 1761

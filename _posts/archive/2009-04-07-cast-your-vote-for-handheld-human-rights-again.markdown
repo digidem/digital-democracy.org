@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-04-07 13:16:48+00:00
-layout: post
 slug: cast-your-vote-for-handheld-human-rights-again
 title: Cast your vote for Handheld Human Rights ... again!
 wordpress_id: 383

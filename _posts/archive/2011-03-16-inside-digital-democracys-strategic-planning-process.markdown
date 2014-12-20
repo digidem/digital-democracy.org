@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-03-16 16:23:31+00:00
-layout: post
 slug: inside-digital-democracys-strategic-planning-process
 title: Inside Digital Democracy's Strategic Planning Process
 wordpress_id: 2757

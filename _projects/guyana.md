@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Forest Change Monitoring in Guyana
 image: "/assets/guyana-truck-satellite.jpg"
 featured: large

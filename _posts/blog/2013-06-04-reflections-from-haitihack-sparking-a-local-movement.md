@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Emily Jacobi
-comments: true
 slug: "reflections-from-haitihack-sparking-a-local-movement"
 title: "Reflections from #HaitiHack - Sparking a local movement"
 wordpress_id: 4763

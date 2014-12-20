@@ -1,7 +1,5 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 published: false
 slug: were-hiring
 title: We're Hiring!

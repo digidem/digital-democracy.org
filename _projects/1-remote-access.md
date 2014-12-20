@@ -1,5 +1,4 @@
 ---
-layout: project
 title: 'Remote Access: Tools for Hard-to-Reach Communities'
 short_title: 'Remote Access Tools'
 image: /assets/achuar-gps-monitoring.jpg

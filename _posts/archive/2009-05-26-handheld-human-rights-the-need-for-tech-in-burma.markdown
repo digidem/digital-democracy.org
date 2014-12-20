@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-05-26 17:53:53+00:00
-layout: post
 slug: handheld-human-rights-the-need-for-tech-in-burma
 title: Handheld Human Rights & the need for tech in Burma
 wordpress_id: 438

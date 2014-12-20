@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: admin
-comments: true
 slug: "ict4hr-world-bank-report-with-dd-authors-released"
 title: ICT4HR World Bank Report with Dd authors released
 wordpress_id: 4684

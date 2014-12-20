@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-03-11 00:06:49+00:00
-layout: post
 slug: drupalcon-dc-2009
 title: Drupalcon DC 2009
 wordpress_id: 316

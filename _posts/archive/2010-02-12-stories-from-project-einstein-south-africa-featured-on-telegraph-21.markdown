@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-02-12 16:33:49+00:00
-layout: post
 slug: stories-from-project-einstein-south-africa-featured-on-telegraph-21
 title: Stories from Project Einstein South Africa featured on Telegraph 21
 wordpress_id: 1393

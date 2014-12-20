@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-08-20 16:14:40+00:00
-layout: post
 slug: ddtv-episode-2-origin-story
 title: DdTv Episode 2 - Origin Story
 wordpress_id: 664

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-02-24 14:41:01+00:00
-layout: post
 slug: indonesian-journalists-visit-our-office
 title: Indonesian Journalists Visit Our Office
 wordpress_id: 1494

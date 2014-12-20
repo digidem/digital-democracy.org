@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-02-01 22:30:41+00:00
-layout: post
 slug: ddtv-episode-9-handheld-human-rights
 title: 'DdTv Episode 9: Handheld Human Rights'
 wordpress_id: 1240

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-10-25 18:11:02+00:00
-layout: post
 slug: announcing-support-from-us-institute-of-peace-for-haiti-program
 title: Announcing support from US Institute of Peace for Haiti Program
 wordpress_id: 2309

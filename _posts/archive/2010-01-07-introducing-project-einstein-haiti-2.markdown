@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-01-07 22:59:52+00:00
-layout: post
 slug: introducing-project-einstein-haiti-2
 title: 'Introducing Project Einstein: Haiti'
 wordpress_id: 874

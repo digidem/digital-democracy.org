@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2010-05-28 13:16:36+00:00
-layout: post
 slug: 12-u-s-senators-back-protection-of-haitian-women
 title: 12 U.S. Senators Back Protection Of Haitian Women
 wordpress_id: 1828

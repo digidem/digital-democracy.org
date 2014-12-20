@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-11-05 17:29:17+00:00
-layout: post
 slug: burmamyanmar-technology-research-2
 title: Burma/Myanmar Technology Research
 wordpress_id: 2349

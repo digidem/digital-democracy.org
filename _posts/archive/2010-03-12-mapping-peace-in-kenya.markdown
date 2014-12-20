@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-03-12 18:55:54+00:00
-layout: post
 slug: mapping-peace-in-kenya
 title: Mapping peace in Kenya
 wordpress_id: 1549

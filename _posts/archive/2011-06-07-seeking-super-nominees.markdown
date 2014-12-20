@@ -1,8 +1,6 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-06-07 14:12:15+00:00
-layout: post
 slug: seeking-super-nominees
 title: Seeking Super Nominees
 wordpress_id: 3144

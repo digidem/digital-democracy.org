@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2010-08-13 18:46:13+00:00
-layout: post
 slug: streaming-the-world-cup-in-a-thai-refugee-camp
 title: 'Streaming the World Cup in a Thai Refugee Camp '
 wordpress_id: 2071

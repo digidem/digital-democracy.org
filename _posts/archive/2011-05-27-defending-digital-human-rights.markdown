@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-05-27 12:26:51+00:00
-layout: post
 slug: defending-digital-human-rights
 title: Defending Digital Human Rights
 wordpress_id: 3134

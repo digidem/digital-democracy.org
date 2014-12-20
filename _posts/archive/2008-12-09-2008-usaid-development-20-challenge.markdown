@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-12-09 22:14:23+00:00
-layout: post
 slug: 2008-usaid-development-20-challenge
 title: 2008 USAID Development 2.0 Challenge
 wordpress_id: 821

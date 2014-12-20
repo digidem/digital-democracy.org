@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2010-05-01 14:54:51+00:00
-layout: post
 slug: reflections-from-a-week-among-haitis-women
 title: Reflections from a week among Haiti's women
 wordpress_id: 1730

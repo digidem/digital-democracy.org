@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-02-12 14:35:37+00:00
-layout: post
 slug: web4dev-at-the-un
 title: Web4Dev Conference, New York City
 wordpress_id: 243

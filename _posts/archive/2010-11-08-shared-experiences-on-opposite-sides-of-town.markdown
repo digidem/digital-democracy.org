@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-11-08 11:47:44+00:00
-layout: post
 slug: shared-experiences-on-opposite-sides-of-town
 title: Shared experiences on opposite sides of town
 wordpress_id: 2364

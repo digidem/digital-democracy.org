@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-12-30 21:20:38+00:00
-layout: post
 slug: will-you-commit-to-dd-for-the-new-year
 title: Will you commit to Dd for the new year?
 wordpress_id: 2651

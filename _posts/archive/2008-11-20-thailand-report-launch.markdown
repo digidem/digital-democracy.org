@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-11-20 16:44:08+00:00
-layout: post
 slug: thailand-report-launch
 title: Thailand Report Launch!
 wordpress_id: 801

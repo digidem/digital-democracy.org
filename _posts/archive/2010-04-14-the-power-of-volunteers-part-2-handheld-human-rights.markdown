@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-14 22:37:09+00:00
-layout: post
 slug: the-power-of-volunteers-part-2-handheld-human-rights
 title: 'The power of volunteers part 2: Handheld Human Rights'
 wordpress_id: 1653

@@ -1,8 +1,6 @@
 ---
 author: Arielle Darr
-comments: true
 date: 2010-12-17 18:13:13+00:00
-layout: post
 slug: celebrate-two-years-of-digital-democracy
 title: 'Celebrate Two Years of Digital Democracy! '
 wordpress_id: 2572

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-19 18:51:21+00:00
-layout: post
 slug: traveling-to-haiti-to-support-local-women
 title: Traveling to Haiti to support local women
 wordpress_id: 1706

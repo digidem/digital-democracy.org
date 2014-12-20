@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-12-08 02:02:47+00:00
-layout: post
 slug: virtual-worlds-and-nonprofits
 title: Virtual Worlds and Nonprofits
 wordpress_id: 840

@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-09-02 18:56:37+00:00
-layout: post
 slug: media-and-technology-in-armenia
 title: Media and Technology in Armenia
 wordpress_id: 2102

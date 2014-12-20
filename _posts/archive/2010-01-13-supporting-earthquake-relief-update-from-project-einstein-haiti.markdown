@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-13 20:02:13+00:00
-layout: post
 slug: supporting-earthquake-relief-update-from-project-einstein-haiti
 title: Supporting earthquake relief & update from Project Einstein Haiti
 wordpress_id: 881

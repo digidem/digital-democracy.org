@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-04-27 18:03:53+00:00
-layout: post
 slug: subversive-tech-burma%e2%80%99s-struggle-for-democracy-live-streaming
 title: Subversive Tech & Burma’s Struggle for Democracy Live Streaming
 wordpress_id: 396

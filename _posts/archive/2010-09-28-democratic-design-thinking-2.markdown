@@ -1,8 +1,6 @@
 ---
 author: Brielle Maxwell
-comments: true
 date: 2010-09-28 14:59:36+00:00
-layout: post
 slug: democratic-design-thinking-2
 title: Democratic Design Thinking
 wordpress_id: 2165

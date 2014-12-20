@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2011-05-13 15:02:13+00:00
-layout: post
 slug: launching-jan-nou-we-lthe-way-we-see-it
 title: Launching Jan Nou We L/The Way We See It
 wordpress_id: 3070

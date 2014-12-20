@@ -1,8 +1,6 @@
 ---
 author: Rachel Brown
-comments: true
 date: 2011-02-04 16:39:12+00:00
-layout: post
 slug: peace-mapping-kenya-transitions-to-local-ownership-2
 title: 'Successes and Lessons Learned from the Kenya Peace Mapping Team '
 wordpress_id: 2730

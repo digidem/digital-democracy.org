@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-10-11 17:07:13+00:00
-layout: post
 slug: elections-in-guatemala
 title: Voice of Elections in Guatemala
 wordpress_id: 3413

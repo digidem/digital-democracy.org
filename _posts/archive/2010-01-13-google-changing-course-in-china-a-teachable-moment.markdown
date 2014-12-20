@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-13 23:13:18+00:00
-layout: post
 slug: google-changing-course-in-china-a-teachable-moment
 title: 'Google Changing Course in China: A Teachable Moment'
 wordpress_id: 899

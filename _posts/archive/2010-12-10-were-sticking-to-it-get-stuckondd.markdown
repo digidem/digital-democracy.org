@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-12-10 21:08:40+00:00
-layout: post
 slug: were-sticking-to-it-get-stuckondd
 title: 'We''re sticking to it - Get #StuckonDd'
 wordpress_id: 2514

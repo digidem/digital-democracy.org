@@ -1,8 +1,6 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2010-11-01 18:03:46+00:00
-layout: post
 slug: democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections
 title: Democracy In Haiti? Our workshop with Haitian Women To Prepare For November
   Elections
