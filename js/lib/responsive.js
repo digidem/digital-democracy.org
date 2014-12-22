@@ -86,4 +86,4 @@
         window[scriptName](elements, options);
     }
 
-})($, window, document);
+})(window.$, window, document);
