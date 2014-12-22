@@ -63,45 +63,8 @@
 <script src="/js/site.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
 
 <script>
-(function() {
-  // Load larger images according to resolution & retina
-  $('img').loadResponsiveImages();
-
-  // Size images to fill containers (like background-size: cover)
-  $('.check-aspect-ratio').fixAspectRatio();
-
-  var offset;
-
-  function updateOffset() {
-    offset = $('body.full-header').height() / 3;
-  }
-
-  $(window).on('resize', updateOffset);
-  updateOffset();
-
-  // Affix the header to the top of the page for full-size header image articles
-  $('body.full-header .site-header').affix({
-    offset: {
-      top: function() {
-        return offset;
-      }
-    }
-  })
-})();
-
-  $(document)
-    .foundation('dropdown')
-    .foundation('topbar')
-    .foundation('orbit', {
-      bullets: false,
-      timer_speed: 8000,
-      animation_speed: 700,
-      timer: true,
-      slide_number: false,
-      pause_on_hover: false
-    });
-  $('.orbit-caption')
-    .on('mouseenter mouseleave', function (e) { $('[data-orbit]').click(); })
+{% include js/site-setup.js %}
+{% include js/foundation-setup.js %}
 </script>
 </body>
 </html>
