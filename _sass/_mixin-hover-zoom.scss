@@ -41,11 +41,11 @@ $blur-radius: 4px;
       }
     }
   }
-  header:hover, &.hover header {
-    h3.background {
+  header {
+    h3.background:hover {
       background: none;
     }
-    > a {
+    > a:hover {
       img {
         @include transform(translate3d(-50%, -50%, 0) scale(1.1));
         -webkit-filter: blur($blur-radius);

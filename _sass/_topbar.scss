@@ -273,6 +273,10 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   body.full-header header.site-header {
     left: 0;
     right: 0;
+    -webkit-transform: translate3d(0,0,0);
+            transform: translate3d(0,0,0);
+    transition: -webkit-transform 400ms ease-out;
+    transition: transform 400ms ease-out;
     &.affix-top {
       position: fixed;
       top: 0;

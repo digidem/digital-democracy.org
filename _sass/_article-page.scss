@@ -120,7 +120,7 @@ $leftbar-width: emCalc(85);
       right: 0;
       bottom: 0;
       left: 0;
-      img {
+      img#header-image {
         cursor: n-resize;
         &.zoom-pointer {
           cursor: s-resize;
@@ -138,6 +138,8 @@ $leftbar-width: emCalc(85);
           left: 0;
           right: 0;
         }
+        transition: -webkit-transform 400ms ease-out;
+        transition: transform 400ms ease-out;
       }
     }
     article.article {

@@ -25,4 +25,10 @@
       }
     }
   }
+  transition: -webkit-transform 400ms ease-out;
+  transition: transform 400ms ease-out;
+  &.offscreen {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
 }
