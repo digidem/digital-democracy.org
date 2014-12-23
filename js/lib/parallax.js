@@ -11,6 +11,7 @@
       windowHeight = getWindowHeight(),
       elements,
       scrollY,
+      rqf,
       adjustFn;
 
     if ($ && this instanceof $) {
@@ -34,20 +35,28 @@
 
     adjustFn = (typeof options.adjustFn === 'function') ? options.adjustFn : function(y, h) {
       var offset = - 100 * (h - y) / h / 2;
-      this.style.transform = 'translateY(' + offset + '%)';
+      this.style[Modernizr.prefixed('transform')] = 'translateY(' + offset + '%)';
     };
 
     window.addEventListener('scroll', onScrollParallax);
 
     function onScrollParallax() {
-      scrollY = window.scrollY;
-      if (scrollY > windowHeight) return;
-      window.requestAnimationFrame(function() {
-        adjustFn.call(elements[0], scrollY, windowHeight);
+      if (window.scrollY > windowHeight) return;
+      //if (rqf) window.cancelAnimationFrame(rqf);
+      rqf = window.requestAnimationFrame(function() {
+        for (var i = 0; i < elements.length; i++) {
+          adjustFn.call(elements[i], window.scrollY, windowHeight);
+        }
+        rqf = undefined;
       });
     }
 
     onScrollParallax();
+
+    // For images, once they have a height, re-adjust.
+    for (var i = 0; i < elements.length; i++) {
+      elements[i].addEventListener('hasdim', onScrollParallax);
+    }
 
     window.addEventListener('resize', function onresize() {
       if (Math.abs(getWindowHeight() - windowHeight) < 10) return;

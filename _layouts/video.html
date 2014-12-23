@@ -25,3 +25,25 @@ body_class: full-header
 document.getElementById('video-iframe').focus();
 </script>
 <script src="//f.vimeocdn.com/js/froogaloop2.min.js"></script>
+<script src="/js/lib/parallax.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
+<script>
+(function() {
+if (!document.getElementsByTagName('html')[0].classList.contains('no-touch')) return;
+  var transformProperty = Modernizr.prefixed('transform'),
+    translatePrefix = Modernizr.csstransforms3d ? 'translate3d(' : 'translate(',
+    translatePostfix = Modernizr.csstransforms3d ? ',0)' : ')';
+
+  parallax('#video-container, .play-button', {
+    adjustFn: function(y, h) {
+      var offset = (100 * y / 2 / this.offsetHeight) - 50;
+      this.style[transformProperty] = translatePrefix + '0, ' + offset + '%' + translatePostfix;
+    }
+  });
+  parallax('.video-still', {
+    adjustFn: function(y, h) {
+      var offset = (100 * y / 2 / this.offsetHeight) - 50;
+      this.style[transformProperty] = translatePrefix + '-50%, ' + offset + '%' + translatePostfix;
+    }
+  });
+})();
+</script>

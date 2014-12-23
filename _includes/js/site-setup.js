@@ -25,23 +25,11 @@
     }
   });
 
-  // Add parallax to header images and videos
-  $('#header-image', $context).parallax({
-    adjustFn: function(y, h) {
-      var imageOffset = 100 * (h - y) / h / 2;
-      if (y <= 3) this.classList.remove('zoom-pointer');
-      else this.classList.add('zoom-pointer');
-      this.style.transform = 'translate3d(-50%, -' + imageOffset + '%, 0)';
-    }
-  }).on('click', function() {
+  // Scroll to fullpage image on click
+  $('#header-image', $context).on('click', function() {
     var scrollTo = (window.scrollY > 3) ? 0 : document.body.clientHeight / 3;
     smoothScroll(scrollTo);
   });
-  $('#video-container', $context).parallax({
-    adjustFn: function(y, h) {
-      var offset = (100 * y / 2 / this.offsetHeight) - 50;
-      this.style.transform = 'translate3d(0, ' + offset + '%, 0)';
-    }
-  });
+
 
 })();
