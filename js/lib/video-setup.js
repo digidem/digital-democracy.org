@@ -11,6 +11,7 @@
         player.addEvent('finish', onPause);
         $('.play-button').on('click', function() {
           player.api('play');
+          $('#video-iframe').focus();
         });
     });
 
