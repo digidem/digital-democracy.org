@@ -9,7 +9,11 @@
         player.addEvent('pause', onPause);
         player.addEvent('play', onPlay);
         player.addEvent('finish', onPause);
-        $('.play-button').on('click', function() {
+        $('.play-link').on('click', function() {
+          smoothScroll(0, function() {
+            $body.addClass('video-playing');
+            $body.removeClass('video-paused');
+          });
           player.api('play');
           $('#video-iframe').focus();
         });
