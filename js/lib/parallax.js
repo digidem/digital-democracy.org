@@ -61,7 +61,7 @@
     window.addEventListener('resize', function onresize() {
       if (Math.abs(getWindowHeight() - windowHeight) < 10) return;
       windowHeight = getWindowHeight();
-      window[scriptName](elements, options);
+      onScrollParallax();
     });
 
     return this;

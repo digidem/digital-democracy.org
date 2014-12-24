@@ -63,7 +63,6 @@
 
     function onresize() {
         if (Math.abs(getWindowWidth() - windowWidth) < 100) return;
-        console.log(Math.abs(getWindowWidth() - windowWidth));
         windowWidth = getWindowWidth();
         window[scriptName](elements);
     }
