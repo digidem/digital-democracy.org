@@ -1,14 +1,16 @@
 ;(function($, window, document, undefined) {
 
-  function getWindowHeight() {
-    return window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+  function getWindowDim() {
+    return [ window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth, 
+    window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight ];
   }
 
   var scriptName = 'parallax';
+  var minWidth = 1024;
 
   window[scriptName] = function() {
     var options = arguments[1],
-      windowHeight = getWindowHeight(),
+      windowDim = getWindowDim(),
       elements,
       scrollY,
       rqf,
@@ -41,11 +43,11 @@
     window.addEventListener('scroll', onScrollParallax);
 
     function onScrollParallax() {
-      if (window.scrollY > windowHeight) return;
+      if (window.scrollY > windowDim[1] || windowDim[0] < minWidth) return;
       //if (rqf) window.cancelAnimationFrame(rqf);
       rqf = window.requestAnimationFrame(function() {
         for (var i = 0; i < elements.length; i++) {
-          adjustFn.call(elements[i], window.scrollY, windowHeight);
+          adjustFn.call(elements[i], window.scrollY, windowDim[1]);
         }
         rqf = undefined;
       });
@@ -59,8 +61,8 @@
     }
 
     window.addEventListener('resize', function onresize() {
-      if (Math.abs(getWindowHeight() - windowHeight) < 10) return;
-      windowHeight = getWindowHeight();
+      if (Math.abs(getWindowDim()[1] - windowDim[1]) < 10) return;
+      windowDim = getWindowDim();
       onScrollParallax();
     });
 

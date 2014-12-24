@@ -22,6 +22,7 @@
     function onPause() {
         $body.removeClass('video-playing');
         $body.addClass('video-paused');
+        if ($body.width() < 1024) return;
         smoothScroll(document.body.clientHeight / 3);
     }
 

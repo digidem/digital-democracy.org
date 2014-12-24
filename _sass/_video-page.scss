@@ -3,8 +3,6 @@ header.article.video {
   height: auto;
   .embed-container {
     position: relative;
-    -webkit-transform: translate(0,0) !important;
-            transform: translate(0,0) !important;
     height: 0;
     width: 100%;
     padding-bottom: 56.25%;
@@ -47,8 +45,6 @@ article.article.video {
     .embed-container {
       position: absolute;
       top: 50%;
-      -webkit-transform: translate(0,-50%);
-      transform: translate(0,-50%);
       -webkit-transform: translate3d(0, -50%, 0);
       transform: translate3d(0, -50%, 0);
     }
@@ -86,29 +82,30 @@ article.article.video {
       }
     }
   }
-}
-
-body.video-playing, body.video-paused {
-  header.article img.video-still {
-    display: none;
-  }
-}
-body.video-playing {
-  header.article .play-button {
-    display: none;
-  }
-}
-html.no-touch {
-  body.full-header.video-playing {
-    header.site-header {
-      -webkit-transform: translateY(-200%);
-      transform: translateY(-200%);
+  body.video-playing, body.video-paused {
+    header.article img.video-still {
+      display: none;
     }
-    header.article {
-      .caption-outer {
-        -webkit-transform: translateY(100%);
-        transform: translateY(100%);
+  }
+  body.video-playing {
+    header.article .play-button {
+      display: none;
+    }
+  }
+  html.no-touch {
+    body.full-header.video-playing {
+      header.site-header {
+        -webkit-transform: translateY(-200%);
+        transform: translateY(-200%);
+      }
+      header.article {
+        .caption-outer {
+          -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+        }
       }
     }
   }
 }
+
+
