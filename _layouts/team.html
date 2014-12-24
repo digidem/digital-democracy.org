@@ -3,7 +3,18 @@ layout: default
 ---
 <div class="row">
   <div class="small-12 large-9 large-centered columns">
+    <h2>{{ page.title }}</h2>
     <img src="{{ page.image }}" class="left" style="width: 200px; height:200px; margin-right: 1em;">
     {{ content }}
+    {% if page.tags contains 'core' %}
+    <h3>Blogposts</h3>
+    <ul>
+    {% for post in site.posts %}
+    {% if post.author == page.title %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
   </div>
 </div>
