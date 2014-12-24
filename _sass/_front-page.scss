@@ -61,9 +61,9 @@ nav.subnav {
 }
 
 @media #{$small} {
-  .slideshow-wrapper {
-    margin-top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
-  }
+  // .slideshow-wrapper {
+  //   margin-top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
+  // }
   .latest-news ul {
     @include block-grid(2, emCalc(40));
   }

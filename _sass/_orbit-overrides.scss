@@ -1,12 +1,31 @@
 @import "compass/css3/transform";
 @import "mixin-image-ratio";
+@import "mixin-underline";
 
-.slideshow-wrapper {
+.slideshow-wrapper ul li {
+  @include image-ratio(map-get($ratios, "ratio16x9"));
+}
+.orbit-container .orbit-slides-container img {
+  max-width: none;
+}
+.slideshow-wrapper ul li,
+.slideshow-wrapper,
+.orbit-container {
   height: 0;
-  padding-bottom: map-get($ratios, "ratio16x9");
-  ul {
-    li {
-      @include image-ratio(map-get($ratios, "ratio16x9"));
+  padding-bottom: map-get($ratios, "ratio4x3");
+  width: 100%;
+}
+
+.orbit-container {
+  .orbit-slides-container > * {
+    .orbit-caption {
+      h3 a {
+        color: white;
+        text-shadow: black 1px 1px 2px;
+        &:hover {
+          @include underline(rgba(255,255,255,0.8), 3px, 1px);
+        }
+      }
     }
   }
 }
