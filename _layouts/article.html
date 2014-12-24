@@ -4,12 +4,13 @@ body_class: full-header
 ---
 <header class="article {{ page.class }}">
   <img class="check-aspect-ratio" id="header-image" src="{{ page.image }}">
-  {% include caption.html byline = true %}
+  {% include caption.html byline=true link=true %}
 </header>
-
 <article class="article {{ page.class }}">
 
   <div class="content">
+    {% include byline.html class='outer' link=true %}
+
     {{ content | replace: '<p><img', '<p class="image"><img' }}
   </div>
   {% if page.comments %}{% include disqus.html %}{% endif %}

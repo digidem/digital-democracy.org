@@ -8,7 +8,7 @@ $leftbar-width: emCalc(85);
   header.article {
     background-color: black;
     width: 100%;
-    @include image-ratio(map-get($ratios, "ratio1x1"));
+    @include image-ratio(map-get($ratios, "ratio4x3"));
     .caption-inner {
       position: absolute;
       right: 0;
@@ -28,13 +28,31 @@ $leftbar-width: emCalc(85);
         color: #eee;
         font-weight: 300;
       }
-      .byline {
-        line-height: 1.6em;
-        margin-bottom: 0.5em;
-        font-size: 1.2em;
-      }
-      .author {
+    }
+  }
+
+  header.article, article.article {
+    .byline {
+      margin-bottom: 0.5em;
+      .author, .author a {
         color: $author-link;
+      }
+      .author a:hover {
+        text-decoration: underline;
+      }
+      address {
+        display: inline;
+      }
+      address:before {
+        content: "\2014 By ";
+        font-style: normal;
+        color: initial;
+      }
+      time:before {
+        content: " on ";
+      }
+      &.inner {
+        display: none;
       }
     }
   }
@@ -46,7 +64,7 @@ $leftbar-width: emCalc(85);
     img {
       width: 100%;
     }
-    & > p:first-child {
+    & > p:first-of-type {
       padding-right: 0.5em;
       font-size: 1.1em;
     }
@@ -72,12 +90,13 @@ $leftbar-width: emCalc(85);
       width: auto;
       right: 33%;
       .byline {
+        display: block;
         address:before {
-          content: "By ";
+          content: "";
           font-style: normal;
         }
         time:before {
-          content: " on ";
+          content: "";
         }
       }
     }
@@ -86,13 +105,16 @@ $leftbar-width: emCalc(85);
     box-shadow: -62.5em 0 $left-bg;
     padding-left: 3em;
     padding-top: 2em;
+    .byline.outer {
+      display: none;
+    }
     img {
       width: 100%;
       float: right;
       position: relative;
       margin: 0.85em -50% 0.85em 1em;
     }
-    & > p:first-child {
+    & > p:first-of-type {
       padding-right: 1em;
       font-size: 1.2em;
     }
@@ -144,8 +166,19 @@ $leftbar-width: emCalc(85);
         pointer-events: none;
         .caption-inner {
           @include grid-column(6);
+          pointer-events: all;
           left: 0;
           right: 0;
+          .byline {
+            address:before {
+              content: "By ";
+              color: white;
+              font-style: normal;
+            }
+            time:before {
+              content: "on ";
+            }
+          }
         }
         transition: -webkit-transform 400ms ease-out;
         transition: transform 400ms ease-out;
@@ -183,7 +216,7 @@ $leftbar-width: emCalc(85);
     padding-bottom: map-get($ratios, "ratio24x10");
   }
   .article .content {
-    & > p:first-child {
+    & > p:first-of-type {
       font-size: 1.4em;
     }
     p {

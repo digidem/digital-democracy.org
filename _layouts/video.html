@@ -8,12 +8,14 @@ body_class: full-header
   </div>
   <img class="video-still check-aspect-ratio" src="{{ page.image }}">
   <div class="play-button play-link"></div>
-  {% include caption.html byline = true %}
+  {% include caption.html byline=true link=true %}
 </header>
 
 <article class="article {{ page.class }}">
 
   <div class="content">
+    {% include byline.html class='outer' link=true %}
+
     {{ content | replace: '<p><img', '<p class="image"><img' }}
   </div>
   {% if page.comments %}{% include disqus.html %}{% endif %}
