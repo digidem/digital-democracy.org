@@ -126,7 +126,7 @@ $leftbar-width: emCalc(85);
     h2 {
       font-size: emCalc(23);
     }
-    > *, p.image {
+    > *:not(blockquote), p.image {
       padding-right: percentage(1/3);
       padding-left: 0;
     }
