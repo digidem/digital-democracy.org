@@ -75,6 +75,9 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
         display: block;
         overflow: hidden;
         border-bottom: 1px solid white;
+        &:hover:after {
+          opacity: 0 !important;
+        }
       }
       h3 {
         position: static;
@@ -86,6 +89,9 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
         padding-top: 0.4em;
         margin-left: 33%;
         pointer-events: all;
+        &.background {
+          background-color: none;
+        }
         a {
           @include underline($anchor-underline-color, 1px, 3px);
           &:hover {
