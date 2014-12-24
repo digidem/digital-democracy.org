@@ -216,17 +216,16 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   header.site-header {
     margin-top: $topbar-margin-bottom;
     margin-bottom: $topbar-margin-bottom;
-    background-color: transparent;
+    box-shadow: 62.5em 0 transparentize($dd-blue, 0.1);
+    background-color: transparentize($dd-blue, 0.1);
 
     // Add a full-width colored bar behind the nav
     &:before {
-      width: 500%;
-      background-color: transparentize($dd-blue, 0.1);
+      width: 100%;
       height: 100%;
       position: absolute;
-      left: 50%;
       z-index: -1;
-      margin-left: -250%;
+      box-shadow: -62.5em 0 transparentize($dd-blue, 0.1);
     }
 
     h1 {
@@ -271,6 +270,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   }
 
   body.full-header header.site-header {
+    position: absolute;
     left: 0;
     right: 0;
     -webkit-transform: translate3d(0,0,0);
