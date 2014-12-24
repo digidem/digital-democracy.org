@@ -68,3 +68,9 @@
 @import "article-page";
 @import "video-page";
 @import "footer";
+
+// fix for all images for browsers without transforms
+.no-csstransforms .check-aspect-ratio, .no-csstransforms .embed-container {
+    top: 0;
+    left:0;
+}
