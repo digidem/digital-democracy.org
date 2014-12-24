@@ -71,6 +71,15 @@ $leftbar-width: emCalc(85);
       left: $leftbar-width;
       width: auto;
       right: 33%;
+      .byline {
+        address:before {
+          content: "By ";
+          font-style: normal;
+        }
+        time:before {
+          content: " on ";
+        }
+      }
     }
   }
   article.article .content {
