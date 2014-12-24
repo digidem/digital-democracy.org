@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-06-27 14:21:05+00:00
-layout: post
 slug: participation-camp-2009
 title: Participation Camp 2009
 wordpress_id: 561

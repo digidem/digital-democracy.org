@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-02-25 00:10:33+00:00
-layout: post
 slug: mobile-tech-4-social-change-barcamp
 title: Mobile Tech 4 Social Change Barcamp
 wordpress_id: 291

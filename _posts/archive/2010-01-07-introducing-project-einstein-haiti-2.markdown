@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-01-07 22:59:52+00:00
-layout: post
 slug: introducing-project-einstein-haiti-2
 title: 'Introducing Project Einstein: Haiti'
 wordpress_id: 874
 categories:
 - archive
+image: http://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg
 ---
 
 The year is certainly off to an exciting start. Digital Democracy is putting together our annual report for 2009 and pushing out new projects for 2010. We're excited to announce **Project Einstein: Haiti**

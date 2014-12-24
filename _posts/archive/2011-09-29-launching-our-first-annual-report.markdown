@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-09-29 14:20:39+00:00
-layout: post
 slug: launching-our-first-annual-report
 title: Launching Our First Annual Report
 wordpress_id: 3411
 categories:
 - archive
+image: https://farm6.static.flickr.com/5245/5246281361_8fba7d823e_o.png
 ---
 
 [![image](https://farm6.static.flickr.com/5245/5246281361_8fba7d823e_o.png)](https://secure.flickr.com/photos/digitaldemocracy/5246281361/)

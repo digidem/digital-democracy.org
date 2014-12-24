@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-12-30 21:20:38+00:00
-layout: post
 slug: will-you-commit-to-dd-for-the-new-year
 title: Will you commit to Dd for the new year?
 wordpress_id: 2651
 categories:
 - archive
+image: http://farm6.static.flickr.com/5130/5304181950_c160e13aa8.jpg
 ---
 
 In September Digital Democracy made a [commitment to the Clinton Global Initiative](http://www.clintonglobalinitiative.org/ourmeetings/2010/) to use technology to empower women and girls fighting  gender-based violence in Haiti. This is part of our larger commitment to  engage with our local partners using technology to solve urgent problems in their communities.

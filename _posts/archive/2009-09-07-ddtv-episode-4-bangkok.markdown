@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-09-07 21:13:28+00:00
-layout: post
 slug: ddtv-episode-4-bangkok
 title: 'DdTv Episode 4: Bangkok'
 wordpress_id: 687

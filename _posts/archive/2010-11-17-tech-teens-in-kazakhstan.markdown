@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-11-17 21:52:17+00:00
-layout: post
 slug: tech-teens-in-kazakhstan
 title: Tech Teens in Kazakhstan
 wordpress_id: 2426
 categories:
 - archive
+image: http://farm5.static.flickr.com/4108/5185189147_dda3528688.jpg
 ---
 
 A student of mine named Genghis Kahn raises his hand and declares that he wants to do a media project on why adults need to learn technology. He explained that in the 21st century, these tools are really important and if the people in the city of Atyrau want to move forward, they're going to have to learn them.

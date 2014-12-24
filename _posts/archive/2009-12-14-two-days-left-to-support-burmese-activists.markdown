@@ -1,8 +1,6 @@
 ---
 author: blipTV
-comments: true
 date: 2009-12-14 20:18:27+00:00
-layout: post
 slug: two-days-left-to-support-burmese-activists
 title: 'Video message from Emily: 28 hours left to support Burmese activists'
 wordpress_id: 845

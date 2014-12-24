@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-29 22:31:59+00:00
-layout: post
 slug: haiti-trip-a-great-success
 title: Haiti trip a great success
 wordpress_id: 1726

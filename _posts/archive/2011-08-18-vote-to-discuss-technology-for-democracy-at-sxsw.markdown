@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-08-18 15:58:36+00:00
-layout: post
 slug: vote-to-discuss-technology-for-democracy-at-sxsw
 title: Vote To Discuss Technology For Democracy at SXSW
 wordpress_id: 3319
 categories:
 - archive
+image: http://farm7.static.flickr.com/6201/6053942371_77784af056_o.png
 ---
 
 What is the current discussion around how technology is being used for supporting people advocating for democracy around the world? Please vote for the panels we and are friends are trying to host at the upcoming South by Southwest Conference in Austin, Texas.

@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Biz Ghormley
-comments: true
 slug: "mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps"
 title: "Mapping Injustice: the three areas of work for Dd’s next steps.   "
 wordpress_id: 3953

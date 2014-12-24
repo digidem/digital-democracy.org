@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-04-13 13:25:16+00:00
-layout: post
 slug: ddtv-episode-11-stories-from-a-thai-refugee-camp
 title: 'DdTv Episode 11: Stories from a Thai Refugee Camp'
 wordpress_id: 1671

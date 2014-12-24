@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-11-20 16:44:08+00:00
-layout: post
 slug: thailand-report-launch
 title: Thailand Report Launch!
 wordpress_id: 801
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/picture-10.png
 ---
 
 **Overcoming Obstacles, Creating Opportunities:

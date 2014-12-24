@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Biz Ghormley
-comments: true
 slug: "introducing-our-board-of-directors"
 title: Introducing our Board of Directors
 wordpress_id: 3937

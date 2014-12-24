@@ -1,13 +1,12 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-12-06 20:24:00+00:00
-layout: post
 slug: participation-transforms-possibility
 title: Participation transforms possibility. Please Give to Dd!
 wordpress_id: 3584
 categories:
 - archive
+image: http://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg
 ---
 
 **What does democracy mean to you? **In 2011 the Digital Democracy (Dd) team has asked this question of people around the world. [Egyptians in Tahrir Square](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/), [#Occupy protestors in Zuccotti Park](http://digital-democracy.org/2011/10/19/occupyvotes-open-source-protest/), women in tent camps in Port-Au-Prince and folks at home have given us many answers, including freedom of speech and equal opportunity. The theme uniting them all? **Participation**: the ability for all people’s voices to be heard & represented in their community’s governance.

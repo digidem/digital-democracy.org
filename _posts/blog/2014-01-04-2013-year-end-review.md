@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: "2013: Year-End Review"
 author: Emily Jacobi

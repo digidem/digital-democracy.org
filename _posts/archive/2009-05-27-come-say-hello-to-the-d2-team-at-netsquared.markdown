@@ -1,8 +1,6 @@
 ---
 author: morgan
-comments: true
 date: 2009-05-27 00:21:15+00:00
-layout: post
 slug: come-say-hello-to-the-d2-team-at-netsquared
 title: Come Say Hello to the D2 Team at NetSquared!
 wordpress_id: 444

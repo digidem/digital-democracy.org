@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-07-24 18:37:53+00:00
-layout: post
 slug: the-treasure-of-a-family-photograph
 title: The treasure of a family photograph
 wordpress_id: 583

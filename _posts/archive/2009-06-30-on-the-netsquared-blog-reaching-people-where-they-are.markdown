@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-06-30 04:07:19+00:00
-layout: post
 slug: on-the-netsquared-blog-reaching-people-where-they-are
 title: 'On the NetSquared blog: Reaching people where they are'
 wordpress_id: 552

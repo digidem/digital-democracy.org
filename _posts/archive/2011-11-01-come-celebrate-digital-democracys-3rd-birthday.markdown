@@ -1,13 +1,12 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-11-01 17:40:37+00:00
-layout: post
 slug: come-celebrate-digital-democracys-3rd-birthday
 title: Come Celebrate Digital Democracy's 3rd Birthday!
 wordpress_id: 3492
 categories:
 - archive
+image: https://farm7.static.flickr.com/6057/6302696445_f5a431b91c_o.png
 ---
 
 [![image](https://farm7.static.flickr.com/6057/6302696445_f5a431b91c_o.png)](http://ddturns3.eventbrite.com/)

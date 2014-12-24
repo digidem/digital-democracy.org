@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-10-11 17:07:13+00:00
-layout: post
 slug: elections-in-guatemala
 title: Voice of Elections in Guatemala
 wordpress_id: 3413
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2011/10/Screen-shot-2011-10-13-at-7.54.40-PM-300x238.png
 ---
 
 Guatemala is a country with a complicated history. Although the 36-year civil war has ended, Guatemalan society is still struggling to rebuild from this history of war and ethnic conflict. One opportunity and challenge is the need to engage young Guatemalans, many of whom continue to be marginalized from political life. Participating in elections is not only a gateway to further civic engagement, reporting on elections offers an opportunity for the voices of youth which are rarely heard to help shape the national dialogue.

@@ -1,7 +1,6 @@
 ---
 categories: 
   - blog
-layout: post
 title: "First Hackathon to be held in Haiti: Cross-cultural collaboration to create community-driven solutions"
 author: Emily Jacobi
 featured: 

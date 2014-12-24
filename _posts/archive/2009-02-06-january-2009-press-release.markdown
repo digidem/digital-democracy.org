@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-02-06 18:18:06+00:00
-layout: post
 slug: january-2009-press-release
 title: Rohingya Refugees Face Uncertain Future
 wordpress_id: 212
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/02/dsc_0047-1-300x198.jpg
 ---
 
 [Recent news reports](http://www.nytimes.com/2009/02/04/world/asia/04indo.html?scp=1&sq=rohingya&st=cse) have been detailing attempts by Rohingya refugees to enter Thailand after fleeing Bangladesh and Burma, and the horrific treatment that has ensued. Rohingya are a Muslim ethnic group originally from Rakhine State in Burma. Considered stateless because Burma denied them citizenship, and due to increased violence against the group, Rohingya were forced to flee Burma in numbers reaching the hundreds of thousands, to neighboring countries, most frequently to the Cox's Bazaar region of Bangladesh. In Bangladesh they are persecuted and live under deteriorating conditions as well.

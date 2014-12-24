@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-02-02 21:44:08+00:00
-layout: post
 slug: einstein-media-curriculum-now-available
 title: Einstein Media Curriculum Now Available
 wordpress_id: 2684
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2011/02/eng_dd.png
 ---
 
 Working on a photography project with kids in Bangladesh, as their work drew to a close, the Anyat Ullah chose a name for the  project “Project Einstein.” All the kids quickly agreed, explaining:

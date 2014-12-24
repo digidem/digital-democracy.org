@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-07-28 16:02:22+00:00
-layout: post
 slug: life-in-a-day
 title: Filming Worldwide for Life in a Day
 wordpress_id: 1979
 categories:
 - archive
+image: http://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg
 ---
 
 If you filmed all around the world on the same day, what would it look like?

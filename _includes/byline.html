@@ -1,3 +1,4 @@
+{% unless post %}{% assign post = page %}{% endunless %}
 <div class="byline">
       <address class="author">
       {% if include.link %}<a href="/team/{{ post.author | slugify }}/">{% endif %}

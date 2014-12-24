@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-11-12 17:36:58+00:00
-layout: post
 slug: womens-commission-follow-up-and-looking-ahead
 title: Women's Commission follow-up and looking ahead
 wordpress_id: 800

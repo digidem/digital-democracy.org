@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-17 17:14:48+00:00
-layout: post
 slug: support-ongoing-haiti-earthquake-response-efforts
 title: Support Ongoing Haiti Earthquake Response Efforts
 wordpress_id: 915
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2010/01/Haiti-Ushahidi-Screenshot1-300x220.png
 ---
 
 Breaking news: [The Ushahidi SMS shortcode for Haiti is now up and running](http://blog.ushahidi.com/index.php/2010/01/17/the-4636-sms-shortcode-for-reporting-in-haiti/) "... [a sort of 911 for Haiti, based on SMS messages](http://www.pbs.org/idealab/2010/01/apps-for-haiti-an-sms-911-a-people-finder-and-more-to-come017.html)." Report your location and emergency needs by sending a FREE text to 4636 on Digicel in Haiti.

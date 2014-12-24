@@ -1,12 +1,11 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: support-dd-and-our-kili-climbing-team
 title: Support Dd and our Kili-climbing team
 wordpress_id: 3878
 categories:
 - blog
+image: http://farm8.staticflickr.com/7224/7352284882_f7c060fb5e_o.jpg
 ---
 
 A team of Dd supporters will climb Mt. Kilimanjaro in July... and to prepare they are raising funds and awareness about Dd.

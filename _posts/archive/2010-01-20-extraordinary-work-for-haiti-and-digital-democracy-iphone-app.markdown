@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-20 22:56:32+00:00
-layout: post
 slug: extraordinary-work-for-haiti-and-digital-democracy-iphone-app
 title: Extraordinary work for Haiti and Digital Democracy iPhone app
 wordpress_id: 1239

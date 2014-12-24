@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-11-08 11:47:44+00:00
-layout: post
 slug: shared-experiences-on-opposite-sides-of-town
 title: Shared experiences on opposite sides of town
 wordpress_id: 2364
 categories:
 - archive
+image: http://farm5.static.flickr.com/4041/5157311122_83fc6cf505.jpg
 ---
 
 26.3 miles.

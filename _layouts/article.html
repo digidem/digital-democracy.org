@@ -1,0 +1,39 @@
+---
+layout: default
+body_class: full-header
+---
+<header class="article {{ page.class }}">
+  <img class="check-aspect-ratio" id="header-image" src="{{ page.image }}">
+  {% include caption.html byline = true %}
+</header>
+
+<article class="article {{ page.class }}">
+
+  <div class="content">
+    {{ content | replace: '<p><img', '<p class="image"><img' }}
+  </div>
+  {% if page.comments %}{% include disqus.html %}{% endif %}
+
+</article>
+<!-- ' -->
+<script>
+{% include js/scrollup.js %}
+</script>
+<script src="/js/lib/parallax.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
+<script>
+(function() {
+if (!document.getElementsByTagName('html')[0].classList.contains('no-touch')) return;
+  var transformProperty = Modernizr.prefixed('transform'),
+    translatePrefix = Modernizr.csstransforms3d ? 'translate3d(' : 'translate(',
+    translatePostfix = Modernizr.csstransforms3d ? ',0)' : ')';
+
+  parallax('#header-image', {
+    adjustFn: function(y, h) {
+      var imageOffset = 100 * (h - y) / h / 2;
+      if (y <= 3) this.classList.remove('zoom-pointer');
+      else this.classList.add('zoom-pointer');
+      this.style[transformProperty] = translatePrefix + '-50%, -' + imageOffset + '%' + translatePostfix;
+    }
+  });
+})();
+</script>

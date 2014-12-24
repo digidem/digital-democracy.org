@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-06-01 13:14:22+00:00
-layout: post
 slug: ddtv-episode-12-the-dreams-of-stateless-youth
 title: 'DdTv Episode 12: The Dreams of Stateless Youth'
 wordpress_id: 1837

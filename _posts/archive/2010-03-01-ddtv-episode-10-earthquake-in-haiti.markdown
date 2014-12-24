@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2010-03-01 14:44:39+00:00
-layout: post
 slug: ddtv-episode-10-earthquake-in-haiti
 title: 'DdTv Episode 10: Earthquake in Haiti'
 wordpress_id: 1516

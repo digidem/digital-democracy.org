@@ -23,11 +23,6 @@
     </header>
     {% unless include.no_excerpt %}
     <blockquote cite="{{ post.url }}">
-      <h3 class="outer-title {% if post.light_image %}background{% endif %}">
-        <a href="{{ post.url }}">
-          <span>{{ post.title }}</span>
-        </a>
-      </h3>
       {% if post.author %}{% include byline.html link = include.link %}{% endif %}
       <p>
         {{ post_excerpt | strip_html }}

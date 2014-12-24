@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-11-09 18:10:51+00:00
-layout: post
 slug: presenting-at-itp-social-activism-using-mobile-technology-class
 title: Presenting at ITP Social Activism using Mobile Technology class
 wordpress_id: 778

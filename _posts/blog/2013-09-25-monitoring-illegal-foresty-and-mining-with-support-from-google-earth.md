@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Monitoring Illegal Foresty and Mining with Support from Google Earth Outreach
 author: Gregor MacLennan

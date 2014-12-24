@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-06-22 02:49:27+00:00
-layout: post
 slug: testifying-to-nyc-council-tech-committee-on-open-data
 title: Testifying to NYC Council Tech Committee on Open Data
 wordpress_id: 1900
 categories:
 - archive
+image: http://farm2.static.flickr.com/1005/4722608461_ebf14ef37e_m.jpg
 ---
 
 Liz Hodes represented Digital  Democracy today while testifying to the New York City Council Technology Committee on Open Data.

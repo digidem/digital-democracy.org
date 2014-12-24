@@ -1,12 +1,11 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: a-different-kind-of-record-burma-barcamp-and-the-lady
 title: 'A Different Kind of Record: Burma, BarCamp and the Lady'
 wordpress_id: 3754
 categories:
 - blog
+image: http://farm8.staticflickr.com/7191/6787604120_42860dd8c9_o.jpg
 ---
 
 **_This article was written by Emily Jacobi and first appeared in theHuffington Poston 2/23/12. Read it here: http://www.huffingtonpost.com/emily-jacobi/burma-myanmar-technology_b_1291110.html_**

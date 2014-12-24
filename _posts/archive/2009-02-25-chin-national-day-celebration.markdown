@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-02-25 00:26:05+00:00
-layout: post
 slug: chin-national-day-celebration
 title: Chin National Day Celebration
 wordpress_id: 302

@@ -1,9 +1,7 @@
 ---
 categories: 
   - blog
-layout: post
 author: Biz Ghormley
-comments: true
 slug: "3979"
 title: "Dd | Haiti: Reflections from a first visit"
 wordpress_id: 3979

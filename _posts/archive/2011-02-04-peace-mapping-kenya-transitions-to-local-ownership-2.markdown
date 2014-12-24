@@ -1,13 +1,12 @@
 ---
 author: Rachel Brown
-comments: true
 date: 2011-02-04 16:39:12+00:00
-layout: post
 slug: peace-mapping-kenya-transitions-to-local-ownership-2
 title: 'Successes and Lessons Learned from the Kenya Peace Mapping Team '
 wordpress_id: 2730
 categories:
 - archive
+image: http://farm5.static.flickr.com/4108/4840898740_88951296ef.jpg
 ---
 In early 2010, Cody Valdes and I approached Digital Democracy with a project proposal: to work with grassroots groups in Kenya to map peace projects happening all around the country.
 

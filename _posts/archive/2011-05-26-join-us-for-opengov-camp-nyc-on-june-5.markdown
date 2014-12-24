@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-05-26 14:30:08+00:00
-layout: post
 slug: join-us-for-opengov-camp-nyc-on-june-5
 title: Join us for OpenGov Camp NYC on June 5
 wordpress_id: 3130

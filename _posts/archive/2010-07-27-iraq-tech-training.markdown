@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-07-27 17:32:26+00:00
-layout: post
 slug: iraq-tech-training
 title: Iraq Tech Training
 wordpress_id: 1968
 categories:
 - archive
+image: http://farm5.static.flickr.com/4124/4832159628_69c14465c0.jpg
 ---
 
 > "Saddam tried to use the indictment of Bill Clinton over the Monica Lewinsky scandal to show how shameful and perverse the United States is. The message that Iraqis heard was that in America, no one is above the law. Not even the President." ~Anes (trainee)

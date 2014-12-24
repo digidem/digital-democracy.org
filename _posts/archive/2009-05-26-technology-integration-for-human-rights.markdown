@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-05-26 23:44:17+00:00
-layout: post
 slug: technology-integration-for-human-rights
 title: Technology Integration for Human Rights
 wordpress_id: 443

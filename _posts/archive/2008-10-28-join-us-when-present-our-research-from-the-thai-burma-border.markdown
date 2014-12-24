@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-10-28 00:34:06+00:00
-layout: post
 slug: join-us-when-present-our-research-from-the-thai-burma-border
 title: Join us as we present our research from the Thai-Burma border
 wordpress_id: 799

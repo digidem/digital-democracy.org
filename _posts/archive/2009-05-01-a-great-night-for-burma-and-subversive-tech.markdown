@@ -1,13 +1,12 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-05-01 17:07:15+00:00
-layout: post
 slug: a-great-night-for-burma-and-subversive-tech
 title: A Great Night for Burma and Subversive Tech
 wordpress_id: 410
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/dsc00815-300x225.jpg
 ---
 
 On Monday, April 27th D2 co-hosted a packed event with [Not an Alternative](http://www.notanalternative.net/wordpress/) and [Eyebeam](http://eyebeam.org/) at their [Change You Want to See](http://thechangeyouwanttosee.com/) gallery in Brooklyn as part of their project [Upgrade!](http://upgrade.eyebeam.org/), a monthly series focusing on open-source activism and art. We had a fantastic turnout and met a lot of great people.

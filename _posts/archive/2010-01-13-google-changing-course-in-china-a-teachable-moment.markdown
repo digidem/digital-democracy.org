@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-01-13 23:13:18+00:00
-layout: post
 slug: google-changing-course-in-china-a-teachable-moment
 title: 'Google Changing Course in China: A Teachable Moment'
 wordpress_id: 899
 categories:
 - archive
+image: http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg
 ---
 
 [![image](http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)

@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-03-11 02:19:23+00:00
-layout: post
 slug: celebrating-international-womens-day-from-haiti
 title: Celebrating International Women's Day from Haiti
 wordpress_id: 2751

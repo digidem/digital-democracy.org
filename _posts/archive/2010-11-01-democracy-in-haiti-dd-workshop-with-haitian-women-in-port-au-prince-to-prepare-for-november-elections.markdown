@@ -1,14 +1,13 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2010-11-01 18:03:46+00:00
-layout: post
 slug: democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections
 title: Democracy In Haiti? Our workshop with Haitian Women To Prepare For November
   Elections
 wordpress_id: 2325
 categories:
 - archive
+image: http://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg
 ---
 We are dying from the dust their fancy cars kick up.
 Voting won’t change anything.

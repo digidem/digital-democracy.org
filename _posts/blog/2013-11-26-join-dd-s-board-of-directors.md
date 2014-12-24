@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: false
 title: "Join Dd's Board of Directors"
 ---

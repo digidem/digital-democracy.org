@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-14 22:37:09+00:00
-layout: post
 slug: the-power-of-volunteers-part-2-handheld-human-rights
 title: 'The power of volunteers part 2: Handheld Human Rights'
 wordpress_id: 1653
 categories:
 - archive
+image: http://farm5.static.flickr.com/4061/4518986728_c1300043d0_o.png
 ---
 
 We just wrote about the [power of the volunteers who have worked on Haiti](http://digital-democracy.org/2010/04/14/the-power-of-volunteers-part-1-haiti/). However volunteers are not only useful in times of crises. Digital Democracy's core team is small, and we accomplish our work through partnerships and collaborations. Our volunteers and interns play a crucial role, and today we want to highlight the work of two of our current interns who are helping to make [Handheld Human Rights](http://handheldhumanrights.org/) a success, mapping  decades of information on human rights abuses in Burma/Myanmar.

@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-10-14 15:48:06+00:00
-layout: post
 slug: exploring-the-role-of-technology-in-post-war-iraq
 title: Exploring the Role of Technology in Post-War Iraq
 wordpress_id: 2290
 categories:
 - archive
+image: http://farm5.static.flickr.com/4133/5073555298_38d5391a54_o.jpg
 ---
 [![image](http://farm5.static.flickr.com/4133/5073555298_38d5391a54_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/5073555450/)
 

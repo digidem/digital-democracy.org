@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2011-05-23 17:07:10+00:00
-layout: post
 slug: telling-the-stories-of-young-refugees-in-indianapolis
 title: Telling the stories of young refugees in Indianapolis
 wordpress_id: 3073
 categories:
 - archive
+image: http://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg
 ---
 
 > You were born in KweKalu, a place near Mae Sot, Thailand. You live there one year when the Burmese government attacks the poor camp. Your fifty year old grandma carries you to escape, with bombs and fire all around. Thank God, your life is not taken away. When the attack is clear, many people in your village go back, and they can’t find their houses. Instead they find ashes and death.

@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-03-17 20:12:30+00:00
-layout: post
 slug: the-unfortunate-simplicity-of-freedom
 title: The Unfortunate Simplicity of Freedom
 wordpress_id: 1622
 categories:
 - archive
+image: http://farm3.static.flickr.com/2729/4379912433_c2af09c773.jpg
 ---
 
 Today we're honored to have a guest blog post by Digital Democracy Advisory Board member [Sean McDonald](http://digital-democracy.org/who-we-are/advisors/#sean1), taking a look at the US State Department's focus on Internet Freedom. Sean, Director of New Media Business Development at [MetroStar Systems](http://www.metrostarsystems.com/), brings a background in journalism, law and peace & conflict resolution.

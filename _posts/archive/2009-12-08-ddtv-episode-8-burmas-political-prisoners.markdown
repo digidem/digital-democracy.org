@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-12-08 16:04:49+00:00
-layout: post
 slug: ddtv-episode-8-burmas-political-prisoners
 title: 'DdTv Episode 8: Burma''s Political Prisoners'
 wordpress_id: 841

@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-01-13 01:34:21+00:00
-layout: post
 slug: d2-among-2009-echoing-green-semifinalists
 title: D2 Among 2009 Echoing Green Semifinalists!
 wordpress_id: 172

@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-03-11 00:06:49+00:00
-layout: post
 slug: drupalcon-dc-2009
 title: Drupalcon DC 2009
 wordpress_id: 316
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/drupalcon09-300x199.jpg
 ---
 
 Last week Mark traveled to Washington DC to attend [Drupalcon](http://dc2009.drupalcon.org/), an unconference_for [Drupal](http://drupal.org/) users and developers.

@@ -32,14 +32,6 @@ layout: default
 
 {% for post in paginator.posts %}
 {% unless post.url == featuredPostUrl %}
-{% assign has_content_image = post.content | split: '.jpg"' | size %}
-{% if post.image %}
-{% capture post_image %}{{ post.image }}{% endcapture %}
-{% elsif has_content_image > 1 %}
-{% assign post_image = post.content | split: '.jpg"' | first | append: ".jpg" | split: 'src="' | last %}
-{% else %}
-{% assign post_image = "/assets/1x1aaaaaa.png" %}
-{% endif %}
 {% include excerpt.html link = true %}
 {% endunless %}
 {% endfor %}

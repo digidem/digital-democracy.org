@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-01-23 22:56:30+00:00
-layout: post
 slug: new-d2-website
 title: New Website!
 wordpress_id: 184

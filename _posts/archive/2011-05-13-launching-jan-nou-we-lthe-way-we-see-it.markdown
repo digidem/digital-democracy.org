@@ -1,13 +1,12 @@
 ---
 author: Abby Goldberg
-comments: true
 date: 2011-05-13 15:02:13+00:00
-layout: post
 slug: launching-jan-nou-we-lthe-way-we-see-it
 title: Launching Jan Nou We L/The Way We See It
 wordpress_id: 3070
 categories:
 - archive
+image: http://digital-democracy.org/wp-content/uploads/2011/05/5685228790_3a2b994cc3-300x199.jpg
 ---
 
 On April 28th, 2011, Digital Democracy and [ELK Studios](http://www.elkstudios.com) launched**Jan Nou We L/The Way We See It: A Collection of Haitian Women's Photography**at [SplashLight Studios](http://splashlight.com/studios/soho-studios/) in New York.  The Collection of 47 original photographs is the culmination of a year of programming with Haitian women and a partnership with Erin Kornfeld and Erica Leone of ELK Studios, an NYC-based art collective, who curated the exhibition and designed the collection catalogue.  The result is a permanent collection of photographs taken by Haitian women to raise awareness about their lives in the aftermath of the January 2010 earthquake and raise support for their work.

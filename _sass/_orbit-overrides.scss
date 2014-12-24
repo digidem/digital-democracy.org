@@ -3,24 +3,25 @@
 
 .slideshow-wrapper {
   height: 0;
-  padding-bottom: map-get($ratios, "ratio2x1");
+  padding-bottom: map-get($ratios, "ratio16x9");
   ul {
     li {
-      @include image-ratio(map-get($ratios, "ratio2x1"));
+      @include image-ratio(map-get($ratios, "ratio16x9"));
     }
   }
 }
 
-.orbit-container {
-  overflow: visible;
-}
+// .orbit-container {
+//   overflow: visible;
+// }
 
 @media #{$medium} {
   .slideshow-wrapper ul li,
   .slideshow-wrapper,
   .orbit-container {
     height: 0;
-    padding-bottom: 0.5625 * $medium-screen;
+    padding-bottom: map-get($ratios, "ratio16x9");
+    width: 100%;
   }
   .orbit-container {
     .orbit-slides-container > * {

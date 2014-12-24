@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2011-03-21 15:05:56+00:00
-layout: post
 slug: finalists-in-the-one-world-human-rights-documentary-film-festival
 title: Finalists in the One World Human Rights Documentary Film Festival
 wordpress_id: 2760
 categories:
 - archive
+image: http://farm6.static.flickr.com/5094/5529461830_9df83c3b85.jpg
 ---
 
 Combine thoughtful and moving documentaries from around the world and a beautiful city, rich with history and culture and you have the [One World Human Rights Documentary Film Festival](http://www.oneworld.cz/2011/) in Prague - the largest human rights film festival in the world, which I attended two weeks ago. Dd was invited to the festival, both as finalists in a new competitive category as well as presenters during a [6-day workshop](http://jedensvet.cz/newmedia/en/workshop/) taking place at Prague's co-working, innovation space, the Hub Prague. It was exciting to have Dd be featured in the [New Media for Social Change](http://www.oneworld.cz/2011/new-media-for-social-change) program, a new segment of the festival that focused on how people can use new media, technology and video for work in the areas of transparency, Democracy and human rights.

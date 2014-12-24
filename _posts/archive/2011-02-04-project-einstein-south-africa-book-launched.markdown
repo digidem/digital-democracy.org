@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-02-04 19:00:05+00:00
-layout: post
 slug: project-einstein-south-africa-book-launched
 title: Project Einstein South Africa Book Launched
 wordpress_id: 2721

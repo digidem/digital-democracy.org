@@ -1,8 +1,6 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2009-06-17 19:49:22+00:00
-layout: post
 slug: d2-logo-design-winner
 title: D2 Logo Design Winner!
 wordpress_id: 486

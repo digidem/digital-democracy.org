@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-03-12 18:55:54+00:00
-layout: post
 slug: mapping-peace-in-kenya
 title: Mapping peace in Kenya
 wordpress_id: 1549
 categories:
 - archive
+image: http://farm5.static.flickr.com/4013/4427004307_1338af9ee1_o.jpg
 ---
 
 In a world where there is so much violence and conflict exists, how do people working for peace find and support one another?

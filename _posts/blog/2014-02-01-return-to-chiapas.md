@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: Return to Chiapas
 image: "/assets/chiapas-women-flipcam.jpg"

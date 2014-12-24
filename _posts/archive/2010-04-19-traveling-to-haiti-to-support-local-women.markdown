@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-04-19 18:51:21+00:00
-layout: post
 slug: traveling-to-haiti-to-support-local-women
 title: Traveling to Haiti to support local women
 wordpress_id: 1706
 categories:
 - archive
+image: http://farm4.static.flickr.com/3338/3546066329_386444fdab.jpg
 ---
 
 In Haiti, a second humanitarian crisis is unfolding: **Haiti's women are under siege from increasing insecurity, **which has grown steadily since the earthquake devastated the country in January. Facing violence and rape, Haiti's women operate within discriminatory legal structures which prevent them from accessing aid and taking an active role in their country's redevelopment process.

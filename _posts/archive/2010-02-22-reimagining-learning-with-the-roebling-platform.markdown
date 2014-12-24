@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-02-22 19:18:32+00:00
-layout: post
 slug: reimagining-learning-with-the-roebling-platform
 title: Reimagining Learning with the Roebling Platform
 wordpress_id: 1430
 categories:
 - archive
+image: http://farm5.static.flickr.com/4029/4379358019_95297e9d48.jpg
 ---
 
 What is education in the 21st century? How do we prepare kids for the future when our teachers are unprepared? And what about the underserved children living on the margins of society, whether the tens of thousands of newly resettled refugees from Burma, Somalia and Iraq, or youth from districts that spend more money on the prison system than schools.

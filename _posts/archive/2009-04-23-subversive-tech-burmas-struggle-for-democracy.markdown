@@ -1,13 +1,12 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-04-23 16:51:12+00:00
-layout: post
 slug: subversive-tech-burmas-struggle-for-democracy
 title: Subversive Tech & Burma's Struggle for Democracy
 wordpress_id: 392
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/04/free-burma1.jpg
 ---
 
 On Monday, April 27th at 7:30 D2 is hosting an event here in New York on the use of digital technology in the Burmese pro-democracy movement: "[Subversive Tech and Burma's Struggle for Democracy](http://thechangeyouwanttosee.com/event/subversive-tech-burmas-struggle-democracy)".

@@ -1,12 +1,11 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: celebrating-international-womens-day-in-solidarity
 title: Celebrating International Women's Day in solidarity
 wordpress_id: 3762
 categories:
 - blog
+image: http://farm8.staticflickr.com/7054/6816404034_5e48e0f18e_o.jpg
 ---
 
 Happy International Women's Day! To mark the 101st celebration of International Women's Day, we at Digital Democracy want to take a moment to reflect on our work to empower women and girls,  and celebrate their remarkable vision, courage, achievements and inspiration around the globe.

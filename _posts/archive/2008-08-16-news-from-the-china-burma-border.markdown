@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-08-16 01:35:08+00:00
-layout: post
 slug: news-from-the-china-burma-border
 title: News From The China-Burma Border
 wordpress_id: 796

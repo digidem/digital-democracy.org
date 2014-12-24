@@ -1,13 +1,12 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2008-08-30 03:45:40+00:00
-layout: post
 slug: project-einstein-bangladesh-presented-on-wkcd-website
 title: Project Einstein Bangladesh Presented on WKCD Website
 wordpress_id: 797
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein-300x108.jpg
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein-300x108.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2008/12/project-einstein.jpg)

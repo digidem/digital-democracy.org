@@ -1,14 +1,13 @@
 ---
 author: Biz Ghormley
-comments: true
 date: 2011-09-21 15:25:23+00:00
-layout: post
 slug: announcing-572-the-first-emergency-response-system-for-sexual-violence-in-haiti
 title: 'Announcing 572: the First Emergency Response System Dedicated to Sexual Violence
   in Haiti'
 wordpress_id: 3362
 categories:
 - archive
+image: http://farm7.static.flickr.com/6166/6164699382_dde4d0fab9.jpg
 ---
 In one year since CGI commitment, Digital Democracy has trained 150 women and built a database documenting over 400 cases of rape in Haiti.
 

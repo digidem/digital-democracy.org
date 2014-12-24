@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: "New team, new programs, new website"
 image: "/assets/fediquep-monitor-training.jpg"

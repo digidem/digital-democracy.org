@@ -1,7 +1,6 @@
 ---
 categories: 
   - blog
-layout: post
 author: Emily Jacobi
 title: Knight News Mobile Challenge Winners
 image: "/assets/achuar-gps-monitoring.jpg"

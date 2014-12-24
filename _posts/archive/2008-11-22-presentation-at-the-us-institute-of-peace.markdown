@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2008-11-22 07:58:07+00:00
-layout: post
 slug: presentation-at-the-us-institute-of-peace
 title: Presentation at the U.S. Institute of Peace
 wordpress_id: 802

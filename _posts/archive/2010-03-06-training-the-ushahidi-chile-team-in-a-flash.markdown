@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-03-06 18:03:36+00:00
-layout: post
 slug: training-the-ushahidi-chile-team-in-a-flash
 title: Training the Ushahidi-Chile Team in a Flash
 wordpress_id: 2611

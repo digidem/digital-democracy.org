@@ -1,8 +1,6 @@
 ---
 author: Liz Hodes
-comments: true
 date: 2009-08-28 21:36:23+00:00
-layout: post
 slug: ddtv-episode-3-soliya-empowering-youth-with-new-media
 title: 'DdTv Episode 3: Soliya - Empowering Youth With New Media'
 wordpress_id: 683

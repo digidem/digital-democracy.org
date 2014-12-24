@@ -1,8 +1,6 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2009-08-06 19:43:38+00:00
-layout: post
 slug: launching-digital-democracy-tv
 title: Launching Digital Democracy TV
 wordpress_id: 632

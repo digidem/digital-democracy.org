@@ -1,12 +1,11 @@
 ---
 author: Biz Ghormley
-comments: true
-layout: post
 slug: 572-call-center-in-haiti-now-open-24-hours
 title: 572 Call Center in Haiti now open 24 hours
 wordpress_id: 3899
 categories:
 - blog
+image: http://farm9.staticflickr.com/8164/7394555716_cc009f9c61_o.jpg
 ---
 In September of last year [Dd launched the first emergency response hotline for rape and sexual violence in Haiti with our local partner KOFAVIV](http://digital-democracy.org/2011/09/21/announcing-572-the-first-emergency-response-system-for-sexual-violence-in-haiti/).  As of May 1, we are proud to announce the 572 Emergency Response Hotline is open 24 hours a day. No matter the time of day or night, survivors of gender-based violence (GBV) including rape, sexual violence and domestic violence in Haiti can call 572 to access critical support and services.
 

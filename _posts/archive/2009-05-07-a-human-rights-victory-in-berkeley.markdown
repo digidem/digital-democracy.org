@@ -1,13 +1,12 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-05-07 13:11:43+00:00
-layout: post
 slug: a-human-rights-victory-in-berkeley
 title: A Human Rights Victory in Berkeley!
 wordpress_id: 414
 categories:
 - archive
+image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/hrc_ucb_logo.jpg
 ---
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/hrc_ucb_logo.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/03/hrc_ucb_logo.jpg)We are happy to announce that on Tuesday, May 5 our project [Handheld Human Rights](http://www.netsquared.org/projects/handheld-human-rights) was [awarded the ](http://www.netsquared.org/blog/amy-sample-ward/hrc-mobile-challenge-winners-announced)[third place prize](http://www.netsquared.org/blog/amy-sample-ward/hrc-mobile-challenge-winners-announced) at the UC Berkeley Human Rights Center conference: The Soul of the New Machine.

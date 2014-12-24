@@ -1,8 +1,6 @@
 ---
 author: Gabe Hopkins
-comments: true
 date: 2009-09-28 22:32:07+00:00
-layout: post
 slug: building-momentum
 title: Building Momentum
 wordpress_id: 692

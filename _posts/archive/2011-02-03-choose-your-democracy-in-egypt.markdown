@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2011-02-03 05:47:38+00:00
-layout: post
 slug: choose-your-democracy-in-egypt
 title: Choose Your Democracy in Egypt
 wordpress_id: 2700
 categories:
 - archive
+image: http://farm5.static.flickr.com/4152/5411178653_45b80f2430.jpg
 ---
 
 [![image](http://farm5.static.flickr.com/4152/5411178653_45b80f2430.jpg)](http://bit.ly/democracy_en)

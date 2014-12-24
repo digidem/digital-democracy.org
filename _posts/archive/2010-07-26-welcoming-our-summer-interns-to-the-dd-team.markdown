@@ -1,13 +1,12 @@
 ---
 author: Emily Jacobi
-comments: true
 date: 2010-07-26 20:31:13+00:00
-layout: post
 slug: welcoming-our-summer-interns-to-the-dd-team
 title: Welcoming Our Summer Interns  to the Dd Team
 wordpress_id: 1891
 categories:
 - archive
+image: http://farm5.static.flickr.com/4046/4699868259_c3ee88078a_o.jpg
 ---
 
 This summer we've had two new faces around the office and we couldn't be more pleased. Arielle & Ellen have been helping with communications and our Haiti work, and as the city - and our schedule - has continued to heat up, it's been a huge help to have them around the office. We've also been in touch with last summer's interns, [Shane Levy](http://twitter.com/shanelevy) and [Huge Ma](http://twitter.com/hugobomber), both of whom are continuing to do great work. Shane graduated this spring from the University of Pittsburgh with a degree in Urban Studies and Communications and Rhetoric. Partly inspired by his work at our office, he's looking for a job in the public sector. Huge, a senior at University of Pennsylvania, is interning in India with Video Volunteers.

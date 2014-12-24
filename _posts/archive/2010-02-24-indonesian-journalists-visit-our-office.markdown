@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-02-24 14:41:01+00:00
-layout: post
 slug: indonesian-journalists-visit-our-office
 title: Indonesian Journalists Visit Our Office
 wordpress_id: 1494
 categories:
 - archive
+image: http://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg
 ---
 
 Today we had the pleasure of hosting five journalists from Indonesia at the Digital Democracy office. Although none of us on staff speak Indonesian and none of their English was particularly strong, we managed to communicate through 2 translators who had a portable translator toolkit that connected the group via wired headsets. While it looked a bit funny, it certainly was a huge help and allowed us to get into a fascinating conversation ranging from similarities between their country and Thailand, to the meaning of democracy.

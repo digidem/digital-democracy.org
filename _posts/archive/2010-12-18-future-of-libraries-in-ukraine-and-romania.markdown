@@ -1,13 +1,12 @@
 ---
 author: Mark Belinsky
-comments: true
 date: 2010-12-18 19:11:28+00:00
-layout: post
 slug: future-of-libraries-in-ukraine-and-romania
 title: Future of Libraries in Ukraine and Romania
 wordpress_id: 2606
 categories:
 - archive
+image: http://farm6.static.flickr.com/5084/5277477302_b9c5a20def.jpg
 ---
 
 What is the future of libraries? The debate is raging on what information management will look like in the 21st century and how relevant and useful public buildings such as libraries really are. I was excited to travel to Kiev to discuss the issue with some libraries from Ukraine and Romania.
