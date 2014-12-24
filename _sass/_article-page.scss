@@ -44,15 +44,17 @@ $leftbar-width: emCalc(85);
         display: inline;
       }
       address:before {
-        content: "\2014 By ";
+        content: "\2014 ";
         font-style: normal;
         color: initial;
       }
-      time:before {
-        content: " on ";
-      }
       &.inner {
         display: none;
+      }
+      &.outer {
+        time {
+          line-height: 1.6em;
+        }
       }
     }
   }
