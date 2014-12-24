@@ -45,6 +45,8 @@ article.article.video {
     .embed-container {
       position: absolute;
       top: 50%;
+      -ms-transform: (0, -50%);
+          transform: (0, -50%);
       -webkit-transform: translate3d(0, -50%, 0);
       transform: translate3d(0, -50%, 0);
     }
@@ -96,12 +98,14 @@ article.article.video {
     body.full-header.video-playing {
       header.site-header {
         -webkit-transform: translateY(-200%);
-        transform: translateY(-200%);
+        -ms-transform: translateY(-200%);
+            transform: translateY(-200%);
       }
       header.article {
         .caption-outer {
           -webkit-transform: translateY(100%);
-          transform: translateY(100%);
+          -ms-transform: translateY(100%);
+              transform: translateY(100%);
         }
       }
     }

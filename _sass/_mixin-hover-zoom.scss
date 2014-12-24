@@ -18,7 +18,11 @@ $blur-radius: 4px;
         margin: auto;
         border: 1px solid white;
         background-color: rgba(0,0,0,0.5);
-        transform: translate3d(-50%, -50%, 0);
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        -webkit-transform: translate3d(-50%, -50%, 0);
+                transform: translate3d(-50%, -50%, 0);
         padding: 0.6em 0.8em;
         transition: opacity 400ms ease-in-out;
       }
@@ -32,8 +36,11 @@ $blur-radius: 4px;
         opacity: 0;
         background-color: $hover-background-color;
         transition: opacity 100ms linear 200ms;
+        -webkit-transform: translate(0,0);
+            -ms-transform: translate(0,0);
+                transform: translate(0,0);
         -webkit-transform: translate3d(0,0,0);
-        transform: translate3d(0,0,0);
+                transform: translate3d(0,0,0);
       }
       img {
         transition: -webkit-transform 200ms ease-out;
