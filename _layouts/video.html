@@ -2,7 +2,7 @@
 layout: default
 body_class: full-header
 ---
-<header class="article {{ page.class }}">
+<header class="article {{ page.class }} video">
   <div class="embed-container" id="video-container">
   <iframe src='{{ page.video }}?api=1&amp;player_id=video-iframe&amp;title=0&amp;byline=0&amp;portrait=0' id="video-iframe" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
@@ -11,7 +11,7 @@ body_class: full-header
   {% include caption.html byline=true link=true %}
 </header>
 
-<article class="article {{ page.class }}">
+<article class="article {{ page.class }} video">
 
   <div class="content">
     {% include byline.html class='outer' link=true %}
