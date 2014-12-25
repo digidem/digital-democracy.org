@@ -16,8 +16,8 @@
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="check-aspect-ratio"></a>
       <h3 class="inner-title {% if post.light_image %}background{% endif %}">
         <a href="{{ post.url }}">
-          <span class="full-title">{{ post.title }}</span>
-          <span class="short-title">{{ short_title }}</span>
+          <span class="full-title">{{ post.title | markdownify }}</span>
+          <span class="short-title">{{ short_title | markdownify }}</span>
         </a>
       </h3>
     </header>
