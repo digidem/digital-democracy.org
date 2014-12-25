@@ -1,8 +1,8 @@
 {% assign title = page.title | split: ": " %}
 <div class="caption-outer">
   <div class="caption-inner">
-    <h2>{{ title[0] }}</h2>
-    {% if title[1] %}<h3>{{ title[1] }}</h3>{% endif %}
+    <h2>{{ title[0] | markdownify }}</h2>
+    {% if title[1] %}<h3>{{ title[1] | markdownify }}</h3>{% endif %}
     {% if page.author and include.byline %}{% include byline.html link = include.link class='inner' %}{% endif %}
   </div>
 </div>
