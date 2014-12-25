@@ -27,10 +27,6 @@ prose:
           label: "Tags"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
       - name: "categories"
         field:
           element: "button"
