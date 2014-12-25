@@ -5,7 +5,6 @@ published: true
 title: "Join Dd's Mesh Network"
 author: Emily Jacobi
 tags: 
-  - featured
   - "front-page"
 image: /assets/chiapasworkshop.jpg
 ---
