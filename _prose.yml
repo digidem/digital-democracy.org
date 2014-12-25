@@ -59,10 +59,6 @@ prose:
           label: "Tags"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
       - name: "categories"
         field:
           element: "hidden"
@@ -104,10 +100,6 @@ prose:
           label: "Permalink"
           placeholder: "/link/to/this/page"
           value: ""
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "project"
       - name: "categories"
         field:
           element: "hidden"
@@ -171,10 +163,6 @@ prose:
               value: "board"
             - name: "Advisor"
               value: "advisor"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "team"
       - name: "categories"
         field:
           element: "hidden"
