@@ -6,6 +6,7 @@ author: Emily Jacobi
 tags: 
   - "front-page"
 image: /assets/chiapasworkshop.jpg
+excerpt: We’re launching  the Mesh Network, which is our community of allies and supporters who help make our work possible, and who we believe will help ensure our work, projects and area of focus are robust and effective for many years to come.
 ---
 
 
