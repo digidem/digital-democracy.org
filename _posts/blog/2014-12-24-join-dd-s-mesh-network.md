@@ -1,6 +1,5 @@
 ---
 categories: blog
-layout: post
 published: true
 title: "Join Dd's Mesh Network"
 author: Emily Jacobi
