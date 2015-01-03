@@ -8,7 +8,7 @@ body_class: full-header
 </header>
 <article class="article {{ page.class }}">
 
-  <div class="content">
+  <div class="content" tx-content="block">
     {% include byline.html class='outer' link=true %}
 
     {{ content | replace: '<p><img', '<p class="image"><img' }}
