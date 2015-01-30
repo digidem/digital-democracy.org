@@ -11,7 +11,7 @@ tags:
   - Amazon
 image: /assets/guyana-ron-drone.jpg
 video: https://player.vimeo.com/video/114816953
-social_image: http://images.digital-democracy.org/assets/drone-video-thumb.jpg
+social_image: https://images.digital-democracy.org/assets/drone-video-thumb.jpg
 ---
 Can drones be a tool for positive change in the hands of indigenous communities? Can communities use them to create maps and monitor illegal logging and deforestation? To answer these questions I travelled to Guyana in October and together with the local Wapichana monitoring team we built a drone and made a map. <a class="play-link">Watch the video</a> to find out how we did.
 
