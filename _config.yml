@@ -54,6 +54,29 @@ prose:
   media: "assets"
   ignore:
     - _psd
+    - _archived
+    - _drafts
+    - _includes
+    - _layouts
+    - _sass
+    - assets
+    - js
+    - css
+    - wp-content
+    - _index_pages
+    - donate
+    - blog
+    - ourwork
+    - team
+    - .gitignore
+    - .jsbeautify
+    - CNAME
+    - favicon.ico
+    - feed.xml
+    - humans.txt
+    - Makefile
+    - robots.txt
+    - tags.jsonp
   metadata:
     _posts:
     _posts/archive:
