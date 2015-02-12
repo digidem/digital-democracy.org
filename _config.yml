@@ -52,6 +52,8 @@ sass:
 prose:
   siteurl: "http://www.digital-democracy.org"
   media: "assets"
+  ignore:
+    - _psd
   metadata:
     _posts:
     _posts/archive:
