@@ -54,6 +54,7 @@ prose:
   media: "assets"
   ignore:
     - _psd
+    - psd
     - _archived
     - _drafts
     - _includes
@@ -69,8 +70,9 @@ prose:
     - ourwork
     - team
     - .gitignore
-    - .jsbeautify
+    - .jsbeautifyrc
     - CNAME
+    - _config.yml
     - favicon.ico
     - feed.xml
     - humans.txt
