@@ -4,7 +4,7 @@ layout: team
 published: true
 title: Janet Harris
 tags: board
-role: Board President
+role: Board Member
 image: /assets/Janet_Harris.jpg
 ---
 

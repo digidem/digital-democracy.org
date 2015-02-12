@@ -4,7 +4,7 @@ layout: team
 published: true
 title: Vince Warren
 tags: board
-role: Board Member
+role: Board President
 image: /assets/Vince_warren.jpg
 twitter: "https://twitter.com/vincewarren"
 ---
