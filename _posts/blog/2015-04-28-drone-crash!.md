@@ -5,10 +5,9 @@ title: Drone Crash!
 author: Emily Jacobi
 tags: 
   - "front-page"
-excerpt: 
+excerpt: When your colleague has traveled 5,000 miles to South America to work with a remote indigenous community using their own custom-built drone to monitor deforestation, the last thing you want to receive in your inbox is an email titled “Drone Crash!” That’s the problem I get for working with someone with a classically British sense of humor.
 image: "/assets/guyana-tessa-soldering.jpg"
 ---
-
 "But it survived!"
 
 When your colleague has traveled 5,000 miles to South America to work with a remote indigenous community using their own custom-built drone to monitor deforestation, the last thing you want to receive in your inbox is an email titled “Drone Crash!” That’s the problem I get for working with someone with a classically British sense of humor.
