@@ -53,31 +53,32 @@ prose:
   siteurl: "http://www.digital-democracy.org"
   media: "assets"
   ignore:
-    - _psd
-    - psd
-    - _archived
+    - /_psd
+    - /psd
+    - /_archived
     - _drafts
-    - _includes
-    - _layouts
-    - _sass
-    - assets
-    - js
-    - css
-    - wp-content
-    - _index_pages
-    - donate
-    - ourwork
-    - team
-    - .gitignore
-    - .jsbeautifyrc
-    - CNAME
-    - _config.yml
-    - favicon.ico
-    - feed.xml
-    - humans.txt
-    - Makefile
-    - robots.txt
-    - tags.jsonp
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /assets
+    - /js
+    - /css
+    - /wp-content
+    - /_index_pages
+    - /donate
+    - /ourwork
+    - /team
+    - /.gitignore
+    - /.jsbeautifyrc
+    - /CNAME
+    - /_config.yml
+    - /favicon.ico
+    - /feed.xml
+    - /humans.txt
+    - /Makefile
+    - /robots.txt
+    - /tags.jsonp
+    - /blog
   metadata:
     _posts:
     _posts/archive:
