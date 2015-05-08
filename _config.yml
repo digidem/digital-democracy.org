@@ -6,7 +6,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
 permalink: /:categories/:title/
-exclude: 
+exclude:
   - wp-content
   - sass
   - config.rb
@@ -15,6 +15,12 @@ exclude:
   - .tm_properties
   - CNAME
   - psd
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - Procfile
+  - Rakefile
 collections:
   team_and_board:
     output: true
@@ -79,6 +85,12 @@ prose:
     - /robots.txt
     - /tags.jsonp
     - /blog
+    - /config.ru
+    - /Gemfile
+    - /Gemfile.lock
+    - /vendor
+    - /Procfile
+    - /Rakefile
   metadata:
     _posts:
     _posts/archive:
