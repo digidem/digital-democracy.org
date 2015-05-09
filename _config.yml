@@ -17,6 +17,7 @@ exclude:
   - config.ru
   - Gemfile
   - Gemfile.lock
+  - Makefile
   - vendor
   - Procfile
   - Rakefile
