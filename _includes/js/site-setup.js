@@ -31,5 +31,19 @@
     smoothScroll(scrollTo);
   });
 
+  $('.slideshow').on('init reInit', function(e, slideshow) {
+    $('img', this).loadResponsiveImages().fixAspectRatio()
+    $('.caption', this).on('mouseenter', function() {
+      slideshow.slickPause();
+    }).on('mouseleave', function() {
+      slideshow.slickPlay();
+    });
+  }).slick({
+    autoplay: true,
+    pauseOnHover: false
+  })
+
+
+
 
 })();

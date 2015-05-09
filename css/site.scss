@@ -34,7 +34,7 @@
 // @import "foundation/components/flex-video";
 // @import "foundation/components/section";
 // @import "foundation/components/top-bar";  // *requires components/grid
-@import "foundation/components/orbit";
+// @import "foundation/components/orbit";
 // @import "foundation/components/reveal";
 // @import "foundation/components/joyride";
 @import "foundation/components/clearing";
@@ -59,9 +59,10 @@
 @import "typography";
 @import "excerpt";
 @import "aspect-ratio";
-@import "orbit-overrides";
 @import "topbar";
 @import "front-page";
+@import "slick";
+@import "slick-theme";
 @import "projects-page";
 @import "blog-page";
 @import "team-page";
