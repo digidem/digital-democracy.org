@@ -1,7 +1,7 @@
 @import "compass/css3/transform";
-@import "extend-fixed-ratio";
-@import "mixin-underline";
-@import "mixin-hover-zoom";
+@import "mixins/extend-fixed-ratio";
+@import "mixins/mixin-underline";
+@import "mixins/mixin-hover-zoom";
 $underline-color: rgba(255, 255, 255, 0.7);
 $background-color: rgba(0, 0, 0, 0.3);
 .excerpt {

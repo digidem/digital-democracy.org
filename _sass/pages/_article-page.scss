@@ -1,9 +1,9 @@
-@import "mixin-caption";
-@import "mixin-image-ratio";
+@import "mixins/mixin-caption";
+@import "mixins/mixin-image-ratio";
 
 $caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
 $left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
-$leftbar-width: emCalc(85);
+$leftbar-width: remCalc(85);
 
   header.article {
     background-color: black;

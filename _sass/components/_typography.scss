@@ -1,4 +1,4 @@
-@import "mixin-underline";
+@import "mixins/mixin-underline";
 
 p a {
   @include underline($anchor-underline-color, 2px, 2px);

@@ -1,5 +1,5 @@
-@import "extend-fixed-ratio";
-@import "mixin-underline";
+@import "mixins/extend-fixed-ratio";
+@import "mixins/mixin-underline";
 
 $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
@@ -8,7 +8,7 @@ $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
     background-color: #eee;
   }
   &.featured {
-    
+
     margin-bottom: 2em;
     div:last-child {
       padding-top: 0.5em;

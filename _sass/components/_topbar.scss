@@ -5,7 +5,7 @@
 //
 // Top Bar Variables
 //
-$include-html-top-bar-classes: $include-html-classes !default;
+$include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
 $topbar-bg-color: transparentize($dd-blue, 0.1) !default;
@@ -15,22 +15,24 @@ $topbar-bg: $topbar-bg-color !default;
 $topbar-button-bg-color: #9d261d;
 
 // Height and margin
-$topbar-height: 45px !default;
-$topbar-margin-bottom: 0 !default;
+$topbar-height: 55px !default;
+// $topbar-margin-bottom: 0 !default;
+$topbar-margin-bottom: rem-calc(30);
+$topbar-margin-top: rem-calc(30);
 
 // Control Input height for top bar
 $topbar-input-height: 2.45em !default;
 
 // Controlling the styles for the title in the top bar
-$topbar-title-weight: bold !default;
-$topbar-title-font-size: emCalc(17) !default;
+$topbar-title-weight: normal !default;
+$topbar-title-font-size: rem-calc(25);
 
 // Set the link colors and styles for top-level nav
 $topbar-link-color: #fff !default;
 $topbar-link-color-hover: #fff !default;
 $topbar-link-color-active: #fff !default;
 $topbar-link-weight: bold !default;
-$topbar-link-font-size: emCalc(16) !default;
+$topbar-link-font-size: rem-calc(18);
 $topbar-link-hover-lightness: -10% !default; // Darken by 30%
 $topbar-link-bg-hover: transparentize(adjust-color($topbar-bg-color, $lightness: $topbar-link-hover-lightness), 0.1) !default;
 $topbar-link-bg-active: adjust-color($topbar-bg-color, $lightness: $topbar-link-hover-lightness) !default;
@@ -45,11 +47,10 @@ $topbar-menu-link-color-toggled: #888 !default;
 $topbar-menu-icon-color-toggled: #888 !default;
 
 // Transitions and breakpoint styles
-$topbar-transition-speed: 300ms !default;
-// Using em-calc for the below breakpoint causes issues with top bar
-$topbar-breakpoint: 980px !default; // Change to 9999px for always mobile layout
-$topbar-media-query-landscape: "only screen and (min-width: 480px)" !default;
-$topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
+$topbar-transition-speed: 300ms;
+// Using rem-calc for the below breakpoint causes issues with top bar
+$topbar-breakpoint: #{lower-bound($medium-range)}; // Change to 9999px for always mobile layout
+$topbar-media-query: "#{$screen} and (min-width:#{lower-bound($topbar-breakpoint)})";
 
 // I use a :before element to create the wide bar behind the navigation.
 // this technique creates a wide page, which needs to be hidden.
@@ -58,12 +59,20 @@ html {
   overflow-x: hidden;
 }
 
+// Used to provide media query values for javascript components.
+// This class is generated despite the value of $include-html-top-bar-classes
+// to ensure width calculations work correctly.
+meta.foundation-mq-topbar {
+  font-family: "/" + unquote($topbar-media-query) + "/";
+  width: $topbar-breakpoint;
+}
+
 header.site-header {
   @include grid-row();
   height: $topbar-height;
   line-height: $topbar-height;
   position: relative;
-  font-size: $em-base;
+  font-size: $rem-base;
   z-index: 999;
   background-color: $dd-blue;
 
@@ -92,7 +101,7 @@ header.site-header {
     }
   }
 
-  ul.open {
+  ul.open, .top-bar.expanded ul {
     height: auto;
     max-height: 500%;
   }
@@ -157,7 +166,7 @@ header.site-header {
     display: block;
     float: right;
     background-color: lighten($dd-blue, 5%);
-    font-size: $em-base;
+    font-size: $rem-base;
     margin: 0;
     max-height: 0;
     overflow-y: hidden;
@@ -204,14 +213,9 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   color: $topbar-link-color-active;
 }
 
-@media #{$topbar-media-query-landscape} {
-  header.site-header h1 {
-    width: auto;
-  }
-}
 
 // Top Bar styles intended for screen sizes above the breakpoint.
-@media #{$medium} {
+@media #{$topbar-media-query} {
 
   header.site-header {
     margin-top: $topbar-margin-bottom;
@@ -288,7 +292,7 @@ body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
   }
 }
 
-@media #{$topbar-media-query} {
+@media #{$large-up} {
   header.site-header h1 {
     width: auto;
   }

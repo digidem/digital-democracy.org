@@ -1,3 +1,1 @@
-$(document)
-  .foundation('dropdown')
-  .foundation('topbar')
+$(document).foundation()

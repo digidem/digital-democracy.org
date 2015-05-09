@@ -1,5 +1,5 @@
-@import "mixin-caption";
-@import "mixin-image-ratio";
+@import "mixins/mixin-caption";
+@import "mixins/mixin-image-ratio";
 
 .projects {
   @include grid-row();
