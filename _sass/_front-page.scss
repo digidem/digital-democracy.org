@@ -1,21 +1,29 @@
 @import "mixin-caption";
 @import "compass/css3/transform";
 
-.mission-statement {
-  @include grid-row();
-  margin: 1em auto;
-  blockquote {
-    padding: 0 $column-gutter / 2;
-    font-weight: 300;
-    font-size: 1.2em;
-    text-align: center;
-    text-wrap: balanced;
-    border: none;
-    margin: 0;
-  }
+section.slideshow {
+  position: relative;
+  height: 0;
+  padding-bottom: map-get($ratios, "ratio4x3");
+  overflow: hidden;
 }
 
-nav.subnav {
+section.about {
+  @include grid-row();
+  margin: 1em auto;
+}
+
+.mission-statement {
+  padding: 0 $column-gutter / 2;
+  font-weight: 300;
+  font-size: 1.2em;
+  text-align: center;
+  text-wrap: balanced;
+  border: none;
+  margin: 0;
+}
+
+.subnav {
   margin: 3em 0;
   ul {
     @include grid-row();
@@ -49,34 +57,35 @@ nav.subnav {
   }
 }
 
-.latest-news {
+section.news {
   @include grid-row();
   margin-top: 3em;
-  ul {
-    @include block-grid(1, 0);
-    li:nth-child(n+5) {
-      display: none;
-    }
+}
+
+.news-item {
+  @include block-grid(1, 0);
+  li:nth-child(n+5) {
+    display: none;
   }
 }
 
 @media #{$small} {
-  // .slideshow-wrapper {
-  //   margin-top: - $topbar-margin-top - emCalc($topbar-height) - $topbar-margin-top;
-  // }
-  .latest-news ul {
+  section.slideshow {
+    padding-bottom: map-get($ratios, "ratio16x9");
+  }
+  .news-item {
     @include block-grid(2, emCalc(40));
   }
-  .mission-statement blockquote {
+  .mission-statement {
     font-size: 1.6em;
   }
 }
 
 @media #{$medium} {
-  .mission-statement blockquote {
+  .mission-statement {
     font-size: 2em;
   }
-  .latest-news ul {
+  .news-item {
     p, .byline {
       padding-left: 0;
       padding-right: 0;
@@ -88,7 +97,10 @@ nav.subnav {
 }
 
 @media #{$large} {
-  .latest-news ul {
+  section.slideshow {
+    padding-bottom: map-get($ratios, "ratio2x1");
+  }
+  .news-item {
     li:nth-child(-n+8) {
       display: block;
     }
