@@ -5,6 +5,7 @@ featured: large
 image: /assets/emily-gregor-boat.jpg
 ---
 <section class="row team">
+<div class="column">
   <h2>Core Team</h2>
   <ul class="large-block-grid-2">
     {% for post in site.team_and_board reversed %}
@@ -13,13 +14,15 @@ image: /assets/emily-gregor-boat.jpg
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
       <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
       <p class="subhead">{{ post.role }}<br>
-      <a href="{{ post.twitter }}">{{ post.twitter | replace: 'https://twitter.com/', '@' }}</p>
+      <a href="{{ post.twitter }}">{{ post.twitter | replace: 'https://twitter.com/', '@' }}</a></p>
     </li>
     {% endif %}
     {% endfor %}
   </ul>
+</div>
 </section>
 <section class="row team">
+<div class="column">
   <h2>Board</h2>
   <ul class="large-block-grid-2">
     {% for post in site.team_and_board reversed %}
@@ -28,9 +31,10 @@ image: /assets/emily-gregor-boat.jpg
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
       <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
       <p class="subhead">{{ post.role }}</p>
-      <p><a href="{{ post.twitter }}">{{ post.twitter | replace: 'https://twitter.com/', '@' }}</p>
+      <p><a href="{{ post.twitter }}">{{ post.twitter | replace: 'https://twitter.com/', '@' }}</a></p>
     </li>
     {% endif %}
     {% endfor %}
   </ul>
+</div>
 </section>
