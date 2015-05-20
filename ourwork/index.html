@@ -10,13 +10,13 @@ We want to build a tiled layout for the first:
 We loop over the projects collection 3 times for each
 project size, spitting out the first 1-2 posts we find.
 We build an array (featured_posts) from a comma separated
-string, to keep note of which posts we have already 
-rendered. Then, we loop through the posts again and 
+string, to keep note of which posts we have already
+rendered. Then, we loop through the posts again and
 render any that have not already been rendered.
 A few tricks:
 1. There is no way to create an array other than splitting a string.
 2. I convert a string to a number with the | times: 1 filter
-3. The array of index numbers is actually strings (there is no 
+3. The array of index numbers is actually strings (there is no
 way to "push" a value to an array in liquid) so we need to convert
 the forloop index to a string to compare it.
 4. I convert a number to a string with | append: "".
@@ -24,7 +24,7 @@ the forloop index to a string to compare it.
 {% endcomment %}
 
 {% assign featured_posts = '' %}
-<section class="projects">
+<section class="projects tiles">
   <ul>
 <!-- Start featured posts -->
 {% assign list = "large:2,medium:1,small:2" | split: "," %}
@@ -50,5 +50,5 @@ the forloop index to a string to compare it.
   {% endunless %}
 {% endfor %}
 <!-- End all other posts -->
-  </ul>  
+  </ul>
 </section>

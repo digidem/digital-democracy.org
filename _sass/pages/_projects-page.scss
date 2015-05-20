@@ -1,78 +1,33 @@
 @import "mixins/mixin-caption";
 @import "mixins/mixin-image-ratio";
 
-.projects {
-  @include grid-row();
-  ul {
-    @include block-grid(null, 0);
-    position: relative;
-    li.excerpt {
-      width: 100%;
-      img {
-        display: none;
-      }
-      header {
-        border-bottom: 1px solid white;
-      }
-      &.featured {
-        header {
-          padding-bottom: map-get($ratios, "ratio4x3");
-          img {
-            display: block;
-          }
-        }
-      }
-      html.touch & blockquote {
-        display: none;
-      }
-    }
-  }
-}
-
-@media #{$small} {
+@media #{$medium-up} {
   .projects ul {
-    li.excerpt {
-      width: 50%;
+    li.excerpt.large:first-child {
+      width: 100%;
       h3 {
-        font-size: $h4-font-size;
+        font-size: $h3-font-size;
       }
       header {
-        padding-bottom: map-get($ratios, "ratio3x2");
-        border-right: 1px solid white;
+        padding-bottom: map-get($ratios, "ratio16x9");
       }
-      img {
-        display: block;
+      header {
+        .full-title {
+          display: inline;
+        }
+        .short-title {
+          display: none;
+        }
       }
-      &.large:first-child {
-        width: 100%;
-        h3 {
-          font-size: $h3-font-size;
-        }
-        header {
-          padding-bottom: map-get($ratios, "ratio16x9");
-        }
-        header {
-          .full-title {
-            display: inline;
-          }
-          .short-title {
-            display: none;
-          }
-        }
-        blockquote > * {
-          margin: -0.5em 50% 0em 0.3em;
-        }
+      blockquote > * {
+        margin: -0.5em 50% 0em 0.3em;
       }
     }
   }
 }
 
-@media #{$medium} {
+@media #{$large-up} {
   .projects ul li.excerpt {
-    width: 33.33%;
-    h3 {
-        font-size: $h3-font-size;
-    }
     &.featured {
       &.large {
         width: 66.67%;
@@ -80,33 +35,11 @@
         header {
           padding-bottom: map-get($ratios, "ratio2x1");
         }
-        header {
-          h3 {
-            transition-duration: 400ms;
-          }
-          .full-title {
-            display: inline;
-          }
-          .short-title {
-            display: none;
-          }
-        }
         &:first-child {
           float: left;
           header {
             padding-bottom: map-get($ratios, "ratio4x3");
           }
-        }
-        blockquote {
-          transition-duration: 400ms;
-          > * {
-            margin: -0.5em 50% 0em 0.3em;
-          }
-        }
-      }
-      &.medium {
-        header {
-          padding-bottom: map-get($ratios, "ratio1x1");
         }
       }
       &.small {
@@ -115,28 +48,11 @@
         right: 0;
         width: 33.33%;
         z-index: 1;
-        h3 {
-          font-size: $h4-font-size;
-        }
-        header {
-          padding-bottom: map-get($ratios, "ratio4x3");
-        }
         &:last-child {
           margin-top: 25%;
           z-index: 0;
         }
       }
-    }
-  }
-}
-
-@media #{$large} {
-  .projects ul li.excerpt.featured header {
-    .full-title {
-      display: inline;
-    }
-    .short-title {
-      display: none;
     }
   }
 }

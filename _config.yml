@@ -21,6 +21,7 @@ exclude:
   - vendor
   - Procfile
   - Rakefile
+  - node_modules
 collections:
   team_and_board:
     output: true
@@ -28,6 +29,15 @@ collections:
   projects:
     output: true
     permalink: /ourwork/:path/
+  aboutus:
+    output: true
+    permalink: /:path/
+  jobs:
+    output: true
+    permalink: /jobs/:path/
+  internships:
+    output: true
+    permalink: /jobs/:path/
 defaults:
   -
     scope:

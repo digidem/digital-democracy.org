@@ -1,0 +1,45 @@
+---
+layout: default
+title: "Work with us"
+permalink: /jobs/
+image: /assets/gregor-laptop-guyana.jpg
+featured: medium
+---
+<section class="row grid">
+<div class="columns">
+  <h2>Job Opportunities</h2>
+  <ul class="large-block-grid-2 small-block-grid-1">
+    {% for post in site.jobs %}
+    {% unless post.published == false %}
+    <li>
+      <h4><b><a href="{{ post.url }}">{{ post.title }}</a></b></h4>
+      <p class="subhead">{{ post.excerpt }}</p>
+      <p><a href="{{ post.url }}">Learn more & apply</a></p>
+    </li>
+    {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+</section>
+
+{% assign internships_available = false %}
+<section class="row grid">
+<div class="columns">
+  <h2>Internships</h2>
+  <ul class="large-block-grid-2 small-block-grid-1">
+    {% for post in site.internships %}
+    {% unless post.published == false %}
+    {% assign internships_available = true %}
+    <li>
+      <h4><b><a href="{{ post.url }}">{{ post.title }}</a></b></h4>
+      <p class="subhead">{{ post.excerpt }}</p>
+      <p><a href="{{ post.url }}">Learn more & apply</a></p>
+    </li>
+    {% endunless %}
+    {% endfor %}
+  </ul>
+  {% unless internships_available %}
+  <p>We have no open internships available at this time, but if you are interested in hearing about internships when they are available please write to <a href="mailto:jobs@digital-democracy.org">jobs@digital-democracy.org</a> attaching your resumé.</p>
+  {% endunless %}
+</div>
+</section>

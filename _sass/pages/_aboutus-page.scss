@@ -1,0 +1,30 @@
+@import "mixins/mixin-caption";
+@import "mixins/mixin-image-ratio";
+
+@media #{$large-up} {
+  .aboutus ul li.excerpt {
+    &.featured {
+      &.large {
+        width: 66.67%;
+        float: right;
+        header {
+          padding-bottom: map-get($ratios, "ratio2x1");
+        }
+        &:first-child {
+          float: left;
+        }
+      }
+      &.medium {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 33.33%;
+        z-index: 1;
+        &:last-child {
+          position: relative;
+          float: left;
+        }
+      }
+    }
+  }
+}

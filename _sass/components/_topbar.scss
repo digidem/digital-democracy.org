@@ -208,7 +208,11 @@ html:not(.touch) header nav ul {
 body[data-section="/ourwork/"] nav ul li > a[href="/ourwork/"],
 body[data-section="/blog/"] nav ul li > a[href="/blog/"],
 body[data-section="/team/"] nav ul li > a[href="/team/"],
-body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"] {
+body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"],
+body[data-section="/jobs/"] nav ul li > a[href="/aboutus/"],
+body[data-section="/team/"] nav ul li > a[href="/aboutus/"],
+body[data-section="/mission/"] nav ul li > a[href="/aboutus/"],
+body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
   background: $topbar-link-bg-active;
   color: $topbar-link-color-active;
 }
