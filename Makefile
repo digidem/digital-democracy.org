@@ -9,7 +9,7 @@ _sass/compass:
 
 _sass/foundation:
 	mkdir -p $@
-	curl -L https://github.com/zurb/foundation/archive/v4.3.2.tar.gz \
+	curl -L https://github.com/zurb/foundation/archive/v5.5.2.tar.gz \
 	| tar --strip-components=3 -C $@ -xz */scss/foundation
 
 clean:

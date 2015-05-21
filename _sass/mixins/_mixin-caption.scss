@@ -1,0 +1,34 @@
+@mixin caption($color: $orbit-caption-bg, $width: 100%, $right: 0, $padding: 0.5em 1em) {
+  &:hover {
+    h2, h3, h4 {
+      text-decoration: underline;
+    }
+  }
+  h2, h3, h4 {
+    position: absolute;
+    right: $right;
+    width: $width;
+    bottom: 0;
+    background-color: $color;
+    margin: 0;
+    padding: $padding;
+    color: white;
+    text-shadow: #333 0 0 2px;
+    .no-touch &.no-background {
+      background: none;
+    }
+    a {
+      color: white;
+      &:hover {
+        color: white;
+        text-decoration: underline;
+      }
+    }
+  }
+  transition: -webkit-transform 400ms ease-out;
+  transition: transform 400ms ease-out;
+  &.offscreen {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+}

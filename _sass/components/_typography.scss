@@ -1,0 +1,18 @@
+@import "mixins/mixin-underline";
+
+p a {
+  @include underline($anchor-underline-color, 2px, 2px);
+  color: inherit;
+  &:hover {
+    color: inherit;
+  }
+}
+
+@media #{$medium} {
+  p a {
+    @include underline($anchor-underline-color, 3px, 3px);
+    &:hover {
+      @include underline($anchor-underline-color, 4px, 2px);
+    }
+  }
+}

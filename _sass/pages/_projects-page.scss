@@ -1,0 +1,58 @@
+@import "mixins/mixin-caption";
+@import "mixins/mixin-image-ratio";
+
+@media #{$medium-up} {
+  .projects ul {
+    li.excerpt.large:first-child {
+      width: 100%;
+      h3 {
+        font-size: $h3-font-size;
+      }
+      header {
+        padding-bottom: map-get($ratios, "ratio16x9");
+      }
+      header {
+        .full-title {
+          display: inline;
+        }
+        .short-title {
+          display: none;
+        }
+      }
+      blockquote > * {
+        margin: -0.5em 50% 0em 0.3em;
+      }
+    }
+  }
+}
+
+@media #{$large-up} {
+  .projects ul li.excerpt {
+    &.featured {
+      &.large {
+        width: 66.67%;
+        float: right;
+        header {
+          padding-bottom: map-get($ratios, "ratio2x1");
+        }
+        &:first-child {
+          float: left;
+          header {
+            padding-bottom: map-get($ratios, "ratio4x3");
+          }
+        }
+      }
+      &.small {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 33.33%;
+        z-index: 1;
+        &:last-child {
+          margin-top: 25%;
+          z-index: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,228 @@
+@import "mixins/mixin-caption";
+@import "mixins/mixin-image-ratio";
+
+$caption-bg: adjust-color($dd-blue, $lightness: -20%, $alpha: -0.1);
+$left-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
+$leftbar-width: remCalc(85);
+
+  header.article {
+    background-color: black;
+    width: 100%;
+    @include image-ratio(map-get($ratios, "ratio4x3"));
+    .caption-inner {
+      position: absolute;
+      right: 0;
+      width: 100%;
+      bottom: 0;
+      background-color: $caption-bg;
+      margin: 0;
+      padding: 0.5em 1em;
+      text-align: center;
+      color: #eee;
+      h2 {
+        color: #fff;
+        font-style: italic;
+        margin-bottom: 0.25em;
+      }
+      h3 {
+        color: #eee;
+        font-weight: 300;
+      }
+    }
+  }
+
+  header.article, article.article {
+    .byline {
+      margin-bottom: 0.5em;
+      .author, .author a {
+        color: $author-link;
+      }
+      .author a:hover {
+        text-decoration: underline;
+      }
+      address {
+        display: inline;
+      }
+      address:before {
+        content: "\2014 ";
+        font-style: normal;
+        color: initial;
+      }
+      &.inner {
+        display: none;
+      }
+      &.outer {
+        time {
+          line-height: 1.6em;
+        }
+      }
+    }
+  }
+
+  article.article .content {
+    @include grid-row();
+    position: relative;
+    padding-top: 1em;
+    img {
+      width: 100%;
+    }
+    & > p:first-of-type {
+      padding-right: 0.5em;
+      font-size: 1.1em;
+    }
+    > * {
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+    ol, ul {
+      padding-left: 2.5em;
+    }
+    p.image {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+
+@media #{$small} {
+  header.article {
+    padding-bottom: map-get($ratios, "ratio3x2");
+    .caption-inner {
+      left: $leftbar-width;
+      width: auto;
+      right: 33%;
+      .byline {
+        display: block;
+        address:before {
+          content: "";
+          font-style: normal;
+        }
+        time:before {
+          content: "";
+        }
+      }
+    }
+  }
+  article.article .content {
+    box-shadow: -62.5em 0 $left-bg;
+    padding-left: 3em;
+    padding-top: 2em;
+    .byline.outer {
+      display: none;
+    }
+    img {
+      width: 100%;
+      float: right;
+      position: relative;
+      margin: 0.85em -50% 0.85em 1em;
+    }
+    & > p:first-of-type {
+      padding-right: 1em;
+      font-size: 1.2em;
+    }
+    h1 {
+      font-size: emCalc(27);
+    }
+    h2 {
+      font-size: emCalc(23);
+    }
+    > *:not(blockquote), p.image {
+      padding-right: percentage(1/3);
+      padding-left: 0;
+    }
+    ol, ul {
+      padding-left: 0;
+    }
+  }
+}
+
+
+@media #{$medium} {
+  body.full-header {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    header.article {
+      position: absolute;
+      height: auto;
+      padding-bottom: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      img#header-image {
+        cursor: n-resize;
+        &.zoom-pointer {
+          cursor: s-resize;
+        }
+      }
+      .caption-outer {
+        @include grid-row();
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        .caption-inner {
+          @include grid-column(6);
+          pointer-events: all;
+          left: 0;
+          right: 0;
+          .byline {
+            address:before {
+              content: "By ";
+              color: white;
+              font-style: normal;
+            }
+            time:before {
+              content: "on ";
+            }
+          }
+        }
+        transition: -webkit-transform 400ms ease-out;
+        transition: transform 400ms ease-out;
+      }
+    }
+    article.article {
+      position: relative;
+      top: 100%;
+      width: 100%;
+    }
+    footer {
+      position: relative;
+      top: 100%;
+    }
+  }
+}
+
+@media only screen and (min-width:"#{$row-width}") {
+  .article {
+    header .caption {
+      width: $row-width / 2 - $leftbar-width;
+      right: 50%;
+      left: auto;
+    }
+    .content:before {
+      left: auto;
+      right: $row-width - $leftbar-width;
+      width: 999em;
+    }
+  }
+}
+
+@media #{$large} {
+  .article header {
+    padding-bottom: map-get($ratios, "ratio24x10");
+  }
+  .article .content {
+    & > p:first-of-type {
+      font-size: 1.4em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+  }
+}

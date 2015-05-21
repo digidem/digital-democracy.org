@@ -80,7 +80,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  kramdown
   puma
   rack-jekyll!
   rake
+  redcarpet

@@ -1,0 +1,65 @@
+@import "compass/css3/transform";
+@import "compass/css3/transition";
+
+@mixin image-ratio($ratio: 56.25%) {
+  position: relative;
+  height: 0;
+  padding-bottom: $ratio;
+  overflow: hidden;
+  img {
+    width: 100%;
+    max-width: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: auto;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    -webkit-transform: translate3d(-50%, -50%, 0);
+            transform: translate3d(-50%, -50%, 0);
+  }
+  a img {
+    transition: -webkit-transform 200ms ease-out;
+    transition: transform 200ms ease-out;
+  }
+  &:hover a img {
+    -webkit-transform: translate(-50%, -50%) scale(1.1);
+        -ms-transform: translate(-50%, -50%) scale(1.1);
+            transform: translate(-50%, -50%) scale(1.1);
+    -webkit-transform: translate3d(-50%, -50%, 0) scale(1.1);
+            transform: translate3d(-50%, -50%, 0) scale(1.1);
+    -webkit-filter: blur(3px);
+            filter: blur(3px);
+  }
+  &:hover > a:after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.3);
+  }
+  & > a:before {
+    content: "Read More";
+    position: absolute;
+    z-index: 1;
+    color: white;
+    opacity: 0;
+    top: 50%;
+    left: 50%;
+    margin: auto;
+    border: 1px solid white;
+    background-color: rgba(0,0,0,0.5);
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    -webkit-transform: translate3d(-50%, -50%, 0);
+            transform: translate3d(-50%, -50%, 0);
+    padding: 0.6em 0.8em;
+    transition: opacity 400ms ease-in-out;
+  }
+  &:hover > a:before {
+    opacity: 1;
+  }
+}

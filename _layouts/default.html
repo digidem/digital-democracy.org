@@ -10,10 +10,10 @@
 {% include facebook.html %}
 
   <title>Digital Democracy{% if page.title %}: {{ page.title }}{% endif %}</title>
-  
+
   <link rel="stylesheet" href="/css/site.css?{{ site.time | date: "%Y%m%d%H%M%S" }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
-  
+
   <!--[if IE 8]>
   <script src="/js/polyfills/ie8/event-listeners.js"></script>
   <![endif]-->
@@ -23,7 +23,7 @@
   <![endif]-->
 
   <script src="/js/vendor/custom.modernizr.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
-  
+
 </head>
 <body data-section="/{{ page.url | remove_first: "/" | split: "/" | first }}/" class="{{ page.body_class }} {{ layout.body_class }}">
 
@@ -34,12 +34,11 @@
 
 <header class="site-header">
   <h1><a href="/">Digital Democracy</a></h1>
-  <nav>
-    <button>Menu</button>
+  <nav class="top-bar" data-topbar role="navigation">
+    <button class="toggle-topbar">Menu</button>
     <ul>
       <li><a href="/ourwork/">Our Work</a></li>
       <li><a href="/blog/">Blog</a></li>
-      <li><a href="/team/">Team</a></li>
       <li><a href="/aboutus/">About Us</a></li>
       <li>
         <a class="button" href="/donate/" target="_blank">Donate</a>

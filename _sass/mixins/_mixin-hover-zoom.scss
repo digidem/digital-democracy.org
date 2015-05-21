@@ -1,0 +1,70 @@
+@import "compass/css3/transform";
+@import "compass/css3/transition";
+
+$hover-background-color: rgba(0, 0, 0, 0.3);
+$blur-radius: 4px;
+
+@mixin hover-zoom() {
+  header {
+    > a {
+      &:before {
+        content: "Read More";
+        position: absolute;
+        z-index: 1;
+        color: white;
+        opacity: 0;
+        top: 50%;
+        left: 50%;
+        margin: auto;
+        border: 1px solid white;
+        background-color: rgba(0,0,0,0.5);
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        -webkit-transform: translate3d(-50%, -50%, 0);
+                transform: translate3d(-50%, -50%, 0);
+        padding: 0.6em 0.8em;
+        transition: opacity 400ms ease-in-out;
+      }
+      &:after {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0;
+        background-color: $hover-background-color;
+        transition: opacity 100ms linear 200ms;
+        -webkit-transform: translate(0,0);
+            -ms-transform: translate(0,0);
+                transform: translate(0,0);
+        -webkit-transform: translate3d(0,0,0);
+                transform: translate3d(0,0,0);
+      }
+      img {
+        transition: -webkit-transform 200ms ease-out;
+        transition: transform 200ms ease-out;
+      }
+    }
+  }
+  header {
+    h3.background:hover {
+      background: none;
+    }
+    > a:hover {
+      img {
+        @include transform(translate3d(-50%, -50%, 0) scale(1.1));
+        -webkit-filter: blur($blur-radius);
+        filter: blur($blur-radius);
+      }
+      &:before {
+        opacity: 1;
+      }
+      &:after {
+        opacity: 1;
+        transition: none;
+      }
+    }
+  }
+}
