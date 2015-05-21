@@ -28,7 +28,7 @@ We’re looking for a javascript developer full or part-time with experience bui
 
 ### Our Team
 
-Our small but growing team is based in the Bay Area, California, but we welcome candidates from around the world, especially South America. We embrace distributed working, and are happy for you to work from where you live.
+Our small but growing team is based in the Bay Area, California, but we welcome candidates from around the world, especially South America. We embrace distributed working, and are happy for you to work from where you live. Women and people of color strongly urged to apply.
 
 ###How to apply
 
@@ -41,4 +41,3 @@ Send a note with the following to jobs@digital-democracy.org
 - Examples of your work. Link to your GitHub page, to projects you’ve finished, or to your website.
 
 - (Extra points) a story of your experience working with advocacy groups locally or internationally, or travel which has changed your perception of the world.
-
