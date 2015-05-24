@@ -8,7 +8,6 @@ excerpt: "Dan Fredinburg, an adventurer, mountain climber and passionate social 
 ---
 
 
-
 > “Every other mountain I've climbed, I felt like I was climbing for someone else ... Unlike a lot of other accomplishments that I've had in life where I was goal-oriented and striving to get to the end goal, I think Everest is going to be one of these trips where I really enjoy every step along the way.” - Dan Fredinburg
 
 Four weeks ago, Digital Democracy lost a close collaborator, ally and supporter. Four weeks ago, I lost a dear friend. 
@@ -21,7 +20,7 @@ _“Dan is the most outrageous person I’ve ever met.” - Alex Abelin, May 9 2
 
 Dan Fredinburg: Adventurer, athlete, a brilliant mind and skillful engineer. He was man who held many titles yet defied definitions, who was constantly starting new businesses and projects, yet also managed to maintain an impressive day job as director of privacy for GoogleX. Filled with seemingly boundless energy, he had an ability to draw people around him and convince them to join him on wild and wacky adventures. Full of infectious enthusiasm, he was the life of the party, but he carried equal passion for tackling social and environmental problems, and he had a knack for connecting adventures with social causes. Quick-witted and sharply analytical, you could call him a problem solver, but he didn’t just solve problems that emerged in the day-to-day workplace - he quested in search of the big problems, the ones that most people prefer not to touch. He approached those problems head on, with his characteristic determination, and he refused to believe they were insurmountable challenges. Like the mountains he climbed, he was always in search of the next peak, the next challenge. Along the way, he raised awareness and money for the causes he cared about, measurably improving the lives of people all around the world.
 
-_“He always wanted to help people, but he wanted to figure out how to do more of it, faster.” - Andrew Swerdlow, May 9 2015_
+_“He always wanted to help people, but he wanted to figure out how to do more of it, faster.” - Andrew Swerdlow, May 9 2015___
 
 The Digital Democracy team was first introduced to Dan through a then-fellow Googler, Alex Abelin. In July 2012, Dan and a crew of friends were preparing to summit Mount Kilimanjaro, and they wanted to connect it to a cause - in this case, raising money to support Digital Democracy’s mission to empower marginalized communities to use technology to defend their rights. Dan & others worked closely with Dd team member [Biz Ghormley](https://twitter.com/onewitness) to design a [crowd-funding campaign that raised $5,000 for Dd](http://www.digital-democracy.org/blog/support-dd-and-our-kili-climbing-team/). In true Dan Fredinburg style, he carried a Pokey costume all the way to the top of Africa’s highest peak, where [they celebrated their ascent with a dance party](https://youtu.be/dssFcz_oEI8). The following year, Dd advisor Rebecca Joy Norlander and another group [also climbed Kili to raise funds for Dd](http://norlandewe.org/), inspired by Dan and his crew. 
 
