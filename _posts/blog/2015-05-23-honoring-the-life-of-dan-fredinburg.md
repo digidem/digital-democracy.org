@@ -3,7 +3,7 @@ categories: blog
 published: true
 title: Honoring the life of Dan Fredinburg
 author: Emily Jacobi
-image: "assets/dan-at-bagan.jpg"
+image: "/assets/dan-at-bagan.jpg"
 excerpt: "Dan Fredinburg, an adventurer, mountain climber and passionate social change-maker was at Mount Everest basecamp with colleagues from Google on April 25, when a devastating 7.8 magnitude earthquake struck Nepal. "
 ---
 
