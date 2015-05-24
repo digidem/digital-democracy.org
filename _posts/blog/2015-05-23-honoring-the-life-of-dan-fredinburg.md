@@ -8,7 +8,8 @@ excerpt: "Dan Fredinburg, an adventurer, mountain climber and passionate social 
 ---
 
 
-> “Every other mountain I've climbed, I felt like I was climbing for someone else. I've decided I'm actually climbing Mount Everest for myself. Unlike a lot of other accomplishments that I've had in life where I was goal-oriented and striving to get to the end goal, I think Everest is going to be one of these trips where I really enjoy every step along the way.” - Dan Fredinburg
+
+> “Every other mountain I've climbed, I felt like I was climbing for someone else ... Unlike a lot of other accomplishments that I've had in life where I was goal-oriented and striving to get to the end goal, I think Everest is going to be one of these trips where I really enjoy every step along the way.” - Dan Fredinburg
 
 Four weeks ago, Digital Democracy lost a close collaborator, ally and supporter. Four weeks ago, I lost a dear friend. 
 
@@ -16,11 +17,11 @@ Four weeks ago, Digital Democracy lost a close collaborator, ally and supporter.
 
 Within the much bigger story of loss and resilience in Nepal, I want to share the individual, and particular story of Dan Fredinburg, a man who at only 33 years lived a most glorious and full life, and who greatly influenced me and Digital Democracy’s work. At first glance it might appear to be the story of a life lost because of the earthquake. But I think Dan’s story is about much more than that - it’s the story of impact that lasts long after we are gone, an embodiment of the truth that how we choose to live our lives affects people far beyond ourselves. 
 
-> “Dan is the most outrageous person I’ve ever met.” - Alex Abelin, May 9 2015
+_“Dan is the most outrageous person I’ve ever met.” - Alex Abelin, May 9 2015_
 
 Dan Fredinburg: Adventurer, athlete, a brilliant mind and skillful engineer. He was man who held many titles yet defied definitions, who was constantly starting new businesses and projects, yet also managed to maintain an impressive day job as director of privacy for GoogleX. Filled with seemingly boundless energy, he had an ability to draw people around him and convince them to join him on wild and wacky adventures. Full of infectious enthusiasm, he was the life of the party, but he carried equal passion for tackling social and environmental problems, and he had a knack for connecting adventures with social causes. Quick-witted and sharply analytical, you could call him a problem solver, but he didn’t just solve problems that emerged in the day-to-day workplace - he quested in search of the big problems, the ones that most people prefer not to touch. He approached those problems head on, with his characteristic determination, and he refused to believe they were insurmountable challenges. Like the mountains he climbed, he was always in search of the next peak, the next challenge. Along the way, he raised awareness and money for the causes he cared about, measurably improving the lives of people all around the world.
 
-> “He always wanted to help people, but he wanted to figure out how to do more of it, faster.” - Andrew Swerdlow, May 9 2015
+_“He always wanted to help people, but he wanted to figure out how to do more of it, faster.” - Andrew Swerdlow, May 9 2015_
 
 The Digital Democracy team was first introduced to Dan through a then-fellow Googler, Alex Abelin. In July 2012, Dan and a crew of friends were preparing to summit Mount Kilimanjaro, and they wanted to connect it to a cause - in this case, raising money to support Digital Democracy’s mission to empower marginalized communities to use technology to defend their rights. Dan & others worked closely with Dd team member [Biz Ghormley](https://twitter.com/onewitness) to design a [crowd-funding campaign that raised $5,000 for Dd](http://www.digital-democracy.org/blog/support-dd-and-our-kili-climbing-team/). In true Dan Fredinburg style, he carried a Pokey costume all the way to the top of Africa’s highest peak, where [they celebrated their ascent with a dance party](https://youtu.be/dssFcz_oEI8). The following year, Dd advisor Rebecca Joy Norlander and another group [also climbed Kili to raise funds for Dd](http://norlandewe.org/), inspired by Dan and his crew. 
 
@@ -42,24 +43,20 @@ Dan had another objective for the trip as well - to collect imagery for Google S
 
 Sunrise on Inle Lake. Traditional fisherman in wooden boats. The sunset pagoda at Bagan. These iconic sites Dan visited like a whirlwind. He and Andrew went to Inle Lake then met me at Bagan. Some of my sweetest memories of the trip were from our time exploring the UNESCO world heritage site of Bagan, a stunning landscape of stupas, temples and pagodas built by the Burmese kings between the 12th and 14th centuries. We visited as many as we could over the course of 36 hours, Dan devotedly taking panoramic images of as many of the sites as he could. We watched the sunset as Dan and Andrew downloaded data from phones and cameras in order to keep getting more imagery the next day.  
 
-![dan-working-at-bagan.jpg]({{site.baseurl}}/assets/dan-working-at-bagan.jpg)
-
 The trip ended, and we all went on to other adventures. Before parting ways, I gifted Dan my copy of the [Tao Te Ching](http://stephenmitchellbooks.com/translations-adaptations/tao-te-ching/), a book whose philosophy we explored in the many hours of travel we shared. Dan’s passion for mountain climbing was taking off, and as I focused on the next phase of Digital Democracy’s work in the Amazon, Dan was training, starting new initiatives, and, in spring 2014, attempting his first ascent of Mount Everest. This was a new level of challenge, even for Dan, and he approached it with grace, dedication and his characteristic humor, keeping his friends in the loop through his instagram feed. 
 
 _“I think it was different with every mountain, for different reasons. This one I'm not planning for what's on the other side (of it).” - Dan Fredinburg_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4f_Umn_ISfs" frameborder="0" allowfullscreen></iframe>
 
 In April 2014, a tragic avelanche near Everest Basecamp killed 16 sherpas. In mourning and in honor of the lives lost, the climbing season closed. Dan wasn't hurt by that avelanche, but it affected him deeply. After returning to the US he went on a silent meditation retreat, determined to seek the depths within just as he had been driven to climb the highest peaks of the globe. He continued crusading for the causes he believed in, like collaborating with Andrew and others to create a space for innovation in a former laundromat called [The Laundry](http://www.thelaundrysf.com/), and campaigning to raise awareness about climate change through [Save the Ice](http://www.savetheice.org/). And he was training, diligently and relentlessly, to return to Everest. 
 
 Inspired by the success of our trip to Myanmar for Barcamp Yangon, Digital Democracy and Seamless Planet discussed other ways to collaborate, and thanks in part to Andrew, Dan & Sara Ahmadian's influence we decided to host a [hackathon in the Peruvian Rainforest](http://www.hacktherainforest.org/). Although Dan couldn't join because he was preparing for Everest, it was a Dan-worthy experience - a crazy idea to host a hackathon in the rainforest, and one that we pulled off by bringing together unlikely allies around a shared vision and cause.   
 
-> "Death comes for us all and we know not what adventures lie on the other side. ... In the grand scheme of things, death is no tragedy - the tragedy is to experience life without ever living."
+_"Death comes for us all and we know not what adventures lie on the other side. ... In the grand scheme of things, death is no tragedy - the tragedy is to experience life without ever living."_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4f_Umn_ISfs" frameborder="0" allowfullscreen></iframe>
 
 Four weeks ago, a devastating earthquake hit Nepal. Four weeks ago an avalanche hit Mount Everest and killed my friend, Dan Fredinburg. Two weeks ago, we gathered at a memorial service to celebrate Dan’s life. We shared our Dan stories, we laughed, we celebrated, we participated in a beautiful puja ceremony [like one Dan himself had participated in just weeks earlier](https://instagram.com/p/1v_tCexFgR/?taken-by=danfredinburg). At the memorial, many people captured what I was feeling in my heart: That Dan’s body died on Mt Everest, but Dan’s spirit lives on - in me, in you, in the hearts of all he touched. 
 
 Dan’s commitment to making the world a better place - from supporting orphanages in Nepal to raising awareness about climate change - also lives on, through [The Laundry](http://www.thelaundrysf.com/), [Save the Ice](http://www.savetheice.org/) and the [Dan Fredinburg Foundation](https://www.crowdrise.com/CelebratingDan). And it lives on in Digital Democracy’s work, in our commitment to a mission that Dan believed in - to use technology in a way that empowers, that democratizes, that lifts up people’s spirits and challenges them to live more boldly and take care of one another. Just as traveling with Dan to Myanmar helped inspire us to host a Hackathon in the Peruvian Rainforest, Dan’s life will continue to inspire us in our work, and inspire me, personally, to live courageously. We’re planning future adventures in Dan’s honor, and we invite you, too, to be influenced by Dan’s legacy as you contemplate what (in the words of Mary Oliver) you are willing to do with your one precious life.
 
 Four weeks ago, Dan Fredinburg died on Mt Everest, but his spirit lives on. Today, I encourage you to take a moment to honor Dan’s life, support the [Dan Fredinburg Foundation](https://www.crowdrise.com/CelebratingDan), and, most importantly, [#LiveDan](http://www.livedan.com/) by being true to yourself. What is the mountain you are called to climb? What, for you, is a life truly lived?
-
-![dan-andrew-in-silhouette.jpg]({{site.baseurl}}/assets/dan-andrew-in-silhouette.jpg)
