@@ -1,11 +1,12 @@
 ---
 categories: blog
-published: false
+published: true
 title: Honoring the life of Dan Fredinburg
 author: Emily Jacobi
 image: "assets/dan-at-bagan.jpg"
 excerpt: "Dan Fredinburg, an adventurer, mountain climber and passionate social change-maker was at Mount Everest basecamp with colleagues from Google on April 25, when a devastating 7.8 magnitude earthquake struck Nepal. "
 ---
+
 
 > “Every other mountain I've climbed, I felt like I was climbing for someone else. I've decided I'm actually climbing Mount Everest for myself. Unlike a lot of other accomplishments that I've had in life where I was goal-oriented and striving to get to the end goal, I think Everest is going to be one of these trips where I really enjoy every step along the way.” - Dan Fredinburg
 
@@ -62,4 +63,3 @@ Dan’s commitment to making the world a better place - from supporting orphanag
 Four weeks ago, Dan Fredinburg died on Mt Everest, but his spirit lives on. Today, I encourage you to take a moment to honor Dan’s life, support the [Dan Fredinburg Foundation](https://www.crowdrise.com/CelebratingDan), and, most importantly, [#LiveDan](http://www.livedan.com/) by being true to yourself. What is the mountain you are called to climb? What, for you, is a life truly lived?
 
 ![dan-andrew-in-silhouette.jpg]({{site.baseurl}}/assets/dan-andrew-in-silhouette.jpg)
-
