@@ -8,11 +8,12 @@ excerpt: "Dan Fredinburg, an adventurer, mountain climber and passionate social 
 ---
 
 
+
 > “Every other mountain I've climbed, I felt like I was climbing for someone else ... Unlike a lot of other accomplishments that I've had in life where I was goal-oriented and striving to get to the end goal, I think Everest is going to be one of these trips where I really enjoy every step along the way.” - Dan Fredinburg
 
 Four weeks ago, Digital Democracy lost a close collaborator, ally and supporter. Four weeks ago, I lost a dear friend. 
 
-[Dan Fredinburg](https://www.crowdrise.com/CelebratingDan), an adventurer, mountain climber and passionate social change-maker was at Mount Everest basecamp with colleagues from Google on April 25, when a devastating 7.8 magnitude earthquake struck Nepal. The earthquake set off an avalanche on Everest, fatally killing Dan & more than 20 others. The death toll throughout Nepal has been much greater still. Two large earthquakes - and their subsequent aftershocks - have forever transformed the physical, psychic and social landscape in Nepal, and there is important and urgent work being done - particularly by affected communities themselves to respond. 
+[Dan Fredinburg](https://www.crowdrise.com/CelebratingDan), an adventurer, mountain climber and passionate social change-maker was at Mount Everest basecamp with colleagues from Google on April 25, when a devastating 7.8 magnitude earthquake struck Nepal. The earthquake set off an avalanche on Everest, killing Dan & more than 20 others. The death toll throughout Nepal has been much greater still. Two large earthquakes - and their subsequent aftershocks - have forever transformed the physical, psychic and social landscape in Nepal, and there is important and urgent work being done - particularly by affected communities themselves to respond. 
 
 Within the much bigger story of loss and resilience in Nepal, I want to share the individual, and particular story of Dan Fredinburg, a man who at only 33 years lived a most glorious and full life, and who greatly influenced me and Digital Democracy’s work. At first glance it might appear to be the story of a life lost because of the earthquake. But I think Dan’s story is about much more than that - it’s the story of impact that lasts long after we are gone, an embodiment of the truth that how we choose to live our lives affects people far beyond ourselves. 
 
