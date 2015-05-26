@@ -1,10 +1,11 @@
 ---
 categories: blog
-published: false
+published: true
 title: Code with us
 author: Gregor MacLennan
 image: "/assets/gregor-laptop-guyana.jpg"
 ---
+
 
 We’re hiring. Are you a javascript developer with a passion for maps, the rainforest, human rights, or making a difference doing cool stuff? [Join our dynamic team](/jobs/javascript-developer), building cutting edge tools to meet the needs of indigenous communities in [Peru](http://www.digital-democracy.org/blog/update-on-remote-access/), Ecuador, [Guyana](http://www.digital-democracy.org/ourwork/guyana/) and around the world who are on the front lines of the struggle to protect the world’s most beautiful places.
 
