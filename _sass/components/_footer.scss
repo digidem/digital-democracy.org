@@ -49,3 +49,7 @@ footer {
       opacity: 0.5;
     }
 }
+
+body[data-section="/index.html/"].full-header footer {
+  top: 0;
+}
