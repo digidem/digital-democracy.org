@@ -33,7 +33,7 @@
 <![endif]-->
 
 <header class="site-header">
-  <h1><a href="/">Digital Democracy</a></h1>
+  <h1 class="logo"><a href="/">Digital Democracy</a></h1>
   <nav class="top-bar" data-topbar role="navigation">
     <button class="toggle-topbar">Menu</button>
     <ul>
@@ -50,6 +50,43 @@
 {{ content }}
 
 <footer>
+  <div class="row">
+    <div class="columns small-12 medium-3 large-2">
+      <h1 class="logo"><a href="/">Digital Democracy</a></h1>
+    </div>
+    <div class="columns small-12 medium-9 large-10">
+      <ul class="small-block-grid-2 medium-block-grid-4">
+        <li>
+          <ul>
+            <li><a href="/ourwork/">Our Work</a></li>
+            {% for post in site.projects %}
+            {% if post.short_title %}
+              {% assign short_title = post.short_title %}
+            {% else %}
+              {% assign short_title = post.title %}
+            {% endif %}
+            <li><a href="{{ post.url }}">{{ short_title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li><a href="/blog/">Blog</a></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li><a href="/aboutus/">About Us</a></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li><a href="/donate/" target="_blank">Donate</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
 </footer>
 
 <!--[if lt IE 9]>
