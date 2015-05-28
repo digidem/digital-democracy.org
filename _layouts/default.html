@@ -49,48 +49,7 @@
 
 {{ content }}
 
-<footer>
-  <div class="row">
-    <div class="columns">
-      <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
-        <li>
-          <ul>
-            <li><a href="/ourwork/">Our Work</a></li>
-            {% for post in site.projects %}
-            {% if post.short_title %}
-              {% assign short_title = post.short_title %}
-            {% else %}
-              {% assign short_title = post.title %}
-            {% endif %}
-            <li><a href="{{ post.url }}">{{ short_title }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-        <li>
-          <ul>
-            <li><a href="/blog/">Blog</a></li>
-            {% for post in site.posts limit:4 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-        <li>
-          <ul>
-            <li><a href="/aboutus/">About Us</a></li>
-            {% for post in site.aboutus%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-        <li>
-          <ul>
-            <li><a href="/donate/" target="_blank">Donate</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </div>
-</footer>
+{% include footer.html %}
 
 <!--[if lt IE 9]>
   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
