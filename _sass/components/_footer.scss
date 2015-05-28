@@ -1,13 +1,14 @@
 footer {
     min-height: 200px;
     background-color: $dd-blue;
-    padding-top: 2em;
+    padding: 2em 0;
     .row {
       opacity: 0.8;
     }
     ul ul {
       list-style: none;
       color: #fff;
+      margin-left: 0;
       li:first-child a {
         text-transform: uppercase;
         font-weight: bold;
