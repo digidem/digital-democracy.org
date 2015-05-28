@@ -119,34 +119,6 @@ header.site-header {
     white-space: nowrap;
     overflow: hidden;
 
-    a:before {
-      content: "Dd";
-      color: $dd-blue;
-      position: absolute;
-      width: 55px;
-      height: 55px;
-      background-color: #fff;
-      text-indent: 0;
-      top: 0;
-      left: 15px;
-      font-size: 30px;
-      font-weight: bold;
-      text-align: center;
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      padding-top: 1px;
-    }
-    a:after {
-      content: "";
-      position: absolute;
-      width: 24px;
-      height: 24px;
-      border: 8px double $dd-grey;
-      top: 11px;
-      left: 40px;
-      clip: rect(0,12px,12px,0);
-      @include border-radius(12px 0 0);
-      @include rotate(25deg);
-    }
     a {
       font-weight: $topbar-title-weight;
       color: $topbar-link-color;
