@@ -150,6 +150,7 @@ prose:
         field:
           element: "text"
           label: "Post image"
+          help: "URL should start with /assets"
           placeholder: "Enter a URL"
       - name: "tags"
         field:
@@ -161,7 +162,7 @@ prose:
         field:
           element: "hidden"
           value: "blog"
-    _posts/projects:
+    _projects:
       - name: "title"
         field:
           element: "text"
@@ -171,6 +172,7 @@ prose:
         field:
           element: "text"
           label: "Featured image"
+          help: "URL should start with /assets"
           value: ""
           placeholder: "Enter a URL"
       - name: "featured"
@@ -198,11 +200,7 @@ prose:
           label: "Permalink"
           placeholder: "/link/to/this/page"
           value: ""
-      - name: "categories"
-        field:
-          element: "hidden"
-          value: "projects"
-    _posts/team:
+    _team_and_board:
       - name: "title"
         field:
           element: "text"
@@ -235,6 +233,7 @@ prose:
         field:
           element: "text"
           label: "Profile image"
+          help: "Start with / e.g. /assets/my-image.jpg"
           value: ""
           placeholder: "Enter a URL"
       - name: "background-image"
@@ -261,7 +260,39 @@ prose:
               value: "board"
             - name: "Advisor"
               value: "advisor"
-      - name: "categories"
+      - name: "layout"
         field:
           element: "hidden"
           value: "team"
+    _jobs:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: "Job Title"
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "Excerpt"
+          help: "Two-line excerpt job description"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "job"
+    _internships:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: "Job Title"
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "Excerpt"
+          help: "Two-line excerpt intership description"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "job"
