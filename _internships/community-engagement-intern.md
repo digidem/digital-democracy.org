@@ -1,10 +1,11 @@
 ---
 layout: job
-title: "Community Engagement Intern"
+title: Community Engagement Intern
 published: true
 excerpt: "Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Intern, and lead recruitment for the Mesh Network, Dd’s individual giving initiative."
 ---
-Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Intern, and lead recruitment for the Mesh Network, Dd’s individual giving initiative. This position is for an initial 3 months, 10-20 hours a week with the opportunity to extend the internship and/or work your way into a part-time position at the end of 3 months.
+
+Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Intern, and lead recruitment for the [Mesh Network](http://www.digital-democracy.org/blog/join-dd-s-mesh-network/), Dd’s individual giving initiative. This position is for an initial 3 months, 10-20 hours a week with the opportunity to extend the internship and/or work your way into a part-time position at the end of 3 months.
 
 The Community Engagement Intern will play a key role in helping Digital Democracy increase our community of support, raise awareness about our work, and raise funds to maximize our impact. At Dd, we’ve seen firsthand that change does not come from technology, but from how people use it. We are building tools that empower grassroots organizations on the frontlines of defending human rights and the environment - to achieve transformative change. Equipped with the tools they need, our partners are becoming better storytellers, advocates and leaders.
 
