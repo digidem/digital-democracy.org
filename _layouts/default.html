@@ -22,6 +22,12 @@
   <script src="/js/polyfills/ie9/classlist.js"></script>
   <![endif]-->
 
+  <!-- Google Analytics -->
+  <script>
+  {% include js/google-analytics.js %}
+  </script>
+  <!-- End Google Analytics -->
+
   <script src="/js/vendor/custom.modernizr.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
 
 </head>
@@ -63,7 +69,6 @@
 <script>
 {% include js/site-setup.js %}
 {% include js/foundation-setup.js %}
-{% include js/google-analytics.js %}
 </script>
 </body>
 </html>
