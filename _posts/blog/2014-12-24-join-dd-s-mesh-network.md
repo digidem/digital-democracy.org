@@ -32,4 +32,4 @@ In the world of hardware & internet technology, a mesh network is a local area n
 
 4. Most importantly, _keep in touch with us_ and _learn about our work_ so that you can **be an ambassador for Digital Democracy** in the future! In 2015 the Mesh Network will be on the front lines of hearing about our work as it evolves in real time.
 
-Ready to join? Make a donation, and [send me an email](mailto:ejacobi@digital-democracyo.org?subject=Tell me more about the Mesh Network) to join the network. 
+Ready to join? Make a donation, and [send me an email](mailto:ejacobi@digital-democracy.org?subject=Tell me more about the Mesh Network) to join the network. 
