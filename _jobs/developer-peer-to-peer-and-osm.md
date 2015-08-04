@@ -1,6 +1,6 @@
 ---
 layout: job
-published: false
+published: true
 title: "Developer: Peer-to-peer and OSM"
 ---
 
