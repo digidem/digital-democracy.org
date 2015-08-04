@@ -20,11 +20,11 @@ Digital Democracy has been helping indigenous communities in the Amazon document
 Our goal is that the community owns and participates in all stages of the mapping process, but the tools for that final stage -- digitizing and georeferencing information -- need significant training and technical skills, and don’t work well in a collaborative environment. This is where OpenStreetMap tools come in: OSM is a community-driven map of the world which emphasises local knowledge and low-tech tools. The tools for creating and editing places in OSM make it easy for anybody to participate, and allow for thousands of contributors around the world to collaborate.
 
 <div class="embed-container">
-![idediting-part-1.gif](/assets/idediting-part-1.gif)
+<img src="/assets/idediting-part-1.gif">
 </div>
 
 <div class="embed-container">
-![idediting-part-2.gif](/assets/idediting-part-2.gif)
+<img src="/assets/idediting-part-2.gif">
 </div>
 
 OSM-Lite will prototype a light-weight mapping stack for anybody who wants to collaborate with others to create maps with OpenStreetMap tools without immediately putting that data into the OpenStreetMap global database. The reasons for this might include:
