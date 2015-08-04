@@ -13,15 +13,19 @@ image: "/assets/achuar-map-excerpt.jpg"
 
 Today we’re super excited to be one of [22 amazing projects](http://www.knightfoundation.org/blogs/knightblog/2015/8/4/22-ideas-win-knight-prototype-fund-support/) to win support from the [Knight Prototype Fund](http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/). We will use the funds to prototype new ways for anybody to make a map of the world around them using simple, open source tools that work in low-tech and low-connectivity environments. Our project, OSM-Lite, will prototype ways to use existing OpenStreetMap tools for collaboration on maps that don’t belong in the OpenStreetMap global database because of privacy issues, or because the data does not belong in the OSM map.
 
-Digital Democracy has been helping indigenous communities in the Amazon document and map the forests and rivers around them to help communicate to the rest of the world why this land is theirs and what is at risk if oil, mining and timber companies continue destroying the forest and contaminating the rivers. The process of creating a map together, owned by and including all members of the community, involves drawing sketch maps together, georeferencing key locations with a GPS, comparing hand-drawn maps with remote-sensing data, and digitizing the resulting information to create a geographically accurate map.
-
 ![Wapichan drawing a sketch map](/assets/wapichan-map-making.jpg)
+
+Digital Democracy has been helping indigenous communities in the Amazon document and map the forests and rivers around them to help communicate to the rest of the world why this land is theirs and what is at risk if oil, mining and timber companies continue destroying the forest and contaminating the rivers. The process of creating a map together, owned by and including all members of the community, involves drawing sketch maps together, georeferencing key locations with a GPS, comparing hand-drawn maps with remote-sensing data, and digitizing the resulting information to create a geographically accurate map.
 
 Our goal is that the community owns and participates in all stages of the mapping process, but the tools for that final stage -- digitizing and georeferencing information -- need significant training and technical skills, and don’t work well in a collaborative environment. This is where OpenStreetMap tools come in: OSM is a community-driven map of the world which emphasises local knowledge and low-tech tools. The tools for creating and editing places in OSM make it easy for anybody to participate, and allow for thousands of contributors around the world to collaborate.
 
+<div class="embed-container">
 ![idediting-part-1.gif](/assets/idediting-part-1.gif)
+</div>
 
+<div class="embed-container">
 ![idediting-part-2.gif](/assets/idediting-part-2.gif)
+</div>
 
 OSM-Lite will prototype a light-weight mapping stack for anybody who wants to collaborate with others to create maps with OpenStreetMap tools without immediately putting that data into the OpenStreetMap global database. The reasons for this might include:
 
