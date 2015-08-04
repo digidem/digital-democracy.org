@@ -66,6 +66,13 @@ $leftbar-width: remCalc(85);
     img {
       width: 100%;
     }
+    .full-width {
+      padding: 0;
+      margin: 2em 0 2em;
+      img {
+        border: 1px solid grey;
+      }
+    }
     & > p:first-of-type {
       padding-right: 0.5em;
       font-size: 1.1em;
@@ -74,8 +81,8 @@ $leftbar-width: remCalc(85);
       padding-left: 16px;
       padding-right: 16px;
     }
-    ol, ul {
-      padding-left: 2.5em;
+    li {
+      margin-bottom: 1rem;
     }
     p.image {
       padding-left: 0;
@@ -115,6 +122,11 @@ $leftbar-width: remCalc(85);
       float: right;
       position: relative;
       margin: 0.85em -50% 0.85em 1em;
+    }
+    .full-width img {
+      float: none;
+      position: inline;
+      margin: 0;
     }
     & > p:first-of-type {
       padding-right: 1em;
@@ -190,6 +202,9 @@ $leftbar-width: remCalc(85);
       position: relative;
       top: 100%;
       width: 100%;
+      ol, ul {
+        padding-left: 0.8em;
+      }
     }
     footer {
       position: relative;
@@ -221,7 +236,7 @@ $leftbar-width: remCalc(85);
     & > p:first-of-type {
       font-size: 1.4em;
     }
-    p {
+    p, ol, ul {
       font-size: 1.2em;
     }
   }
