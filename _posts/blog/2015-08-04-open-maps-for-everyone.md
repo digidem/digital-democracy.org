@@ -1,6 +1,6 @@
 ---
 categories: blog
-published: false
+published: true
 title: Open Maps for Everyone
 author: Gregor MacLennan
 excerpt: "Today we’re super excited to be one of 22 amazing projects to win support from the Knight Prototype Fund. We will use the funds to prototype new ways for anybody to make a map of the world around them using simple, open source tools that work in low-tech and low-connectivity environments."
@@ -9,6 +9,7 @@ tags:
   - featured
 image: "/assets/achuar-map-excerpt.jpg"
 ---
+
 
 Today we’re super excited to be one of [22 amazing projects](http://www.knightfoundation.org/blogs/knightblog/2015/8/4/22-ideas-win-knight-prototype-fund-support/) to win support from the [Knight Prototype Fund](http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/). We will use the funds to prototype new ways for anybody to make a map of the world around them using simple, open source tools that work in low-tech and low-connectivity environments. Our project, OSM-Lite, will prototype ways to use existing OpenStreetMap tools for collaboration on maps that don’t belong in the OpenStreetMap global database because of privacy issues, or because the data does not belong in the OSM map.
 
