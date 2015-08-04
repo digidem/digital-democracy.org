@@ -2,6 +2,7 @@
 layout: job
 published: true
 title: "Developer: Peer-to-peer and OSM"
+excerpt: "We're looking a full- or part-time developer for 3–6 months to prototype an OpenStreetMap server stack and database that allow distributed teams in low-connectivity environments to collaborate on private maps using easy-to-learn OpenStreetMap tools such as iDEditor."
 ---
 
 Digital Democracy is looking a full- or part-time developer for 3–6 months to prototype an OpenStreetMap server stack and database that allow distributed teams in low-connectivity environments to collaborate on private maps using easy-to-learn OpenStreetMap tools such as iDEditor.
