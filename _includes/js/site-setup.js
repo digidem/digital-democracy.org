@@ -39,7 +39,7 @@
       slideshow.slickPlay();
     });
   }).slick({
-    autoplay: true,
+    autoplay: false,
     pauseOnHover: false
   })
 
