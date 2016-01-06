@@ -1,13 +1,18 @@
 ---
-categories: team
 layout: team
-published: true
+categories: team
+published: false
 title: Vince Warren
 tags: board
 role: Board President
 image: /assets/Vince_warren.jpg
 twitter: "https://twitter.com/vincewarren"
+excerpt: ""
+email: ""
+"background-image": ""
+permalink: ""
 ---
+
 
 **Vince Warren** is the Executive Director of the Center for Constitutional Rights (CCR), a national legal and educational organization dedicated to advancing and defending the rights guaranteed by the United States Constitution and the Universal Declaration of Human Rights.
 
