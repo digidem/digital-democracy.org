@@ -2,7 +2,7 @@
 layout: job
 title: Community Engagement Fellow
 published: true
-excerpt: "Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Intern, and lead recruitment for the Mesh Network, Dd’s individual giving initiative."
+excerpt: Digital Democracy (Dd)  is looking for a highly talented and passionate individual to join our team as Community Engagement Fellow in spring 2016.
 ---
 
 
