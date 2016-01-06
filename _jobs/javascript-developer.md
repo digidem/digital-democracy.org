@@ -1,9 +1,10 @@
 ---
 layout: job
-title: "Javascript/mobile/node.js Developer"
-published: true
+title: Javascript/mobile/node.js Developer
+published: false
 excerpt: "We’re looking for a javascript developer full or part-time with experience building mobile apps with Cordova/PhoneGap and experience with frameworks like Backbone, Angular and Ember."
 ---
+
 Digital Democracy is looking for a coder to join our small, agile team to build cutting-edge open source tools that marginalized communities around the world will use to document, map, monitor, manage and report information on environmental and human rights abuses.
 
 We’ve seen firsthand that change does not come from technology, but from how people use it. We are building tools our partners will use to achieve transformative change and works toward a world where all people can participate in decisions that govern their lives. Equipped with the tools they need, our partners are becoming better storytellers, advocates and leaders.
