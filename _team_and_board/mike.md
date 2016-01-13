@@ -10,7 +10,6 @@ twitter: "@michalmigurski"
 excerpt: ""
 email: ""
 "background-image": ""
-permalink: ""
 ---
 
 

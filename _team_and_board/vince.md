@@ -10,7 +10,6 @@ twitter: "https://twitter.com/vincewarren"
 excerpt: ""
 email: ""
 "background-image": ""
-permalink: ""
 ---
 
 

@@ -9,8 +9,6 @@ image: /assets/Satterthwaite headshot.jpg
 twitter: "https://twitter.com/SatterthwaiteML"
 excerpt: ""
 email: ""
-"background-image": ""
-permalink: ""
 ---
 
 
