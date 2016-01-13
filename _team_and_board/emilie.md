@@ -1,11 +1,11 @@
 ---
-categories: 
+categories:
   - team
 layout: team
 title: Emilie Reiser
 role: Haiti Program Director
 twitter: "https://twitter.com/emreiser"
-published: false
+current: false
 image: /assets/5158335722_94e7413948_o.jpg
 ---
 

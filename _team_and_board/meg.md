@@ -1,7 +1,7 @@
 ---
 layout: team
 categories: team
-published: true
+current: true
 title: Meg Satterthwaite
 tags: board
 role: Board Secretary

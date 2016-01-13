@@ -1,7 +1,7 @@
 ---
 layout: team
 categories: team
-published: false
+current: false
 title: Vince Warren
 tags: board
 role: Board President

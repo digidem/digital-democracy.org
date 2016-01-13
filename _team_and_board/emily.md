@@ -1,13 +1,13 @@
 ---
-categories: 
+categories:
   - team
 layout: team
 title: Emily Jacobi
 role: "Executive Director & Founder"
 twitter: "https://twitter.com/emjacobi"
-tags: 
+tags:
   - core
-published: true
+current: true
 image: "/assets/emily-headshot-2.jpg"
 ---
 

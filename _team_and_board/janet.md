@@ -1,7 +1,7 @@
 ---
 layout: team
 categories: team
-published: false
+current: false
 title: Janet Harris
 tags: board
 role: Board Member
