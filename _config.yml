@@ -194,11 +194,6 @@ prose:
           label: "Select tag(s) to list related blog posts"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          placeholder: "/link/to/this/page"
     _team_and_board:
       - name: "title"
         field:
@@ -238,16 +233,6 @@ prose:
           help: "Start with / e.g. /assets/my-image.jpg"
           value: ""
           placeholder: "Enter a URL"
-      - name: "background-image"
-        field:
-          element: "text"
-          label: "Background image (shown on individual details page)"
-          placeholder: "Enter a URL"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          placeholder: "/link/to/this/page"
       - name: "tags"
         field:
           element: "select"
