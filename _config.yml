@@ -199,7 +199,6 @@ prose:
           element: "text"
           label: "Permalink"
           placeholder: "/link/to/this/page"
-          value: ""
     _team_and_board:
       - name: "title"
         field:
@@ -216,18 +215,15 @@ prose:
         field:
           element: "text"
           label: "Two-line excerpt from Bio"
-          value: ""
       - name: "email"
         field:
           element: "text"
           label: "Email Address"
-          value: ""
           placeholder: "Enter email"
       - name: "twitter"
         field:
           element: "text"
           label: "Twitter Profile"
-          value: ""
           placeholder: "Enter URL"
       - name: "image"
         field:
@@ -240,14 +236,12 @@ prose:
         field:
           element: "text"
           label: "Background image (shown on individual details page)"
-          value: ""
           placeholder: "Enter a URL"
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
           placeholder: "/link/to/this/page"
-          value: ""
       - name: "tags"
         field:
           element: "select"
@@ -275,7 +269,6 @@ prose:
           element: "text"
           label: "Excerpt"
           help: "Two-line excerpt job description"
-          value: ""
       - name: "layout"
         field:
           element: "hidden"
@@ -291,7 +284,6 @@ prose:
           element: "text"
           label: "Excerpt"
           help: "Two-line excerpt intership description"
-          value: ""
       - name: "layout"
         field:
           element: "hidden"
