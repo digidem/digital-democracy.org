@@ -9,7 +9,6 @@ image: /assets/ruth_headshot.jpg
 "background-image": ""
 permalink: ""
 tags: core
-published: false
 title: Ruth Miller
 ---
 
