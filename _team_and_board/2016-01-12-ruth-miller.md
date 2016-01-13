@@ -7,7 +7,6 @@ email: "rmiller@digital-democracy.org"
 twitter: "@mcplanner"
 image: /assets/ruth_headshot.jpg
 "background-image": ""
-permalink: ""
 tags: core
 title: Ruth Miller
 ---
