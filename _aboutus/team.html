@@ -8,7 +8,7 @@ image: /assets/emily-gregor-boat.jpg
 <div class="column">
   <h2>Core Team</h2>
   <ul class="large-block-grid-2">
-    {% for post in site.team_and_board reversed %}
+    {% for post in site.team_and_board %}
     {% if post.tags contains "core" %}
     <li>
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
@@ -25,7 +25,7 @@ image: /assets/emily-gregor-boat.jpg
 <div class="column">
   <h2>Board</h2>
   <ul class="large-block-grid-2">
-    {% for post in site.team_and_board reversed %}
+    {% for post in site.team_and_board %}
     {% if post.tags contains "board" %}
     <li>
       <a href="{{ post.url }}"><img src="{{ post.image }}" class="left"></a>
