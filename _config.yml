@@ -213,10 +213,10 @@ prose:
           placeholder: "Job Title"
       - name: "current"
         field:
-          element: "text"
-          label: "Set to false to hide staff/board member"
+          element: "checkbox"
+          help: "Set to false to hide staff/board member"
           value: true
-          placeholder: "Current staff/board?"
+          label: "Current staff/board?"
       - name: "excerpt"
         field:
           element: "text"
