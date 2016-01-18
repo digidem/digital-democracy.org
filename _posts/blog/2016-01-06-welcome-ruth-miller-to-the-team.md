@@ -5,7 +5,7 @@ excerpt: ""
 image: "/assets/staff-RuthMiller.jpg"
 tags: 
   - "null"
-published: false
+published: true
 title: Welcome Ruth Miller to the Team
 ---
 
