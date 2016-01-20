@@ -1,13 +1,14 @@
 ---
 categories: blog
 author: Emily Jacobi
-excerpt: ""
+excerpt: "Digital Democracy is thrilled to be starting the new year with a new staff member, Ruth Miller. Ruth is joining our team as Product Manager, and will be overseeing development of Dd’s tools and products as well as helping coordinate events, hackathons and other convenings. "
 image: "/assets/staff-RuthMiller.jpg"
 tags: 
-  - "null"
+  - featured
 published: true
 title: Welcome Ruth Miller to the Team
 ---
+
 
 
 Digital Democracy is thrilled to be starting the new year with a new staff member, Ruth Miller. Ruth is joining our team as Product Manager, and will be overseeing development of Dd’s tools and products as well as helping coordinate events, hackathons and other convenings. 
