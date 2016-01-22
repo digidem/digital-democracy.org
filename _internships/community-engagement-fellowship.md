@@ -31,6 +31,7 @@ The ideal candidate will have experience in communications and fundraising, and 
 ### Preferred Qualifications
 
 The ideal candidate will have some or most of the following.
+
 - **Social media expertise**. Use of Twitter/Facebook/Instagram for organizations/brands.
 - **Design skills**. Basic graphics, photo editing, website design, etc.
 - **Event planning**. Experience planning events and/or enthusiasm to do so.
