@@ -2,7 +2,7 @@ name: Digital Democracy
 description: Educating 21st Century Citizens
 url: http://www.digital-democracy.org/
 timezone: America/NewYork
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
 permalink: /:categories/:title/
