@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Community Engagement Fellow
-published: true
+published: false
 excerpt: Digital Democracy is looking for a highly talented and passionate individual to join our team as Community Engagement Fellow in spring 2016.
 ---
 
