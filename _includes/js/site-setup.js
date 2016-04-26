@@ -35,8 +35,6 @@
     $('img', this).loadResponsiveImages().fixAspectRatio()
     $('.caption', this).on('mouseenter', function() {
       slideshow.slickPause();
-    }).on('mouseleave', function() {
-      slideshow.slickPlay();
     });
   }).slick({
     autoplay: false,
