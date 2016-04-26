@@ -1,3 +1,4 @@
 _site/
 wp-content/
 .sass-cache
+.jekyll-metadata
