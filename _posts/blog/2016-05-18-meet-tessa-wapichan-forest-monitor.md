@@ -2,7 +2,7 @@
 categories: blog
 layout: video
 published: false
-title: [VIDEO] Meet Tessa, Wapichan Forest Monitor
+title: "[VIDEO] Meet Tessa, Wapichan Forest Monitor"
 author: Ruth Miller
 tags:
   - Amazon
