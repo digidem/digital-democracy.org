@@ -1,0 +1,35 @@
+---
+categories: blog
+author: Ruth Miller
+excerpt: "Five months, 15000 miles, 57 Git commits, four drones, and many, many batteries. As my time at Digital Democracy winds down, here's a look back on what it's like to work with technology for the defense of human rights."
+image: "/assets/ruth-thanks.jpg"
+tags: 
+  - featured
+published: false
+title: Learnings from Spring 2016
+---
+
+Five months, 15000 miles, 57 Git commits, four drones, and . As my time at Digital Democracy winds down, here's a look back on what it's like to work with technology for the defense of human rights.
+
+## What I loved
+
+Honestly, the best part of working with Digital Democracy is other peoples' reactions when you describe their work. "I just got back from Peru, where I brought a drone and a bunch of smart phones to help indigenous people fight illegal logging." Maybe I spent too long before pushing papers in a windowless basement, but can we acknowledge how thoughtful, unique, and important this work is?
+
+Digital Democracy takes tools, including off-the-shelf drones (which are really just toys for their target audience), and puts them in the hands of incredible people. These people are doing difficult and time-sensitive work, defending their rights and their land, and we get to be a part of it. Whether you love animals, admire indigenous people, or hate the extractive industries, Digital Democracy has a story for you.
+
+Whatever the reason, it's easy for me to get excited to talk about Digital Democracy's work, and it's easy for other people to perk up and ask (often very good) questions. Digital Democracy has found a good niche, and is doing work that deserves to be shared and celebrated.
+
+## What I learned
+
+When you make something more accessible for someone that needs it, you make that thing easier for everyone.
+
+I've repeated this line a hundred times in the context of transportation. Level transit platform boarding, curb cuts, wide sidewalks - these are all designed to serve people in wheelchairs, but they make life easier for everyone. The more I work with people that have prohibitive constraints in other contexts, the more I realize that the extendability of accessibility is universal.
+
+The Wapichan don't have reliable internet or cellular access everywhere they go, so they need their monitoring tools to sync offline. Turns out, lots of things work better offline. You don't have to go to Guyana to get a bad internet connection, like the next time you want to work on a flight. Or any of the [17% of all US residents](https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2015-broadband-progress-report) that lack broadband access. But also think about people working under surveillance, where avoiding the open internet and cell networks is a necessary safety precaution. The constraints that Digital Democracy applies to its technology are far from unusual, and because they're committed to building and improving open source tools, their work will support marginalized communities around the world.
+
+
+## What I look forward to
+
+I look forward to seeing Digital Democracy continue to ramp up its own technical product development. Their team and partners are on the cutting edge of remote data collection, and having seen their early prototypes, I'm confident that when they unveil their replicable and reliable toolkit, it will push others to consider these constraints as more opportunities than obstacles.
+
+Help make this future happen. Sign up for Digital Democracy's newsletter, apply for their October hackathon in Guyana, or make a contribution today. Host a code sprint in your community, or find out what other projects are looking for volunteers.
