@@ -1,10 +1,8 @@
 name: Digital Democracy
-description: Educating 21st Century Citizens
+description: Empowering marginalized communities to use technology to defend their rights
 url: http://www.digital-democracy.org/
-timezone: America/NewYork
+timezone: America/Los_Angeles
 markdown: kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
 incremental: true
 permalink: /:categories/:title/
 gems: [jekyll-paginate]
