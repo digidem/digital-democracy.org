@@ -5,7 +5,7 @@ timezone: America/Los_Angeles
 markdown: kramdown
 incremental: true
 permalink: /:categories/:title/
-gems: [jekyll-paginate]
+gems: ['jekyll-paginate']
 exclude:
   - wp-content
   - sass
