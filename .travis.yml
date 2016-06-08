@@ -1,0 +1,20 @@
+language: ruby
+rvm:
+- 2.1
+install: gem install github-pages
+script: jekyll build
+branches:
+  except:
+  - master
+deploy:
+  provider: s3
+  access_key_id: "AKIAI652ZFESGXQXP72Q"
+  secret_access_key:
+    secure: fAlKUDn2ZOHUPrOyNnXN5PgKUmh8heYPM5Ns7ph4ilUGxsseiTUegCnzAzu7Kcg4PTuS0FGWt18Bps6laSscgksuaQZ3DPvNnOqaEDiZa2eiPhy+iPU3p9RcjO06zpnvU00VoxYKNlUvFcwVyuN6htMBV2fQWvO/nVmMM3CA7as=
+  bucket: digidem-staging
+  skip_cleanup: true
+  upload-dir: digidem/lab/${TRAVIS_BRANCH}
+  local_dir: _site
+  detect_encoding: true
+  on:
+    all_branches: true
