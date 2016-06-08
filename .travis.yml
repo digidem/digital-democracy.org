@@ -13,7 +13,7 @@ deploy:
     secure: fAlKUDn2ZOHUPrOyNnXN5PgKUmh8heYPM5Ns7ph4ilUGxsseiTUegCnzAzu7Kcg4PTuS0FGWt18Bps6laSscgksuaQZ3DPvNnOqaEDiZa2eiPhy+iPU3p9RcjO06zpnvU00VoxYKNlUvFcwVyuN6htMBV2fQWvO/nVmMM3CA7as=
   bucket: digidem-staging
   skip_cleanup: true
-  upload-dir: digidem/lab/${TRAVIS_BRANCH}
+  upload-dir: digidem/digidem-website/${TRAVIS_BRANCH}
   local_dir: _site
   detect_encoding: true
   on:
