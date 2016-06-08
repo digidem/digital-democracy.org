@@ -5,6 +5,7 @@ timezone: America/NewYork
 markdown: kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
+incremental: true
 permalink: /:categories/:title/
 exclude:
   - wp-content
