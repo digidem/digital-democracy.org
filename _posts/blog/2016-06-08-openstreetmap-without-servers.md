@@ -1,7 +1,7 @@
 ---
 categories: blog
 author: Gregor MacLennan
-excerpt: ""
+excerpt: "We're working with indigenous communities in the Amazon to create territory maps which they use to defend their ancestral rainforest home from oil, mining and logging. We've built mapping tools based on OpenStreetMap that work offline and without any server."
 image: "/assets/mapeo-ceibo-secoya-trip-1.jpg"
 tags:
   - featured
