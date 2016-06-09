@@ -7,7 +7,8 @@ tags:
   - featured
   - front-page
 published: true
-title: OpenStreetMap Without Servers
+permalink: "/blog/openstreetmap-without-servers/"
+title: "OpenStreetMap Without Servers [Part 1]"
 ---
 At Digital Democracy we are working with indigenous communities in the Amazon to create maps of their own neighbourhoods, their territory: farms, fishing sites and hunting trails essential to feeding the family; old village sites where grandparents lie buried; sacred spaces for reflection and healing. Armed with maps they themselves create, our partners are fighting to protect their ancestral rainforest home and hold oil, mining and logging companies accountable for contamination and deforestation of their territory.
 
@@ -34,17 +35,18 @@ However, we hope that osm-p2p will be useful beyond our work with indigenous ter
 
 If you are a developer, read more details about [how to get started with osm-p2p][2] and if you can, hop-in and help us improve the tool and increase compatibility with the OSM ecosystem. If you are keen to start using osm-p2p for your own mapping projects, stay tuned for tutorials about how to start mapping with your own, private OpenStreetMap.
 
-[Read more][2] about osm-p2p.
+[Read more][2] about osm-p2p in this [blog post][2] by our lead programmer, [James Halliday][8].
 
-> osm-p2p development was supported by [a grant][6] from the [Knight Prototype Fund][6]
+> osm-p2p development was supported by [a grant][6] from the [Knight Prototype Fund][7]
 
 
 [^1]: Redundancy is similar to having backups, but in a peer-to-peer system every peer has a complete replica of the data, so any one peer can loose their database and recover by connecting to another peer. Redundancy means that more than one person has a replica of the database.
 
 [1]: https://www.openstreetmap.org
-[2]: /blog/tech-blog/osm-p2p/
+[2]: /blog/osm-p2p/
 [3]: https://www.mapbox.com/blog/new-map-editor-launches-openstreetmap/
 [4]: https://github.com/digidem/mapeo-desktop
 [5]: https://hotosm.org
 [6]: http://www.digital-democracy.org/blog/open-maps-for-everyone/
 [7]: http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/
+[8]: /team/substack/
