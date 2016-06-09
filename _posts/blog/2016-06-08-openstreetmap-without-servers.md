@@ -44,7 +44,7 @@ If you are a developer, read more details about [how to get started with osm-p2p
 [1]: https://www.openstreetmap.org
 [2]: /blog/tech-blog/osm-p2p/
 [3]: https://www.mapbox.com/blog/new-map-editor-launches-openstreetmap/
-[4]: https://github.com/digidem/dd-map-editor
+[4]: https://github.com/digidem/mapeo-desktop
 [5]: https://hotosm.org
 [6]: http://www.digital-democracy.org/blog/open-maps-for-everyone/
 [7]: http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/
