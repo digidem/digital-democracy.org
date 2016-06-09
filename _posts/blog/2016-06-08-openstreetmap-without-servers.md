@@ -7,7 +7,7 @@ tags:
   - featured
   - front-page
 published: true
-title: OpenStreetMap without servers
+title: OpenStreetMap Without Servers
 ---
 At Digital Democracy we are working with indigenous communities in the Amazon to create maps of their own neighbourhoods, their territory: farms, fishing sites and hunting trails essential to feeding the family; old village sites where grandparents lie buried; sacred spaces for reflection and healing. Armed with maps they themselves create, our partners are fighting to protect their ancestral rainforest home and hold oil, mining and logging companies accountable for contamination and deforestation of their territory.
 
@@ -42,7 +42,7 @@ If you are a developer, read more details about [how to get started with osm-p2p
 [^1]: Redundancy is similar to having backups, but in a peer-to-peer system every peer has a complete replica of the data, so any one peer can loose their database and recover by connecting to another peer. Redundancy means that more than one person has a replica of the database.
 
 [1]: https://www.openstreetmap.org
-[2]: http://Link-to-osm-p2p-announcement-post
+[2]: /blog/tech-blog/osm-p2p/
 [3]: https://www.mapbox.com/blog/new-map-editor-launches-openstreetmap/
 [4]: https://github.com/digidem/dd-map-editor
 [5]: https://hotosm.org
