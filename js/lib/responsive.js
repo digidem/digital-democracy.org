@@ -58,7 +58,7 @@
 
             url = image.src.replace(/^https?:\/\/[^\/]*/, hostname);
             url = url.split('?').shift();
-            url = url.replace(/(?:-\d{1,4})?(?:@2x)?(\.[^\.]{1,4})$/, '-' + responsiveWidth + retina + '$1');
+            url = url.replace(/(?:-\d{3,4})?(?:@2x)?(\.[^\.]{1,4})$/, '-' + responsiveWidth + retina + '$1');
 
             responsiveImage.onload = function() {
                 this.onload = null;
