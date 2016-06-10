@@ -8,6 +8,16 @@ p a {
   }
 }
 
+code {
+  font-size: 0.833em;
+}
+
+pre code {
+  display: block;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
 @media #{$medium} {
   p a {
     @include underline($anchor-underline-color, 3px, 3px);

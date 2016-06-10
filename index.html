@@ -58,8 +58,15 @@ body_class: full-header
 <section class="news">
   <h3>Latest From <a href="/blog/">Our Blog</a></h3>
   <ul class="news-item">
-    {% for post in site.posts limit:8 %}
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+    {% unless post.categories contains "tech-blog" %}
     {% include excerpt.html link = true %}
+    {% assign count = count | plus: 1 %}
+    {% endunless %}
+    {% if count == 6 %}
+      {% break %}
+    {% endif %}
     {% endfor %}
   </ul>
 </section>
