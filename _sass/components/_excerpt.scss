@@ -24,21 +24,6 @@ $background-color: rgba(0, 0, 0, 0.3);
       color: white;
       text-shadow: #333 0 0 2px;
       transition: bottom 200ms ease-in-out;
-      &:before {
-        content: "";
-        background: linear-gradient(
-          to bottom,
-          rgba(0, 0, 0, 0) 0%,
-          rgba(0, 0, 0, 0.1) 70%,
-          rgba(0, 0, 0, 0.2) 100%
-        );
-        display: block;
-        position: absolute;
-        width: 100%;
-        height: calc(100% + 2em);
-        left: 0;
-        bottom: 0;
-      }
       &.background {
         background-color: $background-color;
       }
