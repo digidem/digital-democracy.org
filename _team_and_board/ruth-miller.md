@@ -1,6 +1,6 @@
 ---
 layout: team
-current: true
+current: false
 role: Strategic Advisor
 excerpt: ""
 email: "rmiller@digital-democracy.org"

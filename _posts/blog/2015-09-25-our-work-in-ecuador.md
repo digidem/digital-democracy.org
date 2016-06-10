@@ -5,7 +5,6 @@ published: true
 title: "[VIDEO] Our Work in Ecuador"
 author: Gregor MacLennan
 tags:
-  - featured
   - "front-page"
   - Remote Access
   - Amazon
