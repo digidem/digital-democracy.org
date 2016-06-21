@@ -3,6 +3,7 @@ rvm:
 - 2.1.7
 install: bundle install
 script: bundle exec jekyll build
+cache: bundler
 branches:
   except:
   - master
