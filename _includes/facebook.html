@@ -1,7 +1,0 @@
-  <meta property="og:title" content="{% if page.video %}[VIDEO] {% endif %}{{ page.title }}" />
-  <meta property="og:site_name" content="Digital Democracy" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
-  <meta property="og:image" content="{% if page.social_image %}{{ page.social_image }}{% else %}http://images.digital-democracy.org{{ page.image | replace: '.jpg', '-1200.jpg' }}{% endif %}" />
-  <meta property="og:image:secure_url" content="{% if page.social_image %}{{ page.social_image }}{% else %}https://images.digital-democracy.org{{ page.image | replace: '.jpg', '-1200.jpg' }}{% endif %}" />
-  <meta property="fb:app_id"  content="808970299184874" />

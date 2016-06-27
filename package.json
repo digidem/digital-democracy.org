@@ -1,0 +1,28 @@
+{
+  "name": "digidem-website",
+  "version": "2.0.0",
+  "description": "Digital Democracy public website",
+  "devDependencies": {
+    "yo-static": "gmaclennan/yo-static",
+    "yo-yo": "^1.2.1"
+  },
+  "scripts": {
+    "start": "yo-static serve",
+    "build": "yo-static build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidem/digital-democracy.org.git"
+  },
+  "author": "Digital Democracy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digidem/digital-democracy.org/issues"
+  },
+  "homepage": "https://github.com/digidem/digital-democracy.org#readme",
+  "dependencies": {
+    "bdp": "0.0.1",
+    "envify": "^3.4.1",
+    "unreachable-branch-transform": "^0.5.1"
+  }
+}
