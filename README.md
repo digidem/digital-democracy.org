@@ -14,8 +14,8 @@ npm install
 npm start
 ```
 
-Everything in `_pages` is a function that receives props and returns a `<body>` DOM node. Everything in `_content` is a markdown files and available to pages as `props.categories`.
+Everything in [`_pages`](_pages) is a function that receives props and returns a `<body>` DOM node. Everything in [`_content`](_content) is a markdown files and available to pages as `props.categories`.
 
-Content markdown defines a layout in yaml-front-matter. All layouts are in `_layouts`. `_layouts/default.js` is used if no layout is defined in the front-matter.
+Content markdown defines a layout in yaml-front-matter. All layouts are in [`_layouts`](_layouts). [`_layouts/default.js`](_layouts/default.js) is used if no layout is defined in the front-matter.
 
 `npm run build` will build the complete site as static files in `_site`. Once any of these files loads, it becomes a single-page app that dynamically loads content as needed.
