@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Digital Democracy public website",
   "devDependencies": {
-    "yo-static": "^1.0.1",
+    "yo-static": "^1.0.2",
     "yo-yo": "^1.2.1"
   },
   "scripts": {
