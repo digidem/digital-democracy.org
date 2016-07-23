@@ -5,9 +5,8 @@ title: Help the Achuar people defend their rainforest home
 author: Gregor MacLennan
 image: "/assets/achuar-map-clip.jpg"
 light_image: true
-tags: 
+tags:
   - featured
-  - "front-page"
 ---
 
 In remote Amazon headwaters in Peru and Ecuador, the Achuar people have lived for generations in tropical rainforest of astounding natural beauty and biodiversity. For the Achuar, the rainforest provides them with water, food, medicine, stories, their identity, and their future.
