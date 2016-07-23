@@ -11,7 +11,7 @@ tags:
   - Amazon
 image: /assets/seikopai-video-still.jpg
 video: https://player.vimeo.com/video/175900565
-social_image: https://images.digital-democracy.org/assets/drone-video-thumb.jpg
+excerpt: Mapeo is an easy-to-use offline mapping app built for our work with indigenous communities in the Amazon and around the world, who asked us for an easier way to create and edit their own maps.
 ---
 _Mapeo_ is an easy-to-use offline mapping app built on [iD Editor][1], the default editor for [OpenStreetMap][2]. We built _Mapeo_ for our work with indigenous communities in the Amazon and around the world, who asked us for an easier way to create and edit their own maps. The excellent work done by the [iD contributors][3] significantly lowers the barrier for a non-technical user to use a GPS and put their neighborhood on the map. <a class="play-link">Watch the short video</a> to see the Seikopai (Secoya) people of Ecuador using _Mapeo_ in a remote community, deep in the Amazon, to map their neighborhood: the network of deep blackwater lakes filled with caimans, river dolphins, and stories of the Seikopai peoples' origins and history.
 
