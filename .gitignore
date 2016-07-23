@@ -2,3 +2,5 @@ _site/
 wp-content/
 .sass-cache
 .jekyll-metadata
+cert.pem
+key.pem
