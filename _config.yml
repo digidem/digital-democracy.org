@@ -3,7 +3,7 @@ description: Empowering marginalized communities to use technology to defend the
 url: http://www.digital-democracy.org/
 timezone: America/Los_Angeles
 markdown: kramdown
-incremental: true
+incremental: false
 permalink: /:categories/:title/
 gems: ['jekyll-paginate']
 exclude:
