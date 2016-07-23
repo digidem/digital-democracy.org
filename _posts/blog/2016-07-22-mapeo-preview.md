@@ -13,7 +13,7 @@ image: /assets/seikopai-video-still.jpg
 video: https://player.vimeo.com/video/175900565
 social_image: https://images.digital-democracy.org/assets/drone-video-thumb.jpg
 ---
-_Mapeo_ is an easy-to-use offline mapping app built on [iD Editor][1], the default editor for [OpenStreetMap][2]. We built _Mapeo_ for our work with indigenous communities in the Amazon and around the world, who asked us for an easier way to create and edit their own maps. The excellent work done by the [iD contributors][3] significantly lowers the barrier for a non-technical user to use a GPS and put their neighborhood on the map. <a class="play-link">Watch the video</a> to see the Seikopai (Secoya) people of Ecuador using _Mapeo_ in a remote community, deep in the Amazon, to map their neighborhood: the network of deep blackwater lakes filled with caimans, river dolphins, and stories of the Seikopai peoples' origins and history.
+_Mapeo_ is an easy-to-use offline mapping app built on [iD Editor][1], the default editor for [OpenStreetMap][2]. We built _Mapeo_ for our work with indigenous communities in the Amazon and around the world, who asked us for an easier way to create and edit their own maps. The excellent work done by the [iD contributors][3] significantly lowers the barrier for a non-technical user to use a GPS and put their neighborhood on the map. <a class="play-link">Watch the short video</a> to see the Seikopai (Secoya) people of Ecuador using _Mapeo_ in a remote community, deep in the Amazon, to map their neighborhood: the network of deep blackwater lakes filled with caimans, river dolphins, and stories of the Seikopai peoples' origins and history.
 
 [1]: https://github.com/openstreetmap/iD
 [2]: https://www.openstreetmap.org
@@ -27,6 +27,6 @@ We consider _Mapeo_ alpha software right now: there are bugs and it is under act
 
 [5]: https://github.com/digidem/mapeo-desktop
 
-If you are in Seattle for [State of the Map US][6] this weekend July 23-24, search me out and watch out for a birds-of-a-feather session about Mapeo and other tools we are building to bring OpenStreetMap tools to remote communities in the Amazon.
+If you are in Seattle for [State of the Map US][6] this weekend July 23—24, search me out and watch out for a birds-of-a-feather session about Mapeo and other tools we are building to bring OpenStreetMap tools to remote communities in the Amazon.
 
 [6]: http://stateofthemap.us
