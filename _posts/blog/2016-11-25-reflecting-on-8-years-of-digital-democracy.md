@@ -9,7 +9,7 @@ tags:
   - Amazon
 image: /assets/wapichan-benab-roof.jpg
 ---
-This month marks the eight year anniversary of [Digital Democracy][1]. When we started in 2008, we had a vision — that new technology tools could be used to serve grassroots movements in innovative ways — and we felt urgently compelled to respond to requests for capacity building and support from the grassroots activists were were working with in Southeast Asia.
+This month marks the eight year anniversary of [Digital Democracy][1]. When we started in 2008, we had a vision — that new technology tools could be used to serve grassroots movements in innovative ways — and we felt urgently compelled to respond to requests for capacity building and support from the grassroots activists we were working with in Southeast Asia.
 
 2008 was also an election year, and it was the height of economic crisis in the US. When I think back on choosing to start Digital Democracy then, I feel a little grateful for the naiveté of my younger self. I had no idea just how hard it would be. The early years were lean. Our initial team — Liz, Gabe, Mark & me — were all volunteers. I remember surviving on $4 falafel sandwiches, dollar pizza slices, and most of all the generosity of others. Friends and family donated office space (bless you, Bill Hopkins!), offered couches and beds for us to sleep on, volunteered their time, and more. I remember many late nights working at the office in Manhattan, grateful that the subway still ran at 3am as I took the train home to Brooklyn.
 
