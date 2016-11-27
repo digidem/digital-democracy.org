@@ -13,4 +13,4 @@ To make social change, you have to fund social change. That's why Alia McKee has
 
 Alia is a noted thought leader and speaker. Her work has been featured in Forbes, NPR, The Chronicle of Philanthropy, Buzzfeed and CNN. She earned her masters in Public Affairs from the LBJ School at the University of Texas at Austin and her masters in Social Work at UT Austin as well.
 
-In 2013. she co-founded Lifeboat, a revolution of people redisovering deep friendships and released the first-ever State of Friendship in America Report.
+In 2013. she co-founded Lifeboat, a revolution of people rediscovering deep friendships and released the first-ever State of Friendship in America Report.
