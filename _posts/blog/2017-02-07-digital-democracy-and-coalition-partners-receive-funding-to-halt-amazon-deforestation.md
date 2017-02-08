@@ -12,7 +12,7 @@ image: assets/dreamfund-announcement-image.jpg
 ---
 Digital Democracy, in partnership with a coalition of international partners led by Hivos, Greenpeace and indigenous organizations, is launching a new program aimed at addressing deforestation. [The program, All Eyes on the Amazon, has been made possible thanks to a 14.8 million euro contribution from the Dutch National Postcode Lottery’s Dream Fund](https://hivos.org/news/hivos-and-greenpeace-receive-almost-15-million-euros-stop-amazon-deforestation). This multi-year initiative will combine modern technologies, such as satellites, drones and tablets, with the centuries old knowledge of Indigenous inhabitants of the Amazon. The contribution was announced at the Postcode Lottery’s 2017 Goed Geld Gala (“Good Money Gala”) charity awards held in Amsterdam on 6 February. 
 
-[Read and download the press release here.]((http://files.digital-democracy.org/02-08-16digidem-eyes-on-amazon-press-release.pdf) 
+[Read and download the press release here.](https://files.digital-democracy.org/02-08-16digidem-eyes-on-amazon-press-release.pdf) 
 
 **Combining efforts to defend Indigenous Rights**
 To halt deforestation in the Amazon, an exceptional coalition has been created between environmental and human rights organizations and the indigenous led COICA  -Coordinator of Indigenous Organizations of the Amazon River Basin. 
