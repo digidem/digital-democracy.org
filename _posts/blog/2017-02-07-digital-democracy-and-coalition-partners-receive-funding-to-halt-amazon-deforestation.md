@@ -1,6 +1,6 @@
 ---
 categories: blog
-published: false
+published: true
 title: >-
   Digital Democracy and Coalition Partners Receive Funding to Halt Amazon
   Deforestation
