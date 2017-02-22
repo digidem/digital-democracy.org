@@ -1,8 +1,9 @@
 ---
 layout: job
-title: "Partners & Supporters"
+title: Partners & Supporters
 image: /assets/haiti-hackathon-team.jpg
 featured: medium
+published: true
 ---
 Digital Democracy accomplishes our mission thanks to the generous support of individual and institutional donors and high-impact partnerships with a range of partners, from local grassroots organizations to groundbreaking international organizations who share our commitment to empowering marginalized communities in their efforts to defend their human and environmental rights.
 
@@ -17,6 +18,8 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 [Hivos Foundation](https://south-america.hivos.org/)
 
 [Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
+
+[Leonardo DiCaprio Foundation](http://leonardodicaprio.org/)
 
 ##International Partners
 
