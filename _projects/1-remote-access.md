@@ -12,5 +12,12 @@ Oil contamination, illegal land grabs, forced labor. Remote communities in envir
 
 By adapting open-source tools to work in offline and extreme conditions, Dd is building a toolkit of mapping and monitoring tools to enable communities to document environmental degradation and government threats, map their use of the land, and engage with a global audience using mobile technology.
 
-**Impact:** Through our support, Digital Democracy's local partners are mapping and monitoring millions of acres of land in the Amazon, holding oil companies and governments accountable, working to prevent new oil concessions, and working to secure their land rights so that their environment can be protected for future generations. 
+**Impact:** Through our support, Digital Democracy's local partners are mapping and monitoring millions of acres of land in the Amazon, holding oil companies and governments accountable, working to prevent new oil concessions, and working to secure their land rights so that their environment can be protected for future generations.
 
+**Learn More:**
+	
+  * [Al Jazeera: Amazon tribes use latest gadgets to battle Ecuador's oil giants](http://video.aljazeera.com/channels/eng/videos/amazon-tribes-use-latest-gadgets-to-battle-ecuadors-oil-giants/4903619810001)
+  
+  * [Forbes: Tech For Democracy: Remote Villages Fight Environmental Injustice With THIS Technology](http://www.forbes.com/sites/ashoka/2013/12/20/remote-but-not-invisible-rural-use-of-technology-for-government-accountability/#270992167231)
+  
+   * [Time: Drones Can Be Used To Enforce Property Rights](http://time.com/3980607/drone-past-present-future/)
