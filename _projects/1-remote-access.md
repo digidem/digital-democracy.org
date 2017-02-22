@@ -1,17 +1,16 @@
 ---
 title: 'Remote Access: Tools for Hard-to-Reach Communities'
-short_title: 'Remote Access Tools'
+short_title: Remote Access Tools
 image: /assets/achuar-gps-monitoring.jpg
 featured: large
 permalink: /ourwork/ra/
+published: true
 ---
-Oil contamination, illegal land grabs, forced labor. Remote communities in environmentally sensitive locations face these and other pressing threats to their land rights, natural resources and way of life. Often “off the grid,” these communities are unable to ensure equal footing in negotiations about their lives and land. Dd is partnering with groups in Chiapas, Mexico and the Amazon basin to build a mobile reporting platform for remote and indigenous communities.
+Oil contamination, illegal land grabs, forced labor. Remote communities in environmentally sensitive locations face these and other pressing threats to their land rights, natural resources and way of life. Often “off the grid,” these communities are unable to ensure equal footing in negotiations about their lives and land. Dd is partnering with indigenous communities in the Amazon basin to support their efforts to map & monitor their territories.
 
 ![collecting a water sample](/assets/pastaza-water-sample.jpg)
 
-By adapting open-source tools, Dd and its partners will create a reporter’s “Swiss Army Knife” that allows communities to document environmental degradation and government threats, map their use of the land, and engage with a global audience using mobile technology.
+By adapting open-source tools to work in offline and extreme conditions, Dd is building a toolkit of mapping and monitoring tools to enable communities to document environmental degradation and government threats, map their use of the land, and engage with a global audience using mobile technology.
 
-**Projected Impact:** Remote Access will not only enable our partners to share their stories, but also catalyze international stakeholders against exploitation. 
+**Impact:** Through our support, Digital Democracy's local partners are mapping and monitoring millions of acres of land in the Amazon, holding oil companies and governments accountable, working to prevent new oil concessions, and working to secure their land rights so that their environment can be protected for future generations. 
 
-
-**Projected Impact:** Remote Access will not only enable our partners to share their stories, but also catalyze international stakeholders against exploitation.
