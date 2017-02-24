@@ -7,7 +7,7 @@ published: true
 ---
 Digital Democracy accomplishes our mission thanks to the generous support of individual and institutional donors and high-impact partnerships with a range of partners, from local grassroots organizations to groundbreaking international organizations who share our commitment to empowering marginalized communities in their efforts to defend their human and environmental rights.
 
-##Funding Partners
+## Funding Partners
 
 [Abundance Foundation](http://www.abundance.org/empowerment/dd/)
 
@@ -21,7 +21,7 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 [Leonardo DiCaprio Foundation](http://leonardodicaprio.org/)
 
-##International Partners
+## International Partners
 
 [ClearWater](http://www.giveclearwater.org/)
 
