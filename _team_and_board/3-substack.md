@@ -8,6 +8,7 @@ twitter: "https://twitter.com/substack"
 tags:
   - core
 current: true
+permalink: /team/substack
 image: "/assets/substack.png"
 ---
 
