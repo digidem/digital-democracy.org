@@ -10,7 +10,7 @@ Oil contamination, illegal land grabs, forced labor. Remote communities in envir
 
 ![collecting a water sample](/assets/pastaza-water-sample.jpg)
 
-By adapting open-source tools to work in offline and extreme conditions, Dd is building a toolkit of mapping and monitoring tools to enable communities to document environmental degradation and government threats, map their use of the land, and engage with a global audience using mobile technology.
+By adapting open-source tools to work offline and in extreme environments, Dd is building tools that allow communities to document environmental degradation and government threats, map their use of the land, and engage with a global audience using mobile technology.
 
 **Impact:** Through our support, Digital Democracy's local partners are mapping and monitoring millions of acres of land in the Amazon, holding oil companies and governments accountable, working to prevent new oil concessions, and working to secure their land rights so that their environment can be protected for future generations.
 
