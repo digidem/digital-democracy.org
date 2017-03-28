@@ -1,5 +1,6 @@
 var yo = require('yo-yo')
+var layout = require('../../_layouts/default')
 
-module.exports = function () {
-  return yo`<div>Team page</div>`
+module.exports = function (props) {
+  return layout(props, yo`<div>Team page</div>`)
 }

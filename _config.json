@@ -2,5 +2,6 @@
   "title": "Digital Democracy",
   "short_title": "Dd",
   "url": "https://www.digital-democracy.org/",
-  "head_component": "_components/head"
+  "head_component": "_components/head",
+  "fb_admins": "626467703"
 }
