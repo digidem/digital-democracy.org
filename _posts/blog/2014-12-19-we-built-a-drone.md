@@ -5,8 +5,6 @@ published: true
 title: We Built A Drone
 author: Gregor MacLennan
 tags:
-  - featured
-  - "front-page"
   - Remote Access
   - Amazon
 image: /assets/guyana-ron-drone.jpg

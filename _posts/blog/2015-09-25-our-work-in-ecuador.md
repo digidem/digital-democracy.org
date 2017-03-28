@@ -5,7 +5,6 @@ published: true
 title: "[VIDEO] Our Work in Ecuador"
 author: Gregor MacLennan
 tags:
-  - "front-page"
   - Remote Access
   - Amazon
 image: "/assets/ecuador-gas-flare.jpg"

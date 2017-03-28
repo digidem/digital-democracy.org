@@ -4,7 +4,6 @@ published: true
 title: Help us Hack the Rainforest
 author: Emily Jacobi
 tags:
-  - featured
   - Remote Access
   - Amazon
 image: /assets/rafael-achuar-monitor.jpg

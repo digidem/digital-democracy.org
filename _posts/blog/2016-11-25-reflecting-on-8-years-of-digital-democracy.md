@@ -4,8 +4,6 @@ published: true
 title: "Reflecting on 8 Years of Digital Democracy"
 author: Emily Jacobi
 tags:
-  - featured
-  - "front-page"
   - Amazon
 image: /assets/wapichan-benab-roof.jpg
 ---

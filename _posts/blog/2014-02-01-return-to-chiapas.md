@@ -3,12 +3,10 @@ categories: blog
 published: true
 title: Return to Chiapas
 image: "/assets/chiapas-women-flipcam.jpg"
-tags: 
-  - featured
 author: Emily Jacobi
 ---
 
-This month, Dd is returning to Chiapas, Mexico to continue an initiative we began in 2012 called [Equal Footing](http://www.digital-democracy.org/ourwork/chiapas/). Working with Mayan villages in the Lacondon Jungle, we are supporting their efforts to communicate with the Mexican authorities who have threatened them with eviction from the rainforest where they live. 
+This month, Dd is returning to Chiapas, Mexico to continue an initiative we began in 2012 called [Equal Footing](http://www.digital-democracy.org/ourwork/chiapas/). Working with Mayan villages in the Lacondon Jungle, we are supporting their efforts to communicate with the Mexican authorities who have threatened them with eviction from the rainforest where they live.
 
 On our first visit, in 2012, we focused on supporting the community with emergency training on how to use a satellite phone to communicate with their lawyer, and photography and video trainings with women in the community to support their efforts to tell their story as well as document interactions with the government. Almost two years later, the community has come a far way. They were awarded a grant which enables them to pay for the satellite phone themselves, allowing them to stay in touch with legal support, and they are still powering it thanks to the solar panel charger we brought down with us. The women continue to use the photo and video cameras, and community members have been able to video document interactions with government officials as well as regional political meetings with other campesino communities.
 
