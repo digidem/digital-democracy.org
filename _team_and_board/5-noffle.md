@@ -17,7 +17,7 @@ open tools that raise the bar of the commons, especially for marginalized
 communities.
 
 Stephen creates and maintains open technology that enables self-determination;
-honours people, not profit; is sustainable for the communities that adopt it;
+honors people, not profit; is sustainable for the communities that adopt it;
 and is maximally accessible regardless of resources or technical background.
 
 Contact: [sww@eight45.net](mailto:sww@eight45.net)
