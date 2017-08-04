@@ -59,7 +59,7 @@ Our small but growing team is mainly based in the Bay Area, California, but we w
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org) **by August 4th**. We hope to hire by mid-August and will review applications as we receive them.
+Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org) **by August 6th**. We hope to hire by mid-August and will review applications as we receive them.
 
 * Why you’re interested in designing tools at Digital Democracy.
 
