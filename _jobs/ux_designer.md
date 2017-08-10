@@ -1,7 +1,7 @@
 ---
 layout: job
 title: UX Designer
-published: true
+published: false
 excerpt: "We’re looking for a part-time UX Designer to join our small, agile team for an initial 3-month contract starting mid-August, with a view to joining our team long-term."
 ---
 
