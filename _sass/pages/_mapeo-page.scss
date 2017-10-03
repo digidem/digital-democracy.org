@@ -1,0 +1,120 @@
+@import "mixins/extend-fixed-ratio";
+@import "mixins/mixin-underline";
+
+$dark-blue: rgba(29, 49, 82, 0.9);
+
+#mapeo-page {
+  @media #{$small-only} {
+    .header {
+      video {
+        display: none;
+      }
+      background-image: url(/assets/map-drawing.png);
+      background-size: auto 100%;
+      .news span {
+        font-size: .3rem;
+        padding: 10px 5px;
+      }
+    }
+  }
+  @media #{$medium-up} {
+    .header {
+      margin-top:-30px;
+      .news span {
+        font-size: .8rem;
+        padding: 15px 40px;
+      }
+    }
+    .scroller {
+      justify-content: center;
+      display: flex;
+      padding: 50px;
+      .text {
+        width: 50%;
+        display: flex;
+        max-width: 400px;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+  }
+  h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 5rem;
+    margin-bottom: 0px;
+  }
+  h4 {
+    color: $dark-blue;
+    font-weight: bold;
+  }
+  .subtitle {
+    color: white;
+  }
+
+  .header {
+    z-index: 1;
+    display: flex;
+    display: -webkit-flex;
+    height: 390px;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    justify-content: center;
+    -webkit-justify-content: center;
+    // background: rgba(0, 0, 0, .5) !important;
+    text-align: center;
+    video {
+      z-index: -9999;
+      position: absolute;
+      width: 100%;
+    }
+    .news {
+      color: $dark-blue;
+      margin-top: 50px;
+      margin: 0px auto;
+      span {
+        background-color: white;
+      }
+    }
+    .download-buttons {
+      padding-top: 10px;
+      margin-bottom: 70px;
+      a {
+        width: 100px;
+        padding: 15px 25px;
+        margin: 10px;
+        color: white;
+        background-color: #575757;
+        background-color: #111;
+        border: 1px solid #aaa;
+      }
+    }
+  }
+  section {
+    padding: 30px 0px;
+  }
+
+  .scroller {
+    padding: 70px 0px;
+    margin: auto;
+    &.white {
+      background-color: white;
+    }
+    &.blue {
+      background-color: rgb(203, 219, 243);
+    }
+    .text {
+      padding: 10px 30px;
+    }
+    .image {
+      padding: 10px;
+      text-align: center;
+    }
+    img {
+      height: 250px;
+    }
+    p {
+      font-size: .8rem;
+    }
+  }
+}
