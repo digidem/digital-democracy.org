@@ -3,7 +3,12 @@
 
 $dark-blue: rgba(29, 49, 82, 0.9);
 
+.bg-blue {
+  background-color: rgb(203, 219, 243);
+}
+
 #mapeo-page {
+  z-index: 0;
   @media #{$small-only} {
     .header {
       video {
@@ -43,6 +48,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     font-weight: bold;
     font-size: 5rem;
     margin-bottom: 0px;
+    z-index: 2;
   }
   h4 {
     color: $dark-blue;
@@ -53,7 +59,9 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
 
   .header {
-    z-index: 1;
+    * {
+      z-index: 1;
+    }
     display: flex;
     display: -webkit-flex;
     height: 390px;
@@ -64,7 +72,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     // background: rgba(0, 0, 0, .5) !important;
     text-align: center;
     video {
-      z-index: -9999;
+      z-index: 0;
       position: absolute;
       width: 100%;
     }
@@ -95,13 +103,22 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
 
   .scroller {
+    z-index: 10;
+    position: relative;
     padding: 70px 0px;
     margin: auto;
-    &.white {
+    hr {
+      width: 60%;
+      margin: 1rem auto;
+      border-color: rgba(134, 171, 218, 0.42);
+    }
+    &.bg-white {
       background-color: white;
     }
-    &.blue {
-      background-color: rgb(203, 219, 243);
+    &.bg-blue {
+      #mc_embed_signup {
+        background-color: rgb(203, 219, 243) !important;
+      }
     }
     .text {
       padding: 10px 30px;
@@ -111,10 +128,17 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       text-align: center;
     }
     img {
-      height: 250px;
+      max-height: 250px;
     }
-    p {
-      font-size: .8rem;
+  }
+
+  .footer-github-link {
+    background-color: rgb(203, 219, 243);
+    text-align: center;
+    a {
+      font-weight: bold;
+      color: rgba(29, 49, 82, 0.9) !important;
     }
+    img { width: 22px; }
   }
 }
