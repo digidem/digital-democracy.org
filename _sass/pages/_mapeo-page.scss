@@ -7,6 +7,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   background-color: rgb(203, 219, 243);
 }
 
+.bg-white {
+  background-color: white;
+}
+
 #mapeo-page {
   z-index: 0;
   @media #{$small-only} {
@@ -18,13 +22,16 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       background-size: auto 100%;
       .news span {
         font-size: .3rem;
-        padding: 10px 5px;
+        padding: 10px 5px 0px 5px;
       }
     }
   }
   @media #{$medium-up} {
     .header {
       margin-top:-30px;
+      .news {
+        padding: 0px 90px;
+      }
       .news span {
         font-size: .8rem;
         padding: 15px 40px;
@@ -62,6 +69,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     * {
       z-index: 1;
     }
+    position: relative;
     display: flex;
     display: -webkit-flex;
     height: 390px;
@@ -69,7 +77,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     -webkit-flex-direction: column;
     justify-content: center;
     -webkit-justify-content: center;
-    // background: rgba(0, 0, 0, .5) !important;
     text-align: center;
     video {
       z-index: 0;
@@ -77,13 +84,20 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       width: 100%;
     }
     .news {
+      width: 100%;
+      position: absolute;
+      display: flex;
+      justify-content: space-between;
+      bottom: 0;
+      vertical-align: middle;
       color: $dark-blue;
       margin-top: 50px;
       margin: 0px auto;
       span {
-        background-color: white;
+        border-radius: 5px 5px 0px 0px;
       }
     }
+
     .download-buttons {
       padding-top: 10px;
       margin-bottom: 70px;
@@ -112,9 +126,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       margin: 1rem auto;
       border-color: rgba(134, 171, 218, 0.42);
     }
-    &.bg-white {
-      background-color: white;
-    }
     &.bg-blue {
       #mc_embed_signup {
         background-color: rgb(203, 219, 243) !important;
@@ -132,12 +143,15 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     }
   }
 
+  .news .footer-github-link a {
+    color: white;
+  }
+
   .footer-github-link {
-    background-color: rgb(203, 219, 243);
     text-align: center;
     a {
       font-weight: bold;
-      color: rgba(29, 49, 82, 0.9) !important;
+      color: rgba(29, 49, 82, 0.9);
     }
     img { width: 22px; }
   }
