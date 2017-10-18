@@ -2,7 +2,7 @@
 layout: article
 title: "Our Values"
 permalink: /values/
-image: /assets/gregor-laptop-guyana.jpg
+image: /assets/ecuador-flooded-forest.jpg
 featured: small
 ---
 
