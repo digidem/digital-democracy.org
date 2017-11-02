@@ -215,10 +215,6 @@ prose:
           help: "Set to false to hide staff/board member"
           value: true
           label: "Current staff/board?"
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "Two-line excerpt from Bio"
       - name: "email"
         field:
           element: "text"
@@ -228,18 +224,18 @@ prose:
         field:
           element: "text"
           label: "Twitter Profile"
-          placeholder: "Enter URL"
+          placeholder: "Enter URL to Twitter feed"
       - name: "image"
         field:
           element: "text"
           label: "Profile image"
-          help: "Start with / e.g. /assets/my-image.jpg"
+          help: "Start with / e.g. /assets/my-image.jpg - upload the image in Github as a JPEG file"
           value: ""
           placeholder: "Enter a URL"
       - name: "tags"
         field:
           element: "select"
-          label: "Core Team / Board / Advisor"
+          label: "Core Team (Staff) / Board / Advisor"
           placeholder: "Select an option"
           options:
             - name: "Core Team"
@@ -248,6 +244,12 @@ prose:
               value: "board"
             - name: "Advisor"
               value: "advisor"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          placeholder: "Enter URL e.g. /team/emily"
+          help: "This will be the URL for this persons team page. Should start with /team/ generally followed by their first name"
       - name: "layout"
         field:
           element: "hidden"
