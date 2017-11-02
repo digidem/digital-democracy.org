@@ -145,15 +145,17 @@ prose:
           element: "text"
           label: "Author"
           placeholder: "Enter your name"
+          help: "This should be the full name, matching the full name used in the team page metadata (if writer is on that page)"
       - name: "excerpt"
         field:
           element: "text"
           label: "Post Excerpt"
+          help: "This excerpt is used for the blog posts on the front page and in list view. If this is blank the first paragraph of the post will be used"
       - name: "image"
         field:
           element: "text"
           label: "Post image"
-          help: "URL should start with /assets"
+          help: "URL should start with /assets - upload with Github"
           placeholder: "Enter a URL"
       - name: "tags"
         field:
@@ -161,6 +163,7 @@ prose:
           label: "Tags"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
+          help: "The most recent post tagged 'Featured' will appear at the top of the blog page. The 5 most recent posts tagged 'Front page' will appear as large images at the top of the front page."
       - name: "categories"
         field:
           element: "hidden"
