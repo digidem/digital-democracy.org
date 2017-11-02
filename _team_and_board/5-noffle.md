@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Stephen Whitmore
 role: "Developer"

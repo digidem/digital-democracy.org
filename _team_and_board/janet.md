@@ -1,15 +1,12 @@
 ---
 layout: team
-categories: team
 current: false
 title: Janet Harris
 tags: board
 role: Board Member
 image: /assets/Janet_Harris.jpg
-excerpt: ""
 email: ""
 twitter: ""
-"background-image": ""
 ---
 
 

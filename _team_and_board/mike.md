@@ -1,6 +1,5 @@
 ---
 layout: team
-categories: team
 current: true
 title: Michal Migurski
 tags: board

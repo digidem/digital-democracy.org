@@ -2,11 +2,9 @@
 layout: team
 current: false
 role: Strategic Advisor
-excerpt: ""
 email: "rmiller@digital-democracy.org"
 twitter: "@mcplanner"
 image: /assets/ruth_headshot.jpg
-"background-image": ""
 tags: core
 title: Ruth Miller
 ---

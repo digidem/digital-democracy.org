@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: James Halliday
 role: "Programmer"

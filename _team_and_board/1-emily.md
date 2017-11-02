@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Emily Jacobi
 role: "Executive Director & Founder"
