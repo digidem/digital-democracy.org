@@ -3,7 +3,7 @@ layout: job
 published: true
 title: Mobile Developer
 ---
-[Digital Democracy](https://www.digital-democracy.org/) is looking for a React Native Android developer to join our small, agile team for a 9-month contract starting in November 2017. You will help build cutting-edge open source mobile mapping app for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
+Digital Democracy is looking for a React Native Android developer to join our small, agile team for a 9-month contract starting in November 2017. You will help build cutting-edge open source mobile mapping app for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
 
 We’ve seen firsthand that **change does not come from technology, but from how people use it**. We are building tools our partners are using to achieve transformative change. We are dedicated to working towards a world where all people can participate in the decisions that govern their lives.
 
