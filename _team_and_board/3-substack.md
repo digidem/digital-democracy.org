@@ -1,13 +1,13 @@
 ---
 layout: team
 title: James Halliday
-role: "Programmer"
-twitter: "https://twitter.com/substack"
-tags:
-  - core
-current: true
+role: Programmer
+twitter: 'https://twitter.com/substack'
+tags: core
+current: false
 permalink: /team/substack
-image: "/assets/substack.png"
+image: /assets/substack.png
+published: true
 ---
 
 **James Halliday**
