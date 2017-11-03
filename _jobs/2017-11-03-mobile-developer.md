@@ -33,7 +33,7 @@ This can be a part-time or full-time position of 20-40 hours per week (negotiabl
 
 * **Interest in offline and distributed systems.** Our tools need to work offline and synchronize without a central server.
 
-* **Values based. **You share our belief in building tools that prioritize the self-determination and autonomy of our partners, and challenge legacies of colonization and extraction.
+* **Values based.** You share our belief in building tools that prioritize the self-determination and autonomy of our partners, and challenge legacies of colonization and extraction.
 
 * **Zeal for open source**. We have over [100 repositories on Github](https://github.com/digidem) and believe in building open tools that others can contribute to and build upon.
 
@@ -51,7 +51,7 @@ Our small but growing team is based in Oakland and LA, California; Edinburgh, Sc
 
 * **Flexible schedule, location and hours**. As an organization we embrace working smarter, not harder. We are happy for you to work from where you live, on a schedule that works for you.
 
-* Opportunity to** visit our partners in the field.** Although most of the job is desk based, this role may include travel to our partner communities for workshops, user testing and more.
+* Opportunity to **visit our partners in the field.** Although most of the job is desk based, this role may include travel to our partner communities for workshops, user testing and more.
 
 * Opportunity to **play a key role at a ground-breaking organization**. You have the opportunity to make a big impact in a small team.
 
@@ -59,7 +59,7 @@ Our small but growing team is based in Oakland and LA, California; Edinburgh, Sc
 
 ## How to apply
 
-Send a note with the following to jobs@digital-democracy.org **by November 10th**. We hope to hire by November 30th and will review applications as we receive them.
+Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org) **by November 10th**. We hope to hire by November 30th and will review applications as we receive them.
 
 * Why you’re interested in developing tools at Digital Democracy.
 
