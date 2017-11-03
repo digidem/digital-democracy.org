@@ -168,6 +168,11 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _projects:
       - name: "title"
         field:
@@ -200,6 +205,11 @@ prose:
           label: "Select tag(s) to list related blog posts"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _team_and_board:
       - name: "title"
         field:
@@ -257,6 +267,11 @@ prose:
         field:
           element: "hidden"
           value: "team"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _jobs:
       - name: "title"
         field:
@@ -272,6 +287,11 @@ prose:
         field:
           element: "hidden"
           value: "job"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _internships:
       - name: "title"
         field:
@@ -287,3 +307,8 @@ prose:
         field:
           element: "hidden"
           value: "job"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
