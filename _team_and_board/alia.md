@@ -1,11 +1,11 @@
 ---
 layout: team
-email: "alia.mckee@seachangestrategies.com"
+email: alia.mckee@seachangestrategies.com
 image: /assets/alia_mckee.jpg
 tags: board
-permalink:
-current: true
+current: false
 title: Alia McKee
+published: true
 ---
 
 To make social change, you have to fund social change. That's why Alia McKee has dedicated her professional career to fundraising on behalf of causes she believes in. A principal of Sea Change Strategies, a boutique research and fundraising communications agency -- Alia is a veteran strategist who has worked with clients including The Wikimedia Foundation, Amnesty International USA, the Monterey Bay Aquarium, National Audubon Society, Environmental Defense Fund, Conservation International and the International Rescue Committee among others.
