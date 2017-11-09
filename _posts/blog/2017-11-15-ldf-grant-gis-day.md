@@ -7,8 +7,7 @@ tags:
   - featured
   - front-page
 image: /assets/wao-nemopare-map-presentation.jpg
-excerpt: "Press Release for GIS Day: Digital Democracy Announces $525,000 Grant from Leonardo DiCaprio Foundation
-Funds to be used to Build Out Mapping Tool for Indigenous Communities"
+excerpt: "This World GIS Day, US-based nonprofit  Digital Democracy is celebrating a $525,000 grant from the Leonardo DiCaprio Foundation to build-out their innovative mapping tool Mapeo. “World GIS Day is a celebration of how GIS technology is applied, and today Digital Democracy celebrates with the public launch of Mapeo thanks to this matching-grant from the Leonardo DiCaprio Foundation,” said Emily Jacobi, Digital Democracy Executive Director."
 ---
 
 For immediate release
