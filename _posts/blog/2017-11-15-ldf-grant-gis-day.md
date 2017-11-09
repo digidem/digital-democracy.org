@@ -1,12 +1,12 @@
 ---
 categories: blog
-published: false
+published: true
 title: "Press Release for GIS Day"
 author: Emily Jacobi
 tags:
   - featured
   - front-page
-image: /assets/wao-nemopare-map-presentation.jpg
+image: /assets/jorge-in-akaro-using-mapeo-with-an-elder.jpg
 excerpt: "This World GIS Day, US-based nonprofit  Digital Democracy is celebrating a $525,000 grant from the Leonardo DiCaprio Foundation to build-out their innovative mapping tool Mapeo. “World GIS Day is a celebration of how GIS technology is applied, and today Digital Democracy celebrates with the public launch of Mapeo thanks to this matching-grant from the Leonardo DiCaprio Foundation,” said Emily Jacobi, Digital Democracy Executive Director."
 ---
 
