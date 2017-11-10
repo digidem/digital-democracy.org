@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Stephen Whitmore
 role: "Developer"
@@ -9,7 +7,7 @@ tags:
   - core
 current: true
 permalink: /team/noffle
-image: "/assets/noffle.png"
+image: "/assets/noffle.jpg"
 ---
 
 **Stephen Whitmore** works with Digital Democracy to build useful

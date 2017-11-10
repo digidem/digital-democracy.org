@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Emilie Reiser
 role: Haiti Program Director

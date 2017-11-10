@@ -24,10 +24,10 @@ the forloop index to a string to compare it.
 {% endcomment %}
 
 {% assign featured_posts = '' %}
-<section class="aboutus tiles">
+<section class="projects tiles">
   <ul>
 <!-- Start featured posts -->
-{% assign list = "large:2,medium:2" | split: "," %}
+{% assign list = "large:2,medium:1,small:2" | split: "," %}
 {% for item in list %}
 {% assign limit = item | split: ":" | last | times: 1 %}
 {% assign size = item | split: ":" | first %}

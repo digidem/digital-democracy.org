@@ -32,6 +32,9 @@ collections:
   aboutus:
     output: true
     permalink: /:path/
+  mapeo:
+    output: true
+    permalink: /mapeo/:path/
   jobs:
     output: true
     permalink: /jobs/:path/
@@ -142,15 +145,17 @@ prose:
           element: "text"
           label: "Author"
           placeholder: "Enter your name"
+          help: "This should be the full name, matching the full name used in the team page metadata (if writer is on that page)"
       - name: "excerpt"
         field:
           element: "text"
           label: "Post Excerpt"
+          help: "This excerpt is used for the blog posts on the front page and in list view. If this is blank the first paragraph of the post will be used"
       - name: "image"
         field:
           element: "text"
           label: "Post image"
-          help: "URL should start with /assets"
+          help: "URL should start with /assets - upload with Github"
           placeholder: "Enter a URL"
       - name: "tags"
         field:
@@ -158,10 +163,16 @@ prose:
           label: "Tags"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
+          help: "The most recent post tagged 'Featured' will appear at the top of the blog page. The 5 most recent posts tagged 'Front page' will appear as large images at the top of the front page."
       - name: "categories"
         field:
           element: "hidden"
           value: "blog"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _projects:
       - name: "title"
         field:
@@ -194,6 +205,11 @@ prose:
           label: "Select tag(s) to list related blog posts"
           options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _team_and_board:
       - name: "title"
         field:
@@ -212,10 +228,6 @@ prose:
           help: "Set to false to hide staff/board member"
           value: true
           label: "Current staff/board?"
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "Two-line excerpt from Bio"
       - name: "email"
         field:
           element: "text"
@@ -225,18 +237,18 @@ prose:
         field:
           element: "text"
           label: "Twitter Profile"
-          placeholder: "Enter URL"
+          placeholder: "Enter URL to Twitter feed"
       - name: "image"
         field:
           element: "text"
           label: "Profile image"
-          help: "Start with / e.g. /assets/my-image.jpg"
+          help: "Start with / e.g. /assets/my-image.jpg - upload the image in Github as a JPEG file"
           value: ""
           placeholder: "Enter a URL"
       - name: "tags"
         field:
           element: "select"
-          label: "Core Team / Board / Advisor"
+          label: "Core Team (Staff) / Board / Advisor"
           placeholder: "Select an option"
           options:
             - name: "Core Team"
@@ -245,10 +257,21 @@ prose:
               value: "board"
             - name: "Advisor"
               value: "advisor"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          placeholder: "Enter URL e.g. /team/emily"
+          help: "This will be the URL for this persons team page. Should start with /team/ generally followed by their first name"
       - name: "layout"
         field:
           element: "hidden"
           value: "team"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _jobs:
       - name: "title"
         field:
@@ -264,6 +287,11 @@ prose:
         field:
           element: "hidden"
           value: "job"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
     _internships:
       - name: "title"
         field:
@@ -279,3 +307,8 @@ prose:
         field:
           element: "hidden"
           value: "job"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"

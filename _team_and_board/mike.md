@@ -1,12 +1,11 @@
 ---
 layout: team
-categories: team
 current: true
 title: Michal Migurski
 tags: board
 role: Board Treasurer
 image: /assets/mike-migurski.jpg
-twitter: "@michalmigurski"
+twitter: "https://twitter.com/michalmigurski"
 excerpt: ""
 email: ""
 "background-image": ""

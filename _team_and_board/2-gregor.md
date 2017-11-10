@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Gregor MacLennan
 role: Program Director

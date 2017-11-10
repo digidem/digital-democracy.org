@@ -2,7 +2,7 @@
 layout: job
 title: Partners & Supporters
 image: /assets/haiti-hackathon-team.jpg
-featured: medium
+featured: large
 published: true
 ---
 Digital Democracy accomplishes our mission thanks to the generous support of individual and institutional donors and high-impact partnerships with a range of partners, from local grassroots organizations to groundbreaking international organizations who share our commitment to empowering marginalized communities in their efforts to defend their human and environmental rights.

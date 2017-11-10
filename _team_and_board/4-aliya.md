@@ -1,6 +1,4 @@
 ---
-categories:
-  - team
 layout: team
 title: Aliya Ryan
 role: "Program Coordinator"
