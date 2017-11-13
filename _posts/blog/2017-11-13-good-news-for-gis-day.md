@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "Good News for GIS day: Digital Democracy announces grant for Mapeo Development"
+title: "Good News for GIS day: Digital Democracy announces grant for Mapeo development"
 author: Aliya Ryan
 tags:
   - featured
@@ -16,6 +16,6 @@ The need for new software came from our partners – indigenous communities – 
 
 Mapeo uses OpenStreetMap's easy-to-use iD Editor, which can be customized to create presets in any language, and symbology designed by the communities.
 
-A test version of Mapeo desktop is available for download here. We are currently in the design phase for Mapeo Mobile, an app for mapping and monitoring that will allow groups to collaborate on collecting information about the world around them and share it with each other, or wider audiences.
+A test version of Mapeo desktop is available for download [here](https://www.digital-democracy.org/mapeo/). We are currently in the design phase for Mapeo Mobile, an app for mapping and monitoring that will allow groups to collaborate on collecting information about the world around them and share it with each other, or wider audiences.
 
 > If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.
