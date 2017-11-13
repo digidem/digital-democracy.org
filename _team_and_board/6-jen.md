@@ -2,6 +2,7 @@
 layout: team
 title: Jen Castro
 role: "Program Coordinator"
+twitter: "https://twitter.com/jencastroonline"
 tags:
   - core
 current: true
