@@ -16,6 +16,12 @@ The need for new software came from our partners – indigenous communities – 
 
 Mapeo uses OpenStreetMap's easy-to-use iD Editor, which can be customized to create presets in any language, and symbology designed by the communities.
 
+![Opi Nenquimo returning the final map in Nemonpare](/assets/opi-waorani-map-nemonpare.jpg)
+
+> “With Mapeo we have, for the first time, a tool that we can use to make our own maps, and we can build a strong team of people who can train others to map,” said Opi Nenquimo, the Waorani project lead from Alianza Ceibo. “The mapping project has united many villages to defend and manage their lands together. And it is a process which is leaving a legacy for the future, both the maps and the skills, that our people can use to fight for our livelihoods and our rights.”
+
 A test version of Mapeo desktop is available for download [here](https://www.digital-democracy.org/mapeo/). We are currently in the design phase for Mapeo Mobile, an app for mapping and monitoring that will allow groups to collaborate on collecting information about the world around them and share it with each other, or wider audiences.
+
+[Read](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/) our blog from March about the Waorani using Mapeo in the Ecuadorian Amazon.
 
 > If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.
