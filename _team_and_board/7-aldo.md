@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Aldo Puicon
-role: "UX Designer"
+role: "Program Coordinator"
 tags:
   - core
 current: true
