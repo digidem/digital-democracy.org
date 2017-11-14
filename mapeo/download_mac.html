@@ -2,11 +2,23 @@
 layout: default
 ---
 <style>
-.img-border {
-  margin: 2px;
-}
 .thankyou-text {
   margin: 50px;
+}
+.instructions {
+  z-index: 10;
+  position: relative;
+  padding: 70px 0px;
+  margin: auto;
+}
+.instructions-img {
+  z-index: 10;
+  position: relative;
+  padding: 70px 0px;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 <div id="mapeo-page" class="bg-white">
@@ -20,11 +32,8 @@ layout: default
     </p>
   </div>
 
-  <section class="scroller bg-white">
-      <img class="img-border" src="../Install-1.jpg"/>
-      <img class="img-border" src="../Install-2.jpg"/>
-      <img class="img-border" src="../Install-3.jpg"/>
-      <img class="img-border" src="../Install-4.jpg"/>
+  <section class="instructions bg-white">
+    <img class="instructions-img" src="../instructions.png"/>
   </section>
 </div>
 
