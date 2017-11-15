@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: "Guyana: Wapichan villages publish monitoring data showing widespread illegal mining"
-author: Aliya Ryan
+author: Aliya
 tags:
   - featured
   - front-page

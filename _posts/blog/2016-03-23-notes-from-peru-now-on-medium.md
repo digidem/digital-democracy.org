@@ -1,6 +1,6 @@
 ---
 categories: blog
-author: Ruth Miller
+author: Ruth
 excerpt: "Inspired, and with ample time and notebooks to sketch and write, I jotted down some observations. These informed two posts that are now up on Digital Democracy's Medium page."
 image: "/assets/drone-sketch.jpg"
 published: true
@@ -9,7 +9,7 @@ title: Notes from Peru, Now on Medium
 
 It's been a thrilling first three months at Digital Democracy. On top of digging into our existing code base and meeting some of our US-based allies, I've already logged two weeks in the Peruvian Amazon, and will head to Guyana to meet more partners soon.
 
-Peru is a beautiful country with a rich history and heavenly cuisine, but going with Dd is very different than the tourist experience. We skipped Machu Picchu, instead spending time at and beyond the edge of infrastructure. I first noticed the difficulties of moving ourselves around, but as we set to work, I began to realize the deeper difficulties in moving around information. 
+Peru is a beautiful country with a rich history and heavenly cuisine, but going with Dd is very different than the tourist experience. We skipped Machu Picchu, instead spending time at and beyond the edge of infrastructure. I first noticed the difficulties of moving ourselves around, but as we set to work, I began to realize the deeper difficulties in moving around information.
 
 It's one thing to be told "the Internet is not very reliable out there." It's a very different thing to experience it for yourself, to work through and around it, and to learn from the people who do so every day.
 

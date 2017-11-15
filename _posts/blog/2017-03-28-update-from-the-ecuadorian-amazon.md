@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: "Mapping Waorani Territory: Update from the Ecuadorian Amazon"
-author: Aliya Ryan
+author: Aliya
 tags:
   - featured
   - front-page

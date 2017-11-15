@@ -3,7 +3,7 @@ categories: blog
 layout: video
 published: true
 title: We Built A Drone
-author: Gregor MacLennan
+author: Gregor
 tags:
   - Remote Access
   - Amazon

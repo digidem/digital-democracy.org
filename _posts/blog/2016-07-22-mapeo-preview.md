@@ -3,7 +3,7 @@ categories: blog
 layout: video
 published: true
 title: "Technology Preview: Participatory mapping in the Amazon with Mapeo"
-author: Gregor MacLennan
+author: Gregor
 tags:
   - featured
   - "front-page"

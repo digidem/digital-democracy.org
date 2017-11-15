@@ -2,8 +2,8 @@
 categories: blog
 published: false
 title: Creating animated GIF screencasts
-author: Gregor MacLennan
-tags: 
+author: Gregor
+tags:
   - Tech
 ---
 

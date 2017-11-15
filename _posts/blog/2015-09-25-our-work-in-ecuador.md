@@ -3,7 +3,7 @@ categories: blog
 layout: video
 published: true
 title: "[VIDEO] Our Work in Ecuador"
-author: Gregor MacLennan
+author: Gregor
 tags:
   - Remote Access
   - Amazon

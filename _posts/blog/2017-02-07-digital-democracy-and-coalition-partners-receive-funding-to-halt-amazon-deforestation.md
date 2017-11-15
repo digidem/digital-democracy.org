@@ -4,7 +4,7 @@ published: true
 title: >-
   Digital Democracy and Coalition Partners Receive Funding to Halt Amazon
   Deforestation
-author: Emily Jacobi
+author: Emily
 tags:
   - front-page
 image: /assets/dreamfund-announcement-image.jpg

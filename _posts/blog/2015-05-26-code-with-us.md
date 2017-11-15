@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: Code with us
-author: Gregor MacLennan
+author: Gregor
 image: "/assets/gregor-laptop-guyana.jpg"
 ---
 

@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: "Using maps to tell the story of ClearWater's work in Ecuador"
-author: Gregor MacLennan
+author: Gregor
 tags:
   - Remote Access
   - Amazon

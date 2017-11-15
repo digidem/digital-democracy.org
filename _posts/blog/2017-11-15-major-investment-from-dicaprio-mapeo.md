@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: "Announcing a Major Investment from the Leonardo DiCaprio Foundation"
-author: Emily Jacobi
+author: Emily
 tags:
   - featured
   - front-page

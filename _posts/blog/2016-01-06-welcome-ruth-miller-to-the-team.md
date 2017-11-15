@@ -1,6 +1,6 @@
 ---
 categories: blog
-author: Emily Jacobi
+author: Emily
 excerpt: "Digital Democracy is thrilled to be starting the new year with a new team member, Ruth Miller. Ruth is joining for the spring to us figure out how to scale our team and our impact."
 image: "/assets/staff-RuthMiller.jpg"
 tags:

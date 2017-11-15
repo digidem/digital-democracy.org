@@ -3,7 +3,7 @@ categories: blog
 published: true
 title: "Technologists & Indigenous Activists Convene in the Peruvian Amazon"
 image: /assets/hacktherainforestgroup.jpg
-author: Emily Jacobi
+author: Emily
 tags:
   - Remote Access
   - Amazon

@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: Open Maps for Everyone
-author: Gregor MacLennan
+author: Gregor
 excerpt: "Today we’re super excited to be one of 22 amazing projects to win support from the Knight Prototype Fund. We will use the funds to prototype new ways for anybody to make a map of the world around them using simple, open source tools that work in low-tech and low-connectivity environments."
 tags:
 image: "/assets/achuar-map-excerpt.jpg"

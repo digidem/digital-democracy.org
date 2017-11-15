@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: "Join Dd's Mesh Network"
-author: Emily Jacobi
+author: Emily
 tags:
   - "front-page"
 image: /assets/chiapasworkshop.jpg

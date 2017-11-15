@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: Strengthening Forest Governance with Technology
-author: Gregor MacLennan
+author: Gregor
 excerpt: "Digital Democracy is teaming up with Washington, D.C.-based nonprofit Environmental Investigation Agency to support Indigenous peoples’ organizations in the Peruvian Amazon to monitor and document rights violations and illegal logging."
 image: "/assets/eia-forest-monitoring-gps.jpg"
 ---

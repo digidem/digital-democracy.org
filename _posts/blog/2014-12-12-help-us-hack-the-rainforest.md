@@ -2,7 +2,7 @@
 categories: blog
 published: true
 title: Help us Hack the Rainforest
-author: Emily Jacobi
+author: Emily
 tags:
   - Remote Access
   - Amazon
