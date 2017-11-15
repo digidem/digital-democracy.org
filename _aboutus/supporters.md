@@ -15,7 +15,7 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 [Dutch Postcode Lottery](https://www.postcodeloterij.nl)
 
-[Hivos Foundation](https://south-america.hivos.org/)
+[Hivos Foundation](https://latin-america.hivos.org/)
 
 [Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
 
@@ -50,8 +50,6 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 [MapBox](https://www.mapbox.com/)
 
 [OpenStreetMap](http://www.openstreetmap.org/)
-
-[Skybox](http://www.skyboximaging.com/)
 
 [Solertium](http://www.solertium.com/)
 
