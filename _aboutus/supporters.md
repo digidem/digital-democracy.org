@@ -13,9 +13,9 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 [Channel Foundation](http://www.channelfoundation.org/dd.html)
 
-[Google Earth Outreach](http://www.google.com/earth/outreach/grants/developer/)
+[Dutch Postcode Lottery](https://www.postcodeloterij.nl)
 
-[Hivos Foundation](https://south-america.hivos.org/)
+[Hivos Foundation](https://latin-america.hivos.org/)
 
 [Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
 
@@ -23,34 +23,36 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 ## International Partners
 
-[ClearWater](http://www.giveclearwater.org/)
+[Amazon Frontlines](https://amazonfrontlines.org/)
+
+[Amazon Watch](https://amazonwatch.org/)
 
 [Environmental Investigation Agency](http://eia-global.org/)
 
 [Forest Peoples Programme](http://www.forestpeoples.org/)
 
-[Global Fund for Women](http://www.globalfundforwomen.org/)
+[Global Forest Watch](http://www.globalforestwatch.org)
+
+[Greenpeace International](http://www.greenpeace.org/international/en/) and [Greenpeace Brazil](https://www.greenpeace.org.br)
 
 [InfoAmazonia](http://infoamazonia.org/)
+
+[ISS: Institute of Social Studies at Erasmus University](https://www.iss.nl)
 
 [Rainforest Action Network](http://www.ran.org/)
 
 ## Tech Partners & Communities of Support
 
-[Clinton Global Initiative](https://www.clintonfoundation.org/clinton-global-initiative)
-
-[FrontlineSMS](http://www.frontlinesms.com/)
+[Dat Project](https://datproject.org)
 
 [Global Forest Watch](http://www.globalforestwatch.org/)
 
 [MapBox](https://www.mapbox.com/)
 
-[Skybox](http://www.skyboximaging.com/)
+[OpenStreetMap](http://www.openstreetmap.org/)
 
 [Solertium](http://www.solertium.com/)
 
 [Transparency and Accountability Initiative](http://www.transparency-initiative.org/)
 
-[TechChange](https://www.techchange.org/)
-
-[Ushahidi](http://www.ushahidi.com/)
+[Witness](https://witness.org)
