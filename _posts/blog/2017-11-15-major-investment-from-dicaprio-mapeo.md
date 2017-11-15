@@ -10,7 +10,7 @@ image: /assets/jorge-elder-akaro.jpg
 excerpt: Today is World GIS Day, a celebration of how GIS technology is applied. We’re thrilled to celebrate this day with the public launch of our offline mapping tool Mapeo, thanks to a grant of $525,000 from the Leonardo DiCaprio Foundation.
 ---
 
-Today is World GIS Day, a celebration of how GIS technology is applied. We’re thrilled to celebrate this day with the [public launch](http://mapeo.world) of our offline mapping tool Mapeo, thanks to a grant of $525,000 from the Leonardo DiCaprio Foundation. [Read](/assets/20171511-dd-ldf-mapeo-pressrelease/pdf) our full press release.
+Today is World GIS Day, a celebration of how GIS technology is applied. We’re thrilled to celebrate this day with the [public launch](http://mapeo.world) of our offline mapping tool Mapeo, thanks to a grant of $525,000 from the Leonardo DiCaprio Foundation. [Read](/assets/20171511-dd-ldf-mapeo-pressrelease.pdf/) our full press release.
 
 For the past four years, the Digital Democracy team has been working directly with indigenous communities in the Amazon to test and prototype tools for mapping and territorial monitoring. Over the past year, we’ve seen how our partners have used Mapeo to map hundreds of thousands of hectares of land and tell the stories of deep connection to their land through maps.
 
