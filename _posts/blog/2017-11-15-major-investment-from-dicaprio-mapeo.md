@@ -24,6 +24,8 @@ We have built Mapeo in close partnership with Amazon Frontlines and [Alianza Cei
 <img alt="Opi Nenquimo returning the final map in Nemonpare" src="/assets/opi-waorani-map-nemonpare.jpg">
 </div>
 
+![Opi Nenquimo returning the final map in Nemonpare](assets/opi-waorani-map-nemonpare-portrait.jpg)
+
 >“With Mapeo we have, for the first time, a tool that we can use to make our own maps, and we can build a strong team of people who can train others to map,” said Opi Nenquimo, the Waorani project lead from Alianza Ceibo. “The mapping project has united many villages to defend and manage their lands together. And it is a process which is leaving a legacy for the future, both the maps and the skills, that our people can use to fight for our livelihoods and our rights.”
 
 A test version of Mapeo desktop is available for download [here](http://mapeo.world). We are currently in the design phase for Mapeo Mobile, an app for mapping and monitoring that will allow groups to collaborate on collecting information about the world around them and share it with each other, or wider audiences.
