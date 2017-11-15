@@ -55,8 +55,4 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 [Transparency and Accountability Initiative](http://www.transparency-initiative.org/)
 
-[TechChange](https://www.techchange.org/)
-
-[Ushahidi](http://www.ushahidi.com/)
-
 [Witness](https://witness.org)
