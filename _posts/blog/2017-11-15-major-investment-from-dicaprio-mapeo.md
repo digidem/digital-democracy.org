@@ -18,7 +18,7 @@ The need for new software came from our partners – indigenous communities – 
 
 Mapeo builds off of OpenStreetMap’s easy-to-use iD Editor, which can be customized to create presets in any language, and symbology designed by the communities.
 
-We have built Mapeo in close partnership with [Amazon Frontlines](https://www.amazonfrontlines.org) and [Alianza Ceibo](https://www.alianzaceibo.org), our partner organizations based in the Ecuadorian Amazon. Today, Amazon Frontline is launching their website, which includes interactive maps built in part with Mapeo.
+We have built Mapeo in close partnership with Amazon Frontlines and [Alianza Ceibo](https://www.alianzaceibo.org), our partner organizations based in the Ecuadorian Amazon. Today, [Amazon Frontlines](https://www.amazonfrontlines.org) is launching their website, which includes interactive maps built in part with Mapeo. Waorani, Cofan & Siekopai members of Alianza Ceibo have been testing Mapeo over the past year and a half, and are actively using the tool for territorial mapping.
 
 <div class="full-width">
 <img alt="Opi Nenquimo returning the final map in Nemonpare" src="/Opi Nenquimo returning the final map in Nemonpare">
@@ -30,6 +30,6 @@ A test version of Mapeo desktop is available for download [here](http://mapeo.wo
 
 For more on Mapeo, visit [our product page](http://mapeo.world) and download the tool to get started mapping in your own community.
 
-For more on the mapping process, [read](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/) our blog post from March about how the Waorani people are using Mapeo in the Ecuadorian Amazon.
+>For more on the mapping process, [read](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/) our blog post from March about how the Waorani people are using Mapeo in the Ecuadorian Amazon.
 
-If you are interested in the technical workings of Mapeo, [read](https://www.digital-democracy.org/blog/mapeo-preview/) this blog post, and visit our [GitHub](https://github.com/digidem/) page, where you can follow along and jump into the issues and help us continue to improve Mapeo.
+>If you are interested in the technical workings of Mapeo, [read](https://www.digital-democracy.org/blog/mapeo-preview/) this blog post, and visit our [GitHub](https://github.com/digidem/) page, where you can follow along and jump into the issues and help us continue to improve Mapeo.
