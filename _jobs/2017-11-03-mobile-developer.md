@@ -59,7 +59,7 @@ Our small but growing team is based in Oakland and LA, California; Edinburgh, Sc
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org) **by November 10th**. We hope to hire by November 30th and will review applications as we receive them.
+Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org). We will review applications as we receive them.
 
 * Why you’re interested in developing tools at Digital Democracy.
 
