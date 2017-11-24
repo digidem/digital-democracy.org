@@ -22,6 +22,8 @@ exclude:
   - Procfile
   - Rakefile
   - node_modules
+include:
+  - _redirects
 collections:
   team_and_board:
     output: true
