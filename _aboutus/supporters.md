@@ -23,7 +23,7 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 ## International Partners
 
-Amazon Frontlines
+[Amazon Frontlines](https://www.amazonfrontlines.org/)
 
 [Amazon Watch](https://amazonwatch.org/)
 
