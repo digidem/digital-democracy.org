@@ -23,7 +23,7 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 [Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios](http://observatoriopetrolero.org/)
 
-[Asociación Interamericana de Desarrollo de la Selva Peruana](http://www.aidesep.org.pe/)
+[Asociación Interétnica de Desarrollo de la Selva Peruana](http://www.aidesep.org.pe/)
 
 [Federación Indígena Quechua Del Pastaza](https://fediquep.blogspot.com/)
 
