@@ -7,6 +7,32 @@ published: true
 ---
 Digital Democracy accomplishes our mission thanks to the generous support of individual and institutional donors and high-impact partnerships with a range of partners, from local grassroots organizations to groundbreaking international organizations who share our commitment to empowering marginalized communities in their efforts to defend their human and environmental rights.
 
+[Local Partners](#local-partners)
+
+[Funding Partners](#funding-partners)
+
+[International Partners](#international-partners)
+
+[Tech Partners & Communities of Support](#tech-partners--communities-of-support)
+
+## Local Partners
+
+![local partners](/assets/local-partners.png)
+
+[Alianza Ceibo](https://www.alianzaceibo.org/)
+
+[Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios](http://observatoriopetrolero.org/)
+
+[Asociación Interamericana de Desarrollo de la Selva Peruana](http://www.aidesep.org.pe/)
+
+[Federación Indígena Quechua Del Pastaza](https://fediquep.blogspot.com/)
+
+[OPIKAFPE Organización del Río Tigre](https://www.servindi.org/etiqueta/opikafpe)
+
+Guyana: SRPDC and DTC
+
+Feconacor federation
+
 ## Funding Partners
 
 [Abundance Foundation](http://www.abundance.org/empowerment/dd/)
