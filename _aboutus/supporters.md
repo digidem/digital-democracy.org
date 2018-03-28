@@ -23,7 +23,7 @@ We work alongside local partners to offer direct support to indigenous communiti
 
 **Peru:**
 <p>Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios ([PUINAMUDT](http://observatoriopetrolero.org)) - a platform including members of four indigenous representative organisations in Northern Peru, made up of Kichwa, Achuar and Cocama Cocamilla peoples (FEDIQUEP, FECONACOR, OPIKAFPE, ACODECOSPAT).</p>
-<p>Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amarakaeri.org.pe)) - an organisation representing Harakmbut, Matsigenka and Yine communities in the co-management of the Amarakaeri Communal Reserve in Southern Peru.
+<p>Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amarakaeri.org.pe)) - an organisation representing Harakmbut, Matsigenka and Yine communities in the co-management of the Amarakaeri Communal Reserve in Southern Peru.</p>
 
 **Ecuador:**
 <p>[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Cofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.</p>
