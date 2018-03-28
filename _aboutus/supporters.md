@@ -19,19 +19,17 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 
 ![local partners](/assets/local-partners.png)
 
-[Alianza Ceibo](https://www.alianzaceibo.org/)
+We work alongside local partners to offer direct support to indigenous communities, local mappers and community environmental monitors. The design and development of the tools we build is led by this work with our local partners. Currently we are working closely with the following local and indigenous organisations:
 
-[Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios](http://observatoriopetrolero.org/)
+**Peru:**
+<p>Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios ([PUINAMUDT](http://observatoriopetrolero.org)) - a platform including members of four indigenous representative organisations in Northern Peru, made up of Kichwa, Achuar and Cocama Cocamilla peoples (FEDIQUEP, FECONACOR, OPIKAFPE, ACODECOSPAT).</p>
+<p>Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amarakaeri.org.pe)) - an organisation representing Harakmbut, Matsigenka and Yine communities in the co-management of the Amarakaeri Communal Reserve in Southern Peru.
 
-[Asociación Interétnica de Desarrollo de la Selva Peruana](http://www.aidesep.org.pe/)
+**Ecuador:**
+<p>[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Cofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.</p>
 
-[Federación Indígena Quechua Del Pastaza](https://fediquep.blogspot.com/)
-
-[OPIKAFPE Organización del Río Tigre](https://www.servindi.org/etiqueta/opikafpe)
-
-Guyana: SRPDC and DTC
-
-Feconacor federation
+**Guyana:**
+<p>South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/index.html)), an indigenous organisation of Wapichan and Makushi peoples located in South Western Guyana.</p>
 
 ## Funding Partners
 
