@@ -22,18 +22,14 @@ Digital Democracy accomplishes our mission thanks to the generous support of ind
 We work alongside local partners to offer direct support to indigenous communities, local mappers and community environmental monitors. The design and development of the tools we build is led by this work with our local partners. Currently we are working closely with the following local and indigenous organisations:
 
 **Peru:**
-
-Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios ([PUINAMUDT](http://observatoriopetrolero.org)) - a platform including members of four indigenous representative organisations in Northern Peru, made up of Kichwa, Achuar and Cocama Cocamilla peoples (FEDIQUEP, FECONACOR, OPIKAFPE, ACODECOSPAT).
-
-Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amarakaeri.org.pe)) - an organisation representing Harakmbut, Matsigenka and Yine communities in the co-management of the Amarakaeri Communal Reserve in Southern Peru.
+<p>Pueblos Indígenas Amazónicos Unidos en Defensa de sus Territorios ([PUINAMUDT](http://observatoriopetrolero.org)) - a platform including members of four indigenous representative organisations in Northern Peru, made up of Kichwa, Achuar and Cocama Cocamilla peoples (FEDIQUEP, FECONACOR, OPIKAFPE, ACODECOSPAT).</p>
+<p>Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amarakaeri.org.pe)) - an organisation representing Harakmbut, Matsigenka and Yine communities in the co-management of the Amarakaeri Communal Reserve in Southern Peru.</p>
 
 **Ecuador:**
-
-[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Cofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.
+<p>[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Cofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.</p>
 
 **Guyana:**
-
-South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/index.html)), an indigenous organisation of Wapichan and Makushi peoples located in South Western Guyana.
+<p>South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/index.html)), an indigenous organisation of Wapichan and Makushi peoples located in South Western Guyana.</p>
 
 ## Funding Partners
 
