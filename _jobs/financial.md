@@ -3,7 +3,6 @@ layout: job
 published: true
 title: Finance and Operations Director
 ---
-# We’re Hiring a Finance and Operations Director!        
 
 Digital Democracy (Dd) is looking for a highly talented and passionate individual to join our team as our Finance and Operations Director. The Director  will be responsible for the internal operations of Dd, including finance, planning and budgeting, administration, and human resources.  
 
