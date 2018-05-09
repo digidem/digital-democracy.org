@@ -99,7 +99,7 @@ Digital Democracy’s mission is to empower marginalized communities to use tech
 
 ## How to apply
 
-Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org). We will review applications as we receive them.
+Send a note with the following to [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org), subject line "Finance and Operations Director."
 
 * Why are you interested in the position? What is your experience in nonprofit finance and operations?
 
