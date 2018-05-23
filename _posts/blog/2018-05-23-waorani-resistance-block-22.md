@@ -1,13 +1,13 @@
 ---
 categories: blog
 published: true
-title: ""Our rainfoest is not for sale" – Waorani Resistance in Ecuador"
+title: '"Our rainforest is not for sale": Waorani Resistance in Ecuador'
 author: Emily Jacobi
 tags:
   - featured
   - front-page
 image: /assets/waorani-resist-drone.jpg
-excerpt: Today the Waorani people of the Ecuadorian Amazon, one of Digital Democracy's close partners, are launching a campaign against new oil blocks that overlap their territory. Read their story; explore their territory through an interactive map; listen to their words and support their vision.
+excerpt: "Today the Waorani people of the Ecuadorian Amazon, one of Digital Democracy's close partners, are launching a campaign against new oil blocks that overlap their territory. Read their story; explore their territory through an interactive map; listen to their words and support their vision."
 ---
 In February, the Ecuadorian government announced the imminent auction of new oil concessions including Block 22, an area of the Amazon rainforest that the Digital Democracy team knows well. Block 22 covers the heart of Waorani Territory, an area where we began working in fall 2015 at the request of Waorani communities and our partners Amazon Frontlines and Alianza Ceibo.
 
