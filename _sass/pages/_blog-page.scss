@@ -3,6 +3,29 @@
 
 $featured-blog-bg: adjust-color($dd-blue, $lightness: 60%, $saturation: 50%);
 
+article {
+
+  @media only screen and (min-width: 40.0625em) {
+    .clickable-overlay {
+      position:absolute;
+      top:0;
+      left:0;
+      display:inline-block;
+      width:100%;
+      height:100%;
+      z-index:5;
+      border-bottom: 0;
+      text-decoration: none;
+      box-shadow: 0 0;
+    }
+    .image .right-aligned {
+      width: 100%;
+      float: right;
+      position: relative;
+      margin: 0.85em -50% 0.85em 1em;
+    }
+  }
+}
 .blog {
   .excerpt header > a {
     background-color: #eee;

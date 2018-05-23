@@ -22,7 +22,10 @@ Today, the Waorani communities affected by Block 22 have united to declare:
 "Our message to the oil companies: Our land is not for sale."
 
 <p class="image">
-  <iframe src="https://player.vimeo.com/video/271504104?background=1" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <span class="right-aligned">
+    <iframe src="https://player.vimeo.com/video/271504104?background=1" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <a href="https://waoresist.amazonfrontlines.org" class="clickable-overlay"></a>
+  </span>
 </p>
 
 The Waorani are seeking allies to support their call to halt new oil drilling in their territory. We at Digital Democracy are proud to have been involved with these efforts, through initial mapping workshops and providing technical assistance to the Waorani mapping team. They have used Mapeo, our offline-mapping software, to document the thousands of points, lines and areas that, together, create a powerful representation of the Waorani relationship to territory. We worked with the Waorani and their allies to create [a beautiful interactive map](https://waoresist.amazonfrontlines.org/explore/) which tells their story.
