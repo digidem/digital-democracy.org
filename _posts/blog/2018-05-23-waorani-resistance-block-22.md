@@ -16,11 +16,13 @@ In February, the Ecuadorian government announced the imminent auction of new oil
 Today, the Waorani communities affected by Block 22 have united to declare:
 
 >"We are Waorani and we have always lived in the Amazon rainforest. Drilling for oil within our territory threatens everything that matters for our people. We do not recognize what the government calls Oil Block 22.
-Our forest homeland is not an oil block, it is our life.
-Our message to the oil companies: Our land is not for sale.""
+>
+"Our forest homeland is not an oil block, it is our life.
+>
+"Our message to the oil companies: Our land is not for sale."
 
 The Waorani are seeking allies to support their call to halt new oil drilling in their territory. We at Digital Democracy are proud to have been involved with these efforts, through initial mapping workshops and providing technical assistance to the Waorani mapping team. They have used Mapeo, our offline-mapping software, to document the thousands of points, lines and areas that, together, create a powerful representation of Waorani relationship to their territory. We worked with the Waorani and their allies to create [a beautiful interactive map](https://waoresist.amazonfrontlines.org/explore/) which tells their story.
 
-[**Explore their map; sign their petition and support the Waorani's autonomy.**](https://waoresist.amazonfrontlines.org)
+[**Explore their map, sign their petition and support the Waorani's autonomy.**](https://waoresist.amazonfrontlines.org)
 
 >For more on the Waorani mapping process, [read this blog post](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
