@@ -11,7 +11,7 @@ excerpt: "Today the Waorani people of the Ecuadorian Amazon, one of Digital Demo
 ---
 In February, the Ecuadorian government announced the imminent auction of new oil concessions including Block 22, an area of the Amazon rainforest that the Digital Democracy team knows well. Block 22 covers the heart of Waorani Territory, an area where we began working in fall 2015 at the request of Waorani communities and our partners Amazon Frontlines and Alianza Ceibo.
 
-[**Explore their territory through maps, photos and video.**](https://waoresist.amazonfrontlines.org)
+[**Explore Waorani territory through maps, photos and video.**](https://waoresist.amazonfrontlines.org)
 
 Today, the Waorani communities affected by Block 22 have united to declare:
 
@@ -21,6 +21,6 @@ Our message to the oil companies: Our land is not for sale.""
 
 The Waorani are seeking allies to support their call to halt new oil drilling in their territory. We at Digital Democracy are proud to have been involved with these efforts, through initial mapping workshops and providing technical assistance to the Waorani mapping team. They have used Mapeo, our offline-mapping software, to document the thousands of points, lines and areas that, together, create a powerful representation of Waorani relationship to their territory. We worked with the Waorani and their allies to create [a beautiful interactive map](https://waoresist.amazonfrontlines.org/explore/) which tells their story.
 
-[Explore their map; sign their petition and support the Waorani's autonomy.](https://waoresist.amazonfrontlines.org)
+[**Explore their map; sign their petition and support the Waorani's autonomy.**](https://waoresist.amazonfrontlines.org)
 
 >For more on the Waorani mapping process, [read this blog post](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
