@@ -1,6 +1,6 @@
 ---
 categories: blog
-published: false
+published: true
 title: ""Our rainfoest is not for sale" – Waorani Resistance in Ecuador"
 author: Emily Jacobi
 tags:
