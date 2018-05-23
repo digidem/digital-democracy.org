@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: '"Our land is not for sale": Waorani Resistance in Ecuador'
+title: '“Our land is not for sale”: Waorani Resistance in Ecuador'
 author: Emily Jacobi
 tags:
   - featured
