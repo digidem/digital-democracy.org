@@ -60,3 +60,23 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 >La Resistance!
 
 >Songwriters: Laetitia Sadier / Timothy John Gane
+
+![Aldo](/assets/aliya-profile.jpg)
+Hi, I’m Aliya Ryan!
+
+I was born and brought up in the UK in a food, travel and people loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
+
+My interest and desire to challenge and see beyond my worldview, and an inability to remain inactive when witnessing injustice and inequality led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.  
+
+Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer Scottish twilight. And I’m learning the trapeze for the day I run away to the circus...
+
+**What do you focus on at Dd?** My role is to oversee Dd’s relationships with our partner communities and make sure that our tech development not only takes into account their needs, but is led by them so that the tools we make can be both useful and impactful, and also reduce dependence and build local autonomy. I do this by visiting the communities and seeing the tools in action, and lots of coordination at a distance. I also spend a fair amount of time travelling, making maps, preparing training and workshop materials and am the first point of contact for people enquiring to use Mapeo in new areas.
+
+**What inspires you the most about your work?** All the people that I am lucky to work alongside, spend time with and count amongst my close colleagues and friends.
+
+I feel particularly lucky to be able to spend quality time with our partners in the field, often visiting their beautiful homelands and seeing first hand the threats they are facing and their efforts to confront these through community mobilisation, capacity building and mapping and monitoring efforts. This is a frequent reality check for me to ensure that our tools remain grounded in real needs.
+
+The tech world was new to me when I joined Digital Democracy, but through it I have also been introduced to radically subversive, genius and inspiring people using tech to build more collaborative, distributed and kind systems which I believe can help bring positive change.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?**
+The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous map making. More recently the reflections of Renee Paulani Louis on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in Where the Animals Go.
