@@ -47,8 +47,8 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 ><p>As acts of rebellious solidarity
 ><p>Can bring sense in this world
 ><p>La Resistance!
-<<p>Songwriters: Laetitia Sadier / Timothy John Gane
-<
+><p>Songwriters: Laetitia Sadier / Timothy John Gane
+
 
 
 ![Aliya](/assets/aliya-profile.jpg)
