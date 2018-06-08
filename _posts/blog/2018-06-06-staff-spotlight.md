@@ -39,14 +39,14 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 ><p>It doesn't call for total withdrawal
 ><p>I've been told it's a fact of life
 ><p>Men have to kill one another
-><b>Well I say there are still things worth fighting for
-><b>La Resistance!
-><b>Though this world's essentially an absurd place to be living in
-><b>It doesn't call for (bubble withdrawal)
-<p>It said human existence is pointless
-<p>As acts of rebellious solidarity
-<b>Can bring sense in this world
-<b>La Resistance!
+><p>Well I say there are still things worth fighting for
+><p>La Resistance!
+><p>Though this world's essentially an absurd place to be living in
+><p>It doesn't call for (bubble withdrawal)
+><p>It said human existence is pointless
+><p>As acts of rebellious solidarity
+><p>Can bring sense in this world
+><p>La Resistance!
 
 ![Aliya](/assets/aliya-profile.jpg)
 
@@ -88,6 +88,49 @@ I am a curious mind, passionate cook and foodie, that person who will pet your d
 The people that make up Digital Democracy also inspire me. Everyone brings unique perspectives that have inspired me to think about issues much bigger than myself, and ultimately have inspired me to do better to help bring change through technology.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
-The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, here. This episode discusses ideas about pushing us out of our comfort zones, from facing our fears and taking risks, to hard issues like talking about race and privilege.
+The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, [here](https://overcast.fm/+HuQLMhRjc). This episode discusses ideas about pushing us out of our comfort zones, from facing our fears and taking risks, to hard issues like talking about race and privilege.
 
 My favorite section in the podcast is with humanitarian activist Dan Pallotta. He talks about the importance of community, as we seem to have an abundance of the word community, but a lack in actual community. Dan speaks of “our inability to be with one another that gives rise to so many of the problems” that we currently have, which really resonates with me.
+
+## Hi, I’m Jen Castro!
+
+My path has been an interesting one beginning with my parents migrating from Quito, Ecuador to Toronto, Canada, being born and raised in a concrete jungle and moving to the West Coast and living in East Vancouver for the last nine years. I have had the privilege of using some of my many talents to support critical social justice issues in the city and learning from the Musqueam, Squamish and Tsleil-Waututh people about their territory through climate justice, arts and community organizing in Vancouver. When I’m not working on amazing projects with Digital Democracy, I like to stay busy in my garden, studio, and kitchen creating all kinds of interesting things for my friends and I to enjoy.
+
+**What do you focus on at Dd?** I’m a Program Coordinator working with our partners in Peru to navigate their technical needs for critical community based projects in response to logging, mining and oil projects that impact the ecological health of their territories and their way of life.
+
+**What inspires you the most about your work?** My inspiration is the people who tirelessly fight to protect their communities, culture, and the ecosystems they are part of. The active projects we have working with many different indigenous communities in the Amazon are all uniquely thrilling and critical in a time where climate change and the rights of Indigenous people around the world are finally being acknowledged as real, and the connection between them is undeniable.
+
+**What’s something you wish people knew about the work that Digital Democracy does?**
+The thing I hope people learn about Digital Democracy is how much attention we put on process. The nature of technology is results oriented and we are often working to help partners achieve concrete tasks with the right tools, but on our way there we work to make sure that our process is working in harmony with what is going on for the communities involved. They are true collaborators in our work and are the experts in their respective struggles for environmental and human rights.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?**
+I had the fortune of hearing [Leanne Betasamosake](https://www.leannesimpson.ca/) Simpson do a reading from her paper [Land as Pedagogy](http://whereareyouquetzalcoatl.com/mesofigurineproject/EthnicAndIndigenousStudiesArticles/Simpson2014.pdf). She was talking about the place where I grew up, Toronto, in a similar way I had thought of the Amazon, "back home" in Ecuador.
+
+![Karissa](/assets/karissa-profile.jpg)
+
+## Hi, I’m Karissa McKelvey!
+
+I’m an open source software developer, musician, bicycle nerd, and avid traveler. I’ve been involved in movements for social and economic justice since I was small, starting with fighting for equal rights on the streets of San Francisco with my two moms and a sign.
+
+**What do you focus on at Dd?** I work most closely with Gregor to develop, maintain, and communicate about our software. From peer-to-peer databases to interactive applications and maps, we provide a large variety of open source tools for managing, syncing, filtering, and visualizing map data.
+
+**What inspires you the most about your work?** Normally, technology companies own the data generated by users, and make money by privatizing that data. Our work is unique by respecting user autonomy and privacy. Users own their data and can use it offline, choosing to share it with whomever they want. This ‘decentralization’ of data is cutting-edge technology, and I’m proud that we’re setting an example for other technology and human rights organizations.
+
+## Hi, I'm Stephen. On the internet I'm called noffle.
+
+I live in Oakland, California with my partner and a cuddly but mildly psychotic cat named Roxy, with a smattering of happy plants basking in our living room window. I identify with the [solarpunk](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/) ethos of a bright collective future through sustainable technology and nurturing our connection to nature. I enjoy writing empowering Node.JS modules and small programs [that do one thing well](https://en.wikipedia.org/wiki/Unix_philosophy), and also sometimes design [video games](https://ldjam.com/events/ludum-dare/41/dungeon-typist).
+
+**What do you focus on at Dd?** I primarily focus on designing and developing the peer-to-peer technologies that power the database and sync portions of Mapeo Desktop and, soon, Mapeo Mobile. I also write small features for Mapeo Desktop. I really enjoy MacGyvering together fixes for emergencies that arise in the field.
+
+**What inspires you the most about your work?**
+1. I admire the people I work with. They make me a better human being.
+2. I get to write 100% free open source software. We share what we create, and work in the open.
+3. We live our values through our work and interactions. They truly unify us as a team.
+4. We're focused on truly helping real, marginalized people, not building wasteful or unsustainable venture-capitalist funded gadgetry.
+
+**What’s something you wish people knew about the work that Digital Democracy does?**
+Technology is not neutral; it cannot exist in a vacuum. It is not an unstoppable, external deity in the service of “progress”.  The values and power structures of organizations embed themselves in the technology they create. It's no surprise then what we see daily: for-profit, hierarchical corporations creating software that so vividly mimics these very qualities.
+
+Digital Democracy is the only place I've ever worked where it's different. Dd seeks to empower marginalized peoples and communities; to listen before speaking; to suggest and not demand; to put people before profit, and no human being above another. We’re still learning as we go, but Dd embodies these values in our intentions, and it's exactly these qualities that our world so urgently needs in the technology it creates.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?** Zach Mandeville’s modular [The Future Will be Technical](https://coolguy.website/writing/the-future-will-be-technical/index.html) essays. Technology doesn’t have to be awful and oppressive and isolating. It can be rejuvenating, empowering, community-building, and a conduit for creativity, personal expression, and self exploration.
