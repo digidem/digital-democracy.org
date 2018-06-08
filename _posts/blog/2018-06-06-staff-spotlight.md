@@ -36,32 +36,20 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 **What is a piece of media that you’d like to share with the Digital Democracy community?** French Disko by Stereolab (1994) … When I was 14, my good friend Melanie introduced me to the sounds of Stereolab, an English band with a French chanteuse and several Moogs and guitars. Their sound would occupy my ears time and time again throughout my high school experience until they were forced out by other new sounds I came across. Over 20 years later, I have revisited Stereolab… this time diving deeper into their politics. This particular track is both nostalgic yet more relevant today than before…
 
 >Though this world's essentially an absurd place to be living in
-
->It doesn't call for total withdrawal
-
->I've been told it's a fact of life
-
->Men have to kill one another
-
->Well I say there are still things worth fighting for
-
->La Resistance!
-
->Though this world's essentially an absurd place to be living in
-
->It doesn't call for (bubble withdrawal)
-
->It said human existence is pointless
-
->As acts of rebellious solidarity
-
->Can bring sense in this world
-
->La Resistance!
-
->Songwriters: Laetitia Sadier / Timothy John Gane
+><p>It doesn't call for total withdrawal
+><p>I've been told it's a fact of life
+><p>Men have to kill one another
+><p>Well I say there are still things worth fighting for
+La Resistance!
+Though this world's essentially an absurd place to be living in
+It doesn't call for (bubble withdrawal)
+It said human existence is pointless
+As acts of rebellious solidarity
+Can bring sense in this world
+La Resistance!
 
 ![Aliya](/assets/aliya-profile.jpg)
+
 ## Hi, I’m Aliya Ryan!
 
 I was born and brought up in the UK in a food, travel and people loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
@@ -82,6 +70,7 @@ The tech world was new to me when I joined Digital Democracy, but through it I h
 The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of Renee Paulani Louis on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in Where the Animals Go.
 
 ![Cindy](/assets/cindy-profile.jpg)
+
 ## Hi, I’m Cindy Zeng!
 
 I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by the possibility that the Mapeo ecosystem provides. Ideally, Mapeo ecosystem would help empower people/communities in a way that feels intuitive and natural without exploitation. It’s inspirational to see the team work and think through solutions in a way that puts the user/communities first to make sure that communities own the product instead of the other way around.
