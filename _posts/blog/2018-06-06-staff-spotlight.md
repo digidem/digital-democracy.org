@@ -47,6 +47,9 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 ><p>As acts of rebellious solidarity
 ><p>Can bring sense in this world
 ><p>La Resistance!
+<<p>Songwriters: Laetitia Sadier / Timothy John Gane
+<
+
 
 ![Aliya](/assets/aliya-profile.jpg)
 
@@ -67,7 +70,7 @@ I feel particularly lucky to be able to spend quality time with our partners in 
 The tech world was new to me when I joined Digital Democracy, but through it I have also been introduced to radically subversive, genius and inspiring people using tech to build more collaborative, distributed and kind systems which I believe can help bring positive change.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
-The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of Renee Paulani Louis on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in Where the Animals Go.
+The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of [Renee Paulani Louis](http://www.ipsr.ku.edu/igrc/hiiaka/rpl.html) on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in [Where the Animals Go](http://wheretheanimalsgo.com/the-maps/).
 
 ![Cindy](/assets/cindy-profile.jpg)
 
