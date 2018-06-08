@@ -39,14 +39,14 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 ><p>It doesn't call for total withdrawal
 ><p>I've been told it's a fact of life
 ><p>Men have to kill one another
-><p>Well I say there are still things worth fighting for
-La Resistance!
-Though this world's essentially an absurd place to be living in
-It doesn't call for (bubble withdrawal)
-It said human existence is pointless
-As acts of rebellious solidarity
-Can bring sense in this world
-La Resistance!
+><b>Well I say there are still things worth fighting for
+><b>La Resistance!
+><b>Though this world's essentially an absurd place to be living in
+><b>It doesn't call for (bubble withdrawal)
+<p>It said human existence is pointless
+<p>As acts of rebellious solidarity
+<b>Can bring sense in this world
+<b>La Resistance!
 
 ![Aliya](/assets/aliya-profile.jpg)
 
@@ -76,3 +76,18 @@ The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolon
 I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by the possibility that the Mapeo ecosystem provides. Ideally, Mapeo ecosystem would help empower people/communities in a way that feels intuitive and natural without exploitation. It’s inspirational to see the team work and think through solutions in a way that puts the user/communities first to make sure that communities own the product instead of the other way around.
 
 **Is there a person or group from your work with Dd that has particularly inspired you?** The person who has particularly inspired me, probably by way of just being the one I’ve worked closest with, is Aldo. Aldo has inspired me to approach problems both in work and life in a completely different way. Their approach to problem solving blends together the impatient get-it-done attitude that I’ve become accustomed to in the private sector and the warmth, understanding, and emotional intuition that is unique to Aldo. When approached with a problem, their attitude is never accusatory or defeated, but inquisitive, empowering and supportive. “How can I help support you?” is always the first question they ask. Working with Aldo never feels like work and is always filled with laughter and warmth. I can’t say I have a particular story that sticks out in my mind of Aldo’s inspiration, but I will say when I think back to my interactions with them, each and every one has prompted me to learn something new about myself or the world. Perhaps that’s what’s truly inspiring about them, they bring out the best and most productive from a person, not through exploitation, force, or impatience, but through kindness, understanding, and just the right amount of sass.
+
+## Hi, I’m Helena Qin!
+
+I am a curious mind, passionate cook and foodie, that person who will pet your dog, and (at times) a software developer. Outside of Digital Democracy, I also work at Intuit as a front-end engineer based in Mountain View, California, though I love to eat my way through travelling.
+
+**What do you focus on at Dd?** I focus on Mapeo Mobile as a front-end developer, helping to connect indigenous communities with access to technology that will help tell their stories and protect their land and culture.
+
+**What inspires you the most about your work?** The possibilities for positive impact and change that Mapeo has on communities and people inspire me. The technology that we are building is taking a different approach by working alongside our partners to come up with solutions that will make a difference, as they truly own their data and stories.
+
+The people that make up Digital Democracy also inspire me. Everyone brings unique perspectives that have inspired me to think about issues much bigger than myself, and ultimately have inspired me to do better to help bring change through technology.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?**
+The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, here. This episode discusses ideas about pushing us out of our comfort zones, from facing our fears and taking risks, to hard issues like talking about race and privilege.
+
+My favorite section in the podcast is with humanitarian activist Dan Pallotta. He talks about the importance of community, as we seem to have an abundance of the word community, but a lack in actual community. Dan speaks of “our inability to be with one another that gives rise to so many of the problems” that we currently have, which really resonates with me.
