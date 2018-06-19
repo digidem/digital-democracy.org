@@ -66,6 +66,10 @@ $leftbar-width: remCalc(85);
     img {
       width: 100%;
     }
+    .profile-image {
+      padding: 0;
+      margin-bottom: 1em;
+    }
     .full-width {
       padding: 0;
       margin: 2em 0 2em;
@@ -135,6 +139,17 @@ $leftbar-width: remCalc(85);
       float: right;
       position: relative;
       margin: 0.85em -50% 0.85em 1em;
+    }
+    .profile-image {
+      margin: 0 0 0.85em 1em;
+      width: 50%;
+      float: right;
+      padding-right: 0;
+      position: relative;
+      img {
+        float: none;
+        margin: 0;
+      }
     }
     .full-width img {
       float: none;

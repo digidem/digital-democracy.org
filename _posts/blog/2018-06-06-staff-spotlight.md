@@ -21,7 +21,9 @@ Meet the team
 
 ## Hi, I’m Aldo Puicon!
 
-![Aldo Puicon](/assets/aldo-sunny.jpg)
+<div class="profile-image">
+  <img alt="Aldo Puicon Photo" src="/assets/aldo-sunny.jpg">
+</div>
 
 I practice design at the intersection of [people, equity, and sustainability](https://medium.com/@aldopuicon/people-progress-sustainability-ideas-to-guide-our-practice-work-aa87e55c18df#.z7wjjy8i1). To do so, I partner with visionary people and organizations to co-design radical strategies and solutions.
 
@@ -35,29 +37,29 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?** French Disko by Stereolab (1994) … When I was 14, my good friend Melanie introduced me to the sounds of Stereolab, an English band with a French chanteuse and several Moogs and guitars. Their sound would occupy my ears time and time again throughout my high school experience until they were forced out by other new sounds I came across. Over 20 years later, I have revisited Stereolab… this time diving deeper into their politics. This particular track is both nostalgic yet more relevant today than before…
 
->Though this world's essentially an absurd place to be living in
-><p>It doesn't call for total withdrawal
-><p>I've been told it's a fact of life
-><p>Men have to kill one another
-><p>Well I say there are still things worth fighting for
-><p>La Resistance!
-><p>Though this world's essentially an absurd place to be living in
-><p>It doesn't call for (bubble withdrawal)
-><p>It said human existence is pointless
-><p>As acts of rebellious solidarity
-><p>Can bring sense in this world
-><p>La Resistance!
-><p>Songwriters: Laetitia Sadier / Timothy John Gane
-
-
-
-![Aliya](/assets/aliya-profile.jpg)
+>Though this world's essentially an absurd place to be living in<br>
+>It doesn't call for total withdrawal<br>
+>I've been told it's a fact of life<br>
+>Men have to kill one another<br>
+>Well I say there are still things worth fighting for<br>
+>La Resistance!<br>
+>Though this world's essentially an absurd place to be living in<br>
+>It doesn't call for (bubble withdrawal)<br>
+>It said human existence is pointless<br>
+>As acts of rebellious solidarity<br>
+>Can bring sense in this world<br>
+>La Resistance!
+><p>Songwriters: Laetitia Sadier / Timothy John Gane</p>
 
 ## Hi, I’m Aliya Ryan!
 
+<div class="profile-image">
+  <img alt="Aliya Ryan Photo" src="/assets/aliya-profile.jpg">
+</div>
+
 I was born and brought up in the UK in a food, travel and people loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
 
-My interest and desire to challenge and see beyond my worldview, and an inability to remain inactive when witnessing injustice and inequality led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.  
+My interest and desire to challenge and see beyond my worldview, and an inability to remain inactive when witnessing injustice and inequality led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.
 
 Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer Scottish twilight. And I’m learning the trapeze for the day I run away to the circus...
 
@@ -72,9 +74,11 @@ The tech world was new to me when I joined Digital Democracy, but through it I h
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
 The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of [Renee Paulani Louis](http://www.ipsr.ku.edu/igrc/hiiaka/rpl.html) on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in [Where the Animals Go](http://wheretheanimalsgo.com/the-maps/).
 
-![Cindy](/assets/cindy-profile.jpg)
-
 ## Hi, I’m Cindy Zeng!
+
+<div class="profile-image">
+  <img alt="Cindy Zeng Photo" src="/assets/cindy-profile.jpg">
+</div>
 
 I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by the possibility that the Mapeo ecosystem provides. Ideally, Mapeo ecosystem would help empower people/communities in a way that feels intuitive and natural without exploitation. It’s inspirational to see the team work and think through solutions in a way that puts the user/communities first to make sure that communities own the product instead of the other way around.
 
@@ -95,9 +99,11 @@ The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, [here](https:/
 
 My favorite section in the podcast is with humanitarian activist Dan Pallotta. He talks about the importance of community, as we seem to have an abundance of the word community, but a lack in actual community. Dan speaks of “our inability to be with one another that gives rise to so many of the problems” that we currently have, which really resonates with me.
 
-![Jen](/assets/jen-profile.jpg)
-
 ## Hi, I’m Jen Castro!
+
+<div class="profile-image">
+  <img alt="Jen Castro Photo" src="/assets/jen-profile.jpg">
+</div>
 
 My path has been an interesting one beginning with my parents migrating from Quito, Ecuador to Toronto, Canada, being born and raised in a concrete jungle and moving to the West Coast and living in East Vancouver for the last nine years. I have had the privilege of using some of my many talents to support critical social justice issues in the city and learning from the Musqueam, Squamish and Tsleil-Waututh people about their territory through climate justice, arts and community organizing in Vancouver. When I’m not working on amazing projects with Digital Democracy, I like to stay busy in my garden, studio, and kitchen creating all kinds of interesting things for my friends and I to enjoy.
 
@@ -111,9 +117,11 @@ The thing I hope people learn about Digital Democracy is how much attention we p
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
 I had the fortune of hearing [Leanne Betasamosake](https://www.leannesimpson.ca/) Simpson do a reading from her paper [Land as Pedagogy](http://whereareyouquetzalcoatl.com/mesofigurineproject/EthnicAndIndigenousStudiesArticles/Simpson2014.pdf). She was talking about the place where I grew up, Toronto, in a similar way I had thought of the Amazon, "back home" in Ecuador.
 
-![Karissa](/assets/karissa-profile.jpg)
-
 ## Hi, I’m Karissa McKelvey!
+
+<div class="profile-image">
+  <img alt="Karissa McKelvey Photo" src="/assets/karissa-profile.jpg">
+</div>
 
 I’m an open source software developer, musician, bicycle nerd, and avid traveler. I’ve been involved in movements for social and economic justice since I was small, starting with fighting for equal rights on the streets of San Francisco with my two moms and a sign.
 
@@ -121,9 +129,11 @@ I’m an open source software developer, musician, bicycle nerd, and avid travel
 
 **What inspires you the most about your work?** Normally, technology companies own the data generated by users, and make money by privatizing that data. Our work is unique by respecting user autonomy and privacy. Users own their data and can use it offline, choosing to share it with whomever they want. This ‘decentralization’ of data is cutting-edge technology, and I’m proud that we’re setting an example for other technology and human rights organizations.
 
-![Stephen](/assets/stephen-profile.jpg)
-
 ## Hi, I'm Stephen. On the internet I'm called noffle.
+
+<div class="profile-image">
+  <img alt="Stephen Whitmore (noffle) Photo" src="/assets/stephen-profile.jpg">
+</div>
 
 I live in Oakland, California with my partner and a cuddly but mildly psychotic cat named Roxy, with a smattering of happy plants basking in our living room window. I identify with the [solarpunk](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/) ethos of a bright collective future through sustainable technology and nurturing our connection to nature. I enjoy writing empowering Node.JS modules and small programs [that do one thing well](https://en.wikipedia.org/wiki/Unix_philosophy), and also sometimes design [video games](https://ldjam.com/events/ludum-dare/41/dungeon-typist).
 
