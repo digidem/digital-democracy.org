@@ -57,9 +57,9 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
   <img alt="Aliya Ryan Photo" src="/assets/aliya-profile.jpg">
 </div>
 
-I was born and brought up in the UK in a food, travel and people loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
+I was born and brought up in the UK in a people, travel and cooking loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
 
-My interest and desire to challenge and see beyond my worldview, and an inability to remain inactive when witnessing injustice and inequality led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.
+My desire to challenge and see beyond my worldview and to engage with concerns about the legacies of colonialism led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.
 
 Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer-Scottish-twilight. And I’m learning the trapeze for the day I run away to the circus...
 
@@ -84,9 +84,11 @@ I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by 
 
 **Is there a person or group from your work with Dd that has particularly inspired you?** The person who has particularly inspired me, probably by way of just being the one I’ve worked closest with, is Aldo. Aldo has inspired me to approach problems both in work and life in a completely different way. Their approach to problem solving blends together the impatient get-it-done attitude that I’ve become accustomed to in the private sector and the warmth, understanding, and emotional intuition that is unique to Aldo. When approached with a problem, their attitude is never accusatory or defeated, but inquisitive, empowering and supportive. “How can I help support you?” is always the first question they ask. Working with Aldo never feels like work and is always filled with laughter and warmth. I can’t say I have a particular story that sticks out in my mind of Aldo’s inspiration, but I will say when I think back to my interactions with them, each and every one has prompted me to learn something new about myself or the world. Perhaps that’s what’s truly inspiring about them, they bring out the best and most productive from a person, not through exploitation, force, or impatience, but through kindness, understanding, and just the right amount of sass.
 
-![Emily](/assets/emily-profile.jpg)
-
 ## Hi, I'm Emily Jacobi!
+
+<div class="profile-image">
+  <img alt="Emily Jacobi Photo" src="/assets/emily-profile.jpg">
+</div>
 
 I grew up in Indianapolis, Indiana, and was lucky enough to take part in an incredible youth journalism program that treated young people as if their voices matter. There, I was trained to ask questions and use my skills to amplify the voices of others. Pretty much everything I’ve done in my professional life has been inspired by this early training!
 
@@ -98,9 +100,11 @@ I’m passionate about social justice, decolonization, healing ancestral trauma,
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?** I read two books recently that I found deeply enriching and engrossing, and that I think might be of interest to Digital Democracy’s broader community. The first is [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), by Robin Wall Kimmerer, which weaves together indigenous traditions and scientific knowledge to explore the incredible wisdom of the plant world. The second book is [Whose Global Village](https://nyupress.org/books/9781479856084/) by Ramesh Srinivasan. His book explores how technology development is shaped by corporate capitalism, often deepening existing inequalities, and shows ways in which local communities are reclaiming technology and building it on their own terms. For anyone interested in our work, I think it would be an enlightening and thought-provoking read.  
 
-![Gregor](/assets/gregor-profile.jpg)
-
 ## Hi, I'm Gregor MacLennan!
+
+<div class="profile-image">
+  <img alt="Gregor MacLennan Photo" src="/assets/gregor-profile.jpg">
+</div>
 
 I was born Scotland and grew up near London, England. My original passion was math and science, but I had the great fortune to travel to Indonesia and Uganda before I started university. Those trips opened my eyes to the diversity of experience in the world, and the injustice, and I switched from math to studying anthropology.
 
@@ -118,9 +122,11 @@ I have now been working with indigenous peoples in the Amazon for the past 19 ye
 
 **What is a piece of media (a book, song, story, movie, event, podcast, etc.) that you’d like to share with the Digital Democracy community?** When I had just started this work, 20 years ago, I was strongly inspired by the book “Maps and Dreams” by Hugh Brody, writing of his experience working with the Beaver people of Northeastern British Columbia, Canada. I learnt of the power of maps, and the challenges of the role of an outsider working to be an ally.
 
-![Helena](/assets/helena-profile.jpg)
-
 ## Hi, I’m Helena Qin!
+
+<div class="profile-image">
+  <img alt="Helena Qin Photo" src="/assets/Helena-profile.jpg">
+</div>
 
 I am a curious mind, passionate cook and foodie, that person who will pet your dog, and (at times) a software developer. Outside of Digital Democracy, I also work at Intuit as a front-end engineer based in Mountain View, California, though I love to eat my way through travelling.
 
@@ -165,10 +171,11 @@ I’m an open source software developer, musician, bicycle nerd, and avid travel
 
 **What inspires you the most about your work?** Normally, technology companies own the data generated by users, and make money by privatizing that data. Our work is unique by respecting user autonomy and privacy. Users own their data and can use it offline, choosing to share it with whomever they want. This ‘decentralization’ of data is cutting-edge technology, and I’m proud that we’re setting an example for other technology and human rights organizations.
 
-<<<<<<< HEAD
-![Sesoo](/assets/sesoo-profile.jpg)
-
 ## Hi, I'm Sesoo Igbazua
+
+<div class="profile-image">
+  <img alt="Sesoo Igbazua Photo" src="/assets/sesoo-profile.jpg">
+</div>
 
 I am a husband to a lovely southern belle and a father to two restless love vortexes. My life partner’s name is Keisha and our sons are Terva and Yima. I was born and spent the first two decades of my time on the planet, in Nigeria. I enjoy fufu, ramen and sushi, and I attempt poetry. My days are spent learning, and collecting experiences.
 
@@ -184,10 +191,6 @@ James Baldwin and WIlliam F. Buckley’s debate at the Cambridge Union in 1965. 
 I love Miles Davis’ album [“Some Kind of Blue”](https://www.youtube.com/watch?v=32gWo9CfoxA). You might enjoy it as well.
 Here’s a link to my poetry book [“The Faithful Miracle”](https://www.amazon.com/Faithful-Miracle-Poems-About-Woman-ebook/dp/B07CB9ZR15). It’s a short ebook.
 
-![Stephen](/assets/stephen-profile.jpg)
-
-=======
->>>>>>> origin/Staff-profiles-blog
 ## Hi, I'm Stephen. On the internet I'm called noffle.
 
 <div class="profile-image">
