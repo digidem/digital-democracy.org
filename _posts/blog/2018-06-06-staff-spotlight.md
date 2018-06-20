@@ -125,7 +125,7 @@ I have now been working with indigenous peoples in the Amazon for the past 19 ye
 ## Hi, I’m Helena Qin!
 
 <div class="profile-image">
-  <img alt="Helena Qin Photo" src="/assets/helena-profile.jpg">
+  <img alt="Helena Qin Photo" src="/assets/helena-profile.png">
 </div>
 
 I am a curious mind, passionate cook and foodie, that person who will pet your dog, and (at times) a software developer. Outside of Digital Democracy, I also work at Intuit as a front-end engineer based in Mountain View, California, though I love to eat my way through travelling.
