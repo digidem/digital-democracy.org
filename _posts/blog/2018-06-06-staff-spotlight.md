@@ -186,9 +186,13 @@ I am a husband to a lovely southern belle and a father to two restless love vort
 **Is there a person or group from your work with Dd that has particularly inspired you?** Meeting Emily and learning about Dd at the time I did was serendipitous and necessary. It gave me hope to be reminded that there were still good people out there working with marginalized communities from a genuine and informed place. In the short time I’ve worked with her, I can tell she places a great deal of importance on having the best information necessary to understand her role and impact on the communities she works with. I think that level of care is crucial to developing the most sustainable solutions.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?**  
+
 “Things Fall Apart” by Chinua Achebe is a critically acclaimed novel that chronicles a man navigating the impact of the British colonial presence on his way of life in Eastern Nigeria. You can find this on [Amazon](https://www.amazon.com/Things-Achebe-Chinua-Paperback-1994£©/dp/B00BP0JUGY/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=Q4GPSPR4R753FEX5H3XK).
+
 James Baldwin and WIlliam F. Buckley’s debate at the Cambridge Union in 1965. This is a conversation that I think highlights at the heart of it, the primacy of justice as a foundation for a sustainable existence for all members of society. You can find this on [Youtube](https://www.youtube.com/watch?v=oFeoS41xe7w&t=2160s).
+
 I love Miles Davis’ album [“Some Kind of Blue”](https://www.youtube.com/watch?v=32gWo9CfoxA). You might enjoy it as well.
+
 Here’s a link to my poetry book [“The Faithful Miracle”](https://www.amazon.com/Faithful-Miracle-Poems-About-Woman-ebook/dp/B07CB9ZR15). It’s a short ebook.
 
 ## Hi, I'm Stephen. On the internet I'm called noffle.
