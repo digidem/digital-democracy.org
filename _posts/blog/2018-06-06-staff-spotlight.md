@@ -51,7 +51,7 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 >La Resistance!
 ><p>Songwriters: Laetitia Sadier / Timothy John Gane</p>
 
-## Hi, I’m Aliya Ryan!
+## Hi, I’m Aliya
 
 <div class="profile-image">
   <img alt="Aliya Ryan Photo" src="/assets/aliya-profile.jpg">
@@ -61,9 +61,9 @@ I was born and brought up in the UK in a food, travel and people loving family w
 
 My interest and desire to challenge and see beyond my worldview, and an inability to remain inactive when witnessing injustice and inequality led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.
 
-Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer Scottish twilight. And I’m learning the trapeze for the day I run away to the circus...
+Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer-Scottish-twilight. And I’m learning the trapeze for the day I run away to the circus...
 
-**What do you focus on at Dd?** My role is to oversee Dd’s relationships with our partner communities and make sure that our tech development not only takes into account their needs, but is led by them so that the tools we make can be both useful and impactful, and also reduce dependence and build local autonomy. I do this by visiting the communities and seeing the tools in action, and lots of coordination at a distance. I also spend a fair amount of time travelling, making maps, preparing training and workshop materials and am the first point of contact for people enquiring to use Mapeo in new areas.
+**What do you focus on at Dd?** My role is to oversee Dd’s relationships with our partner communities and make sure that our tech development not only takes into account their needs, but is led by them so that the tools we make can be useful and impactful, whilst also reducing dependence and building local autonomy. I do this by visiting the communities and seeing the tools in action, and lots of coordination from a distance. I also spend a fair amount of time travelling, making maps, preparing training and workshop materials and am the first point of contact for people enquiring to use Mapeo in new areas.
 
 **What inspires you the most about your work?** All the people that I am lucky to work alongside, spend time with and count amongst my close colleagues and friends.
 
@@ -72,7 +72,7 @@ I feel particularly lucky to be able to spend quality time with our partners in 
 The tech world was new to me when I joined Digital Democracy, but through it I have also been introduced to radically subversive, genius and inspiring people using tech to build more collaborative, distributed and kind systems which I believe can help bring positive change.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
-The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of [Renee Paulani Louis](http://www.ipsr.ku.edu/igrc/hiiaka/rpl.html) on the challenges of being a contemporary indigenous cartographer and the gorgeous and imaginative maps of James Cheshire and Oliver Uberti shown in [Where the Animals Go](http://wheretheanimalsgo.com/the-maps/).
+The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolonialatlas/) which publishes maps that undermine colonial / imperial views and show alternative or maginalised ways of seeing and relating to space. In the same vein Hugh Brody’s beautiful book Maps and Dreams, which inspired me twenty years ago to start working in the area of indigenous land rights. More recently the reflections of [Renee Paulani Louis](http://www.ipsr.ku.edu/igrc/hiiaka/rpl.html) on the challenges of being a contemporary indigenous cartographer and the gorgeous, imaginative maps of James Cheshire and Oliver Uberti in [Where the Animals Go](http://wheretheanimalsgo.com/the-maps/).
 
 ## Hi, I’m Cindy Zeng!
 
@@ -83,6 +83,42 @@ The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolon
 I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by the possibility that the Mapeo ecosystem provides. Ideally, Mapeo ecosystem would help empower people/communities in a way that feels intuitive and natural without exploitation. It’s inspirational to see the team work and think through solutions in a way that puts the user/communities first to make sure that communities own the product instead of the other way around.
 
 **Is there a person or group from your work with Dd that has particularly inspired you?** The person who has particularly inspired me, probably by way of just being the one I’ve worked closest with, is Aldo. Aldo has inspired me to approach problems both in work and life in a completely different way. Their approach to problem solving blends together the impatient get-it-done attitude that I’ve become accustomed to in the private sector and the warmth, understanding, and emotional intuition that is unique to Aldo. When approached with a problem, their attitude is never accusatory or defeated, but inquisitive, empowering and supportive. “How can I help support you?” is always the first question they ask. Working with Aldo never feels like work and is always filled with laughter and warmth. I can’t say I have a particular story that sticks out in my mind of Aldo’s inspiration, but I will say when I think back to my interactions with them, each and every one has prompted me to learn something new about myself or the world. Perhaps that’s what’s truly inspiring about them, they bring out the best and most productive from a person, not through exploitation, force, or impatience, but through kindness, understanding, and just the right amount of sass.
+
+![Emily](/assets/emily-profile.jpg)
+
+## Hi, I'm Emily Jacobi!
+
+I grew up in Indianapolis, Indiana, and was lucky enough to take part in an incredible youth journalism program that treated young people as if their voices matter. There, I was trained to ask questions and use my skills to amplify the voices of others. Pretty much everything I’ve done in my professional life has been inspired by this early training!
+
+I’m passionate about social justice, decolonization, healing ancestral trauma, and just generally how humans can live more harmoniously with themselves and the environment. I split time between Oakland, California and Washington, DC, and I spend as much time outdoors - hiking, biking, or gardening - as I can. My pronouns are she/hers.
+
+**What do you focus on at Dd?** I wear a lot of hats at Dd, so I have to admit I’m not always as focused as I would like to be. But as the Executive Director, I get the chance to work with all of our incredible team members and board of directors. Together, we work to set the vision of the organization and work towards our goals. I oversee our operations, financial and fundraising work, and work closely with the programs and tech teams to implement our work with our programs and tools. I also work at a high level with our international and local partners, and support our communications work, speaking about Digital Democracy at conferences and other convenings.
+
+**What inspires you the most about your work?** Something transformative happens when communities are able to control their own data and share their narratives. Although this is shifting, we still live in an era where some worldviews dominate and oppress others. At Digital Democracy, we’re working in solidarity with people who have been told that their lives, their territories and their cultures are less worthy than others. So we’re working with our partners to co-create tools that allow them to challenge these stories, on their own terms. And that’s amazing. because our team strives not to come in thinking we know all the answers, we are continually learning from our partners. We may have more technical knowledge about particular digital tools than they do, but we recognize them as the experts of their local environments. In the process, I find myself continually inspired by the work they are doing, and what they share with us.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?** I read two books recently that I found deeply enriching and engrossing, and that I think might be of interest to Digital Democracy’s broader community. The first is [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), by Robin Wall Kimmerer, which weaves together indigenous traditions and scientific knowledge to explore the incredible wisdom of the plant world. The second book is [Whose Global Village](https://nyupress.org/books/9781479856084/) by Ramesh Srinivasan. His book explores how technology development is shaped by corporate capitalism, often deepening existing inequalities, and shows ways in which local communities are reclaiming technology and building it on their own terms. For anyone interested in our work, I think it would be an enlightening and thought-provoking read.  
+
+![Gregor](/assets/gregor-profile.jpg)
+
+## Hi, I'm Gregor MacLennan!
+
+I was born Scotland and grew up near London, England. My original passion was math and science, but I had the great fortune to travel to Indonesia and Uganda before I started university. Those trips opened my eyes to the diversity of experience in the world, and the injustice, and I switched from math to studying anthropology.
+
+I took every opportunity I could to travel, from which I learnt more of how the history of my own country and European colonialism has been a major part of the problems communities around the world face to this day. I participated in different development and conservation projects until I found a place and a role that made sense to me: in the Amazon Rainforest, working to support inspiring initiatives by local communities who were locked in a struggle to defend their land, their rights, and maintain their identity and culture in a changing world.
+
+I have now been working with indigenous peoples in the Amazon for the past 19 years. Initially I lived in Peru for 7 years, then worked from the US as a campaigner against destructive oil drilling in the Amazon. When I met Emily I joined the Digital Democracy team and we focused our work on supporting communities with technology and training, so that they could challenge extractive industries in their territory.
+
+**What do you focus on at Dd?** My role is to understand the diverse needs of our partners and other marginalized communities around the world, and lead the design of tools, like Mapeo, which help overcome technical barriers and dependencies on outsiders. I coordinate our amazing team of designers and developers and work closely with the program team. I have frequent trips into the field to learn about the work partners are doing on the ground, and where existing technology solutions are falling short for them.
+
+**What inspires you the most about your work?** We have the great privilege to be working with incredible community partners in some of the most beautiful places on the planet. Their dedication to their own people, their land, and their future has helped challenge the worst of colonization and environmental destruction. The way that the right technology, designed to meet their needs, can empower people and strengthen the important work they are already doing, is a strong inspiration for me.
+
+**Is there a person or group from your work with Dd that has particularly inspired you?** I first met the Achuar of the Corrientes river basin in Northern Peru in 2006. I was accompanying a PhD student from Barcelona visiting the area to research using satellite imagery to detect oil spills. The Achuar we met had a different idea: they wanted to learn how to use cameras and GPS to document the oil spills they had been suffering for decades, and show the world their plight. We helped support them in starting a community managed monitoring and reporting program, which has led to major improvements to oil operations in the region. Over the years projects and financial support has come and gone, and the team has grown and changed, but the local team have continued to work for their own communities, diligently documenting oil spills and holding the oil company to account.
+
+**What’s something you wish people knew about the work that Digital Democracy does?** I wish more people could meet the communities and the individuals we work with, and be inspired as I have by their dedication to fighting for their land and future.
+
+**What is a piece of media (a book, song, story, movie, event, podcast, etc.) that you’d like to share with the Digital Democracy community?** When I had just started this work, 20 years ago, I was strongly inspired by the book “Maps and Dreams” by Hugh Brody, writing of his experience working with the Beaver people of Northeastern British Columbia, Canada. I learnt of the power of maps, and the challenges of the role of an outsider working to be an ally.
+
+![Helena](/assets/helena-profile.jpg)
 
 ## Hi, I’m Helena Qin!
 
@@ -129,6 +165,29 @@ I’m an open source software developer, musician, bicycle nerd, and avid travel
 
 **What inspires you the most about your work?** Normally, technology companies own the data generated by users, and make money by privatizing that data. Our work is unique by respecting user autonomy and privacy. Users own their data and can use it offline, choosing to share it with whomever they want. This ‘decentralization’ of data is cutting-edge technology, and I’m proud that we’re setting an example for other technology and human rights organizations.
 
+<<<<<<< HEAD
+![Sesoo](/assets/sesoo-profile.jpg)
+
+## Hi, I'm Sesoo Igbazua
+
+I am a husband to a lovely southern belle and a father to two restless love vortexes. My life partner’s name is Keisha and our sons are Terva and Yima. I was born and spent the first two decades of my time on the planet, in Nigeria. I enjoy fufu, ramen and sushi, and I attempt poetry. My days are spent learning, and collecting experiences.
+
+**What do you focus on at Dd?** I work closely with Emily to ensure our decisions are informed by the most complete and accurate financial information, our operations are in compliance with all regulatory and tax requirements, and that we are responsible custodians of the funds entrusted to Dd.
+
+**What inspires you the most about your work?** The social justice impact of Dd’s work was the main attraction. I am inspired by anyone working to improve the world from a genuine and informed place.
+
+**Is there a person or group from your work with Dd that has particularly inspired you?** Meeting Emily and learning about Dd at the time I did was serendipitous and necessary. It gave me hope to be reminded that there were still good people out there working with marginalized communities from a genuine and informed place. In the short time I’ve worked with her, I can tell she places a great deal of importance on having the best information necessary to understand her role and impact on the communities she works with. I think that level of care is crucial to developing the most sustainable solutions.
+
+**What is a piece of media that you’d like to share with the Digital Democracy community?**  
+“Things Fall Apart” by Chinua Achebe is a critically acclaimed novel that chronicles a man navigating the impact of the British colonial presence on his way of life in Eastern Nigeria. You can find this on [Amazon](https://www.amazon.com/Things-Achebe-Chinua-Paperback-1994£©/dp/B00BP0JUGY/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=Q4GPSPR4R753FEX5H3XK).
+James Baldwin and WIlliam F. Buckley’s debate at the Cambridge Union in 1965. This is a conversation that I think highlights at the heart of it, the primacy of justice as a foundation for a sustainable existence for all members of society. You can find this on [Youtube](https://www.youtube.com/watch?v=oFeoS41xe7w&t=2160s).
+I love Miles Davis’ album [“Some Kind of Blue”](https://www.youtube.com/watch?v=32gWo9CfoxA). You might enjoy it as well.
+Here’s a link to my poetry book [“The Faithful Miracle”](https://www.amazon.com/Faithful-Miracle-Poems-About-Woman-ebook/dp/B07CB9ZR15). It’s a short ebook.
+
+![Stephen](/assets/stephen-profile.jpg)
+
+=======
+>>>>>>> origin/Staff-profiles-blog
 ## Hi, I'm Stephen. On the internet I'm called noffle.
 
 <div class="profile-image">
