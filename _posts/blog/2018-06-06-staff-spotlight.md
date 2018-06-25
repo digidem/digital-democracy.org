@@ -18,6 +18,7 @@ That said, the Dd staff are amazing people and deserve a shoutout for their comm
 
 Meet the team
 
+- - - - - - - - - - 
 
 ## Hi, I’m Aldo Puicon!
 
@@ -88,7 +89,7 @@ I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by 
 
 **Is there a person or group from your work with Dd that has particularly inspired you?** The person who has particularly inspired me, probably by way of just being the one I’ve worked closest with, is Aldo. Aldo has inspired me to approach problems both in work and life in a completely different way. Their approach to problem solving blends together the impatient get-it-done attitude that I’ve become accustomed to in the private sector and the warmth, understanding, and emotional intuition that is unique to Aldo. When approached with a problem, their attitude is never accusatory or defeated, but inquisitive, empowering and supportive. “How can I help support you?” is always the first question they ask. Working with Aldo never feels like work and is always filled with laughter and warmth. I can’t say I have a particular story that sticks out in my mind of Aldo’s inspiration, but I will say when I think back to my interactions with them, each and every one has prompted me to learn something new about myself or the world. Perhaps that’s what’s truly inspiring about them, they bring out the best and most productive from a person, not through exploitation, force, or impatience, but through kindness, understanding, and just the right amount of sass.
 
-- - - - - - - - - - 
+- - - - - - - - - -
 
 ## Hi, I'm Emily Jacobi!
 
@@ -105,6 +106,8 @@ I’m passionate about social justice, decolonization, healing ancestral trauma,
 **What inspires you the most about your work?** Something transformative happens when communities are able to control their own data and share their narratives. Although this is shifting, we still live in an era where some worldviews dominate and oppress others. At Digital Democracy, we’re working in solidarity with people who have been told that their lives, their territories and their cultures are less worthy than others. So we’re working with our partners to co-create tools that allow them to challenge these stories, on their own terms. And that’s amazing. because our team strives not to come in thinking we know all the answers, we are continually learning from our partners. We may have more technical knowledge about particular digital tools than they do, but we recognize them as the experts of their local environments. In the process, I find myself continually inspired by the work they are doing, and what they share with us.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?** I read two books recently that I found deeply enriching and engrossing, and that I think might be of interest to Digital Democracy’s broader community. The first is [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), by Robin Wall Kimmerer, which weaves together indigenous traditions and scientific knowledge to explore the incredible wisdom of the plant world. The second book is [Whose Global Village](https://nyupress.org/books/9781479856084/) by Ramesh Srinivasan. His book explores how technology development is shaped by corporate capitalism, often deepening existing inequalities, and shows ways in which local communities are reclaiming technology and building it on their own terms. For anyone interested in our work, I think it would be an enlightening and thought-provoking read.  
+
+- - - - - - - - - -
 
 ## Hi, I'm Gregor MacLennan!
 
@@ -128,6 +131,8 @@ I have now been working with indigenous peoples in the Amazon for the past 19 ye
 
 **What is a piece of media (a book, song, story, movie, event, podcast, etc.) that you’d like to share with the Digital Democracy community?** When I had just started this work, 20 years ago, I was strongly inspired by the book “Maps and Dreams” by Hugh Brody, writing of his experience working with the Beaver people of Northeastern British Columbia, Canada. I learnt of the power of maps, and the challenges of the role of an outsider working to be an ally.
 
+- - - - - - - - - -
+
 ## Hi, I’m Helena Qin!
 
 <div class="profile-image">
@@ -147,6 +152,8 @@ The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, [here](https:/
 
 My favorite section in the podcast is with humanitarian activist Dan Pallotta. He talks about the importance of community, as we seem to have an abundance of the word community, but a lack in actual community. Dan speaks of “our inability to be with one another that gives rise to so many of the problems” that we currently have, which really resonates with me.
 
+- - - - - - - - - -
+
 ## Hi, I’m Jen Castro!
 
 <div class="profile-image">
@@ -165,6 +172,8 @@ The thing I hope people learn about Digital Democracy is how much attention we p
 **What is a piece of media that you’d like to share with the Digital Democracy community?**
 I had the fortune of hearing [Leanne Betasamosake](https://www.leannesimpson.ca/) Simpson do a reading from her paper [Land as Pedagogy](http://whereareyouquetzalcoatl.com/mesofigurineproject/EthnicAndIndigenousStudiesArticles/Simpson2014.pdf). She was talking about the place where I grew up, Toronto, in a similar way I had thought of the Amazon, "back home" in Ecuador.
 
+- - - - - - - - - -
+
 ## Hi, I’m Karissa McKelvey!
 
 <div class="profile-image">
@@ -176,6 +185,8 @@ I’m an open source software developer, musician, bicycle nerd, and avid travel
 **What do you focus on at Dd?** I work most closely with Gregor to develop, maintain, and communicate about our software. From peer-to-peer databases to interactive applications and maps, we provide a large variety of open source tools for managing, syncing, filtering, and visualizing map data.
 
 **What inspires you the most about your work?** Normally, technology companies own the data generated by users, and make money by privatizing that data. Our work is unique by respecting user autonomy and privacy. Users own their data and can use it offline, choosing to share it with whomever they want. This ‘decentralization’ of data is cutting-edge technology, and I’m proud that we’re setting an example for other technology and human rights organizations.
+
+- - - - - - - - - -
 
 ## Hi, I'm Sesoo Igbazua
 
@@ -192,6 +203,8 @@ I am a husband to a lovely southern belle and a father to two restless love vort
 **Is there a person or group from your work with Dd that has particularly inspired you?** Meeting Emily and learning about Dd at the time I did was serendipitous and necessary. It gave me hope to be reminded that there were still good people out there working with marginalized communities from a genuine and informed place. In the short time I’ve worked with her, I can tell she places a great deal of importance on having the best information necessary to understand her role and impact on the communities she works with. I think that level of care is crucial to developing the most sustainable solutions.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?**  “Things Fall Apart” by Chinua Achebe is a critically acclaimed novel that chronicles a man navigating the impact of the British colonial presence on his way of life in Eastern Nigeria. You can find this on [Amazon](https://www.amazon.com/Things-Achebe-Chinua-Paperback-1994£©/dp/B00BP0JUGY/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=Q4GPSPR4R753FEX5H3XK). James Baldwin and WIlliam F. Buckley’s debate at the Cambridge Union in 1965. This is a conversation that I think highlights at the heart of it, the primacy of justice as a foundation for a sustainable existence for all members of society. You can find this on [Youtube](https://www.youtube.com/watch?v=oFeoS41xe7w&t=2160s). I love Miles Davis’ album [“Some Kind of Blue”](https://www.youtube.com/watch?v=32gWo9CfoxA). You might enjoy it as well. Here’s a link to my poetry book [“The Faithful Miracle”](https://www.amazon.com/Faithful-Miracle-Poems-About-Woman-ebook/dp/B07CB9ZR15). It’s a short ebook.
+
+- - - - - - - - - -
 
 ## Hi, I'm Stephen. On the internet I'm called noffle.
 
