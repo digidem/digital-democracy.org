@@ -59,7 +59,7 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 
 I was born and brought up in the UK in a people, travel and cooking loving family whose regular perambulations took myself and my sisters between the dreaming spires of Oxford and Cambridge, the wild, boggy, moss-filled Scottish Borders, the crystal clear alpine air of Lake Zurich and ancient sites of mystical & culinary knowledge in modern day Turkey.
 
-My desire to challenge and see beyond my worldview and to engage with concerns about the legacies of colonialism led me to study anthropology and subsequently move to Peru, where my love affair with the Amazon and its people took hold.
+I studied anthropology and subsequently moved to Peru, where my love affair with the Amazon and its people took hold.
 
 Now I live in Edinburgh, am feeling joy at the arrival of elderflower in the hedgerows and dusk that turns into dawn in the magical midsummer-Scottish-twilight. And I’m learning the trapeze for the day I run away to the circus...
 
