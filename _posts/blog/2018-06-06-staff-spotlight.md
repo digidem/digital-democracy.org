@@ -10,15 +10,13 @@ image: /assets/team-spain.jpg
 excerpt: Later this year, Digital Democracy will be celebrating our ten year anniversary. Over the last decade, the organization has evolved in scope and impact. A huge factor in this evolution is the growing team of passionate and brilliant people who have made Dd what it is today. Meet the team
 ---
 
-Later this year, Digital Democracy will be celebrating our ten year anniversary. Over the last decade, the organization has evolved in scope and impact. A huge factor in this evolution is the growing team of passionate  and brilliant people who have made Dd what it is today.
+This fall, Digital Democracy will celebrate our ten year anniversary. When we first started, we were a group of four founding volunteers - Liz Hodes, Gabe Hopkins, Mark Belinsky, and myself. Over the past decade, many passionate and dedicated people have worked - and volunteered! - to make Digital Democracy what it is today. But as the impact of our work has grown, it’s become clear that for Digital Democracy to truly achieve its goal to support marginalized communities on the frontlines of the world’s most pressing environmental and human rights issues, we needed to professionalize and grow our team.
 
-For Digital Democracy, our current work is about our partners living on the frontlines of oil extraction and land-grabs. The Dd staff lives and works for its values - to be sidekicks for the real heroes who are protecting their ancestral lands.
+For the past two years, thanks to support from our donors, we have expanded our team. For me, it is thrilling to see how much more we are able to accomplish as a group of ten.
 
-That said, the Dd staff are amazing people and deserve a shoutout for their commitment to this work.
+From tool-building to local partner support to finances, meet the members of the Digital Democracy team: 
 
-Meet the team
-
-- - - - - - - - - - 
+- - - - - - - - - -
 
 ## Hi, I’m Aldo Puicon!
 
