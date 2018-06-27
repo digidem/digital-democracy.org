@@ -241,3 +241,7 @@ Technology is not neutral; it cannot exist in a vacuum. It is not an unstoppable
 Digital Democracy is the only place I've ever worked where it's different. Dd seeks to empower marginalized peoples and communities; to listen before speaking; to suggest and not demand; to put people before profit, and no human being above another. We’re still learning as we go, but Dd embodies these values in our intentions, and it's exactly these qualities that our world so urgently needs in the technology it creates.
 
 **What is a piece of media that you’d like to share with the Digital Democracy community?** Zach Mandeville’s modular [The Future Will be Technical](https://coolguy.website/writing/the-future-will-be-technical/index.html) essays. Technology doesn’t have to be awful and oppressive and isolating. It can be rejuvenating, empowering, community-building, and a conduit for creativity, personal expression, and self exploration.
+
+---
+
+Thanks for taking the time to learn more about our team! Huge thanks to the many other contributors, volunteers & collaborators who make our work possible. Follow along with our work on [github.com/digidem](https://github.com/digidem) and [twitter.com/digidem](https://twitter.com/digidem)
