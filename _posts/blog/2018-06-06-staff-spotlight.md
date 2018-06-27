@@ -7,14 +7,14 @@ tags:
   - featured
   - front-page
 image: /assets/team-spain.jpg
-excerpt: Later this year, Digital Democracy will be celebrating our ten year anniversary. Over the last decade, the organization has evolved in scope and impact. A huge factor in this evolution is the growing team of passionate and brilliant people who have made Dd what it is today. Meet the team
+excerpt: Later this year, Digital Democracy will be celebrating our ten year anniversary. Over the last decade, the organization has evolved in scope and impact. A huge factor in this evolution is the growing team of passionate and brilliant people who have made Dd what it is today. Meet the team.
 ---
 
-This fall, Digital Democracy will celebrate our ten year anniversary. When we first started, we were a group of four founding volunteers - Liz Hodes, Gabe Hopkins, Mark Belinsky, and myself. Over the past decade, many passionate and dedicated people have worked - and volunteered! - to make Digital Democracy what it is today. But as the impact of our work has grown, it’s become clear that for Digital Democracy to truly achieve its goal to support marginalized communities on the frontlines of the world’s most pressing environmental and human rights issues, we needed to professionalize and grow our team.
+This fall, Digital Democracy will celebrate our ten year anniversary. When we first started, we were a group of four founding volunteers -- Liz Hodes, Gabe Hopkins, Mark Belinsky, and myself. Over the past decade, many passionate and dedicated people have worked -- and volunteered! -- to make Digital Democracy what it is today. But as the impact of our work has grown, it’s become clear that for Digital Democracy to truly achieve its goal to support marginalized communities on the frontlines of the world’s most pressing environmental and human rights issues, we needed to professionalize and grow our team.
 
 For the past two years, thanks to support from our donors, we have expanded our team. For me, it is thrilling to see how much more we are able to accomplish as a group of ten.
 
-From tool-building to local partner support to finances, meet the members of the Digital Democracy team: 
+From tool-building to local partner support to finances, meet the members of the Digital Democracy team:
 
 - - - - - - - - - -
 
@@ -103,7 +103,7 @@ I’m passionate about social justice, decolonization, healing ancestral trauma,
 
 **What inspires you the most about your work?** Something transformative happens when communities are able to control their own data and share their narratives. Although this is shifting, we still live in an era where some worldviews dominate and oppress others. At Digital Democracy, we’re working in solidarity with people who have been told that their lives, their territories and their cultures are less worthy than others. So we’re working with our partners to co-create tools that allow them to challenge these stories, on their own terms. And that’s amazing. because our team strives not to come in thinking we know all the answers, we are continually learning from our partners. We may have more technical knowledge about particular digital tools than they do, but we recognize them as the experts of their local environments. In the process, I find myself continually inspired by the work they are doing, and what they share with us.
 
-**What is a piece of media that you’d like to share with the Digital Democracy community?** I read two books recently that I found deeply enriching and engrossing, and that I think might be of interest to Digital Democracy’s broader community. The first is [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), by Robin Wall Kimmerer, which weaves together indigenous traditions and scientific knowledge to explore the incredible wisdom of the plant world. The second book is [Whose Global Village](https://nyupress.org/books/9781479856084/) by Ramesh Srinivasan. His book explores how technology development is shaped by corporate capitalism, often deepening existing inequalities, and shows ways in which local communities are reclaiming technology and building it on their own terms. For anyone interested in our work, I think it would be an enlightening and thought-provoking read.  
+**What is a piece of media that you’d like to share with the Digital Democracy community?** I read two books recently that I found deeply enriching and engrossing, and that I think might be of interest to Digital Democracy’s broader community. The first is [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass), by Robin Wall Kimmerer, which weaves together indigenous traditions and scientific knowledge to explore the incredible wisdom of the plant world. The second book is [Whose Global Village](https://nyupress.org/books/9781479856084/) by Ramesh Srinivasan. His book explores how technology development is shaped by corporate capitalism, often deepening existing inequalities, and shows ways in which local communities are reclaiming technology and building it on their own terms. For anyone interested in our work, I think it would be an enlightening and thought-provoking read.
 
 - - - - - - - - - -
 
@@ -149,6 +149,21 @@ The people that make up Digital Democracy also inspire me. Everyone brings uniqu
 The “Comfort Zone” episode of NPR’s Ted Radio Hour podcast, [here](https://overcast.fm/+HuQLMhRjc). This episode discusses ideas about pushing us out of our comfort zones, from facing our fears and taking risks, to hard issues like talking about race and privilege.
 
 My favorite section in the podcast is with humanitarian activist Dan Pallotta. He talks about the importance of community, as we seem to have an abundance of the word community, but a lack in actual community. Dan speaks of “our inability to be with one another that gives rise to so many of the problems” that we currently have, which really resonates with me.
+
+- - - - - - - - - -
+
+## Hi, I'm James, also known as Substack.
+
+<div class="profile-image">
+  <img alt="James Halliday" src="/assets/substack-profile.jpg">
+</div>
+
+I live off-grid in Puna District, Hawai'i where I write software and
+grow food. I'm a member of bits.coop.
+
+**What do you focus on at Dd?** I work on osm-p2p, the custom database for map data used by mapeo. The database is designed so that people can edit locally and replicate with peers without ever needing to be online.
+
+**What inspires you the most about your work?** I like how the tools are grounded in the material requirements of pre-existing struggles. Real-world experience informs how the tech should be built, not the other way around.
 
 - - - - - - - - - -
 
