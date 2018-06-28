@@ -18,7 +18,7 @@ From tool-building to local partner support to finances, meet the members of the
 
 - - - - - - - - - -
 
-## Hi, I’m Aldo Puicon!
+## Hi, I’m Aldo!
 
 <div class="profile-image">
   <img alt="Aldo Puicon Photo" src="/assets/aldo-sunny.jpg">
@@ -52,7 +52,7 @@ On a more personal note: I was born in Lima (Peru), and my family immigrated to 
 
 - - - - - - - - - -
 
-## Hi, I’m Aliya
+## Hi, I’m Aliya!
 
 <div class="profile-image">
   <img alt="Aliya Ryan Photo" src="/assets/aliya-profile.jpg">
@@ -77,7 +77,7 @@ The [decolonial atlas blog](https://decolonialatlas.wordpress.com/author/decolon
 
 - - - - - - - - - -
 
-## Hi, I’m Cindy Zeng!
+## Hi, I’m Cindy!
 
 <div class="profile-image">
   <img alt="Cindy Zeng Photo" src="/assets/cindy-profile.jpg">
@@ -89,7 +89,7 @@ I work on mapeo-mobile as a developer for Digital Democracy.  I’m inspired by 
 
 - - - - - - - - - -
 
-## Hi, I'm Emily Jacobi!
+## Hi, I'm Emily!
 
 <div class="profile-image">
   <img alt="Emily Jacobi Photo" src="/assets/emily-profile.jpg">
@@ -107,7 +107,7 @@ I’m passionate about social justice, decolonization, healing ancestral trauma,
 
 - - - - - - - - - -
 
-## Hi, I'm Gregor MacLennan!
+## Hi, I'm Gregor!
 
 <div class="profile-image">
   <img alt="Gregor MacLennan Photo" src="/assets/gregor-profile.jpg">
@@ -131,7 +131,7 @@ I have now been working with indigenous peoples in the Amazon for the past 19 ye
 
 - - - - - - - - - -
 
-## Hi, I’m Helena Qin!
+## Hi, I’m Helena!
 
 <div class="profile-image">
   <img alt="Helena Qin Photo" src="/assets/helena-profile.png">
@@ -167,7 +167,7 @@ grow food. I'm a member of bits.coop.
 
 - - - - - - - - - -
 
-## Hi, I’m Jen Castro!
+## Hi, I’m Jen!
 
 <div class="profile-image">
   <img alt="Jen Castro Photo" src="/assets/jen-profile.jpg">
@@ -187,7 +187,7 @@ I had the fortune of hearing [Leanne Betasamosake](https://www.leannesimpson.ca/
 
 - - - - - - - - - -
 
-## Hi, I’m Karissa McKelvey!
+## Hi, I’m Karissa!
 
 <div class="profile-image">
   <img alt="Karissa McKelvey Photo" src="/assets/karissa-profile.jpg">
@@ -201,7 +201,7 @@ I’m an open source software developer, musician, bicycle nerd, and avid travel
 
 - - - - - - - - - -
 
-## Hi, I'm Sesoo Igbazua
+## Hi, I'm Sesoo!
 
 <div class="profile-image">
   <img alt="Sesoo Igbazua Photo" src="/assets/sesoo-profile.jpg">
