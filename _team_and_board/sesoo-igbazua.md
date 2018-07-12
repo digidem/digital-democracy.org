@@ -17,5 +17,3 @@ A double graduate of Howard University (BBA and MBA), he has honed his skills an
 When he is not knee-deep in the books, he can be found chasing after his two little boys or cooking with his wife in their home in the Deanwood neighborhood.
 
 Contact: [sigbazua@digital-democracy.org](mailto:sigbazua@digital-democracy.org)
-
-Twitter:
