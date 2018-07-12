@@ -2,6 +2,7 @@
 layout: team
 title: Sesoo Igbazua
 role: "Director of Finance and Operations"
+twitter:
 tags:
   - core
 current: true
