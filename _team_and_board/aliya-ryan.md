@@ -2,7 +2,6 @@
 layout: team
 title: Aliya Ryan
 role: "Program Coordinator"
-twitter: 
 tags:
   - core
 current: true
