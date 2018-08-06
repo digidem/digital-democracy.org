@@ -22,7 +22,7 @@ Meet Tessa Josephs, Makushi monitoring coordinator; xxxxx xxxxx xxxxx; Opi Nenqu
   <img alt="Opi Nenquimo phhoto" src="/assets/opi-1.jpg">
 </div>
 
-**Tell us a little about yourself:** My name is Oswando Nenquimo, but everyone calls me Opi and I’m 35 years old. I am Waorani and I grew up in the community of Nemonpare, in the Amazon in Ecuador. I’ve been working visiting the communities with the mapping team since 2015.
+**Tell us a little about yourself:** My name is Oswando Nenquimo, but everyone calls me Opi; I’m 35 years old. I am Waorani and I grew up in the community of Nemonpare, in the Amazon in Ecuador. I’ve been working visiting the communities with the mapping team since 2015.
 
 **What inspires you:** I’ve always been inspired to help the Waorani nation to organize itself and regain its autonomy, and I’ve spent a long time wondering how best to protect our territory. The Pastaza river basin where I grew up inspires me because it has not yet been affected by oil extraction or other major threats. I want to defend it. I have always dreamed and had the vision that my people should be happy and live freely and peacefully within our territory.
 
@@ -32,7 +32,7 @@ Meet Tessa Josephs, Makushi monitoring coordinator; xxxxx xxxxx xxxxx; Opi Nenqu
 
 **Something you want to share with us:** I have heard many songs from the women in villages throughout Waorani lands who sing when we arrive, and talk about people who have come from afar. I don’t know the words exactly but one song tells of a parrot that is flying from a really long way away towards our green territory. It stretches its wings wide like a condor and eventually arrives. The parrot sits on a branch and sings, and starts building a nest, and then later its babies are born. This is how people talk about people arriving from Digital Democracy and bringing the technology. It’s a really long song, one of many that I have heard different women sing.
 
-
+Other resources: Blog on AC site - Mexico article - read about mapping work Dd blog.
 
 
 ---
