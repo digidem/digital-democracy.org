@@ -1,18 +1,21 @@
 ---
 categories: blog
 published: true
-title: "International indigenous peoples day"
-author: Emily Jacobi
+title: "Partner Spotlight: International indigenous peoples day"
+author: Aliya Ryan
+date: 2018-08-09T10:20:00Z
 tags:
   - featured
   - front-page
-image: /assets/opi-1.jpg
-excerpt: For this year's international indigenous peoples' day we would like to introduce you to some of the women and men whom we are proud to count amongst our friends and colleagues. It their strength of vision and tireless work that inspires us to write code, design interfaces and build the tools that they can use to map and monitor their territories, and protect their lands and cultures for the future.
+image: /assets/wao_mapping.jpg
+excerpt: Today, August 9, is International Indigenous Peoples Day. To celebrate, we’ll be sharing a series of posts in the next few weeks introducing you to some of the people whom we are proud to count amongst our friends and colleagues.  
 ---
 
-For this year's international indigenous peoples' day we would like to introduce you to some of the women and men whom we are proud to count amongst our friends and colleagues. It their strength of vision and tireless work that inspires us to write code, design interfaces and build the tools that they can use to map and monitor their lands, and protect their culture for the future. Our tools are built for them and they are also built with them, as we try to involve them as much as possible in the design and development process, to ensure that the solutions we build together are based in and respond to real needs in the best possible way.
+Today, August 9, is International Indigenous Peoples Day. To celebrate, we’ll be sharing a series of posts in the next few weeks introducing you to some of the people whom we are proud to count amongst our friends and colleagues. 
 
-Meet Tessa Josephs, Makushi monitoring coordinator; xxxxx xxxxx xxxxx; and Opi Nenquimo, Waorani director of territory at Alianza Ceibo.
+At Digital Democracy, we work to support the leadership and sovereignty of indigenous people. It is their strength of vision and tireless work that inspires us to write code, design interfaces and build tools they can use to map and monitor their lands, thereby protecting their cultures for the future. We build our tools with our local partners, including Tessa Joseph and Opi Nenquimo, who are profiled below. This means we work to involve them as much as possible in the design and development process, to ensure that the solutions we build together are based on real needs.
+
+Meet Opi Nenquimo, Waorani Director of Territory at Alianza Ceibo, and Tessa Josephs, a Makushi woman who is the Monitoring Coordinator for the [South Rupununi District Council](http://wapichanao.communitylands.org/index.html), the first of three profiles we will be doing about our partner’s critical work.  
 
 - - - - - - - - - -
 
@@ -32,8 +35,6 @@ Meet Tessa Josephs, Makushi monitoring coordinator; xxxxx xxxxx xxxxx; and Opi N
 
 **Something you want to share with us:** I have heard many songs from the women in villages throughout Waorani lands who sing when we arrive, and talk about people who have come from afar. I don’t know the words exactly but one song tells of a parrot that is flying from a really long way away towards our green territory. It stretches its wings wide like a condor and eventually arrives. The parrot sits on a branch and sings, and starts building a nest, and then later its babies are born. This is how people talk about people arriving from Digital Democracy and bringing the technology. It’s a really long song, one of many that I have heard different women sing.
 
-Other resources: Blog on AC site - Mexico article - read about mapping work Dd blog - Wao resist map and campaign
-
 ## Waponi!
 
 <div class="profile-image">
@@ -47,6 +48,16 @@ Other resources: Blog on AC site - Mexico article - read about mapping work Dd b
 **How do you work with Digital Democracy** The work with Digital Democracy is helping us to map out our lands and digitise our area. We are using technology to see what is happening on our lands, like the mining for example, to use the map and drones to go overhead and look at our forests and see if they are still healthy or if something is going on. I like using technology and feel comfortable with it. I didn’t learn about tech in a college or university; I learnt about it first with the Digital Democracy team, and I’d like to learn more about it. Tech changes every day, and i’d like to learn more about developing software and writing commands because right now we are dependent on people coming from the outside to do this for us.
 
 **Something you want to share with us:** We hold many important traditional beliefs about the forest which, together with shamanic power, can be used to help conserve it. These beliefs inspire me to continue to protect it because our forest is sacred to us, it is our home. I don’t want to wake up one morning and find it has disappeared. I want my sons and their sons to grow up and be able to see it and enjoy it. For me, living in my home and seeing all the beauty in it, and having enough food from it, makes me happy and continue to live and protect my land. So learning all the traditional beliefs, and knowledge of the forest spirits, the land and water spirits inspires me to protect them so they will be there always for the future generations.
+ 
+Learn more: 
+  * Read [Opi’s article](https://www.revistadelauniversidad.mx/articles/15aa78e7-d712-4ae5-8daf-9431390313bd/mapeo-territorial-waorani) on Waorani Mapping, published by the Universidad de Mexico - in Spanish
+  * Explore the [Waorani Resistance Map and Campaign](https://waoresist.amazonfrontlines.org/explore/) on the Amazon Frontlines Website
+  * Explore the [Waorani Territory Map](https://www.alianzaceibo.org/mapas/waorani/) on the Alianza Ceibo website
+  * Read [blog posts](https://www.alianzaceibo.org/blog/) on the Alianza Ceibo website - in Spanish
+  * Read more about [Dd’s mapping work with the Waorani](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
+
+*Note: Opi’s interview has been translated from Spanish*
+
 
 
 ---
