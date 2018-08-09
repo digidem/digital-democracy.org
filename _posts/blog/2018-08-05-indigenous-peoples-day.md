@@ -15,11 +15,11 @@ Today, August 9, is International Indigenous Peoples Day. To celebrate, we’ll 
 
 At Digital Democracy, we work to support the leadership and sovereignty of indigenous people. It is their strength of vision and tireless work that inspires us to write code, design interfaces and build tools they can use to map and monitor their lands, thereby protecting their cultures for the future. We build our tools with our local partners, including Tessa Joseph and Opi Nenquimo, who are profiled below. This means we work to involve them as much as possible in the design and development process, to ensure that the solutions we build together are based on real needs.
 
-Meet Opi Nenquimo, Waorani Director of Territory at Alianza Ceibo, and Tessa Josephs, a Makushi woman who is the Monitoring Coordinator for the [South Rupununi District Council](http://wapichanao.communitylands.org/index.html), the first of three profiles we will be doing about our partner’s critical work.  
+Meet Opi Nenquimo, Waorani Director of Territory at [Alianza Ceibo](https://www.alianzaceibo.org/), and Tessa Josephs, a Makushi woman who is the Monitoring Coordinator for the [South Rupununi District Council](http://wapichanao.communitylands.org/index.html), the first of three profiles we will be doing about our partner’s critical work.  
 
 - - - - - - - - - -
 
-## Waponi!
+# Waponi!
 
 <div class="profile-image">
   <img alt="Opi Nenquimo photo" src="/assets/opi-1.jpg">
@@ -45,13 +45,15 @@ Meet Opi Nenquimo, Waorani Director of Territory at Alianza Ceibo, and Tessa Jos
 
 *Note: Opi’s interview has been translated from Spanish*
 
-## Miyaremang!
+- - - - - - - - - -
+
+# Miyaremang!
 
 <div class="profile-image">
   <img alt="Tessa Josephs photo" src="/assets/tessa-1.jpg">
 </div>
 
-**Tell us a little about yourself?** I’m Tessa and I’m mixed tribe - Makushi and Wapichan - from Guyana. But I feel more Makushi tribe and speak Makushi because I grew up with my grandmother. She taught me all the traditions and knowledge, and I know about the history of my land from her. To me, to be indigenous means that we belong to the land. Our ancestors left it for us and we share its history, we have survived with it.
+**Tell us a little about yourself?** I’m Tessa and I’m mixed tribe - Makushi and Wapichan - from Guyana. But I feel more Makushi tribe and speak Makushi because I grew up with my grandmother. She taught me all the traditions and knowledge, and I know about the history of my land from her. **To me, to be indigenous means that we belong to the land**. Our ancestors left it for us and we share its history, we have survived with it.
 
 **What inspires you?** I work with the South Rupununi Toshao Council to protect and look after our land. This is important because our grandparents left us our land in a good and natural state. If we don’t take care of it, who will? There are lots of companies now who are trying to develop our country by destroying the forest so it is up to us to keep it alive and keep it going. That is what inspires me; my grandfather was a chief for many years and I’m inspired to carry on his work.
 
