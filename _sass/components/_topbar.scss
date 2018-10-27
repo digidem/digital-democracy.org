@@ -74,7 +74,6 @@ header.site-header {
   position: relative;
   font-size: $rem-base;
   z-index: 999;
-  background-color: $dd-blue;
 
   // Menu button
   button {
@@ -94,10 +93,9 @@ header.site-header {
     &:after {
       content: "";
       position: absolute;
-      -webkit-box-shadow: 0 20px 0 2px white, 0 28px 0 2px white, 0 36px 0 2px white;
       width: 20px;
       max-height: 0;
-      right: $topbar-height / 3;
+      right: 0;
     }
   }
 
@@ -137,7 +135,6 @@ header.site-header {
     list-style: none;
     display: block;
     float: right;
-    background-color: lighten($dd-blue, 5%);
     font-size: $rem-base;
     margin: 0;
     max-height: 0;
@@ -196,17 +193,6 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
   header.site-header {
     margin-top: $topbar-margin-bottom;
     margin-bottom: $topbar-margin-bottom;
-    box-shadow: 62.5em 0 transparentize($dd-blue, 0.1);
-    background-color: transparentize($dd-blue, 0.1);
-
-    // Add a full-width colored bar behind the nav
-    &:before {
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      z-index: -1;
-      box-shadow: -62.5em 0 transparentize($dd-blue, 0.1);
-    }
 
     h1 {
       margin-left: 100px;
