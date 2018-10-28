@@ -91,11 +91,11 @@ $slick-caption-background-color: rgba(0, 0, 0, 0.5);
 @media #{$large} {
   .slick-slide, .slideshow-item {
     .caption {
-      @include grid-column(5, false, false, 1);
       position: absolute;
       padding: 0.7em 1.2em 1em;
+      width: 50%;
+      min-width: 500px;
       &.right {
-        @include grid-column(5, false, false, 6);
         position: absolute;
       }
       p {

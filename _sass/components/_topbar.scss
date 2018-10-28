@@ -10,12 +10,12 @@ $include-html-top-bar-classes: $include-html-classes;
 // Background color for the top bar
 $topbar-bg-color: transparentize($dd-blue, 0.1) !default;
 $topbar-bg: $topbar-bg-color !default;
-
+$topbar-nav-button-padding: 5px 15px;
 
 $topbar-button-bg-color: #9d261d;
 
 // Height and margin
-$topbar-height: 55px !default;
+$topbar-height: 60px !default;
 // $topbar-margin-bottom: 0 !default;
 $topbar-margin-bottom: rem-calc(30);
 $topbar-margin-top: rem-calc(28);
@@ -28,9 +28,9 @@ $topbar-title-weight: normal !default;
 $topbar-title-font-size: rem-calc(25);
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: #fff !default;
-$topbar-link-color-hover: #fff !default;
-$topbar-link-color-active: #fff !default;
+$topbar-link-color: black !default;
+$topbar-link-color-hover: black !default;
+$topbar-link-color-active: black !default;
 $topbar-link-weight: bold !default;
 $topbar-link-font-size: rem-calc(18);
 $topbar-link-hover-lightness: -10% !default; // Darken by 30%
@@ -68,7 +68,6 @@ meta.foundation-mq-topbar {
 }
 
 header.site-header {
-  @include grid-row();
   height: $topbar-height;
   line-height: $topbar-height;
   position: relative;
@@ -106,20 +105,18 @@ header.site-header {
 
   // Logo in CSS + Title
   h1 {
-    line-height: $topbar-height;
-    height: $topbar-height;
+    padding-top: 10px;
     font-size: $topbar-title-font-size;
     margin: 0;
-    float: left;
-    margin-left: 70px;
-
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 0;
     white-space: nowrap;
     overflow: hidden;
 
     a {
-      font-weight: $topbar-title-weight;
-      color: $topbar-link-color;
+      color: #fff;
       display: block;
       padding: 0 $topbar-height / 3;
       &:hover {
@@ -150,16 +147,12 @@ header.site-header {
         font-weight: $topbar-link-weight;
 
         &:not(.button) {
-          padding: 0 $topbar-height / 3;
-          line-height: $topbar-height;
+          padding: $topbar-nav-button-padding;
         }
         &.button {
-          @include button-base;
-          @include button-size;
           @include button-style($donate-button, 0);
           font-size: $topbar-link-font-size;
-          line-height: $topbar-height;
-          padding: 0 $topbar-height / 3;
+          padding: $topbar-nav-button-padding;
         }
       }
     }
@@ -191,11 +184,9 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
 @media #{$topbar-media-query} {
 
   header.site-header {
-    margin-top: $topbar-margin-bottom;
     margin-bottom: $topbar-margin-bottom;
 
     h1 {
-      margin-left: 100px;
       width: 0;
 
       a:before {
@@ -224,12 +215,14 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
 
     ul {
       width: auto;
+      margin: 15px;
       height: $topbar-height;
       max-height: $topbar-height;
       background-color: transparent;
-      margin: 0;
       @include transition(none);
       li {
+        margin: 10px;
+        background-color: rgba(255,255,255,.5);
         float: left;
       }
     }
