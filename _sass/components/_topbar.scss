@@ -52,8 +52,7 @@ $topbar-transition-speed: 300ms;
 $topbar-breakpoint: unquote("#{lower-bound($medium-range)}"); // Change to 9999px for always mobile layout
 $topbar-media-query: "#{$screen} and (min-width:#{lower-bound($topbar-breakpoint)})";
 
-// I use a :before element to create the wide bar behind the navigation.
-// this technique creates a wide page, which needs to be hidden.
+// wide pages need to be hidden.
 
 html {
   overflow-x: hidden;
@@ -65,6 +64,20 @@ html {
 meta.foundation-mq-topbar {
   font-family: "/" + unquote($topbar-media-query) + "/";
   width: $topbar-breakpoint;
+}
+
+.switch-language-bar {
+  padding: 10px;
+  text-align: right;
+  background-color: darkblue;
+  color: white;
+  a {
+    color: white;
+    padding: 0px 10px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 header.site-header {

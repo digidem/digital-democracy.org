@@ -33,13 +33,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   @media #{$medium-up} {
     .header {
       margin-top:-30px;
-      .news {
-        padding: 0px 90px;
-      }
-      .news span {
-        font-size: .8rem;
-        padding: 15px 40px;
-      }
     }
     .scroller {
       justify-content: center;
@@ -73,7 +66,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     * {
       z-index: 1;
     }
-    position: relative;
     display: flex;
     display: -webkit-flex;
     height: 390px;
@@ -86,20 +78,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       z-index: 0;
       position: absolute;
       width: 100%;
-    }
-    .news {
-      width: 100%;
-      position: absolute;
-      display: flex;
-      justify-content: space-between;
-      bottom: 0;
-      vertical-align: middle;
-      color: $dark-blue;
-      margin-top: 50px;
-      margin: 0px auto;
-      span {
-        border-radius: 5px 5px 0px 0px;
-      }
     }
 
     .download-buttons {
