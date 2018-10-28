@@ -3,7 +3,7 @@ layout: default
 body_class: full-header
 ---
 <section class="slideshow slick-loading">
-  {% for post in site.tags.front-page limit: 5 %}
+  {% for post in site.tags.front-page limit: 1 %}
   <div class="slideshow-item">
     <a href="{{ post.url }}">
       <img src="{{ post.image }}" class="check-aspect-ratio" />
