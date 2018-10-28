@@ -16,7 +16,8 @@ $slick-dot-size: 6px !default;
 $slick-opacity-default: 0.75 !default;
 $slick-opacity-on-hover: 1 !default;
 $slick-opacity-not-active: 0.25 !default;
-$slick-caption-background-color: rgba(0, 0, 0, 0.5);
+$slick-caption-background-color: darkblue;
+$slick-caption-heading-color: white;
 
 @function slick-image-url($url) {
     @if function-exists(image-url) {
@@ -68,19 +69,28 @@ $slick-caption-background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 0.7em 0.8em 0.7em;
-    background-color: $slick-caption-background-color;
     color: white;
-    h3 {
-      color: white;
-      text-shadow: black 1px 1px 2px;
-      margin: 0 0 0.2em;
+    padding-bottom: 8rem;
+    h2, h3 {
+      width: -moz-fit-content; // TODO: and what would it be on non-moz? 
+      margin: 0px;
+      padding: 10px;
+      color: $slick-caption-heading-color;
+      background-color: $slick-caption-background-color;
       a {
         color: inherit;
         &:hover {
           @include underline(rgba(255,255,255,0.8), 3px, 1px);
         }
       }
+    }
+    h2 {
+      font-size: 6em; 
+      line-height: 6rem;
+    }
+    h3 {
+      font-size: 2em;
+      line-height: 2rem;
     }
     p {
       margin: 0;
@@ -92,7 +102,6 @@ $slick-caption-background-color: rgba(0, 0, 0, 0.5);
   .slick-slide, .slideshow-item {
     .caption {
       position: absolute;
-      padding: 0.7em 1.2em 1em;
       width: 50%;
       min-width: 500px;
       &.right {
