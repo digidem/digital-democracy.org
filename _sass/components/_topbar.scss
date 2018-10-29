@@ -69,7 +69,7 @@ meta.foundation-mq-topbar {
 .switch-language-bar {
   padding: 10px;
   text-align: right;
-  background-color: darkblue;
+  background-color: $dd-blue;
   color: white;
   a {
     color: white;
@@ -132,10 +132,6 @@ header.site-header {
       color: #fff;
       display: block;
       padding: 0 $topbar-height / 3;
-      &:hover {
-        color: $topbar-link-color;
-        background-color: $topbar-link-bg-hover;
-      }
     }
   }
 
@@ -249,10 +245,6 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
             transform: translate3d(0,0,0);
     transition: -webkit-transform 400ms ease-out;
     transition: transform 400ms ease-out;
-    &.affix-top {
-      position: fixed;
-      top: 0;
-    }
     &.affix {
       position: absolute;
       top: 33.33%;
