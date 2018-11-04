@@ -25,7 +25,7 @@ $topbar-input-height: 2.45em !default;
 
 // Controlling the styles for the title in the top bar
 $topbar-title-weight: normal !default;
-$topbar-title-font-size: rem-calc(25);
+$topbar-title-font-size: rem-calc(30);
 
 // Set the link colors and styles for top-level nav
 $topbar-link-color: black !default;
@@ -118,20 +118,22 @@ header.site-header {
 
   // Logo in CSS + Title
   h1 {
-    padding-top: 10px;
     font-size: $topbar-title-font-size;
+    line-height: 1.6;
+    font-weight: 500;
     margin: 0;
     position: absolute;
     top: 0;
     left: 0;
     width: 0;
-    white-space: nowrap;
-    overflow: hidden;
 
     a {
       color: #fff;
-      display: block;
-      padding: 0 $topbar-height / 3;
+      display: inline;
+      background-color: $dd-blue-light;
+      padding: 6px 12px 9px 12px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
     }
   }
 
@@ -254,6 +256,6 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
 
 @media #{$large-up} {
   header.site-header h1 {
-    width: auto;
+    width: 1em;
   }
 }
