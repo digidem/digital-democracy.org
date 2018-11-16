@@ -118,7 +118,7 @@ header.site-header {
 
   // Logo in CSS + Title
   h1 {
-    font-size: $topbar-title-font-size;
+    font-size: 1.8rem;
     line-height: 1;
     font-weight: 500;
     margin: 0;
@@ -126,20 +126,21 @@ header.site-header {
     top: 0;
     left: 0;
     width: 0;
-
+    a:first-child {
+      z-index: 1;
+      position: relative;
+    }
     a {
       color: #fff;
       display: inline-block;
       background-color: $dd-blue-light;
-      padding: 12px 20px 0px 20px;
+      padding: 12px 17px 0px 17px;
       -webkit-box-decoration-break: clone;
       box-decoration-break: clone;
     }
     a:last-child {
-      padding: 9px 20px 12px 20px;
+      padding: 9px 17px 12px 17px;
       margin-top: -4px;
-      z-index: -1;
-      position: relative;
     }
   }
 
@@ -261,7 +262,31 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
 }
 
 @media #{$large-up} {
-  header.site-header h1 {
-    width: 1em;
+  header.site-header {
+    h1 {
+      font-size: 2.3rem;
+      a {
+        padding: 12px 20px 0px 20px;
+      }
+      a:last-child {
+        padding: 9px 20px 12px 20px;
+        margin-top: -4px;
+      }
+    }
+  }
+}
+
+@media #{$xlarge-up} {
+  header.site-header {
+    h1 {
+      font-size: 2.5rem;
+      a {
+        padding: 12px 20px 0px 20px;
+      }
+      a:last-child {
+        padding: 9px 20px 12px 20px;
+        margin-top: -4px;
+      }
+    }
   }
 }
