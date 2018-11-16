@@ -55,3 +55,9 @@ body_class: full-header
     </ul>
   </nav>
 </section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.1/balancetext.min.js"></script>
+<script>
+  // Balances lines of text for elements in slideshow caption and mission statement
+  balanceText('.slideshow .caption h2 > *, .mission-statement', {watch: true});
+</script>
