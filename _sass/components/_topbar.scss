@@ -137,6 +137,13 @@ header.site-header {
   ul.open, .top-bar.expanded ul {
     height: auto;
     max-height: 500%;
+    min-height: calc(100vh - 85px);
+    background-color: $dd-blue-dark;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 45px 0 78px 0;
+    opacity: 1;
   }
 
   // Logo in CSS + Title
@@ -176,6 +183,10 @@ header.site-header {
     margin: 0;
     max-height: 0;
     overflow-y: hidden;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 200ms ease-out;
+    z-index: 1;
     li {
       & > a {
         display: block;
@@ -186,13 +197,34 @@ header.site-header {
         font-size: $topbar-link-font-size;
         font-weight: $topbar-link-weight;
 
-        &:not(.button) {
-          padding: $topbar-nav-button-padding;
+        padding: 5px 24px;
+        color: white;
+        font-size: 2.2rem;
+
+        &.donate {
+          font-size: 2.3rem;
+          padding: 32px 24px;
+          position: relative;
+          margin: 16px 0px;
+          &:before, &:after {
+            content: "";
+            position: absolute;
+            height: 1px;
+            background-color: rgba(255,255,255,0.5);
+            width: 40px;
+            left: 24px;
+          }
+          &:before {
+            top: 0;
+          }
+          &:after {
+            bottom: 0;
+          }
         }
-        &.button {
-          @include button-style($donate-button, 0);
-          font-size: $topbar-link-font-size;
-          padding: $topbar-nav-button-padding;
+        &.lang {
+          text-transform: uppercase;
+          font-weight: 300;
+          font-size: 1.1rem;
         }
       }
     }
