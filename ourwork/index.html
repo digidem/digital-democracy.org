@@ -41,7 +41,9 @@ the forloop index to a string to compare it.
   {% endfor %}
 {% endfor %}
 <!-- End featured posts -->
-<!-- Start all other posts -->
+<!-- Start all other posts 
+  disabling this for now because we dont want to showcase the 
+  archived projects 
 {% assign featured_posts = featured_posts | split: "," %}
 {% for post in site.projects %}
   {% assign index0 = forloop.index0 | append: "" %}
@@ -49,6 +51,6 @@ the forloop index to a string to compare it.
 {% include excerpt.html class = "small" no_excerpt = true %}
   {% endunless %}
 {% endfor %}
-<!-- End all other posts -->
+ End all other posts -->
   </ul>
 </section>
