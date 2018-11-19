@@ -14,7 +14,7 @@
   $(window).on('resize', updateOffset);
   updateOffset();
 
-  var $context = $('html.no-touch body.full-header');
+  var $context = $('html.no-touch body.full-header.affix');
 
   // Affix the header to the top of the page for full-size header image articles
   $('.site-header', $context).affix({

@@ -39,7 +39,7 @@ $topbar-link-bg-active: adjust-color($topbar-bg-color, $lightness: $topbar-link-
 
 // Top menu icon styles
 $topbar-menu-link-transform: uppercase !default;
-$topbar-menu-link-font-size: emCalc(16) !default;
+$topbar-menu-link-font-size: remCalc(20);
 $topbar-menu-link-weight: bold !default;
 $topbar-menu-link-color: #fff !default;
 $topbar-menu-icon-color: #fff !default;
@@ -49,7 +49,7 @@ $topbar-menu-icon-color-toggled: #888 !default;
 // Transitions and breakpoint styles
 $topbar-transition-speed: 300ms;
 // Using rem-calc for the below breakpoint causes issues with top bar
-$topbar-breakpoint: unquote("#{lower-bound($medium-range)}"); // Change to 9999px for always mobile layout
+$topbar-breakpoint: unquote("#{upper-bound($medium-range)}"); // Change to 9999px for always mobile layout
 $topbar-media-query: "#{$screen} and (min-width:#{lower-bound($topbar-breakpoint)})";
 
 // wide pages need to be hidden.
@@ -152,9 +152,6 @@ header.site-header {
     line-height: 1;
     font-weight: 500;
     margin: 0;
-    top: 0;
-    left: 0;
-    width: 0;
     a:first-child {
       z-index: 1;
       position: relative;
@@ -174,11 +171,9 @@ header.site-header {
   }
 
   ul {
-    @include single-transition(max-height, $topbar-transition-speed);
     width: 100%;
     list-style: none;
     display: block;
-    float: right;
     font-size: $rem-base;
     margin: 0;
     max-height: 0;
@@ -186,17 +181,14 @@ header.site-header {
     position: absolute;
     opacity: 0;
     transition: opacity 200ms ease-out;
-    z-index: 1;
+    z-index: 999;
     li {
+      font-family: "Rubik", sans-serif;
       & > a {
+        white-space: nowrap;
         display: block;
         width: 100%;
-        color: $topbar-link-color;
-        padding: 12px 0 12px 0;
-        padding-#{$default-float}: $topbar-height / 3;
-        font-size: $topbar-link-font-size;
         font-weight: $topbar-link-weight;
-
         padding: 5px 24px;
         color: white;
         font-size: 2.2rem;
@@ -231,53 +223,38 @@ header.site-header {
   }
 }
 
-html:not(.touch) header nav ul {
-  li:hover > a {
-    background: $topbar-link-bg-hover;
-    color: $topbar-link-color-hover;
-  }
-}
-
-// Highlight the active page
-body[data-section="/ourwork/"] nav ul li > a[href="/ourwork/"],
-body[data-section="/blog/"] nav ul li > a[href="/blog/"],
-body[data-section="/team/"] nav ul li > a[href="/team/"],
-body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"],
-body[data-section="/jobs/"] nav ul li > a[href="/aboutus/"],
-body[data-section="/team/"] nav ul li > a[href="/aboutus/"],
-body[data-section="/mission/"] nav ul li > a[href="/aboutus/"],
-body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
-  background: $topbar-link-bg-active;
-  color: $topbar-link-color-active;
-}
-
-
 // Top Bar styles intended for screen sizes above the breakpoint.
 @media #{$topbar-media-query} {
+  // Highlight the active page
+  body[data-section="/ourwork/"] nav ul li > a[href="/ourwork/"],
+  body[data-section="/mapeo/"] nav ul li > a[href="/mapeo/"],
+  body[data-section="/blog/"] nav ul li > a[href="/blog/"],
+  body[data-section="/team/"] nav ul li > a[href="/team/"],
+  body[data-section="/aboutus/"] nav ul li > a[href="/aboutus/"],
+  body[data-section="/jobs/"] nav ul li > a[href="/aboutus/"],
+  body[data-section="/team/"] nav ul li > a[href="/aboutus/"],
+  body[data-section="/mission/"] nav ul li > a[href="/aboutus/"],
+  body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
+    background-color: rgba(255,255,255,0.8);
+  }
+
 
   header.site-header {
-    margin-bottom: $topbar-margin-bottom;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: unset;
+    margin-bottom: 2rem;
 
     h1 {
-      width: 0;
-
-      a:before {
-        width: $dd-logo-size;
-        height: $dd-logo-size;
-        top: -15px;
-        border: 3px solid #444;
-        font-size: $dd-logo-size / 2;
-        padding-top: 12px;
+      font-size: 2.3rem;
+      a {
+        padding: 12px 20px 0px 20px;
       }
-      a:after {
-        width: 35px;
-        height: 35px;
-        border: 12px double $dd-grey;
-        top: 4px;
-        left: 53px;
-        clip: rect(0,17.5px,17.5px,0);
-        @include border-radius(17.5px 0 0);
-        @include rotate(25deg);
+      a:last-child {
+        padding: 9px 20px 10px 20px;
+        margin-top: -4px;
       }
     }
 
@@ -287,15 +264,54 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
 
     ul {
       width: auto;
-      margin: 15px;
-      height: $topbar-height;
-      max-height: $topbar-height;
+      margin: 0;
       background-color: transparent;
-      @include transition(none);
+      position: static;
+      max-height: unset;
+      opacity: 1;
+      display: flex;
+      font-size: 0.9rem;
       li {
-        margin: 10px;
-        background-color: rgba(255,255,255,.5);
-        float: left;
+        margin: 0;
+        &:last-child {
+          order: -1;
+        }
+        & > a {
+          color: black;
+          background-color: rgba(255,255,255,0.5);
+          font-size: 1.2em;
+          padding: 5px 17px;
+          margin: 0 14px;
+          width: auto;
+          font-weight: 500;
+          &:hover {
+            background-color: rgba(255,255,255,0.8);
+          }
+          &.donate {
+            padding: 5px 17px;
+            margin: 0 28px 0 14px;
+            font-size: 1.2em;
+            color: white;
+            background-color: #FF3301;
+            &:before, &:after {
+              content: none;
+            }
+            &:hover {
+              background-color: darken(#FF3301, 10%);
+            }
+          }
+          &.lang {
+            text-transform: uppercase;
+            color: white;
+            background-color: rgba(0,0,51,0.6);
+            font-weight: 300;
+            font-size: 0.8em;
+            line-height: calc(1.6 * 1.2 / 0.8);
+            &:hover {
+              background-color: rgba(0,0,51,0.8);
+            }
+          }
+        }
       }
     }
   }
@@ -312,20 +328,8 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
       position: absolute;
       top: 33.33%;
     }
-  }
-}
-
-@media #{$large-up} {
-  header.site-header {
-    h1 {
-      font-size: 2.3rem;
-      a {
-        padding: 12px 20px 0px 20px;
-      }
-      a:last-child {
-        padding: 9px 20px 12px 20px;
-        margin-top: -4px;
-      }
+    &.affix-top {
+      position: fixed;
     }
   }
 }
@@ -341,6 +345,9 @@ body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
         padding: 9px 20px 12px 20px;
         margin-top: -4px;
       }
+    }
+    ul {
+      font-size: 1.1rem;
     }
   }
 }
