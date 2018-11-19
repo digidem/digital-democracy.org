@@ -235,7 +235,7 @@ header.site-header {
   body[data-section="/team/"] nav ul li > a[href="/aboutus/"],
   body[data-section="/mission/"] nav ul li > a[href="/aboutus/"],
   body[data-section="/supporters/"] nav ul li > a[href="/aboutus/"] {
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,0.9);
   }
 
 
@@ -277,15 +277,16 @@ header.site-header {
           order: -1;
         }
         & > a {
-          color: black;
-          background-color: rgba(255,255,255,0.5);
+          color: #000033;
+          background-color: rgba(255,255,255,0.7);
           font-size: 1.2em;
           padding: 5px 17px;
           margin: 0 14px;
           width: auto;
           font-weight: 500;
           &:hover {
-            background-color: rgba(255,255,255,0.8);
+            background-color: rgba(255,255,255,0.9);
+            color: black;
           }
           &.donate {
             padding: 5px 17px;
@@ -302,13 +303,14 @@ header.site-header {
           }
           &.lang {
             text-transform: uppercase;
-            color: white;
-            background-color: rgba(0,0,51,0.6);
+            color: rgba(255,255,255,0.8);
+            background-color: rgba(0,0,51,0.7);
             font-weight: 300;
             font-size: 0.8em;
             line-height: calc(1.6 * 1.2 / 0.8);
             &:hover {
-              background-color: rgba(0,0,51,0.8);
+              color: rgba(255,255,255,1);
+              background-color: rgba(0,0,51,0.9);
             }
           }
         }
