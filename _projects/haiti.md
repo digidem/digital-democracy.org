@@ -2,7 +2,6 @@
 title: 'Empowering Women in Haiti: Harnessing Technology to Address GBV'
 short_title: Empowering Women in Haiti to address GBV
 image: /assets/haiti-women-cameras-phone.jpg
-featured: medium
 published: true
 ---
 

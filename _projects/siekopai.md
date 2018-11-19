@@ -1,7 +1,7 @@
 ---
 title: 'Siekopai'
 image: /assets/haiti-women-cameras-phone.jpg
-featured: small
+featured: medium
 published: true
 ---
 
