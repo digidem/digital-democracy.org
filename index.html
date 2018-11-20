@@ -2,28 +2,28 @@
 layout: default
 body_class: full-header
 ---
-<section class="slideshow slick-loading">
-  {% for post in site.tags.front-page limit: 1 %}
-  <div class="slideshow-item">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image }}" class="check-aspect-ratio" />
-    </a>
-    <div class="{{ post.overlay_position }} caption">
-      <h2>
+<section class="above-fold">
+  <section class="slideshow">
+    <div class="slideshow-item">
+      <div class="image">
+        <img src="/assets/wao_mapping.jpg" class="check-aspect-ratio" />
+      </div>
+      <h2 class="caption">
         <em>Partnering with</em>
         <strong>Communities Worldwide</strong>
         <em>To build maptech to defend their rights</em>
       </h2>
     </div>
-  </div>
-  {% endfor %}
+  </section>
+
+  <section class="mission">
+    <blockquote class="mission-statement">
+      Digital Democracy empowers marginalized communities to use technology to defend their rights
+    </blockquote>
+  </section>
 </section>
 
-<section class="about">
-  <blockquote class="mission-statement">
-    Digital Democracy empowers marginalized communities to use technology to defend their rights
-  </blockquote>
-
+<section class="action">
   <!-- Begin MailChimp Signup Form -->
 
   <br/>
@@ -41,23 +41,10 @@ body_class: full-header
 
   <!--End mc_embed_signup-->
 
-  <nav class="subnav">
-    <ul>
-      <li>
-        <a href="/ourwork/"><img src="/assets/our-work.jpg" alt="Our Work"></a>
-      </li>
-      <li>
-        <a href="/donate/" target="_blank"><img src="/assets/support-us.jpg" alt="Support Us"></a>
-      </li>
-      <li>
-        <a href="/aboutus/"><img src="/assets/our-approach.jpg" alt="Our Approach"></a>
-      </li>
-    </ul>
-  </nav>
 </section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.1/balancetext.min.js"></script>
 <script>
   // Balances lines of text for elements in slideshow caption and mission statement
-  balanceText('.slideshow .caption h2 > *, .mission-statement', {watch: true});
+  balanceText('.slideshow h2.caption > *, .mission-statement', {watch: true});
 </script>

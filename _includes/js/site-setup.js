@@ -31,15 +31,15 @@
     smoothScroll(scrollTo);
   });
 
-  $('.slideshow').on('init reInit', function(e, slideshow) {
-    $('img', this).loadResponsiveImages().fixAspectRatio()
-    $('.caption', this).on('mouseenter', function() {
-      slideshow.slickPause();
-    });
-  }).slick({
-    autoplay: false,
-    pauseOnHover: false
-  })
+  // $('.slideshow').on('init reInit', function(e, slideshow) {
+  //   $('img', this).loadResponsiveImages().fixAspectRatio()
+  //   $('.caption', this).on('mouseenter', function() {
+  //     slideshow.slickPause();
+  //   });
+  // }).slick({
+  //   autoplay: false,
+  //   pauseOnHover: false
+  // })
 
 
 
