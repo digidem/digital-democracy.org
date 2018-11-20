@@ -1,6 +1,6 @@
 footer {
     min-height: 200px;
-    background-color: $dd-blue;
+    background-color: #000031;
     padding: 1em 0;
     .row {
       opacity: 0.8;
@@ -11,11 +11,12 @@ footer {
       margin-left: 0;
       li:first-child, li:first-child a {
         text-transform: uppercase;
-        font-weight: bold;
+        font-family: Rubik, sans-serif;
+        font-weight: 500;
         color: #fff;
       }
       li:first-child a:hover {
-        color: #008CBA;
+        text-decoration: underline;
       }
       li {
         color: #ffffff;
@@ -23,33 +24,12 @@ footer {
         margin-bottom: 0.5em;
       }
       a {
-        color: #cadaf3;
+        color: rgba(255,255,255,0.8);
         display: block;
+        &:hover {
+          color: #fff;
+        }
       }
-    }
-    .logo {
-      /* Hide the text. */
-      text-indent: 100%;
-      white-space: nowrap;
-      overflow: hidden;
-      a:before {
-        border-color: #fff;
-        background-color: transparent;
-        color: #fff;
-        top: 0;
-        left: -43px;
-        margin-left: 50%;
-        padding-top: 0;
-      }
-      a:after {
-        border: 11px double #fff;
-        top: 20px;
-        left: -4px;
-        margin-left: 50%;
-      }
-    }
-    .logo:hover {
-      opacity: 0.5;
     }
 }
 
