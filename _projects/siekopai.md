@@ -26,13 +26,13 @@ it, the sites of old villages, ceremonial sites and the paths taken by their
 ancestors, and they approached Digital Democracy in 2015 to help them think
 through their methodology.
 
-**Community partners:**
+## Community partners
 
 Dd worked closely with the Siekopai territory team of
 Alianza Ceibo, with community members working on the project, and staff
 from Amazon Frontlines supporting.
 
-**Co-created solutions:**
+## Co-created solutions
 
 The Dd team trained a group of ten young Siekopai to use
 Mapeo to trace the outlines of the many lakes, using an offline satellite image
@@ -42,7 +42,7 @@ and stories of each lake and important place. This map was added to with GPS
 points taken at the sites of old villages, which they identified through oral
 histories, and ancestral paths connecting river basins and villages.
 
-**Impact:**
+## Impact
 
 The use of technology has given the young people involved a concrete
 role in this process of reconnection, helping them engage with and make theirs
@@ -53,7 +53,7 @@ history behind each site. Digital Democracy worked with these teams to produce
 an interactive map, in Siekopai, Spanish and English, on which Lagarto Cocha,
 and their stories and testimonies can be explored.
 
-**Learn more:**
+## Learn more
 
 - [A chronicle of mapping Siekopai territory, by Amazon Frontlines](https://www.amazonfrontlines.org/chronicles/lagarto-cocha/)
 - [Alianza Ceibo, our local partners in Ecuador](http://www.alianzaceibo.org/alianza/siekopai/)
