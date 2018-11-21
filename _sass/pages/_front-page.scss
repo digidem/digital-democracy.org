@@ -40,16 +40,55 @@
   }
 }
 
-section.about {
-  @include grid-row();
-  margin: 1em auto;
+section.mission, section.action {
+  max-width: 60rem;
+  width: 100%;
+  margin: rem-calc(24) auto 1rem auto;
+  position: relative;
+  padding: 0 rem-calc(10) 0 rem-calc(24);
+  &:after {
+    content: "";
+    position: absolute;
+    top: -0.5rem;
+    height: calc(100% + 1.5rem);
+    left: rem-calc(10);
+    width: 4px;
+    border-radius: 2px 2px 0 0;
+    background-color: $dd-blue-light;
+  }
+}
+
+section.action {
+  margin: 1rem auto rem-calc(24) auto;
+  &:after {
+    top: 0;
+    height: calc(100% + 0.5rem);
+    border-radius: 0 0 2px 2px;
+  }
+  #mc_embed_signup {
+    form {
+      text-align: left;
+    }
+    label {
+      font-family: Rubik, sans-serif;
+      font-weight: 500;
+      color: $dd-blue-dark;
+    }
+    .button {
+      border-radius: 16px;
+      background-color: $dd-blue-light;
+      margin-top: 0.5rem;
+    }
+  }
 }
 
 .mission-statement {
-  padding: 0 $column-gutter / 2;
+  padding: 0;
+  font-family: Rubik, sans-serif;
+  color: $dd-blue-light;
   font-weight: 300;
   font-size: 1.2em;
-  text-align: center;
+  text-align: left;
   // polyfilled
   text-wrap: balanced;
   border: none;
@@ -94,9 +133,14 @@ section.about {
       }
     }
   }
+  section.action {
+    margin: 1rem auto rem-calc(24) auto;
+    &:after {
+      top: -1rem;
+      height: calc(100% + 1.5rem);
+    }
+  }
   .mission-statement {
-    margin: 1rem auto;
-    max-width: 60rem;
     font-size: 2em;
   }
 }
@@ -112,6 +156,29 @@ section.about {
       }
       strong, b {
         padding: 10px;
+      }
+    }
+  }
+  section.mission, section.action {
+    margin: 2.2rem auto 2rem auto;
+    padding: 0 rem-calc(10) 0 rem-calc(38);
+    &:after {
+      height: calc(100% + 2.5rem);
+      left: rem-calc(8);
+      width: 6px;
+      border-radius: 3px 3px 0 0;
+    }
+  }
+
+  section.action {
+    margin: 1rem auto 3rem auto;
+    &:after {
+      height: calc(100% + 2.5rem);
+      border-radius: 0 0 3px 3px;
+    }
+    #mc_embed_signup {
+      .button {
+        margin-top: 0rem;
       }
     }
   }
