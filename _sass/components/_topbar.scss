@@ -66,20 +66,6 @@ meta.foundation-mq-topbar {
   width: $topbar-breakpoint;
 }
 
-.switch-language-bar {
-  padding: 10px;
-  text-align: right;
-  background-color: $dd-blue;
-  color: white;
-  a {
-    color: white;
-    padding: 0px 10px;
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}
-
 header.site-header {
   line-height: $topbar-height;
   font-size: $rem-base;
