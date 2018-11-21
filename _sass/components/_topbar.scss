@@ -184,6 +184,9 @@ header.site-header {
     z-index: 999;
     li {
       font-family: "Rubik", sans-serif;
+      &:last-child {
+        display: none;
+      }
       & > a {
         white-space: nowrap;
         display: block;
