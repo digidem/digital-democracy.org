@@ -1,6 +1,6 @@
 ---
-title: Siekopai
-image: /assets/haiti-women-cameras-phone.jpg
+title: 'Siekopai Ancestral Territory'
+image: /assets/siekopai-canoe.jpg
 featured: medium
 published: true
 ---
@@ -13,7 +13,7 @@ in Ecuador now live a day’s travel upriver, along the Aguarico river, an area
 with a very different ecosystem and hemmed in on all sides by the social and
 environmental impacts of oil operations and industrial agriculture. Only in the
 last couple of decades has the border region been largely demilitarized and the
-Siekopai been allowed back to visit.  
+Siekopai been allowed back to visit.
 
 This area, full of flooded forests and black water lakes is believed to be
 where the Siekopai people originated, and many myths and stories are located
@@ -26,12 +26,11 @@ it, the sites of old villages, ceremonial sites and the paths taken by their
 ancestors, and they approached Digital Democracy in 2015 to help them think
 through their methodology.
 
-
 **Community partners:**
 
 Dd worked closely with the Siekopai territory team of
 Alianza Ceibo, with community members working on the project, and staff
-from Amazon Frontlines supporting. 
+from Amazon Frontlines supporting.
 
 **Co-created solutions:**
 
@@ -41,7 +40,7 @@ as a guide, which they could do in their villages with community members
 looking on. They then visited the area with their elders and recorded the names
 and stories of each lake and important place. This map was added to with GPS
 points taken at the sites of old villages, which they identified through oral
-histories, and ancestral paths connecting river basins and villages. 
+histories, and ancestral paths connecting river basins and villages.
 
 **Impact:**
 
@@ -52,10 +51,9 @@ process was accompanied by the territory and communications teams of Alianza
 Ceibo and Amazon Frontlines, who supported them to make videos explaining the
 history behind each site. Digital Democracy worked with these teams to produce
 an interactive map, in Siekopai, Spanish and English, on which Lagarto Cocha,
-and their stories and testimonies can be explored. 
+and their stories and testimonies can be explored.
 
 **Learn more:**
 
- * [Luke story on AF site](https://www.amazonfrontlines.org/chronicles/lagarto-cocha/)
- * [Alianza Ceibo ](http://www.alianzaceibo.org/alianza/siekopai/)
-
+- [A chronicle of mapping Siekopai territory, by Amazon Frontlines](https://www.amazonfrontlines.org/chronicles/lagarto-cocha/)
+- [Alianza Ceibo, our local partners in Ecuador](http://www.alianzaceibo.org/alianza/siekopai/)
