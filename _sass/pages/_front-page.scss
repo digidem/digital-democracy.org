@@ -9,6 +9,9 @@
     @include image-ratio(100%);
   }
   h2.caption {
+    a {
+      color: white;
+    }
     color: white;
     -webkit-font-smoothing: antialiased;
     line-height: 1.1;
