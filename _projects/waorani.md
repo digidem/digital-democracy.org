@@ -1,5 +1,5 @@
 ---
-title: 'Waorani Territory Mapping Project'
+title: Waorani Territory Mapping Project
 image: /assets/opi-demonstrating-map.jpg
 featured: small
 published: true
@@ -11,10 +11,9 @@ published: true
 > with the government ministries, and they show us maps of our land, I can take
 > out our map, and show them how it really is.  <cite>Nihua Quimontasi</cite>
 
-In 2015 the Waorani began an ambitious territory mapping project. Their land, and all the animals, plants, trees and other beings that inhabit it, along with the rivers, palm swamps and sacred areas, were at risk from a new oil concession being promoted by the Ecuadorian Government. Much of the Waorani’s million hectare territory has already been irreversibly impacted by oil operations over the last 40 years, but there remain a few areas free from oil. The Waorani saw mapping as a way both of building a community led movement, and illustrating how their lives and culture, interconnected as they are with their forest homd bre, would be impacted by the infrastructure, contamination and social changes that oil exploitation wouling.
+In 2015 the Waorani began an ambitious territory mapping project. Their land - and all the animals, plants, trees and other beings that inhabit it - along with the rivers, palm swamps and sacred areas, were at risk from a new oil concession being promoted by the Ecuadorian Government. Much of the Waorani’s million hectare territory has already been irreversibly impacted by oil operations over the last 40 years, but there remain a few areas free from oil. The Waorani saw mapping as a way both of building a community led movement, and illustrating how their lives and culture, interconnected as they are with their forest home, would be impacted by the infrastructure, contamination and social changes that oil exploitation would bring.
 
 The Waorani draw detailed community maps, take GPS points of important sites, and then add all this information into Mapeo to create the data for printed and interactive maps. Their maps illustrate their deep traditional and ecological knowledge: they are identifying hunting and fishing sites; places they collect fibres for weaving, palms for thatching, natural dyes; areas frequented by different animals and where particular ecosystems predominate; medicinal plants and historical and sacred sites. All the data is collected, edited and managed by the Waorani mapping team. 
-[descriptive photo] - one of the ones of Jorge or Camilo looking at Mapeo with folk - or one of the ones taken in Amisacho looking at the risk area maps
 
 **Community partners:**
 
@@ -29,15 +28,12 @@ The Waorani territory mapping has been the main pilot project for Mapeo Desktop,
 > map." <cite>Opi Nenquimo</cite>
 
 
-**Impact:** The Waorani project has not merely produced powerful maps which the communities can use for territorial planning and defense, but the mapping project has helped the team build cohesion and raise awareness of issues relating to territory within and between communities. They are using the maps widely in their campaign against oil concession “Block 22” and Dd helped created an interactive map telling the story of their resistance.
+**Impact:** The Waorani mapping team has collectively mapped over one million acres of Waorani territory, and produced powerful maps the communities are using for territorial planning and defense. Additionally, the mapping project has helped the team build cohesion and raise awareness of issues relating to territory within and between communities. They are using the maps widely in their campaign against oil concession “Block 22” and Dd helped created an interactive map telling the story of their resistance.
 
 Learn more: 
 
-- [Blog about Wao mapping]()
-- [Article in Citizen science]()
-- [Opi blog]()
-- [AC site](https://alianzaceibo.org)
-- [Wao resist site](https://waoresist.amazonfrontlines.org)
-- [UNAM article opi]()
-
-
+- [Blog about Waorani mapping project](https://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
+- [Profile of Opi, Waorani Mapping Lead](https://www.digital-democracy.org/blog/indigenous-peoples-day/#waponi)
+- [Alianza Ceibo site](https://alianzaceibo.org)
+- [Wao Resist site](https://waoresist.amazonfrontlines.org)
+- [Article in Spanish for the University of Mexico](https://www.revistadelauniversidad.mx/articles/15aa78e7-d712-4ae5-8daf-9431390313bd/mapeo-territorial-waorani)
