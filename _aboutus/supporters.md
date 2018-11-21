@@ -5,7 +5,14 @@ image: /assets/haiti-hackathon-team.jpg
 featured: large
 published: true
 ---
-Digital Democracy accomplishes our mission thanks to the generous support of individual and institutional donors and high-impact partnerships with a range of partners, from local grassroots organizations to groundbreaking international organizations who share our commitment to empowering marginalized communities in their efforts to defend their human and environmental rights.
+Transformative change never comes from a single individual or organization.
+Working off our core value of collaboration, Digital Democracy recognizes that
+we are part of a greater ecosystem of people and groups working for a more just
+and sustainable world. We accomplish our mission thanks to the generous support
+of individual and institutional donors and high-impact partnerships with
+a range of partners, from local grassroots organizations to international
+solidarity organizations who share our commitment to centering & amplifying marginalized
+communities working to defend their human and environmental rights.
 
 [Local Partners](#local-partners)
 

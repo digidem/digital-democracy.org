@@ -2,30 +2,31 @@
 layout: default
 body_class: full-header
 ---
-<section class="slideshow slick-loading">
-  {% for post in site.tags.front-page limit: 5 %}
-  <div class="slideshow-item">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image }}" class="check-aspect-ratio" />
-    </a>
-    <div class="{{ post.overlay_position }} caption">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <div class="hide-for-medium hide-for-small">
-        <p>{{ post.excerpt | strip_html }}</p>
+<section class="above-fold">
+  <section class="slideshow">
+    <div class="slideshow-item">
+      <div class="image">
+        <img src="/assets/wao_mapping.jpg" class="check-aspect-ratio" />
       </div>
+      <h2 class="caption">
+        <a href="ourwork">
+          <em>Partnering with</em>
+          <strong>Communities Worldwide</strong>
+          <em>To build tools to defend their rights</em>
+        </a>
+      </h2>
     </div>
-  </div>
-  {% endfor %}
+  </section>
+
+  <section class="mission">
+    <blockquote class="mission-statement">
+      Digital Democracy works in solidarity with marginalized communities to use technology to defend their rights
+    </blockquote>
+  </section>
 </section>
 
-<section class="about">
-  <blockquote class="mission-statement">
-    Digital Democracy empowers marginalized communities to use technology to defend their rights
-  </blockquote>
-
+<section class="action">
   <!-- Begin MailChimp Signup Form -->
-
-  <br/>
   <div id="mc_embed_signup">
     <form action="//digital-democracy.us2.list-manage.com/subscribe/post?u=e5898ac1e68db70ce0dfefa88&amp;id=fa7137bbfa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
@@ -40,33 +41,10 @@ body_class: full-header
 
   <!--End mc_embed_signup-->
 
-  <nav class="subnav">
-    <ul>
-      <li>
-        <a href="/ourwork/"><img src="/assets/our-work.jpg" alt="Our Work"></a>
-      </li>
-      <li>
-        <a href="/donate/" target="_blank"><img src="/assets/support-us.jpg" alt="Support Us"></a>
-      </li>
-      <li>
-        <a href="/aboutus/"><img src="/assets/our-approach.jpg" alt="Our Approach"></a>
-      </li>
-    </ul>
-  </nav>
 </section>
 
-<section class="news">
-  <h3>Latest From <a href="/blog/">Our Blog</a></h3>
-  <ul class="news-item">
-    {% assign count = 0 %}
-    {% for post in site.posts %}
-    {% unless post.categories contains "tech-blog" %}
-    {% include excerpt.html link = true %}
-    {% assign count = count | plus: 1 %}
-    {% endunless %}
-    {% if count == 6 %}
-      {% break %}
-    {% endif %}
-    {% endfor %}
-  </ul>
-</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.1/balancetext.min.js"></script>
+<script>
+  // Balances lines of text for elements in slideshow caption and mission statement
+  balanceText('.slideshow h2.caption > *, .mission-statement', {watch: true});
+</script>

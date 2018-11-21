@@ -1,6 +1,6 @@
 name: Digital Democracy
 description: Empowering marginalized communities to use technology to defend their rights
-url: http://www.digital-democracy.org/
+url: https://www.digital-democracy.org/
 timezone: America/Los_Angeles
 markdown: kramdown
 incremental: false
@@ -71,7 +71,7 @@ sass:
   style: :nested
   line_comments: true
 prose:
-  siteurl: "http://www.digital-democracy.org"
+  siteurl: "https://www.digital-democracy.org"
   media: "assets"
   ignore:
     - /_psd
@@ -128,7 +128,7 @@ prose:
         field:
           element: "multiselect"
           label: "Tags"
-          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "https://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
       - name: "categories"
         field:
@@ -163,7 +163,7 @@ prose:
         field:
           element: "multiselect"
           label: "Tags"
-          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "https://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
           help: "The most recent post tagged 'Featured' will appear at the top of the blog page. The 5 most recent posts tagged 'Front page' will appear as large images at the top of the front page."
       - name: "categories"
@@ -205,7 +205,7 @@ prose:
         field:
           element: "multiselect"
           label: "Select tag(s) to list related blog posts"
-          options: "http://www.digital-democracy.org/tags.jsonp?callback=tags"
+          options: "https://www.digital-democracy.org/tags.jsonp?callback=tags"
           alterable: true
       - name: "published"
         field:
