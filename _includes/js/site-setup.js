@@ -2,17 +2,16 @@
   // Load larger images according to resolution & retina
   $('img').loadResponsiveImages();
 
-  // Size images to fill containers (like background-size: cover)
-  $('.check-aspect-ratio').fixAspectRatio();
-
   var offset;
 
-  function updateOffset() {
+  function onResize() {
     offset = $('body.full-header').height() / 3;
+    // Size images to fill containers (like background-size: cover)
+    $('.check-aspect-ratio').fixAspectRatio();
   }
 
-  $(window).on('resize', updateOffset);
-  updateOffset();
+  $(window).on('resize', onResize);
+  onResize();
 
   var $context = $('html.no-touch body.full-header.affix');
 
