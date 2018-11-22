@@ -16,7 +16,8 @@ $slick-dot-size: 6px !default;
 $slick-opacity-default: 0.75 !default;
 $slick-opacity-on-hover: 1 !default;
 $slick-opacity-not-active: 0.25 !default;
-$slick-caption-background-color: rgba(0, 0, 0, 0.5);
+$slick-caption-background-color: $dd-blue;
+$slick-caption-heading-color: white;
 
 @function slick-image-url($url) {
     @if function-exists(image-url) {
@@ -68,18 +69,43 @@ $slick-caption-background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 0.7em 0.8em 0.7em;
-    background-color: $slick-caption-background-color;
     color: white;
-    h3 {
-      color: white;
-      text-shadow: black 1px 1px 2px;
-      margin: 0 0 0.2em;
+    padding-bottom: 5rem;
+    h2, small {
+      margin: 0px;
+      color: $slick-caption-heading-color;
       a {
         color: inherit;
         &:hover {
           @include underline(rgba(255,255,255,0.8), 3px, 1px);
         }
+      }
+    }
+    h2 {
+      -webkit-font-smoothing: antialiased;
+      line-height: 1.2;
+      font-weight: 300;
+      text-transform: uppercase;
+      font-size: 2rem;
+      i, em {
+        color: rgba(255,255,255,0.75);
+        background-color: $dd-blue-dark;
+        padding: 10px;
+        display: table;
+        font-size: 1em;
+        font-style: normal;
+        line-height: 1.2;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
+      }
+      strong, b {
+        background-color: $dd-blue-dark;
+        display: inline;
+        padding: 10px;
+        font-size: 2.5em;
+        font-weight: 500;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
       }
     }
     p {
@@ -91,11 +117,10 @@ $slick-caption-background-color: rgba(0, 0, 0, 0.5);
 @media #{$large} {
   .slick-slide, .slideshow-item {
     .caption {
-      @include grid-column(5, false, false, 1);
       position: absolute;
-      padding: 0.7em 1.2em 1em;
+      width: 50%;
+      min-width: 500px;
       &.right {
-        @include grid-column(5, false, false, 6);
         position: absolute;
       }
       p {

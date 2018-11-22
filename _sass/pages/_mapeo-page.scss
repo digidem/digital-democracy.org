@@ -16,9 +16,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
 }
 
 #mapeo-page {
-  z-index: 0;
+  position: relative;
   @media #{$small-only} {
     .header {
+      height: 100vw;
       video {
         display: none;
       }
@@ -32,14 +33,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   @media #{$medium-up} {
     .header {
-      margin-top:-30px;
-      .news {
-        padding: 0px 90px;
-      }
-      .news span {
-        font-size: .8rem;
-        padding: 15px 40px;
-      }
+      height: 56.35vw;
     }
     .scroller {
       justify-content: center;
@@ -56,14 +50,9 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   h1 {
     color: white;
-    font-weight: bold;
     font-size: 5rem;
     margin-bottom: 0px;
     z-index: 2;
-  }
-  h4 {
-    color: $dark-blue;
-    font-weight: bold;
   }
   .subtitle {
     color: white;
@@ -73,10 +62,8 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     * {
       z-index: 1;
     }
-    position: relative;
     display: flex;
     display: -webkit-flex;
-    height: 390px;
     flex-direction: column;
     -webkit-flex-direction: column;
     justify-content: center;
@@ -86,20 +73,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       z-index: 0;
       position: absolute;
       width: 100%;
-    }
-    .news {
-      width: 100%;
-      position: absolute;
-      display: flex;
-      justify-content: space-between;
-      bottom: 0;
-      vertical-align: middle;
-      color: $dark-blue;
-      margin-top: 50px;
-      margin: 0px auto;
-      span {
-        border-radius: 5px 5px 0px 0px;
-      }
+      top: 0;
     }
 
     .download-buttons {

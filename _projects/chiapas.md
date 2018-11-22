@@ -2,7 +2,6 @@
 title: 'Equal Footing: Fighting Forced Evictions in Chiapas'
 short_title: Fighting Forced Evictions in Chiapas
 image: /assets/chiapas-women-flipcam.jpg
-featured: small
 published: true
 ---
 

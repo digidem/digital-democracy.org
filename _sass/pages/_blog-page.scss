@@ -26,7 +26,11 @@ article {
     }
   }
 }
+
 .blog {
+  ul {
+    margin-left: 0;
+  }
   .excerpt header > a {
     background-color: #eee;
   }

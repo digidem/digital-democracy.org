@@ -5,3 +5,19 @@
 .donate-form-wrapper.loaded {
   background: none;
 }
+
+.donate-progress--fill {
+  background-color: $dd-blue;
+}
+
+.donate-progress--tally {
+  color: $dd-blue;
+  padding-right: 5px;
+}
+
+.donate-progress {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid $dd-blue;
+  border-radius: 4px;
+}

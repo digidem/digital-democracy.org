@@ -11,6 +11,7 @@
 
   <title>Digital Democracy{% if page.title %}: {{ page.title }}{% endif %}</title>
 
+  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700" rel="stylesheet">
   <link rel="stylesheet" href="/css/site.css?{{ site.time | date: "%Y%m%d%H%M%S" }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
@@ -39,16 +40,23 @@
 <![endif]-->
 
 <header class="site-header">
-  <h1 class="logo"><a href="/">Digital Democracy</a></h1>
+  <h1 class="logo">
+    <a href="/">Digital</a>
+    <br>
+    <a href="/">Democracy</a>
+  </h1>
   <nav class="top-bar" data-topbar role="navigation">
-    <button class="toggle-topbar">Menu</button>
+    <button class="toggle-topbar" aria-describedby="Menu"></button>
     <ul>
       <li><a href="/mapeo/">Mapeo</a></li>
       <li><a href="/ourwork/">Our Work</a></li>
       <li><a href="/blog/">Blog</a></li>
       <li><a href="/aboutus/">About Us</a></li>
       <li>
-        <a class="button" href="/donate/">Donate</a>
+        <a class="donate" href="/donate/">Donate</a>
+      </li>
+      <li>
+        <a class="lang" href="/es/">En Español</a>
       </li>
     </ul>
   </nav>

@@ -1,5 +1,9 @@
 @import "mixins/mixin-underline";
 
+body {
+  font-family: system-ui;
+}
+
 p a {
   @include underline($anchor-underline-color, 2px, 2px);
   color: inherit;
