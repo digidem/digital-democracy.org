@@ -5,7 +5,7 @@ image: /assets/haiti-hackathon-team.jpg
 featured: large
 published: true
 ---
-Digital Democracy cumple nuestra misión gracias al generoso apoyo de donantes individuales e institucionales y asociaciones de alto impacto con una variedad de socios, desde organizaciones locales de base hasta organizaciones internacionales innovadoras que comparten nuestro compromiso de empoderar a las comunidades marginadas en sus esfuerzos por defender a sus derechos humanos y ambientales.
+El cambio transformador nunca proviene de un solo individuo u organización.Trabajando con nuestro valor central de colaboración, Digital Democracy reconoce queSomos parte de un mayor ecosistema de personas y grupos que trabajan por un mundo más justo.y el mundo sostenible. Cumplimos nuestra misión gracias al generoso apoyo.de donantes individuales e institucionales y asociaciones de alto impacto conuna gama de socios, desde organizaciones de base locales hasta organizaciones internacionales. Organizaciones solidarias que comparten nuestro compromiso de centrar y amplificar a los marginados.Comunidades que trabajan para defender sus derechos humanos y ambientales.
 
 [Contrapartes locales](#local-partners)
 
