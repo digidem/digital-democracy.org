@@ -34,7 +34,7 @@ The Waorani mapping team has collectively mapped over one million acres of Waora
 ## Learn more
 
 - [Blog about Waorani mapping project](https://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
-- [Profile of Opi, Waorani Mapping Director](https://www.digital-democracy.org/blog/indigenous-peoples-day/#waponi)
+- [Profile of Opi Nenquimo, Waorani Mapping Director](https://www.digital-democracy.org/blog/indigenous-peoples-day/#waponi)
 - [Alianza Ceibo site](https://alianzaceibo.org)
 - [Wao Resist site](https://waoresist.amazonfrontlines.org)
-- [Article in Spanish written by Opi for the University of Mexico](https://www.revistadelauniversidad.mx/articles/15aa78e7-d712-4ae5-8daf-9431390313bd/mapeo-territorial-waorani)
+- [Article in Spanish written by Opi Nenquimo for the University of Mexico](https://www.revistadelauniversidad.mx/articles/15aa78e7-d712-4ae5-8daf-9431390313bd/mapeo-territorial-waorani)
