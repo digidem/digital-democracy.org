@@ -29,7 +29,7 @@ The Waorani territory mapping has been the main pilot project for Mapeo Desktop,
 
 ## Impact
 
-The Waorani mapping team has collectively mapped over one million acres of Waorani territory, and produced powerful maps the communities are using for territorial planning and defense. Additionally, the mapping project has helped the team build cohesion and raise awareness of issues relating to territory within and between communities. They are using the maps widely in their campaign against oil concession “Block 22” and Dd helped created an [interactive map] (https://waoresist.amazonfrontlines.org/explore/) telling the story of their resistance.
+The Waorani mapping team has collectively mapped over one million acres of Waorani territory, and produced powerful maps the communities are using for territorial planning and defense. Additionally, the mapping project has helped the team build cohesion and raise awareness of issues relating to territory within and between communities. They are using the maps widely in their campaign against oil concession “Block 22” and Dd helped created an [interactive map](https://waoresist.amazonfrontlines.org/explore/) telling the story of their resistance.
 
 ## Learn more
 
