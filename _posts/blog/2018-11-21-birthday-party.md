@@ -69,4 +69,6 @@ Howard, Bhavik Lathia, Austen Levihn-Coon, Mike Migurski & Justin Winters.
 
 Want to relive some of our work from the past decade? View this slideshow of images from Digital Democracy’s first 10 years:
 
+<div class="embed-container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/cez68bNNyma8ra" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
