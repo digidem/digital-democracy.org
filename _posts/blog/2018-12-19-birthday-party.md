@@ -24,7 +24,7 @@ thanks to photographers [Kersh Branz](http://www.kershbranz.com/) and Rajkumar
 Kumaradhevan.
 
 For me, it was an honor to tell the story of the early days of Digital
-Democracy, and the ways our work has evolved over the past decade. Despite the
+Democracy, and how our work has evolved over the past decade. Despite the
 ways our team has grown and our programs have changed, the core of our work
 remains the same: to work in solidarity with marginalized communities who are
 using technology to defend their environmental and human rights. The evening
