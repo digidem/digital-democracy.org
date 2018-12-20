@@ -12,7 +12,7 @@ excerpt: How do you celebrate 10 years of an organization? Last month, the Digit
 
 How do you celebrate 10 years of an organization? Last month, the Digital
 Democracy team answered that question with a 10th birthday party, thanks to
-sponsorship from Mapbox, Saucey, and a fabulous volunteer host committee in San
+sponsorship from [Mapbox](http://mapbox.com), [Saucey](http://saucey.com), and a fabulous volunteer host committee in San
 Francisco, California.
 
 We were thrilled that over 100 people joined us to celebrate with food, music,
@@ -58,8 +58,8 @@ How you can get involved
 Whether you attended the party or had to miss it, we invite you to get involved & support our efforts in the year to come. Here are some simple next steps you can take:
 
 * Support the Waorani Resistance Campaign! [Sign the petition](https://waoresist.amazonfrontlines.org/action/) calling on oil companies to listen to Waorani communities who are resisting oil on the territory.
-* Please contribute to our 10th Anniversary campaign. You can make a tax deductible donation to Digital Democracy via our donate page, or by sending a check to 4953 Desmond St, Oakland CA 94618.
-* If you’re interested in volunteering on our code, helping with translations or hosting a fundraising event for Dd, please get in touch: emily [at] ddem.us!
+* [Please contribute to our 10th Anniversary campaign](/donate). You can make a tax deductible donation to Digital Democracy via our donate page, or by sending a check to 4953 Desmond St, Oakland CA 94618.
+* If you’re interested in volunteering on our code, helping with translations or hosting a fundraising event for Dd, [please get in touch](mailto:email@ddem.us)!
 * We're compiling our lessons learned and planning to share more stories about our programs & partners. I'd love to hear your own stories and memories from our first 10 years.
 
 Huge thanks to all who made the evening a success, from the attendees, DJ Such
