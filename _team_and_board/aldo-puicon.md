@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Aldo Puicon
-role: "UX Designer"
+role: "Design"
 twitter: "https://twitter.com/aldopuicon"
 tags:
   - core

@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Stephen Whitmore
-role: "Developer"
+role: "Technology"
 twitter: "https://twitter.com/noffle"
 tags:
   - core

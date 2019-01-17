@@ -1,7 +1,7 @@
 ---
 layout: team
 title: James Halliday
-role: Programmer
+role: "Technology"
 twitter: 'https://twitter.com/substack'
 tags: core
 current: false
