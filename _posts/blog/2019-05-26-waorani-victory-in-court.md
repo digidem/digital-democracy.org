@@ -34,7 +34,7 @@ The government is appealing the ruling and the Waorani will have to prove their 
 <img alt="A seamless tapestry of cosmoscape and landscape" src="/assets/wao-community-overlap.jpg">
 </div>
 
-About the role of maps in the legal case, Oswando Nenquimo, Director of the Waorani Mapping Project said:
+About the role of maps in the legal case, Oswando Nenquimo, Director of the Waorani Mapping Project (pictured below using the maps in court) said:
 
 >We included our printed territory map as part of the documentation for our legal case, because it shows how important, biodiverse and fragile our land is and that it isn’t an empty space, but known, loved and cared for by the Waorani people over many generations.
 
