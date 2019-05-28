@@ -7,7 +7,7 @@ tags:
   - featured
   - front-page
 image: /assets/Waorani-maps-court.jpg
-excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government. The maps the Waorani made Last month our newest team member, Aliya Ryan, joined the Waorani territory mapping team in the Ecuadorian Amazon to present printed territory maps to the Waorani villages of Nemopare and Kiwaro."
+excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government."
 ---
 > This post is from our newest team member, [Aliya Ryan](/team/aliya),
 > who is recently back from working with our partners, the Waorani,
