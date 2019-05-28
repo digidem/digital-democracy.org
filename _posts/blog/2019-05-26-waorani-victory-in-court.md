@@ -41,7 +41,7 @@ About the role of maps in the legal case, Oswando Nenquimo, Director of the Waor
 
 >We included our printed territory map as part of the documentation for our legal case, because it shows how important, biodiverse and fragile our land is and that it isn’t an empty space, but known, loved and cared for by the Waorani people over many generations.
 
-![Oswando Nenquimo explaining the map in court - source unknown](/assets/wao-maps-court.jpg)
+![Oswando Nenquimo explaining the map in court - source unknown](/assets/Waorani-maps-court.jpg)
 
 For the Waorani, the work of the maps does not stop here. This year they began a process of gathering testimonies to tell richer territorial stories, and use the maps to think more about their future as a people and the kind of sustainability they want to engage in, given their rejection of state promoted models of development.
 
