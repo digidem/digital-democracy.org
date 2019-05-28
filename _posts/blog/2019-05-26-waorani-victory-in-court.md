@@ -44,4 +44,9 @@ For the Waorani, the work of the maps does not stop here. This year they began a
 
 Supporting the Waorani’s territory mapping project over the last three years has been a highlight of my work with Digital Democracy. Serendipitously I was able to be with them when they presented the legal case in February, and when the sentence was given on 26th April, both times accompanied by hundreds of Waorani and other indigenous people who marched to the courthouse in Puyo to show their support. It has been a privilege to work with them and to witness how their maps being used to effect in court, as well as how the mapping process contributed to building solidarity between villages, so critical to maintaining their position of strength and unity. Fittingly, the Waorani continue to be critical partners for us in the codevelopment of [Mapeo](https://www.digital-democracy.org/mapeo/), a tool we hope can be used by indigenous and other frontline communities the world over to address human rights and environmental violations.
 
+Read more:
+[Waorani Resistance Website](https://waoresist.amazonfrontlines.org/)
+[New Yorker article about the Waorani victory](https://www.newyorker.com/news/news-desk/an-uncommon-victory-for-an-indigenous-tribe-in-the-amazon)
+[Photo-essay from Amazon Frontlines](https://www.amazonfrontlines.org/chronicles/waoresist-photo-essay/)
+
 > If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.
