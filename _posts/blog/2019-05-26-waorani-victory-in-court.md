@@ -43,16 +43,8 @@ About the role of maps in the legal case, Oswando Nenquimo, Director of the Waor
 
 ![Oswando Nenquimo explaining the map in court - source unknown](/assets/wao-maps-court.jpg)
 
-
 For the Waorani, the work of the maps does not stop here. This year they began a process of gathering testimonies to tell richer territorial stories, and use the maps to think more about their future as a people and the kind of sustainability they want to engage in, given their rejection of state promoted models of development.
 
 Supporting the Waorani’s territory mapping project over the last three years has been a highlight of my work with Digital Democracy. Serendipitously I was able to be with them when they presented the legal case in February, and when the sentence was given on 26th April, both times accompanied by hundreds of Waorani and other indigenous people who marched to the courthouse in Puyo to show their support. It has been a privilege to work with them and to witness how their maps being used to effect in court, as well as how the mapping process contributed to building solidarity between villages, so critical to maintaining their position of strength and unity. Fittingly, the Waorani continue to be critical partners for us in the codevelopment of [Mapeo](mapeo.world)., a tool we hope can be used by indigenous and other frontline communities the world over to address human rights and environmental violations.
-
-
-
-<div class="full-width">
-<img alt="Waorani woman explains map" src="/assets/wao-woman-explains-map.jpg">
-</div>
-
 
 > If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.
