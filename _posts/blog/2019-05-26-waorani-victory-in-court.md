@@ -17,7 +17,13 @@ Last month the Waorani hit the headlines due to a landmark win against the Ecuad
 
 The judge, during her 5 hour ruling, gave examples of how the government had failed, again and again, to understand the context that the Waorani live within; failed to understand their ancestral and spiritual relationship to territory and invoked language and terminology that was incompatible with their worldviews and cosmology. In short she systematically showed how the consultation had been neither properly free, prior, nor informed, as required by law, and that it contravened international indigenous rights conventions and declarations subscribed to by the Ecuadorian Constitution.
 
-As you may have read in previous blog entries, for the past 4 years Dd has been working with Alianza Ceibo, Amazon Frontlines to support Waorani communities making maps through a participatory process. These maps played a critical role in the legal case. They were used to demonstrate context and situation, locating the communities within the vast Ecuadorian Amazon and showing the overlap with Block 22, the particular oil block whose sale the Waorani are fighting. The maps were also used to demonstrate the profound environmental, social, cultural, historical and spiritual knoweldges which are embedded in the Waorani’s relationship to territory: the sacred waterfalls and fishing spots whose water would be contaminated by oil and toxic run-offs, the burial sites and petroglyph covered caves at risk of being turned into drilling platforms, the ancient groves of peachpalm their ancestors planted that could be felled to level ground for airstrips and the mineral deposits where all the jungle animals congregate, which would be abandoned.
+<div class="full-width">
+<img alt="The overlaps of oil blocks with indigenous territories in the Southern Amazon" src="/assets/wao-block-map.jpg">
+</div>
+
+As you may have read in previous blog entries, for the past 4 years Dd has been working with Alianza Ceibo, Amazon Frontlines to support Waorani communities making maps through a participatory process. These maps played a critical role in the legal case. They were used to demonstrate context and situation, locating the communities within the vast Ecuadorian Amazon and showing the overlap with Block 22, the particular oil block whose sale the Waorani are fighting. The maps were also used to demonstrate the profound environmental, social, cultural, historical and spiritual knoweldges which are embedded in the Waorani’s relationship to territory: the sacred waterfalls and fishing spots whose water would be contaminated by oil and toxic run-offs, the burial sites and petroglyph covered caves at risk of being turned into drilling platforms, the ancient groves of peach-palm their ancestors planted that could be felled to level ground for airstrips and the mineral deposits where all the jungle animals congregate, which would be abandoned.
+
+![A detail of the Waorani map, showing historical sites and areas visited daily to hunt, fish and gather from the forest](/assets/wao-detail-nemonpare.jpg)
 
 We asked María Espinosa, the Waorani’s lawyer from Amazon Frontlines, about the role that the maps played in the process. She explained:
 
@@ -27,15 +33,21 @@ The Waorani’s win is an important precedent for upholding the rights of indige
 
 The government is appealing the ruling and the Waorani will have to prove their case all over again, to new judges. Indeed the Waorani are also considering appealing one aspect of the ruling which stated that four communities, whose main village sites lie outside Block 22, are not valid participants in the suit as their land is not affected. However ancestral territory, as the maps show, does not stop at the edge of the village, it is a seamless tapestry where cosmoscape and landscape merge, where history, biodiversity and living culture are entwined, and extends far into the forest to hunting and fishing spots, as well as sacred sites and other places of importance.  
 
+<div class="full-width">
+<img alt="A seamless tapestry of cosmoscape and landscape" src="/assets/wao-community-overlap.jpg">
+</div>
+
 About the role of maps in the legal case, Oswando Nenquimo, Director of the Waorani Mapping Project said:
 
 >We included our printed territory map as part of the documentation for our legal case, because it shows how important, biodiverse and fragile our land is and that it isn’t an empty space, but known, loved and cared for by the Waorani people over many generations.
 
+![Oswando Nenquimo explaining the map in court - source unknown](/assets/wao-maps-court.jpg)
+
+
 For the Waorani, the work of the maps does not stop here. This year they began a process of gathering testimonies to tell richer territorial stories, and use the maps to think more about their future as a people and the kind of sustainability they want to engage in, given their rejection of state promoted models of development.
+
 Supporting the Waorani’s territory mapping project over the last three years has been a highlight of my work with Digital Democracy. Serendipitously I was able to be with them when they presented the legal case in February, and when the sentence was given on 26th April, both times accompanied by hundreds of Waorani and other indigenous people who marched to the courthouse in Puyo to show their support. It has been a privilege to work with them and to witness how their maps being used to effect in court, as well as how the mapping process contributed to building solidarity between villages, so critical to maintaining their position of strength and unity. Fittingly, the Waorani continue to be critical partners for us in the codevelopment of [Mapeo](mapeo.world)., a tool we hope can be used by indigenous and other frontline communities the world over to address human rights and environmental violations.
 
-
-![Waorani women drawing map](/assets/wao-women-drawing-map.jpg)
 
 
 <div class="full-width">
