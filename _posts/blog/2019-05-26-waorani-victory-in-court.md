@@ -6,7 +6,7 @@ author: Aliya Ryan
 tags:
   - featured
   - front-page
-image: /assets/Waorani-maps-court.jpg
+image: /assets/wao-victory-amazonfrontlines.jpg
 excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government."
 ---
 
@@ -48,5 +48,7 @@ Read more:
 [Waorani Resistance Website](https://waoresist.amazonfrontlines.org/)
 [New Yorker article about the Waorani victory](https://www.newyorker.com/news/news-desk/an-uncommon-victory-for-an-indigenous-tribe-in-the-amazon)
 [Photo-essay from Amazon Frontlines](https://www.amazonfrontlines.org/chronicles/waoresist-photo-essay/)
+
+Header image: Amazon Frontlines
 
 > If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.
