@@ -1,13 +1,13 @@
 ---
 categories: blog
 published: true
-title: "Maps in Court - A Waorani Victory"
+title: "Maps in Court and the Waorani Victory"
 author: Aliya Ryan
 tags:
   - featured
   - front-page
 image: /assets/wao-victory-amazonfrontlines.jpg
-excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government."
+excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government, contesting a new oil block created without adequate consultation. The territory maps the Waorani have been making with us played an important role in the legal case."
 ---
 
 Last month the Waorani hit the headlines due to a landmark win against the Ecuadorian Government. Sixteen Waorani communities contested the supposed consultation that the government carried out in 2012 before putting millions of hectares of rainforest up for sale as part of new oil concessions, covering the lands of seven different indigenous peoples in the Southern Ecuadorian Amazon. The consultation process, the Waorani argued, was riddled with failures of procedure: lack of translations to local languages; not enough time given to convene people who have to travel for days by foot and canoe to reach meeting locations; overly technical language; rushed meetings and a lack of understanding of their relationship to the forest and the impacts that petrol activities would have on their lives.
