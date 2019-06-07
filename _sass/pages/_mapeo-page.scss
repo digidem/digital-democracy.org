@@ -15,6 +15,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   background-color: white;
 }
 
+.bg-gray {
+  background-color: #7f7f99;
+}
+
 #mapeo-page {
   position: relative;
   @media #{$small-only} {
@@ -56,6 +60,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   .subtitle {
     color: white;
+    font-weight: lighter;
   }
 
   .header {
