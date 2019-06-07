@@ -54,12 +54,20 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   h1 {
     color: white;
-    font-size: 5rem;
+    font-size: 6rem;
     margin-bottom: 0px;
     z-index: 2;
   }
+  h3 {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+    z-index: 2;
+    font-weight: bold;
+  }
   .subtitle {
     color: white;
+    font-size: 1.0rem;
     font-weight: lighter;
   }
 
