@@ -37,7 +37,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   @media #{$medium-up} {
     .header {
-      height: 56.35vw;
+      height: 100vh;
     }
     .scroller {
       justify-content: center;
