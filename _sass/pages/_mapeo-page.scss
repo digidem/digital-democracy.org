@@ -84,12 +84,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     justify-content: center;
     -webkit-justify-content: center;
     text-align: center;
-    video {
-      z-index: 0;
-      position: absolute;
-      width: 100%;
-      top: 0;
-    }
+    min-height: 655px;
 
     .download-buttons {
       padding-top: 50px;
@@ -140,12 +135,23 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     padding: 0 1em;
   }
 
+  .news {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 95%;
+    margin-left: 2.5%;
+  }
+
   .news .footer-github-link a {
-    color: white;
+    color: #ff3300;
   }
 
   .footer-github-link {
+    color: black;
     text-align: center;
+    font-family: "Rubik", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: bolder;
     a {
       font-weight: bold;
       color: rgba(29, 49, 82, 0.9);
