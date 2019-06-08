@@ -55,7 +55,8 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   h1 {
     color: white;
     font-size: 6rem;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
+    margin-top: 25vh;
     z-index: 2;
   }
   h3 {
@@ -69,6 +70,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     color: white;
     font-size: 1.0rem;
     font-weight: lighter;
+    margin-top: 1.25rem;
   }
 
   .header {
@@ -90,7 +92,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     }
 
     .download-buttons {
-      padding-top: 10px;
+      padding-top: 50px;
       margin-bottom: 70px;
       a {
         width: 100px;
