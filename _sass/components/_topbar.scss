@@ -270,12 +270,20 @@ header.site-header {
           background-color: rgba(255,255,255,0.7);
           font-size: 1.2em;
           padding: 5px 17px;
-          margin: 0 14px;
+          margin: 0 7px;
           width: auto;
           font-weight: 500;
           &:hover {
             background-color: rgba(255,255,255,0.9);
             color: black;
+          }
+          &.espanol {
+            background-color: #000033;
+            color: white;
+            font-weight: normal;
+            &:hover {
+              background-color: darken(#FF3301, 10%);
+            }
           }
           &.donate {
             padding: 5px 17px;
