@@ -116,7 +116,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       padding-bottom: 16px;
     }
 
-    h3 {
+    h3, h4 {
       padding-top: 32px;
       text-align: center;
       font-weight: bolder;
@@ -134,9 +134,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
 
       img {
         height: 48px;
-        margin-right: 48px;
+        margin-right: 16px;
       }
       .button {
+        margin-left: 32px;
         font-size: 0.8em;
         border-width: 1px;
         border-style: solid;
