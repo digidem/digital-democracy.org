@@ -104,8 +104,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     }
   }
 
-  section {
+  .page {
     padding: 80px 0px;
+    padding-left: 25%;
+    padding-right: 25%;
 
     h2 {
       font-size: 3em;
@@ -149,16 +151,12 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     }
   }
 
-  .page {
-    padding-left: 25%;
-    padding-right: 25%;
-  }
-
   .scroller-header {
     text-align: center;
     font-size: xx-large;
     font-weight: bolder;
-    margin-bottom: -45px;
+    padding-top: 24px;
+    margin-bottom: -24px;
   }
 
   .scroller {
