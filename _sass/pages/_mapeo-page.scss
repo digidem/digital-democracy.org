@@ -113,7 +113,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       font-size: 3em;
       text-align: center;
       font-weight: bolder;
-      color: white;
       padding-bottom: 16px;
     }
 
@@ -121,7 +120,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       padding-top: 32px;
       text-align: center;
       font-weight: bolder;
-      color: white;
     }
 
     ul {
@@ -142,11 +140,17 @@ $dark-blue: rgba(29, 49, 82, 0.9);
         font-size: 0.8em;
         border-width: 1px;
         border-style: solid;
-        border-color: white;
-        color: white;
         text-align: center;
         width: 400px;
         padding: 16px;
+      }
+      .button.light {
+        border-color: black;
+        color: black;
+      }
+      .button.dark {
+        border-color: white;
+        color: white;
       }
     }
   }
