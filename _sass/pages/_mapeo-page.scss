@@ -41,7 +41,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   @media #{$medium-up} {
     .header {
-      height: 100vh;
+      height: calc(100vh - 64px);
     }
     .scroller {
       justify-content: center;
@@ -206,6 +206,8 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     padding-bottom: 10px;
     width: 95%;
     margin-left: 2.5%;
+    margin-bottom: 32px;
+    text-align: center;
   }
 
   .news .footer-github-link a {
@@ -214,7 +216,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
 
   .footer-github-link {
     color: black;
-    text-align: center;
+    height: 32px;
     font-family: "Rubik", Helvetica, Roboto, Arial, sans-serif;
     font-weight: bolder;
     a {
