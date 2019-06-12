@@ -103,8 +103,24 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       }
     }
   }
+
   section {
     padding: 30px 0px;
+
+    h2 {
+      text-align: center;
+      font-weight: bolder;
+      color: white;
+    }
+
+    h3 {
+      text-align: center;
+      font-weight: bolder;
+      color: white;
+    }
+  }
+
+  .page {
   }
 
   .scroller-header {
