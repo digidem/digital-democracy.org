@@ -154,6 +154,11 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       }
     }
   }
+  .page.dark {
+    h2 {
+      color: white;
+    }
+  }
 
   .scroller-header {
     text-align: center;
