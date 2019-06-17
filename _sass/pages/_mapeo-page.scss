@@ -55,11 +55,18 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       }
     }
   }
-  h1 {
+  h1.title1 {
     color: white;
     font-size: 6rem;
     margin-bottom: 5px;
     margin-top: 25vh;
+    z-index: 2;
+  }
+  h1.title2 {
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.2;
     z-index: 2;
   }
   h3 {
