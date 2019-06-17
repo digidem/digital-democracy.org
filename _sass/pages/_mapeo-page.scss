@@ -166,6 +166,11 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     font-weight: bolder;
     padding-top: 24px;
     margin-bottom: -24px;
+
+    h2 {
+      line-height: 1.2;
+      font-weight: bold;
+    }
   }
 
   .scroller {
