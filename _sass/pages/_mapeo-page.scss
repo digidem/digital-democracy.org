@@ -186,6 +186,25 @@ $dark-blue: rgba(29, 49, 82, 0.9);
     border-style: none;
   }
 
+  div.newsletter {
+    text-align: center;
+
+    p {
+      font-size: small;
+      font-style: italic;
+      margin-bottom: 10px;
+    }
+    input.button {
+      display: inline;
+      background-color: blue;
+      color: white;
+      position: relative;
+      top: -2px;
+      padding: 8px 16px 8px 16px;
+      font-size: 0.8rem;
+    }
+  }
+
   .header {
     * {
       z-index: 1;
