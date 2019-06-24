@@ -176,6 +176,14 @@ $dark-blue: rgba(29, 49, 82, 0.9);
 
   li.social-buttons {
     text-align: center;
+    border-style: none;
+
+    img {
+      margin: 16px;
+    }
+  }
+  ul.social-buttons {
+    border-style: none;
   }
 
   .header {
