@@ -50,8 +50,10 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       padding-left: 16px;
       margin-left: -1.1rem;
     }
-    li {
+    .button-component {
       display: flex;
+    }
+    li {
       padding-top: 8px;
       padding-bottom: 4px;
       padding-left: 24px;
@@ -114,9 +116,11 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       margin-top: 32px;
       list-style: none;
     }
-    li {
+    .button-component {
       display: flex;
       justify-content: center;
+    }
+    li {
       margin: 24px;
 
       img {
@@ -129,7 +133,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
         border-width: 1px;
         border-style: solid;
         text-align: center;
-        width: 400px;
+        min-width: 400px;
         padding: 16px;
       }
       .button.light {
