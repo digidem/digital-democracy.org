@@ -67,6 +67,12 @@ $dark-blue: rgba(29, 49, 82, 0.9);
         padding: 16px;
         margin-left: 16px;
       }
+      .button.light {
+        color: black;
+      }
+      .button.dark {
+        color: white;
+      }
     }
     section.light {
       ul {
