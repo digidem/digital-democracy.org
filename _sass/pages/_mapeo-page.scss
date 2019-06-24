@@ -37,6 +37,49 @@ $dark-blue: rgba(29, 49, 82, 0.9);
         padding: 10px 5px 0px 5px;
       }
     }
+
+    .page {
+      padding: 80px 0px;
+    }
+
+    ul {
+      margin-top: 32px;
+      list-style: none;
+      border-width: 1px;
+      border-style: none none solid none;
+      padding-left: 16px;
+      margin-left: -1.1rem;
+    }
+    li {
+      display: flex;
+      padding-top: 8px;
+      padding-bottom: 4px;
+      padding-left: 24px;
+      border-width: 1px;
+      border-style: solid none none none;
+
+      img {
+        height: 48px;
+      }
+      .button {
+        font-size: 0.8em;
+        text-align: center;
+        padding: 16px;
+        margin-left: 16px;
+      }
+    }
+    section.light {
+      ul {
+        border-color: black;
+        color: black;
+      }
+    }
+    section.dark {
+      ul {
+        border-color: white;
+        color: white;
+      }
+    }
   }
   @media #{$medium-up} {
     .header {
@@ -52,6 +95,44 @@ $dark-blue: rgba(29, 49, 82, 0.9);
         max-width: 600px;
         flex-direction: column;
         justify-content: center;
+      }
+    }
+
+    .page {
+      padding: 80px 0px;
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+
+    ul {
+      margin-top: 32px;
+      list-style: none;
+    }
+    li {
+      display: flex;
+      justify-content: center;
+      margin: 24px;
+
+      img {
+        height: 48px;
+        margin-right: 16px;
+      }
+      .button {
+        margin-left: 32px;
+        font-size: 0.8em;
+        border-width: 1px;
+        border-style: solid;
+        text-align: center;
+        width: 400px;
+        padding: 16px;
+      }
+      .button.light {
+        border-color: black;
+        color: black;
+      }
+      .button.dark {
+        border-color: white;
+        color: white;
       }
     }
   }
@@ -111,10 +192,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
 
   .page {
-    padding: 80px 0px;
-    padding-left: 25%;
-    padding-right: 25%;
-
     h2 {
       font-size: 3em;
       text-align: center;
@@ -126,39 +203,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       padding-top: 32px;
       text-align: center;
       font-weight: bolder;
-    }
-
-    ul {
-      margin-top: 32px;
-      list-style: none;
-    }
-
-    li {
-      display: flex;
-      justify-content: center;
-      margin: 24px;
-
-      img {
-        height: 48px;
-        margin-right: 16px;
-      }
-      .button {
-        margin-left: 32px;
-        font-size: 0.8em;
-        border-width: 1px;
-        border-style: solid;
-        text-align: center;
-        width: 400px;
-        padding: 16px;
-      }
-      .button.light {
-        border-color: black;
-        color: black;
-      }
-      .button.dark {
-        border-color: white;
-        color: white;
-      }
     }
   }
   .page.dark {
