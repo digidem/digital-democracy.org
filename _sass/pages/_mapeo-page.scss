@@ -191,9 +191,14 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       background-color: #777799;
       margin: 10px;
 
+      .spacer {
+        height: 120px;
+      }
+
       p {
         padding: 10px;
         padding-left: 15px;
+        height: 40px;
         font-size: smaller;
         color: white;
         background-color: #000033;
