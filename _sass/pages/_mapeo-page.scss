@@ -32,10 +32,6 @@ $dark-blue: rgba(29, 49, 82, 0.9);
       background-size: auto 100vh;
       background-repeat: no-repeat;
       background-position: center top;
-      .news span {
-        font-size: .3rem;
-        padding: 10px 5px 0px 5px;
-      }
     }
 
     .page {
@@ -91,9 +87,9 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
   @media #{$medium-up} {
     .header {
-      height: calc(100vh - 64px);
+      height: 100vh;
       background-image: url("/assets/mapeo_hero.jpg");
-      background-size: auto calc(100vh - 64px);
+      background-size: auto 100vh;
       background-repeat: no-repeat;
       background-position: center top;
     }
@@ -334,13 +330,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
 
   .news {
-    background-color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 95%;
-    margin-left: 2.5%;
-    margin-bottom: 32px;
-    text-align: center;
+    background-color: transparent;
   }
 
   .news .footer-github-link a {
@@ -348,13 +338,22 @@ $dark-blue: rgba(29, 49, 82, 0.9);
   }
 
   .footer-github-link {
+    position: absolute;
+    top: calc(100vh - 64px);
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-bottom: 32px;
+    text-align: center;
     color: black;
     height: 32px;
     font-family: "Rubik", Helvetica, Roboto, Arial, sans-serif;
     font-weight: bolder;
     a {
       font-weight: bold;
-      color: rgba(29, 49, 82, 0.9);
+      color: #ff3300;
     }
     img { width: 22px; }
   }
