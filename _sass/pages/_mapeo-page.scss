@@ -25,7 +25,7 @@ $dark-blue: rgba(29, 49, 82, 0.9);
 
 #mapeo-page {
   position: relative;
-  @media #{$small-only} {
+  @media #{$small-up} {
     .header {
       height: 100vh;
       background-image: url("/assets/mapeo_hero.jpg");
