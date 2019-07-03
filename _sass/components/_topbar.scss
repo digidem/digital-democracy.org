@@ -67,6 +67,7 @@ meta.foundation-mq-topbar {
 }
 
 header.site-header {
+  position: absolute;
   line-height: $topbar-height;
   font-size: $rem-base;
   z-index: 999;
