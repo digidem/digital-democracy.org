@@ -2,6 +2,16 @@
 layout: default
 body_class: full-header
 ---
+
+<!-- HACK: this page doesn't use the parallax hero image feature that the other
+  pages do (yet), and so the usual footer offset won't work right here. -->
+<style>
+  body.full-header footer {
+    position: initial !important;
+    top: 0 !important;
+  }
+</style>
+
 <div id="mapeo-page" class="bg-dark-blue">
   <div class="header">
     <h1 class="title1">MAPEO</h1>
