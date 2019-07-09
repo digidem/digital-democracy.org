@@ -9,6 +9,7 @@ The Cofan community of Sinangoe was the first community to start piloting Mapeo 
 Sinangoe, a small community of only 200 people, with support from Alianza Ceibo, Amazon Frontlines and Digital Democracy, sprang into action, first creating a local ‘guardia’ team to patrol their territory, collect evidence with GPS, drones and camera traps, and confront and evict the illegal miners. Then in partnership with the State Ombudsman they took the Ecuadorian Government to court for the creation of mining concessions that would put their lives, culture and future at risk without adequate consultation. The Cofan won this case, and the appeal, in landmark rulings in 2018. The community is now using Mapeo to continuously monitor mining and other territorial invasions and to map the important resources and historical sites on their land.
 
 The Cofan process:
+
 - The community ran a workshop to define all the different resources they wanted to map, such as special plants and historical sites and all the risks and problems they wanted to monitor (gold mining, logging, poaching etc.).
 - Digital Democracy helped create a list of all these categories with simple icons for  Mapeo Mobile, and an offline map they can use in the field.
 - The team goes out on patrols: anything from a day on the river to a 10 day trek to the other side of their land. They take with them android phones with Mapeo, backup battery chargers, GPS and cameras, and they use Mapeo to record points, photos and details of any important territory sites or impacts of illegal activities they encounter.
