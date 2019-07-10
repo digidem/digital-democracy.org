@@ -2,15 +2,22 @@
 layout: default
 body_class: full-header
 ---
-<div id="mapeo-page" class="bg-blue">
+
+<!-- HACK: this page doesn't use the parallax hero image feature that the other
+  pages do (yet), and so the usual footer offset won't work right here. -->
+<style>
+  body.full-header footer {
+    position: initial !important;
+    top: 0 !important;
+  }
+</style>
+
+<div id="mapeo-page" class="bg-dark-blue">
   <div class="header">
-    <h1>Mapeo</h1>
-    <video autoplay muted>
-      <source src="/assets/map-drawing.webm" type="video/webm">
-      <source src="/assets/map-drawing.m4v" type="video/mp4">
-    </video>
+    <h1 class="title1">MAPEO</h1>
+    <h3>MAP FROM THE MIDDLE OF ANYWHERE</h3>
     <p class="subtitle">
-      Monitor and document the world around you.
+      MONITOR AND DOCUMENT THE WORLD AROUND YOU
     </p>
     <div class="download-buttons">
       <a
@@ -25,91 +32,199 @@ body_class: full-header
         For Mac
       </a>
       <a
-        onclick="ga('send', 'event', {eventCategory: 'Downloads', eventAction: 'Click', eventLabel: 'install_mapeo_linux.dmg'})"
+        onclick="ga('send', 'event', {eventCategory: 'Downloads', eventAction: 'Click', eventLabel: 'install_mapeo_linux.AppImage'})"
         href="https://github.com/digidem/mapeo-desktop/releases/">
         For Linux
       </a>
     </div>
-    <div class="news">
-      <span class="footer-github-link">
-        <a href="https://github.com/digidem/mapeo-mobile" target="_blank">
-          Interested in Mapeo for Android? Watch our progress on Github.
-        </a>
-      </span>
+  </div>
+  <div class="footer-github-link">
+    <div>
+      INTERESTED IN TESTING MAPEO FOR ANDROID? <a href="https://github.com/digidem/mapeo-mobile/releases" target="_blank">VIEW MORE</a>
     </div>
   </div>
 
-  <section class="scroller bg-white">
-    <div class="text">
-      <h4>Create and edit maps together</h4>
-      <p>
-        Mapeo is an open source, offline-first map editor.
-        Mapeo makes it easy for individuals or teams to create maps and organize stories and knowledge.
-      </p>
-    </div>
-    <div class="image">
-      <img src="/assets/mapeo-offline.png" />
-    </div>
-  </section>
-
-  <section class="scroller bg-blue">
-    <div class="image">
-      <img src="/assets/mapeo-osm.png" />
-    </div>
-    <div class="text">
-      <h4>Built on solid foundations</h4>
-      <p>
-        Mapeo leverages the same easy-to-use editor and flexible data structure as OpenStreetMap. It is powered by a peer-to-peer database that enables offline collaboration and control over data sharing.
-      </p>
-    </div>
-  </section>
 
   <section class="scroller bg-white">
     <div class="text">
-      <h4>Supporting indigenous rights, throughout the world.</h4>
+      <h1 class="title2">A POWERFUL MAPPING TOOLSET FOR COMMUNITIES</h1>
       <p>
-        We are building Mapeo with indigenous communities in the Amazon, who asked for an easier way to create and edit their own maps so as to defend their lands and cultures.
+        MAPEO IS A FREE DIGITAL TOOLSET FOR DOCUMENTING, MONITORING AND MAPPING MANY TYPES OF DATA.
       </p>
     </div>
-    <div class="image">
-      <img src="/assets/mapeo-indigenous.png" />
-    </div>
-  </section>
-
-  <section class="scroller bg-blue">
-    <div class="text">
-      <h4>Join the Mapeo Community</h4>
-      <ul>
-      <li> Join our public chat channel via <a
-                      href="https://webchat.freenode.net/">IRC (#ddem channel)</a> or <a
-                      href="http://slack.digital-democracy.org">Slack</a>. <i>Our public chat is mirrored in both IRC and Slack</i>
-      <li><a href="https://lists.riseup.net/www/info/mapeo-en">Join the
-          mailing list</a> for discussion with other community members.</li>
-       <li><a href="https://lists.riseup.net/www/subscribe/mapeo-es">Hablas español? Suscribirse a nuestra lista de distribución en español</a></li>
-      <li>Watch our progress and contribute <a href="https://github.com/digidem/mapeo-desktop">on GitHub </a></li>
-      </ul>
-    <div id="mc_embed_signup">
-      <form action="//digital-democracy.us2.list-manage.com/subscribe/post?u=e5898ac1e68db70ce0dfefa88&amp;id=fa7137bbfa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <h5>Get Mapeo Announcements, News, and Events.</h5>
-        <div id="mc_embed_signup_scroll">
-          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e5898ac1e68db70ce0dfefa88_fa7137bbfa" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="case-studies">
+      <p>CASE STUDIES</p>
+      <a href="/ourwork/case_study_waorani">
+        <div class="study">
+          <div class="spacer-wao"></div>
+          <p>WAORANI</p>
         </div>
-      </form>
-    </div>
+      </a>
+      <a href="/ourwork/case_study_kofan">
+        <div class="study">
+          <div class="spacer-kofan"></div>
+          <p>KOFAN</p>
+        </div>
+      </a>
     </div>
   </section>
 
-  <section class="scroller bg-white">
-    <div class="mapeo-acknowledgements">
+  <section class="scroller-header bg-blue">
+    <h2>HELPING COMMUNITIES<br/>
+      OWN THEIR DATA<br/>
+      &mdash;</h2>
+  </section>
+
+  <section class="scroller bg-blue">
+    <div class="image">
+      <img src="/assets/dd-mapeo-graphic-geospatial-@2x.png" />
+    </div>
+    <div class="text">
+      <h4>FREE &amp; ACCESSIBLE GEOSPATIAL TECHNOLOGY</h4>
       <p>
-        We are building Mapeo in close collaboration with our partners <a href="https://amazonfrontlines.org/" target="_blank">Amazon Frontlines</a> and <a href="https://alianzaceibo.org/" target="_blank">Alianza Ceibo</a> in the Ecuadorian Amazon, working specifically with the Waorani, Cofan and Siekopai peoples. Technical partners include <a href="https://developmentseed.org/" target="_blank">Development Seed</a>, the <a href="https://datproject.org/" target="_blank">Dat Project</a> and more.
-      </p>
-      <p>
-        The development of Mapeo has been made possible due to generous grants from the <a href="https://knightfoundation.org/" target="_blank">Knight Foundation</a>, <a href="http://www.abundance.org/" target="_blank">Abundance Foundation</a> and  <a href="https://www.leonardodicaprio.org/" target="_blank">Leonardo DiCaprio Foundation</a>
+        MAPEO is an offline-first open-source technology which makes it easy for many to use. No internet or special hardware required to collect, view, or share data.
       </p>
     </div>
+  </section>
+
+  <section class="scroller bg-blue">
+    <div class="image">
+      <img src="/assets/dd-mapeo-graphic-interface-@2x.png" />
+    </div>
+    <div class="text">
+      <h4>QUICK &amp; EASY-TO-USE INTERFACE</h4>
+      <p>
+        With the push of a button, contributors can gather map data by linking GPS points, photos, and notes. All data is completely owned by the communities themselves. And a simple and adaptive interface makes it accessible for many different people to use.
+      </p>
+    </div>
+  </section>
+
+  <section class="scroller bg-blue">
+    <div class="image">
+      <img src="/assets/dd-mapeo-graphic-communityowned-@2x.png" />
+    </div>
+    <div class="text">
+      <h4>DATABASES DEFINED &amp; OWNED BY COMMUNITIES</h4>
+      <p>
+        Communities stay organized and manage documented evidence. Data can be shared between project collaborators with MAPEO's mobile-to-mobile sync feature.
+      </p>
+    </div>
+  </section>
+
+  <section class="scroller bg-blue">
+    <div class="image">
+      <img src="/assets/dd-mapeo-graphic-codesigned-@2x.png" />
+    </div>
+    <div class="text">
+      <h4>CO-DESIGNED WITH COMMUNITIES</h4>
+      <p>
+      We are building MAPEO in close collaboration with indigenous partners in the Amazon, including Achuar, Cocama, Kofan, Harakambut, Kichwa, Siekopai, Wapichana and Waorani peoples. Our partner organizations include indigenous federations &amp; alliances like <a href="https://alianzaceibo.org">Alianza Ceibo</a>, <a href="https://amarakaeri.org/">ECA-RCA</a>, <a href="https://observatoriopetrolero.org/">PUINAMUDT</a> and <a href="https://www.forestpeoples.org/partner/south-central-peoples-development-organisation-scpda">South Central People's Development Organisation</a>, as well as NGO partners including <a href="https://amazonfrontlines.org">Amazon Frontlines</a>, <a href="https://www.forestpeoples.org/">Forest Peoples Programme</a>, <a href="https://www.gaiaamazonas.org/en/">Gaia Amazonas Rainforest Foundation US</a> and <a href="https://witness.org/">Witness</a>. Technical partners include <a href="https://www.mapbox.com/community/">Mapbox</a>, <a href="https://developmentseed.org/">Development Seed</a>, the <a href="https://dat.foundation/">Dat Foundation</a> and more. For more on Digital Democracy's partners, visit our <a href="/supporters/#local-partners">partnership page</a>.
+      </p>
+      <p>
+      The development of MAPEO has been made possible due to generous grants from the <a href="https://www.leonardodicaprio.org/">Leonardo DiCaprio Foundation</a>, <a href="https://knightfoundation.org">Knight Foundation</a>, <a href="www.abundance.org">Abundance Foundation</a>, <a href="https://alleyesontheamazon.org">All Eyes on the Amazon</a> (Dutch Postcode Lottery), and <a href="https://samsungnext.com/whats-next/category/podcasts/decentralization-samsung-next-stack-zero-grant-recipients/">Samsung Next Zero</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="page dark bg-dark-blue">
+    <h2>HELP BUILD MAPEO</h2>
+    <ul>
+      <li>
+        <a href="https://lists.riseup.net/www/info/mapeo-en">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-communitylist-@2x.png"></img>
+            <div class="button dark">Sign Up To Our Community Mailing List</div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/digidem/">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-github-@2x.png"></img>
+            <div class="button dark">Contribute on GitHub</div>
+          </div>
+        </a>
+      </li>
+    </ul>
+    <h3>JOIN OUR PUBLIC CHAT CHANNEL</h3>
+    <ul>
+      <li>
+        <a href="https://webchat.freenode.net/">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-ircchat-@2x.png"></img>
+            <div class="button dark">webchat.freenode.net (channel <b>#ddem</b>)</div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="https://slack.digital-democracy.org">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-slack-@2x.png"></img>
+            <div class="button dark">slack.digital-democracy.org</div>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="page bg-blue">
+    <h2>SUPPORT MAPEO</h2>
+    <ul>
+      <li>
+        <a href="https://www.digital-democracy.org/donate/">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-donate-@2x.png"></img>
+            <div class="button light">Donate Via Our Website</div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="https://opencollective.com/mapeo">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-opencollective-@2x.png"></img>
+            <div class="button light">Give Contributions On Open Collective</div>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="mailto:info@digital-democracy.org">
+          <div class="button-component">
+            <img src="/assets/dd-mapeo-icon-otherways-@2x.png"></img>
+            <div class="button light">Find Other Ways to Support</div>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+
+  <section class="page bg-white">
+    <h2>STAY UPDATED</h2>
+    <section class="action">
+      <!-- Begin MailChimp Signup Form -->
+      <div id="mc_embed_signup">
+        <form action="//digital-democracy.us2.list-manage.com/subscribe/post?u=e5898ac1e68db70ce0dfefa88&amp;id=fa7137bbfa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+          <label for="mce-EMAIL">Subscribe to our mailing list</label>
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e5898ac1e68db70ce0dfefa88_fa7137bbfa" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+        </form>
+      </div>
+      <!--End mc_embed_signup-->
+    </section>
+    <h4>FOLLOW US ON SOCIAL</h4>
+    <ul class="social-buttons">
+      <li class="social-buttons">
+        <a href="https://twitter.com/digidem">
+          <img src="/assets/dd-mapeo-icon-twitter-@2x.png"/>
+        </a>
+        <a href="https://www.instagram.com/digidem">
+          <img src="/assets/dd-mapeo-icon-instagram-@2x.png"/>
+        </a>
+      </li>
+    </ul>
   </section>
 </div>
