@@ -36,7 +36,7 @@ Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amar
 
 ### Ecuador:
 
-[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Cofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.
+[Alianza Ceibo](https://www.alianzaceibo.org), an indigenous organisation bringing together Kofan, Siona, Seikopai and Waorani peoples in the Northern Ecuadorian Amazon.
 
 ### Guyana:
 

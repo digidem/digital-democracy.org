@@ -18,7 +18,7 @@ The need for new software came from our partners – indigenous communities – 
 
 Mapeo builds off of OpenStreetMap’s easy-to-use iD Editor, which can be customized to create presets in any language, and symbology designed by the communities.
 
-We have built Mapeo in close partnership with Amazon Frontlines and [Alianza Ceibo](https://www.alianzaceibo.org), our partner organizations based in the Ecuadorian Amazon. Waorani, Cofan & Siekopai members of Alianza Ceibo have been testing Mapeo over the past year and a half, and are actively using the tool for territorial mapping.
+We have built Mapeo in close partnership with Amazon Frontlines and [Alianza Ceibo](https://www.alianzaceibo.org), our partner organizations based in the Ecuadorian Amazon. Waorani, Kofan & Siekopai members of Alianza Ceibo have been testing Mapeo over the past year and a half, and are actively using the tool for territorial mapping.
 
 <div class="full-width">
 <img alt="Opi Nenquimo returning the final maps in Nemonpare" src="/assets/opi-demonstrating-map.jpg">
