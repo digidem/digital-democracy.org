@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "SamsungNEXT Grant: Technical Update"
+title: "Mapeo Update on Samsung NEXT Stack Zero Grant"
 author: noffle
 tags:
   - featured
@@ -10,7 +10,7 @@ image: /assets/vector-tiles-offline.jpg
 excerpt: "In January 2019, Digital Democracy received a grant from SamsungNEXT to help build components for local-first peer-to-peer mapping technology. This is a brief summary of what we've been focused on using this grant."
 ---
 
-In January 2019, [Digital Democracy](https://digital-democracy.org) received a grant from SamsungNEXT to help us build components for local-first peer-to-peer mapping technology. This is a brief summary of what we've been focused on using this grant.
+In January 2019, Digital Democracy [received a grant from Samsung NEXT](https://samsungnext.com/whats-next/category/podcasts/decentralization-samsung-next-stack-zero-grant-recipients/). With this grant, we aimed to further develop important features and bug fixes on Mapeo, a peer-to-peer collaborative mapping program. This is a brief summary of what we've been focused on using this grant.
 
 # Development of core components
 
@@ -36,9 +36,12 @@ co-operative cloud
 
 ![Screenshot of a vector tile view of map data gathered via Mapeo Mobile](/assets/vector-tiles-offline.jpg)
 
-Mapeo Desktop's editor interface is based off the popular OpenStreetMap editor, [iD](https://github.com/openstreetmap/iD). This helped us get a working peer-to-peer map editor in place very quickly. However, its default renderer uses SVG for editing content, which we found struggled to efficiently render highly dense map data like the kind our partners would collect. iD supports rendering vector tile background layers, so we'd like to be able to render collected data as a vector tile layer, which are significantly more efficient to render with even commodity graphics hardware. Having vector tile support would also enable a _Print Preview_-like feature, which would let partners preview a region to print before committing the ink & paper to producing it.
+Mapeo Desktop's editor interface is based off the popular OpenStreetMap editor, [iD](https://github.com/openstreetmap/iD). This helped us get a working peer-to-peer map editor in place very quickly. However, its default renderer uses SVG for editing content, which we found struggled to efficiently render highly dense map data like the kind our partners collect. iD supports rendering vector tile background layers, so we'd like to be able to render collected data as a vector tile layer, which are significantly more efficient to render with even commodity graphics hardware.
 
-To start off this process, an [initial experiment](https://github.com/digidem/mapeo-print-preview) was written, which was able to export map data to GeoJSON that is converted to vector tiles by [geojson-vt](https://github.com/mapbox/geojson-vt).
+To start off this process, an [initial experiment](https://github.com/digidem/mapeo-print-preview) was written, which enabled us to create a fully offline interactive WebGL map of the data collected in Mapeo. We used [geojson-vt](https://github.com/mapbox/geojson-vt) to export map data from Mapeo into GeoJSON, which is then converted to vector tiles that [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) can render.
+
+This is a very important first step, because it demonstrates that Mapeo data can readily be converted into an efficient vector tile format. Beyond making general map editing render much more quickly, having vector tile support will also enable a _Print Preview_-like feature, which would let partners preview a region to print before committing the ink & paper to producing it.
+
 
 # Documentation & Resources
 
