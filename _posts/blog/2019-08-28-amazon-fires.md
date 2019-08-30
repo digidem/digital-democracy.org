@@ -25,13 +25,15 @@ Every day, our local partners are putting their bodies on the line to document t
 
 # A Closer Look at the Fires & the Burning Season
 
-![<img src="https://miro.medium.com/max/5004/1\*dx-vs1L1QZa1PTGJ9BBhTQ.png" class="gb n o ga ab" width="2502" height="1416"/>](https://miro.medium.com/max/1200/1*dx-vs1L1QZa1PTGJ9BBhTQ.png?q=20)
+<div class="full-width">
+<img alt="Map of fire frequency and intensity across the Amazon basin" src="https://miro.medium.com/max/1200/1*dx-vs1L1QZa1PTGJ9BBhTQ.png" />
+</div>
 
 [Tens of thousands of fires](https://www.nytimes.com/2019/08/21/world/americas/amazon-rainforest.html) are raging across the Amazon basin, primarily in Brazil & Bolivia. _The New York Times_ estimates the fires in Brazil to represent a 77% increase from the same period in 2018. Many of these fires are happening in areas that are already being used for agriculture, but what is particularly concerning is the high concentration of fires showing up newly clearcut areas, and where they are spreading into existing, or intact, forests.
 
 _From a thorough_ [_Guardian Q&A published on August 23_](https://www.theguardian.com/environment/2019/aug/23/amazon-fires-what-is-happening-anything-we-can-do)_:_
 
-![<img src="https://miro.medium.com/max/1312/1\*Ye4eLQ97bF8XiLfp8723OQ.png" class="gb n o ga ab" width="656" height="1098"/>](https://miro.medium.com/max/1200/1*Ye4eLQ97bF8XiLfp8723OQ.png?q=20)
+![Map of fires throughout the Amazon basin/>](/assets/guardian-amazon-graphic.png)
 
 As the map shows, fires are not only happening in the Amazon basin — as dry season begins in southern South America, fires are happening across the region. There is reason for concern beyond the rainforest — up to 800,000 hectares of [Bolivia’s “dry” Chiquitano forest](https://theconversation.com/its-not-just-brazils-amazon-rainforest-thats-ablaze-bolivian-fires-are-threatening-people-and-wildlife-122335) have been devastated by blazes, and [Chile is facing its worst drought in six decades](https://santiagotimes.cl/2019/08/26/chile-declares-agricultural-emergency-as-extreme-drought-hits-santiago-and-outskirts/).
 
@@ -59,7 +61,9 @@ The 1970s saw the first deforestation on an industrial scale in the Amazon, and 
 
 _For more on historic deforestation trends across the Amazon,_ [_see this article on Mongabay_](https://rainforests.mongabay.com/amazon/amazon_destruction.html)_. For more on the current increase in deforestation, read this_ [_Guardian Q&A published on August 23_](https://www.theguardian.com/environment/2019/aug/23/amazon-fires-what-is-happening-anything-we-can-do)_. Graph from the Guardian:_
 
-![<img src="https://miro.medium.com/max/2816/1\*Ernl3O6kr725rhbwGUr3gw.png" class="gb n o ga ab" width="1408" height="1046"/>](https://miro.medium.com/max/1200/1*Ernl3O6kr725rhbwGUr3gw.png?q=20)
+<div class="full-width">
+<img alt="Graph of levels of deforestation in the Amazon since 2015, showing a recent large increase in the past 3 months" style="border: 0;" src="https://miro.medium.com/max/1200/1*Ernl3O6kr725rhbwGUr3gw.png?q=20" />
+</div>
 
 ## Why the sharp increase in deforestation this year?
 
@@ -71,7 +75,7 @@ Brazil’s President Jair Bolsonaro, who took office January 1, is a climate cha
 
 In 2016, speaking to Congress about Raposa Serra do Sol, Indigenous Territory in Roraima, northern Brazil, Bolsonaro declared:
 
-> _“In 2019 we’re going to rip (it) up._ **_We’re going to give all the ranchers guns_**_”_
+> _“In 2019 we’re going to rip (it) up. We’re going to give all the ranchers guns”_
 
 Not dissimilar to US President Trump, Bolsonaro has staffed his cabinet with agri-business leaders, gutted environmental protections and stopped enforcing protections on indigenous & ecological reserves. These actions have led to predictable — and disastrous — consequences. The Bolsonaro government, hostile to NGOs, has severely undermined indigenous rights and is opening up the Amazon to more deforestation and land grabs than ever before. As Christian Poirier, Program Director of Amazon Watch [stated on August 21](https://amazonwatch.org/news/2019/0821-statement-on-forest-fires-in-the-brazilian-amazon):
 
@@ -85,17 +89,23 @@ This context is what makes the next map particularly concerning. Given that some
 
 As the following [map from _The New York Times_](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html) demonstrates, many of this month’s fires in Brazil are happening precisely on these edges — in the map, red fire dots show up along the sides of green (existing forest) areas, not so much in the center of yellow, previously deforested areas. This map clearly tells the story of how fire is being used to expand the agricultural frontier, into primary rainforest:
 
-![<img src="https://miro.medium.com/max/4040/1\*HHCXvLuZHIw1G2b-M4msZQ.png" class="gb n o ga ab" width="2020" height="1556"/>](https://miro.medium.com/max/1200/1*HHCXvLuZHIw1G2b-M4msZQ.png?q=20)
+<div class="full-width">
+<img alt="Map showing forested vs. recently deforested land in the Amazon basin and the concentration of fires around the forest edge" style="border: 0;" src="https://miro.medium.com/max/1200/1*HHCXvLuZHIw1G2b-M4msZQ.png" />
+</div>
 
 The following map from Amazon Watch has even greater detail, overlaying recent fire data with protected & indigenous territories. A close look at the map shows just how many of the fires abut protected and indigenous areas (yellow). This map also highlights the many fires in the Amazon region happening in Peru & Bolivia:
 
-![<img src="https://miro.medium.com/max/4678/1\*dlh5l76n5KN7yFwd4ExVlA.jpeg" class="gb n o ga ab" width="2339" height="1654"/>](https://miro.medium.com/max/1200/1*dlh5l76n5KN7yFwd4ExVlA.jpeg?q=20)
+<div class="full-width">
+<img alt="Map showing recent fire locations overlaid on indigenous territories in the Amazon basin" style="border: 0;" src="https://miro.medium.com/max/1200/1*dlh5l76n5KN7yFwd4ExVlA.jpeg"/>
+</div>
 
 **Where is the evidence from the ground?**
 
 While the various maps & data visualizations help to show one piece of what’s happening, **maps & satellite imagery alone can’t tell the full story**. In this moment, we believe it is critical to center & amplify the voices of local people. Our partners [Amazon Frontlines](https://www.amazonfrontlines.org/) are working to get financial support to communities in the direct path of the fires. Here, an indigenous brigade of Xerente peoples in the Brazilian state of Tocantins are cutting firebreaks to control a burn in their ancestral territory:
 
-![<img src="https://miro.medium.com/max/2560/1\*hApa4f13s3KTwdYTatwlkg.jpeg" class="gb n o ga ab" width="1280" height="960"/>](https://miro.medium.com/max/1200/1*hApa4f13s3KTwdYTatwlkg.jpeg?q=20)
+<div class="full-width">
+<img alt="Photograph of people cutting a firebreak in a burning forest" src="https://miro.medium.com/max/1200/1*hApa4f13s3KTwdYTatwlkg.jpeg" />
+</div>
 
 With deforestation enabled & emboldened by the Bolsonaro administration, Amazonian indigenous peoples are mobilizing. Earlier this month, indigenous women from across Brazil (plus allies from other Amazonian countries) marched in Brasilia:
 
@@ -103,7 +113,9 @@ What’s at stake is nothing less than their survival. As Rayanne Cristine Máxi
 
 > “We are facing a process of genocide with this government, also a process of ecocide. They are killing us every day; they are killing us with the fire that is happening, they are killing us when they displace us from our territories, when they invade our territories.”
 
-![<img src="https://miro.medium.com/max/2400/1\*kLcxviYCc20fhRKd1b3N5w.jpeg" class="gb n o ga ab" width="1200" height="800"/>](https://miro.medium.com/max/1200/1*kLcxviYCc20fhRKd1b3N5w.jpeg?q=20)
+<div class="full-width">
+<img alt="Aerial photograph of smoke from fires rising out of the forest" src="https://miro.medium.com/max/1200/1*kLcxviYCc20fhRKd1b3N5w.jpeg" />
+</div>
 
 On August 23, our partners [Greenpeace Brasil](https://www.greenpeace.org/brasil/) conducted a flyover of the heavily impacted states of Pará & Rondonia, where indigenous people like the Karipuna have been hard hit by the attacks. Danicley Aguiar, Amazon Campaigner at Greenpeace Brazil said:
 
@@ -139,7 +151,11 @@ Effectively addressing fires and deforestation in the Amazon means centering the
 
 Take for example this powerful video from Menkragnoti Indigenous territory in Para, Brazil:
 
-Video via [Xingu +](https://xingumais.org.br/home#), shot by [Kamikia Kisedje](https://www.youtube.com/user/AIKProducoes)
+<div class="embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfqlEXn70Kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+_Video via [Xingu +](https://xingumais.org.br/home#), shot by [Kamikia Kisedje](https://www.youtube.com/user/AIKProducoes)_
 
 > While the world prays for the Amazon … we’ve gathered all Xingu’s indigenous and riverine peoples, and we want to say that we will resist for the forest. For our way of living. For the future of our children and grandchildren. For the health of the planet.
 >
@@ -151,23 +167,21 @@ Our close partner [Amazon Frontlines](https://www.amazonfrontlines.org/), along 
 
 This weekend, the Earth Alliance announced the [Amazon Forest Fund](https://ealliance.org/amazonfund/), a commitment to give away at least $5 million to directly affected organizations. Earth Alliance is co-chaired by Leonardo DiCaprio, Laurene Powell Jobs & Brian Sheth. (Note — Digital Democracy is a prior grant recipient from the Leonardo DiCaprio Foundation, which is now part of Earth Alliance.) Earth Alliance is calling on others to [**donate to the fund**](https://www.amazonfrontlines.org/donate/brazil/), which goes directly to support protecting the Amazon. Initial recipients of support include:
 
-> Instituto Associação Floresta Protegida (Kayapo)
->
-> Coordination of the Indigenous Organizations of the Brazilian Amazon (COIAB)
->
-> Instituto Kabu (Kayapo)
->
-> Instituto Raoni (Kayapo)
->
-> Instituto Socioambiental (ISA)
+- Instituto Associação Floresta Protegida (Kayapo)
+- Coordination of the Indigenous Organizations of the Brazilian Amazon (COIAB)
+- Instituto Kabu (Kayapo)
+- Instituto Raoni (Kayapo)
+- Instituto Socioambiental (ISA)
 
-## 3\. Support the work of indigenous led patrols, mapping & monitoring programs
+## 3. Support the work of indigenous led patrols, mapping & monitoring programs
 
 Across the Amazon, some of the most effective actions of frontline defenders include mapping efforts to gain legal title over their land, local patrols or “guardias” where indigenous people are defending their territories from exploitation and illegal activity, and ongoing environmental monitoring programs to document when crimes are committed against the forest, as well as the rich biodiversity of local areas. These programs are critical to local communities, and it’s why our partners ask us to support them with the tools and training they need to run these programs effectively.
 
 Indigenous-led mapping & monitoring programs work, and we’ve seen it firsthand with our partners. In Ecuador, [the Waorani people won a major victory in court](https://www.newyorker.com/news/news-desk/an-uncommon-victory-for-an-indigenous-tribe-in-the-amazon) this year, [leveraging maps](https://www.digital-democracy.org/blog/waorani-victory-in-court/) as part of a broader legal strategy to protect 500,000 acres of their territory against oil concessions. In Peru, we’re working with the Ejecutor de Contrato de Administración de la Reserva Comunal Amarakaeri ([ECA-RCA](https://amarakaeri.org/)), who are the guardians of the Amarakaeri Communal Reserve, the largest reserve of its kind in Peru, which demonstrates the power of indigenous co-management of territory. Organizing village-to-village and using smartphones, drones and satellites, ECA are protecting more than 400,000 hectares of forest while providing alternative livelihoods to their local communities.
 
-![<img src="https://miro.medium.com/max/8064/1\*tSDp5wz0ebJMmuTYcSrrFg.jpeg" class="gb n o ga ab" width="4032" height="2268"/>](https://miro.medium.com/max/1200/1*tSDp5wz0ebJMmuTYcSrrFg.jpeg?q=20)
+<div class="full-width">
+<img alt="Photograph of an indigenous person using a phone to enter text" src="https://miro.medium.com/max/1200/1*tSDp5wz0ebJMmuTYcSrrFg.jpeg" />
+</div>
 
 Our team has devoted ourselves to co-building tools with our partners like the Waorani & ECA, because we’ve seen firsthand the victories our partners achieve when they are able to manage information on what’s happening in their territories themselves. But for indigenous groups like these to be successful, they need initial investment — money going directly to indigenous-led organizations to support mapping & monitoring initiatives, as well as for gear to go on patrols and document what’s happening. On the tech side, we at Digital Democracy welcome supporters & collaborators to help us further build out our tools so they can fully function for local users without outside support. Investing in infrastructure like [Mapeo](http://mapeo.world), our offline mapping & monitoring tool, is a way to ensure that indigenous communities in the Amazon & elsewhere have the tools they need to meet the ongoing challenges they face.
 
