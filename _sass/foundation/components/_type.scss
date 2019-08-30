@@ -91,11 +91,11 @@ $definition-list-header-margin-bottom: .3rem !default;
 $definition-list-margin-bottom: rem-calc(12) !default;
 
 // We use these to style blockquotes
-$blockquote-font-color: scale-color($header-font-color, $lightness: 35%) !default;
+$blockquote-font-color: scale-color(#222222, $lightness: 35%) !default;
 $blockquote-padding: rem-calc(9 20 0 19) !default;
 $blockquote-border: 1px solid $gainsboro !default;
 $blockquote-cite-font-size: rem-calc(13) !default;
-$blockquote-cite-font-color: scale-color($header-font-color, $lightness: 23%) !default;
+$blockquote-cite-font-color: scale-color(#222222, $lightness: 23%) !default;
 $blockquote-cite-link-color: $blockquote-cite-font-color !default;
 
 // Acronym styles

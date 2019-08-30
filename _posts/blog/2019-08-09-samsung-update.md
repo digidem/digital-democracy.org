@@ -4,7 +4,6 @@ published: true
 title: "Mapeo Update on Samsung NEXT Stack Zero Grant"
 author: noffle
 tags:
-  - featured
   - front-page
 image: /assets/vector-tiles-offline.jpg
 excerpt: "In January 2019, Digital Democracy received a grant from SamsungNEXT to help build components for local-first peer-to-peer mapping technology. This is a brief summary of what we've been focused on using this grant."
