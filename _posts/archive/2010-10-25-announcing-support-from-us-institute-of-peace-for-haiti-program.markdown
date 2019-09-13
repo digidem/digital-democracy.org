@@ -6,7 +6,7 @@ title: Announcing support from US Institute of Peace for Haiti Program
 wordpress_id: 2309
 categories:
 - archive
-image: http://farm5.static.flickr.com/4138/4884938917_f893d7b4ef.jpg
+image: https://farm5.static.flickr.com/4138/4884938917_f893d7b4ef.jpg
 ---
 
 We are thrilled to announce support from [United States Institute of Peace](http://www.usip.org/) for our work with grassroots Haitian Women's groups. Thanks to an urgent grant from their Haiti program, we are launching a citizen reporting initiative for the upcoming presidential and parliamentary elections in Haiti, scheduled for November 28.
@@ -15,7 +15,7 @@ This week, I'm in Port-au-Prince to launch this initiative along with my colleag
 
 The training will include a discussion of electoral rights, identifying barriers to civic participation in the upcoming election and training the women on how to use tools to report on the elections and electoral-related violence. The training on tech tools includes how to use the [Noula platform](http://www.noula.ht/), [FrontlineSMS](http://www.frontlinesms.com/) and how to upload blog updates.
 
-![image](http://farm5.static.flickr.com/4138/4884938917_f893d7b4ef.jpg)
+![image](https://farm5.static.flickr.com/4138/4884938917_f893d7b4ef.jpg)
 
 In addition to producing a report on this initiative and the findings of our citizen reporters over the course of the next month, this training will help us meet the first part of [our commitment to Clinton Global Initiative](http://http//digital-democracy.org/2010/09/20/commitment-to-clinton-global-a-visitor-from-haiti/), to empower Haitian women in the use of tools that will help them organize and respond to gender-based violence.
 

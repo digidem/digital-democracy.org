@@ -1,17 +1,17 @@
 ---
-categories: 
+categories:
   - blog
 author: Biz Ghormley
 slug: "3979"
 title: "Dd | Haiti: Reflections from a first visit"
 wordpress_id: 3979
 published: true
-image: "http://farm8.staticflickr.com/7459/9807000083_bb7a116a3c_k.jpg"
+image: "https://farm8.staticflickr.com/7459/9807000083_bb7a116a3c_k.jpg"
 ---
 
 “As a small grassroots group, we are not supposed to have access to these kinds of systems,” Jocie Philistin, Program Coordinator for our partner, KOFAVIV, recently told us in Haiti. She continued, “Now, tech is at the core of our organization and allows us to be better at all parts of our work.” Jocie was referring to the systems we — Dd and KOFAVIV — have built together that, upon my first visit to Haiti, I was seeing with my own eyes: the 572 Call Center and KOFAVIV database.
 
-![image](http://farm9.staticflickr.com/8003/7687034530_0f84b4c10f_o.jpg)
+![image](https://farm9.staticflickr.com/8003/7687034530_0f84b4c10f_o.jpg)
 
 The database secures case information for each survivor of sexual violence who comes to KOFAVIV. It allows them to track cases and care from medical, legal and psycho-social providers. It also allows them to track trends, create reports and analyze the data they have about each case without jeopardizing the safety of the victims.
 

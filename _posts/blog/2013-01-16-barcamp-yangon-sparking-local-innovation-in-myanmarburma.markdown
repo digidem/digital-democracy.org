@@ -1,12 +1,12 @@
 ---
-categories: 
+categories:
   - blog
 author: Emily Jacobi
 slug: "barcamp-yangon-sparking-local-innovation-in-myanmarburma"
 title: "BarCamp Yangon: Sparking local innovation in Myanmar/Burma"
 wordpress_id: 4709
 published: true
-image: "http://farm9.staticflickr.com/8369/8426202079_7ea8fdbcd8_o.jpg"
+image: "https://farm9.staticflickr.com/8369/8426202079_7ea8fdbcd8_o.jpg"
 ---
 
 _Yangon, Myanmar:_ The last time I was in Myanmar (aka Burma), the country was ruled by a military government. It was fall 2009. Elections were on the horizon, but most people I met were skeptical about what they might yield. Mobile phones and internet access were increasingly popular but relatively hard to come by - cyber cafes were crowded, and places to access wifi were few and far between.

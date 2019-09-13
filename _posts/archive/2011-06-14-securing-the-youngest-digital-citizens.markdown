@@ -6,7 +6,7 @@ title: Securing the Youngest Digital Citizens
 wordpress_id: 3170
 categories:
 - archive
-image: http://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg
+image: https://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg
 ---
 
 What is the future of cybersecurity and what is the impact on youth, as well as democracy advocates around the world? I recently attended the EastWest Institute’s Cybersecurity Summit to discuss and present on these issues amongst the worlds leading technology security firms. There I met [Michel Nienhuis][1] who wrote a thoughtful piece that I’m happy to re-post here:
@@ -18,7 +18,7 @@ What is the future of cybersecurity and what is the impact on youth, as well as 
 
 On May 31, I attended the [International Youth Congress on Digital Citizenship](http://www.cybersummit2011.com/component/content/article/27) hosted by the [EastWest Institute](http://www.ewi.info/) (EWI) in London, in the lead-up to their [Second Worldwide Cybersecurity Summit](http://www.cybersummit2011.com/). That young people are hugely empowered by the advent of the internet is obvious: one-click access to libraries of information and limitless opportunities to interact, discuss and organize. But there are downsides. Sometimes scary downsides. This congress involved a lot of grassroots organizations reporting from the field in order to identify these downsides. [Movements.org](http://www.movements.org/) for instance, dedicated to ‘identifying, connecting, and supporting grassroots digital activists’, partnered with the EWI and local NGO’s in the US, Lebanon, Cameroon and Nigeria to conduct workshops with the youth in those countries. They found that the issues facing the younger generation markedly differ across nations, regions and cultures.
 
-[![image](http://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg)](http://www.flickr.com/photos/digitaldemocracy/5835839929/in/photostream)
+[![image](https://farm3.static.flickr.com/2457/5835839929_81cbf5c7d2.jpg)](http://www.flickr.com/photos/digitaldemocracy/5835839929/in/photostream)
 
 In the US, youngsters were particularly concerned with cyber bullying – hacking or abusing of their Facebook accounts (‘fraping’, a portmanteau of Facebook and raping) or the spreading of false rumours – as well as being sent sexually explicit texts (‘sexting’, from sex and texting). Identity theft not only affects adults – children posing as classmates can be equally devastating, albeit perhaps more in an emotional rather than financial way. Something which also came up in later breakout sessions, was the increasingly obligatory nature of Facebook in at least the UK and US and the pressure to conform – if you do not have a Facebook account, you are an ‘outsider’ and will not be invited to events (‘if it’s not on Facebook, it’s not happening’) and in the ultimate act of peer pressure, classmates are even likely to make an account for you. There is almost no escaping it if you do not want to miss out. Indirectly, young people are forcing each other to give up their privacy.
 
@@ -36,7 +36,7 @@ Counter-terrorism measures and advertisement profiling often invade privacy in t
 
 So, effectively, we are all increasingly asked to surrender our privacy to businesses like Facebook in return for their services, and to governments in return for ‘security’ – but it really is only quasi-security. Though numerous terrorist plots have been unraveled by intelligence services, the government can barely protect us from online criminals. Complete security and safety is an illusion, and fear of attack has always been used by rulers to control the citizens – or even start wars. The age-old question of how much freedom, liberty and privacy we should give up in order to be kept safe has been rekindled by the rise of the internet. Some even prophesy a slippery slope leading to the realization of George Orwell’s 1984. But all of this is assuming the government is able to determine our level of security and privacy online, and this is obviously, for now at least, false. Even with that knowledge, the security versus privacy debate continues, and consensus is hard to reach – except on one thing: the protection of our children. So will young people be the key to unlocking this conundrum? And is this the moment for a breakthrough, with the G8 recently putting cyber crime and internet regulation on its agenda for the first time in history and producing an Internet section in the resulting Deauville declaration?
 
-This article was originally published on June 13th in [openDemocracy][9]. 
+This article was originally published on June 13th in [openDemocracy][9].
 
 
  [9]: http://www.opendemocracy.net/michel-nienhuis/digital-young-citizens-unlocking-privacy-versus-security-debate

@@ -5,14 +5,14 @@ title: Support Dd and our Kili-climbing team
 wordpress_id: 3878
 categories:
 - blog
-image: http://farm8.staticflickr.com/7224/7352284882_f7c060fb5e_o.jpg
+image: https://farm8.staticflickr.com/7224/7352284882_f7c060fb5e_o.jpg
 ---
 
 A team of Dd supporters will climb Mt. Kilimanjaro in July... and to prepare they are raising funds and awareness about Dd.
 
 Digital Democracy is proud to shout out the team of mountaineers Dd supporters Dan Fredinburg, Sara Pelosi, Michele Battelli, Andrew Swerdlow, Sam Gilbert, Lindsey Smart and Megan Ezell, who have committed to fundraise for Digital Democracy as they prepare to climb Mt. Kilimanjaro in early July. But they can’t do this without [your help](http://www.crowdrise.com/kilifordd/fundraiser/digitaldemocracy)... If you can help them raise $5,000, your donation will be matched!
 
-![image](http://farm8.staticflickr.com/7224/7352284882_f7c060fb5e_o.jpg)
+![image](https://farm8.staticflickr.com/7224/7352284882_f7c060fb5e_o.jpg)
 
 This team of technologists and adventurers are an impressive bunch – five of them currently work for Google, Sara has climbed Everest with Dan, Lindsey and Andrew before, and Megan is a high school student inspired to change the world. They are inventors, security and privacy specialists, skilled relationship and team builders, and they are fun.
 

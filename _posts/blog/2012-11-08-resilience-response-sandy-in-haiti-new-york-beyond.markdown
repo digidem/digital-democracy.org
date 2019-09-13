@@ -2,7 +2,7 @@
 author: Emily Jacobi
 slug: resilience-response-sandy-in-haiti-new-york-beyond
 title: 'Resilience & Response: Sandy in Haiti, New York & Beyond'
-image: http://farm9.staticflickr.com/8348/8167492684_60c24e736c_o.jpg
+image: https://farm9.staticflickr.com/8348/8167492684_60c24e736c_o.jpg
 wordpress_id: 4479
 categories:
 - blog
@@ -12,7 +12,7 @@ tags:
 
 This post is excerpted from a letter sent Friday, November 2, 2012 via the Dd Newsletter ([Sign Up Here!](http://digital-democracy.us2.list-manage.com/subscribe?u=e5898ac1e68db70ce0dfefa88&id=fa7137bbfa)) following the devastation of Hurricane Sandy & includes links below to articles by Emily published in the Huffington Post about our partners in Haiti.
 
-![image](http://farm9.staticflickr.com/8348/8167492684_60c24e736c_o.jpg)
+![image](https://farm9.staticflickr.com/8348/8167492684_60c24e736c_o.jpg)
 
 Dear Friends,
 

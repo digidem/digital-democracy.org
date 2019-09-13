@@ -6,12 +6,12 @@ title: Vote To Discuss Technology For Democracy at SXSW
 wordpress_id: 3319
 categories:
 - archive
-image: http://farm7.static.flickr.com/6201/6053942371_77784af056_o.png
+image: https://farm7.static.flickr.com/6201/6053942371_77784af056_o.png
 ---
 
 What is the current discussion around how technology is being used for supporting people advocating for democracy around the world? Please vote for the panels we and are friends are trying to host at the upcoming South by Southwest Conference in Austin, Texas.
 
-[![image](http://farm7.static.flickr.com/6201/6053942371_77784af056_o.png)](http://panelpicker.sxsw.com/ideas/view/11566)
+[![image](https://farm7.static.flickr.com/6201/6053942371_77784af056_o.png)](http://panelpicker.sxsw.com/ideas/view/11566)
 
 SXSW is shaping up to be a pretty exciting festival this year. Kudos to [the awesome Baratunde who is going to give the opening keynote](http://www.baratunde.com/blog/2011/7/28/keynotunde-its-true-im-delivering-the-opening-keynote-addres.html). This year we're exploring the little discussed aspects of the implications of technology. How can it empower but also endanger people and what creative strategies are currently being pursued around the world? The second is about how women are drivers of change. Please check out more details about them below:
 
@@ -25,10 +25,10 @@ Speakers: Mark Belinsky – [ Digital Democracy ](http://digital-democracy/)
 
 
 
-	
+
   1. Lhadon Tethong – [Tibet Action Institute](https://tibetaction.net/)
 
-	
+
   2. Brian Conley – [Small World News](http://smallworldnews.tv/)
 
 
@@ -43,16 +43,16 @@ Speakers: Jenn Sramek –[CivicActions ](http://civicactions.com/team/jenn_srame
 
 
 
-	
+
   1. Kara Andrade – [Ashoka](http://ashoka.org/)
 
-	
+
   2. Zawadi Nyong’o – [Africa Cancer Foundation](http://www.africacancerfoundation.org/)
 
-	
+
   3. Emily Jacobi – [Digital Democracy](digital-democracy.org)
 
-	
+
   4. Catherine Harrington – [Women's Learning Partnership](http://www.learningpartnership.org/)
 
 
@@ -78,16 +78,16 @@ Speakers: Chris Bronk – [ Rice University ](http://bakerinstitute.org/personne
 
 
 
-	
+
   1. Richard Boly – [Office of eDiplomacy, U.S. Department of State](http://www.state.gov/m/irm/ediplomacy)
 
-	
+
   2. Mary Joyce – [The Meta-Activism Project](http://www.meta-activism.org/)
 
-	
+
   3. Ron Deibert – [University of Toronto (Canada Centre for Global Security Studies, Citizen Lab)](http://www.citizenlab.org/)
 
-	
+
   4. Patrick Meier – [Ushahidi](http://www.ushahidi.com/)
 
 
@@ -102,16 +102,16 @@ Speakers: [TMS Ruge](http://projectdiaspora.org/) – Project Diaspora
 
 
 
-	
+
   1. Ebele Okobi-Harris – [Yahoo!](http://humanrights.yahoo.com/)
 
-	
+
   2. Liz Ngonzi – [New York University Heyman Center for Philanthropy & Fundraising](http://www.epsilen.com/en33)
 
-	
+
   3. Isis Nyong'o – [InMobi Africa](http://www.inmobi.com/)
 
-	
+
   4. Milly Businge – [Kikuube Village Council](http://n/a)
 
 
@@ -126,16 +126,16 @@ Speakers: Jillian York – [ Electronic Frontier Foundation ](https://eff.org/)
 
 
 
-	
+
   1. Mathew Ingram – [GigaOm](http://gigaom.com/category/mathews-posts/)
 
-	
+
   2. Kacem El Ghazzali – none
 
-	
+
   3. Danny O'Brien – [Committee to Protect Journalists](https://cpj.org/)
 
-	
+
   4. Sam Gregory – [WITNESS](http://www.witness.org/)
 
 
@@ -150,10 +150,10 @@ Speakers: Debika Shome – [ harmony Institute ](http://panelpicker.sxsw.com/ide
 
 
 
-	
+
   1. Shaady Salehi – [active voice](http://activevoice.net/)
 
-	
+
   2. Lina Srivastava – [Lina Srivastava Consulting LLC](http://linasrivastava.com/)
 
 
@@ -176,16 +176,16 @@ Speakers: Anthony Nicalo – [ Foodtree ](http://panelpicker.sxsw.com/ideas/view
 
 
 
-	
+
   1. Niles Brooks – [Clean Plates](http://www.cleanplates.com/)
 
-	
+
   2. Danielle Gould – [Food+Tech Connect](http://foodandtechconnect.com/)
 
-	
+
   3. Chacha Sikes – [Code for America](http://www.chachaville.com/)
 
-	
+
   4. Britta Riley – [Windowfarms](http://www.windowfarms.org/)
 
 
@@ -213,13 +213,13 @@ Speakers: Josh Levy – [ Free Press ](http://www.freepress.net/)
 
 
 
-	
+
   1. Nilay Patel – [Thisismynext...](http://www.thisismynext.com/)
 
-	
+
   2. Parul Desai – [Consumers Union](http://www.consumersunion.org/)
 
-	
+
   3. Katherine Maher – World Bank
 
 
@@ -239,10 +239,8 @@ Speakers: [Sam Gregory – ](http://www.freepress.net/)[ WITNESS ](http://panelp
 
 
 
-	
+
   1. Harlo Holmes – [The Guardian Project](https://guardianproject.info/)
 
-	
+
   2. Bryan Nunez – [WITNESS](http://www.witness.org/)
-
-

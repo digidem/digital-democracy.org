@@ -9,7 +9,7 @@ categories:
 image: http://www.europeanweek.ge/events/0014/12.jpg
 ---
 
-[![20110803-112128.jpg](http://farm7.static.flickr.com/6012/6008382341_d47c03c42d_o.png)](http://www.flickr.com/photos/digitaldemocracy/6008382341/)
+[![20110803-112128.jpg](https://farm7.static.flickr.com/6012/6008382341_d47c03c42d_o.png)](http://www.flickr.com/photos/digitaldemocracy/6008382341/)
 
 "I paid maybe the first and last bribe in my life for "The Economist" in the Soviet Union. It was 3 rubles. A babushka (grandma) sold it to me for 6."
 
@@ -58,4 +58,4 @@ It strongly echoed the quote that Misha started off with:
 
 
 
-[![image](http://farm7.static.flickr.com/6132/6008480161_5c1520b25c_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
+[![image](https://farm7.static.flickr.com/6132/6008480161_5c1520b25c_m.jpg)](http://www.flickr.com/photos/digitaldemocracy/)

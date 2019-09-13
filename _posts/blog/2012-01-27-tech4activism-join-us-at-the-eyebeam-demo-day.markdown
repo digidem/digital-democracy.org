@@ -5,14 +5,14 @@ title: 'Tech4Activism: Join us at the Eyebeam DEMO Day!'
 wordpress_id: 3656
 categories:
 - blog
-image: http://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg
+image: https://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg
 ---
 
 Tomorrow, January 28 from 3:00 to 6:00 pm, we'll be presenting at [Eyebeam's Activist Technology Demo Day]( http://eyebeam.org/events/activist-technology-demo-day). Come say hi and check out our [Occupy Votes]( http://www.allourideas.org/occupywallstreet?info=digidem ) & [Choose Your Democracy](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/) systems in action.
 
 **Update 2/1/12: **It was a great day! Check out our photos here: [http://bit.ly/wJl35R ](http://bit.ly/wJl35R )
 
-![image](http://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg)
+![image](https://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg)
 
 "From Arab Spring to Occupy Wall Street, technology has played an important role in shaping contemporary resistance and the representation of these events in the media. What new tools of protest and occupation have emerged over the past year? How does their use help to shape tomorrow’s democracies?" — Eyebeam
 

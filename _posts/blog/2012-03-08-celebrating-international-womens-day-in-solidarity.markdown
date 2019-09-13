@@ -5,12 +5,12 @@ title: Celebrating International Women's Day in solidarity
 wordpress_id: 3762
 categories:
 - blog
-image: http://farm8.staticflickr.com/7054/6816404034_5e48e0f18e_o.jpg
+image: https://farm8.staticflickr.com/7054/6816404034_5e48e0f18e_o.jpg
 ---
 
 Happy International Women's Day! To mark the 101st celebration of International Women's Day, we at Digital Democracy want to take a moment to reflect on our work to empower women and girls,  and celebrate their remarkable vision, courage, achievements and inspiration around the globe.
 
-[![image](http://farm8.staticflickr.com/7054/6816404034_5e48e0f18e_o.jpg)](http://www.usip.org/node/8090)
+[![image](https://farm8.staticflickr.com/7054/6816404034_5e48e0f18e_o.jpg)](http://www.usip.org/node/8090)
 
 Two years ago, Dd launched programming focused on Women and gender issues in Haiti, a country where women make up 52% of the population but are largely excluded from formal decision making and have historically been the subjects of disproportionate rates of violence. Following the earthquake in 2010, violence was exacerbated ([Read the recently released NYU Law study](http://www.law.nyu.edu/news/SATTERTHWAITE_MARGARET_CHRGJ_GJC_HAITI_REPORT) reflecting on the alarming rise in sexual violence post-earthquake and how it has effected women's lives). Dd's work aimed to highlight our partners agency and empower them to use their voices and share their expertise in new ways, as part of a systemic address to gender-based violence (GBV).
 

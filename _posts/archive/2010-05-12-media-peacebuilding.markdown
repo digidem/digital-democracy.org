@@ -6,7 +6,7 @@ title: Media & Peacebuilding Live Webcast
 wordpress_id: 1754
 categories:
 - archive
-image: http://farm3.static.flickr.com/2768/4141398806_a1effd1a01.jpg
+image: https://farm3.static.flickr.com/2768/4141398806_a1effd1a01.jpg
 ---
 
 What is the connection between media and peacebuilding? This is the question being tackled at the upcoming ["Seizing the Moment"](http://www.usip.org/events/seizing-the-moment-media-peacebuilding) summit being put on by the [United States Institute of Peace](http://usip.org) and the [Independent Television Service](http://www.itvs.org/),  in collaboration with [Sesame Workshop.](http://www.sesameworkshop.org) I'm proud to announce that Digital Democracy is an online partner for this event.
@@ -15,12 +15,12 @@ What is the connection between media and peacebuilding? This is the question bei
 
 
 
-> 
+>
 
-> 
+>
 >Tune in live for the webcast on May  12, 2010 from 9:30am to 3:30pm  (Eastern) entitled "[Seizing the Moment:  Media & Peacebuilding](http://www.usip.org/events/seizing-the-moment-media-peacebuilding)."  This summit will consider specific  recommendations on ways to harness  the power of media for conflict  prevention. It will bring together  senior media makers and policymakers  including Jared Cohen, Riz Khan,  and Rebecca MacKinnon. The online  audience will be able to engage  panelists through a live chat and  Twitter discussion (hashtag: #magd).  We encourage you to take part!
-> 
-> 
+>
+>
 
 
 
@@ -31,7 +31,7 @@ For me, the power of media runs deep. Some years ago I ran a film festival in Tb
 
 
 
-[![image](http://farm3.static.flickr.com/2768/4141398806_a1effd1a01.jpg)](http://www.flickr.com/photos/digitaldemocracy/4141398806)
+[![image](https://farm3.static.flickr.com/2768/4141398806_a1effd1a01.jpg)](http://www.flickr.com/photos/digitaldemocracy/4141398806)
 
 
 
@@ -52,6 +52,3 @@ This kind of an education project can lay the foundations for future crisis resp
 
 
 We'll be exploring this in even more detail with [Sisi Ni Amani (We Are Peace)](http://digital-democracy.org/what-we-do/programs/#si), our peacemapping program in Kenya. Starting this summer, we'll be raising awareness of peace efforts within Kenya by  mapping peace initiatives across all segments of Kenyan society. Sisi ni  Amani seeks to connect previously disconnected agents to empower this  arm of civil society before Kenya’s 2012 presidential election.
-
-
-

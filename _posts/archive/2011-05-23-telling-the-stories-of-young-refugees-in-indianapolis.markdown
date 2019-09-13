@@ -6,7 +6,7 @@ title: Telling the stories of young refugees in Indianapolis
 wordpress_id: 3073
 categories:
 - archive
-image: http://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg
+image: https://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg
 ---
 
 > You were born in KweKalu, a place near Mae Sot, Thailand. You live there one year when the Burmese government attacks the poor camp. Your fifty year old grandma carries you to escape, with bombs and fire all around. Thank God, your life is not taken away. When the attack is clear, many people in your village go back, and they can’t find their houses. Instead they find ashes and death.
@@ -14,7 +14,7 @@ image: http://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg
 
 What is it like to grow up in a civil war? To flee your homeland with your family? To live in a refugee camp? To trade all of the above for a new life in a new country - with the potential for freedom, but only if everything you know is left behind?
 
-![image]( http://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg)These are questions we sought to answer with a [recent exhibition of photography by Burmese refugee students](http://www.flickr.com/photos/digitaldemocracy/sets/72157626528398141/with/5712000107/) in Indianapolis, Indiana. The photographs, taken over the past year as part of [Project Einstein Indianapolis](http://digital-democracy.org/2010/11/08/shared-experiences-on-opposite-sides-of-town/), a program focused on telling the stories of refugee youth through photography and digital media.
+![image]( https://farm4.static.flickr.com/3405/5712000107_e0d42c6460_m.jpg)These are questions we sought to answer with a [recent exhibition of photography by Burmese refugee students](http://www.flickr.com/photos/digitaldemocracy/sets/72157626528398141/with/5712000107/) in Indianapolis, Indiana. The photographs, taken over the past year as part of [Project Einstein Indianapolis](http://digital-democracy.org/2010/11/08/shared-experiences-on-opposite-sides-of-town/), a program focused on telling the stories of refugee youth through photography and digital media.
 
 When I was growing up in Indianapolis, I had never heard of the Southeast Asian nation of Burma/Myanmar. Although there was a small but growing population of Burmese people in nearby Fort Wayne Indiana at the time, I knew nothing about the country, where a military dictatorship has ruled since 1962. If I had, perhaps I would have learned how different my life was from the lives of Burmese people my age. Whereas I grew up in  relative peace, with access to public schools and health services, many of Burma's 60 million people grow up without either, and in many parts of the country there continues to be active warfare by the Burmese military against ethnic minority groups. [More than 3 million people have been displaced](http://www.refugeesinternational.org/where-we-work/asia/burma) by war, political oppression and economic hardship into the neighboring countries of India, Thailand, Bangladesh and Malaysia, where they live trapped in refugee camps or illegally as migrant workers.
 
@@ -28,6 +28,6 @@ The reception was a truly special event, made possible by the work of many volun
 
 [Check out more images from the reception](http://www.flickr.com/photos/digitaldemocracy/sets/72157626528398141/with/5689851903/), and stay tuned as we organize a joint show for the students work this spring. Contact info(at)digital-democracy.org if you would like to purchase any of the students' images.
 
-![image](http://farm6.static.flickr.com/5187/5689851903_f87a25176e_z.jpg)
+![image](https://farm6.static.flickr.com/5187/5689851903_f87a25176e_z.jpg)
 
-[![image](http://farm3.static.flickr.com/2650/5711996217_52ffb9415a_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/5711996217/in/set-72157626528398141)
+[![image](https://farm3.static.flickr.com/2650/5711996217_52ffb9415a_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/5711996217/in/set-72157626528398141)

@@ -2,7 +2,7 @@
 author: Emily Jacobi
 slug: reporting-back-from-chiapas-mexico
 title: Reporting back from Chiapas, Mexico
-image: http://farm6.staticflickr.com/5322/7414816750_e9be9db24b_h_d.jpg
+image: https://farm6.staticflickr.com/5322/7414816750_e9be9db24b_h_d.jpg
 wordpress_id: 3815
 overlay_position: right
 categories:

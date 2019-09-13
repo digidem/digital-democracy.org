@@ -6,7 +6,7 @@ title: Supporting earthquake relief & update from Project Einstein Haiti
 wordpress_id: 881
 categories:
 - archive
-image: http://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg
+image: https://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg
 ---
 
 In the wake of [yesterday evening's devastating, 7.0 earthquake in Haiti](http://www.nytimes.com/2010/01/14/world/americas/14haiti.html?hp), we join the many other groups expressing concern for the people of Haiti.
@@ -19,7 +19,7 @@ While communication with the island remains limited, colleagues around the world
 
 **Update from our colleagues in Haiti**
 
-![image](http://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg)
+![image](https://farm5.static.flickr.com/4044/4267795513_e18c5500b4.jpg)
 
 Last night, we received that our colleagues from Fletcher are safe, however we have not received an update since. News reports make it clear that many buildings are unstable, and electricity and cell phone networks are only working intermittently.
 

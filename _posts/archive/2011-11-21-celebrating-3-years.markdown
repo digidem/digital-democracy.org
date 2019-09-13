@@ -6,10 +6,10 @@ title: Celebrating 3 years
 wordpress_id: 3569
 categories:
 - archive
-image: http://farm7.staticflickr.com/6094/6383886719_5b69d54793_z.jpg
+image: https://farm7.staticflickr.com/6094/6383886719_5b69d54793_z.jpg
 ---
 
-[![image](http://farm7.staticflickr.com/6094/6383886719_5b69d54793_z.jpg)](http://www.flickr.com/photos/digitaldemocracy/6383886719/in/photostream)
+[![image](https://farm7.staticflickr.com/6094/6383886719_5b69d54793_z.jpg)](http://www.flickr.com/photos/digitaldemocracy/6383886719/in/photostream)
 
 
 Thanks to all our friends, partners, advisors & supporters who joined us last Thursday for Digital Democracy's 3rd Birthday Party. We are so grateful we were able to celebrate with all of you.

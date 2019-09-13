@@ -6,12 +6,12 @@ title: '“Haitian Women are Starting A Revolution, a Tech Revolution!” '
 wordpress_id: 2847
 categories:
 - archive
-image: http://farm6.static.flickr.com/5101/5560456218_83993d7577.jpg
+image: https://farm6.static.flickr.com/5101/5560456218_83993d7577.jpg
 ---
 
 On Saturday, March 12th, technologists, humanitarians, and community organizers gathered at the second ever **#BarCampHaiti**, convened in Port Au Prince. For those not familiar with “BarCamps,” they are a conference style long popular among technologists - and increasingly other communities - with an agenda partially determined at the event itself based on the skills of those participating and what they want to learn. This BarCamp brought together members of the various communities in Haiti working with technology to share ideas and projects, and to encourage learning and collaboration. It was organized by Chrissy Martin who is now working for Digicel, but was part of the Digital Democracy team on the ground in Haiti when the earthquake hit. She produced [this report about our initial work in Haiti](http://www.scribd.com/doc/27669359/Digital-Democracy-Haiti-Report-2010) and is featured in [this episode of DDTV about the earthquake](http://www.youtube.com/watch?v=eJe0Kv7LPTg) and what it was like to be on the ground during it.
 
-![image](http://farm6.static.flickr.com/5101/5560456218_83993d7577.jpg)
+![image](https://farm6.static.flickr.com/5101/5560456218_83993d7577.jpg)
 
 Participating in BarCamp Haiti was a welcome experience, but more exciting was that all of the six presentations were given by Haitians, one by three of women representing Digital Democracy's partner, the Commission of Women Victims for Victims (KOFAVIV), and all in their 20s.  Their presentation sent shock waves through the crowd as they shared their work to leverage technology for empowerment, and improved coordination, response, and information for prevention of sexual violence in Haiti.
 
@@ -21,13 +21,13 @@ The event took place at Canne à Sucre, a small “national park” maintained i
 
 The morning session began with a presentation by a young man from Cité Soleil, one of Port Au Prince’s toughest neighborhoods, about [Open Street Maps Haiti (OSM)](http://www.openstreetmap.org/)– an online platform that uses GPS coordinates to enable citizens to map their communities. OSM was a critical tool in the  humanitarian response post-earthquake, beginning with the search and rescue period, and was later used to map other types of risks and resources, including voting sites and Cholera.
 
-![image](http://farm6.static.flickr.com/5135/5560468352_f168d591cd.jpg)
+![image](https://farm6.static.flickr.com/5135/5560468352_f168d591cd.jpg)
 
 Like many of his fellow presenters that day, he reiterated throughout the presentation how technology is “changing his life” and something “anyone can learn.”
 
 Then came our three KOFAVIV ladies. Wismide introduced KOFAVIV’s work and spoke about the photography and video trainings with Digital Democracy that have helped women from her community share their perspectives with the national and international community. Elmita followed with an explanation of the [Fanmpale](http://fanmpale.blogspot.com/)/Women Speak blog, created for women to be able to share their photos and begin blogging about their realities. She described the blog as “a place where women can talk about social problems, problems with democracy, and their lives” and “interact with the national and international community.” She related the story of her 5-year-old cousin who came into the Center after being raped by a 14-year-old neighbor while her mother was at the hospital, and her personal experience of using the blog as an outlet to share her story. In her words, “I didn’t know what to do so I wrote a post to show the international community this is not something that just affects women but also affects children.” She invited the audience to visit the blog and shared the importance of comments from the international community to let them know people are listening.
 
-![image](http://farm6.static.flickr.com/5063/5560456214_2d403c0043.jpg)
+![image](https://farm6.static.flickr.com/5063/5560456214_2d403c0043.jpg)
 
 The presentation ended with Fania, a high-energy member of the new Dd team at KOFAVIV working on the new database, who talked about the human rights dossier that the agents currently use for intake and how the database will replace their paper intake process. “I and my fellow presenters are responsible for the human rights reports that come in and for creating monthly and annual reports,” she said. “The new system will help communicate with national and international groups working to address gender-based violence and rape in the camps by providing better and more regular information.” She ended by sharing next steps in the program and plans to establish a small call center to help reach more victims.
 
@@ -37,17 +37,17 @@ Steven Bruno presented a USAID project called [“HIFIVE”](http://www.microlin
 
 The following presentation was about [Radio Boukman](http://citizenhaiti.com/radyo_boukman/), a community radio program that works with radio stations to leverage Twitter, blogs, Facebook, and other social media to reach new audiences and spread information among Haitians and to the world. He said that Radio Boukman hopes to expand their program to rural areas but that Internet access and speed pose complications to program growth. He hopes to develop media centers in these harder to reach areas and closed with his feeling that “thanks to the internet we can access free tools that can help us reach rural areas and the world at large and I believe these tools can not only help us communicate but also develop as a nation.”
 
-![image](http://farm6.static.flickr.com/5264/5560456222_969cc344ac.jpg)
+![image](https://farm6.static.flickr.com/5264/5560456222_969cc344ac.jpg)
 
 The last presentation was a “Twitter 101” for an audience that was largely unfamiliar with the tool. Jean Bernard Pierre [@bernard1804] spoke about Twitter as a means of instantaneously finding and spreading information, not only online, but through SMS, and to share radio and T.V., for example. In his words, “for me, Twitter is radio, tv, audience.” He used the example of Obama using Twitter during his presidential campaign to reach new audiences. Pierre was tweeting throughout the day, and told the crowd “Twitter can help anyone with their work and projects.”
 
 Though there were many highlights of BarCamp Haiti, the most meaningful for me was to witness the praise and encouragement for the KOFAVIV women, and to watch the younger participants in their first real networking situation, as they spoke to their fellow presenters as well as representatives from UNICEF and JPHRO (founded by Sean Penn).
 
-![image](http://farm6.static.flickr.com/5029/5560456220_75c52ca359.jpg)
+![image](https://farm6.static.flickr.com/5029/5560456220_75c52ca359.jpg)
 
 For me the greatest moment was when one of the BarCamp organizers expressed how happy she was to have the KOFAVIV women present.  She shared a story about when “one Haitian staff member of a local technology group had explained that ‘women are lazy’ when asked why there were not more women working in technology in Haiti.”  She said she thought that the BarCamp already helped to dispel that misconception. Moments later, Jocie (Dd’s local project coordinator who joined later in the day) told me the same organizer had also expressed her enthusiasm about KOFAVIV’s presentation, and then gave me a high five and said,**“Haitian Women are Starting A Revolution, a Tech Revolution!”_** They already have! Jocie arrived in the United States on Wednesday, for the first time, with KOFAVIV co-founders Malya Villard and Eramithe Delva to testify at the Inter-American Human Rights Commission in Washington DC this Friday, March 25th, about protection for women living in camps.
 
-![image](http://farm6.static.flickr.com/5096/5560456224_de77d93483.jpg)
+![image](https://farm6.static.flickr.com/5096/5560456224_de77d93483.jpg)
 
 As always, I was and continue to be so impressed by the tireless work and dedication of our team, our partners, and especially KOFAVIV, and their agents now working to develop a cutting edge process for information collection, response, and prevention of gender based violence by empowering the women most directly affected by this problem. As we are seeing across the world, the combination of belief in the power of people to make change, tireless work and dedication, and the use of new technologies and social media are making a difference.
 

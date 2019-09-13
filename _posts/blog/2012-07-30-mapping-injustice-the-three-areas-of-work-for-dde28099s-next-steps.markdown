@@ -1,12 +1,12 @@
 ---
-categories: 
+categories:
   - blog
 author: Biz Ghormley
 slug: "mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps"
 title: "Mapping Injustice: the three areas of work for Dd’s next steps.   "
 wordpress_id: 3953
 published: true
-image: "http://farm8.staticflickr.com/7269/7679845896_e5ca2f990e_o.jpg"
+image: "https://farm8.staticflickr.com/7269/7679845896_e5ca2f990e_o.jpg"
 ---
 
 We're excited to share the plans and prospects that lie ahead for Digital Democracy following the Board's recent meeting in Haiti. **The Board has outlined directives for programming in three categories: Direct Implementation, Tool-Building & Local-to-Global Engagement.** The plans outlined mark significant growth for Dd. We are eager to share this overview of what lies ahead and invite you to join us in making it all possible!

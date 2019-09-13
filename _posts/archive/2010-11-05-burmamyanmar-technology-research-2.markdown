@@ -19,7 +19,7 @@ The tripʼs goals were to conduct research through data mapping, perform trainin
 In the lead up to elections in the country, information access is becoming more suspect. [Arbor Networks points out](http://asert.arbornetworks.com/2010/11/attac-severs-myanmar-internet/) that the county once again fell off the Internet. Over the course of the past several days, their main Internet service provider, the Ministry of Post and Telecommunication suffered a large, sustained DDoS attack disrupting most network traffic in and out of the country. The other ISP, Redlink is reporting similar data loss.
 
 
-[![image](http://farm5.static.flickr.com/4057/5147023144_cdc71c82eb_b.jpg)](http://asert.arbornetworks.com/2010/11/attac-severs-myanmar-internet/)
+[![image](https://farm5.static.flickr.com/4057/5147023144_cdc71c82eb_b.jpg)](http://asert.arbornetworks.com/2010/11/attac-severs-myanmar-internet/)
 
 
 We're proud to be launching our report on the state of ICT in the country to help contribute to the often misunderstood reality on the ground. Despite the growing and lively sectors, there are still major limitations and room for improvement. Please feel free to contact us with any questions or comments.

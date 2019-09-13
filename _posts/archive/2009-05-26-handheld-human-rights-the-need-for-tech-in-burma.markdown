@@ -8,7 +8,7 @@ categories:
 - archive
 ---
 
-[![U Pinya Zawta of the All Burma Monks Alliance demonstrates using a FlipCamera hidden under a monk's robe. ](http://farm6.static.flickr.com/5096/5494765525_1e6271ac04.jpg)](http://www.flickr.com/photos/digitaldemocracy/5494765525/)
+[![U Pinya Zawta of the All Burma Monks Alliance demonstrates using a FlipCamera hidden under a monk's robe. ](https://farm6.static.flickr.com/5096/5494765525_1e6271ac04.jpg)](http://www.flickr.com/photos/digitaldemocracy/5494765525/)
 
 D2's co-founders Mark and Emily are representing [Handheld Human Rights](http://netsquared.org/conference/n2y4) at [N2Y4](http://netsquared.org/conference/n2y4), NetSquared's annual conference. It's thrilling to be at a conference focused on supporting projects on the ground.
 

@@ -6,12 +6,12 @@ title: 'Introducing Project Einstein: Haiti'
 wordpress_id: 874
 categories:
 - archive
-image: http://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg
+image: https://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg
 ---
 
 The year is certainly off to an exciting start. Digital Democracy is putting together our annual report for 2009 and pushing out new projects for 2010. We're excited to announce **Project Einstein: Haiti**
 
-[![image](http://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg)](http://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg)
+[![image](https://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg)](https://farm3.static.flickr.com/2603/3688011280_af2c30d511.jpg)
 
 Dd is partners with a research team  from The Fletcher School at Tufts University supported by the Center for Emerging Market Enterprises ([CEME](http://fletcher.tufts.edu/ibc/ceme.shtml)) and the [Mastercard Foundation](http://www.themastercardfoundation.org/). Two students, Chrissy Martin & Joshua Haynes, are using Digital Democracy's Project Einstein curriculum & equipment to work with local youth to have them investigate the economic lives of those around them through photography.
 

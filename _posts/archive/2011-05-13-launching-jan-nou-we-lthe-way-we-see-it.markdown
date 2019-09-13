@@ -17,7 +17,7 @@ The photographs were installed by a team of volunteers the morning of the show a
 
 Our goal for the launch was to generate momentum around the collection, visibility for the issues, and to raise support for the women and Digital Democracy’s photo program in Haiti.  This was no small task.  The event went smoothly thanks to the contributions of our 15 member benefit committee, 22 member steering committee, 23 volunteers and four translators, and would not have been possible without the support of ELK, SplashLight Studios, and other sponsors and donors who underwrote the event. We are grateful to all for their hard work and generosity!
 
-![image](http://farm6.static.flickr.com/5063/5686752251_8cd87c9e70_b.jpg)
+![image](https://farm6.static.flickr.com/5063/5686752251_8cd87c9e70_b.jpg)
 
 More than 350 people came to the event from communities ranging from representatives of UN Women, to the Haitian American community in NY, including the Haitian American Nurses Association (HANA) and  the Haitian Physician Association (AMHE - Association des Medecins Haitiens vivant a l' Etranger) - both represented on the event's steering committee  - to artists and collectors and even a favorite Haitian food spot in Brooklyn – [Kombit](http://www.kombitrestaurant.com/) – who provided the delicious snacks.  And of course, our two guests of honor from Haiti – Malya Villard-Apollon and Eramithe Delva, co-founders of the Commission of Women Victims for Victims, [KOFAVIV](http://kofaviv.org/), who came to New York to represent the 30 women photographers from four grassroots women's groups in Haiti that were represented in the Collection. Many of these photographers were also online in Haiti that night, where they were engaging with the NY audience at one of three blogging stations that were set up for the evening to communicate with the photographers in Haiti.  There was Haitian music, and even Prestige Beer!
 
@@ -25,7 +25,7 @@ More than 350 people came to the event from communities ranging from representat
 
 The energy surrounding the collection was palpable from the moment viewers stepped off of the elevator. Thanks to the outpouring of support and print purchases at the launch, we far surpassed our expectations - we raised more than $17,000 with proceeds going to benefit Haitian women and Digital Democracy's photography program. Several [articles](//www.coolhunting.com/culture/the-way-we-see-it.php) and tweets were published about the collection and launch, and more than 30 prints were purchased as part of the silent auction. But there are more available in this limited edition Collection.
 
-[![image](http://farm6.static.flickr.com/5309/5677218557_302c537981_b.jpg)](http://www.flickr.com/photos/8164141@N04/5677218557/in/set-72157626500570147)
+[![image](https://farm6.static.flickr.com/5309/5677218557_302c537981_b.jpg)](http://www.flickr.com/photos/8164141@N04/5677218557/in/set-72157626500570147)
 
 It's not too late to purchase** [prints](http://elkhaitibenefit.photoshelter.com/) **and** [catalogs](http://www.magcloud.com/browse/Issue/187798) **of the Collection - with essays from the women in Haiti, the curators, and me - to support the women.  Also please visit [ELK Studios](http://www.elkstudios.com/haitiwomen) and [Digital Democracy](http://www.digital-democracy.org/haiti/photos)’s website pages about the project for more information including links to the Haitian partners and press - and please help us to spread the word!
 
@@ -35,4 +35,4 @@ Malya & Eramithe are now back in Haiti and the community of women they work with
 
 
 
-![image](http://farm6.static.flickr.com/5307/5691144261_756e401f49_b.jpg)
+![image](https://farm6.static.flickr.com/5307/5691144261_756e401f49_b.jpg)

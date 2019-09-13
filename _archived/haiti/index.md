@@ -7,7 +7,7 @@ dsq_thread_id:
 ---
 Since before the devastating earthquake in January, 2010, Digital Democracy has been working on programs in Haiti ranging from youth photography trainings to harnessing technology to address gender-based violence (GBV).
 
- [1]: http://farm5.static.flickr.com/4082/4911082098_1ca4977275.jpg
+ [1]: https://farm5.static.flickr.com/4082/4911082098_1ca4977275.jpg
 
 ####
 
@@ -72,12 +72,12 @@ Partners:
  [24]: http://www.madre.org/
  [25]: http://newmediaadvocacy.org/
 
-Grassroots Women’s Organizations: [  
+Grassroots Women’s Organizations: [
 Komisyon Fanm Viktim Pou Viktim (Commission of Women Victims for Victims), ][25][Fanm Viktim, Leve Janpe (Women Victims Get up Stand up][26]), Kodinasyon Nasyonal Viktim Direk (National Coordination of Direct Victims), Fanm Viktim Koperativ (Women Victim’s Cooperative), Association des Femmes Victimes de Bel-Air (Association of Women Victims of Bel Air), and Viktim Koperativ ak Ti Komes (Victim Cooperative and Small Business)
 
  [26]: http://favilek.interconnection.org/
 
-[SUPPORT DIGITAL DEMOCRACY’S WORK IN HAITI][27] 
+[SUPPORT DIGITAL DEMOCRACY’S WORK IN HAITI][27]
 
 
  [27]: https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=52-1780842&vlrStratCode=GrmdBW%2B6DQu5HeN4HZcC68sH1zItPit2w7B9rU6Fh39rcRxBDg8epxB4FyDkFCGw

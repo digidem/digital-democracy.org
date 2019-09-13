@@ -6,14 +6,14 @@ title: 'Future Now: NYC’s Digital Storybook'
 wordpress_id: 1848
 categories:
 - archive
-image: http://farm5.static.flickr.com/4034/4678708755_aa77aab5e6_b.jpg
+image: https://farm5.static.flickr.com/4034/4678708755_aa77aab5e6_b.jpg
 ---
 
 What does real-time mapping with NYC school kids look like? On Saturday, Digital Democracy was invited to work with 120 young people from all 5 boroughs as part of the [Department of Education's "Future Now" program](http://www.futurenownyc.org/). Having gone through the system myself, I jumped at the chance to help them innovate. While technology access is growing, so is censorship, and I worry about the education we're giving kids when the banned website list resembles [the one in Tunisia](http://advocacy.globalvoicesonline.org/2010/04/28/tunisia-flickr-video-sharing-websites-blogs-aggregators-and-critial-blogs-are-not-welcome/). Access to engaging curriculum is also key. One of the girls I taught was named "Tunisia" and when I made a crack about her being named after a country, she didn't know what I was talking about.
 
 But here in NYC, my task was to engage the kids in a conversation about what they'd like to see in the year 2020. Future Now is creating NYC’s Digital Storybook – a citywide youth   project about school, community, and  dreams. What better way to explore these themes than a mapping exercise  to literally add and remove items in their communities and on their streets.
 
-[![image](http://farm5.static.flickr.com/4034/4678708755_aa77aab5e6_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/4678708755/)
+[![image](https://farm5.static.flickr.com/4034/4678708755_aa77aab5e6_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/4678708755/)
 
 Every 25 minutes, a different set of students filters through, listens to a short presentation and gets their hands on 3 computers, kindly supplied by us and [Tekserve](http://www.tekserve.com/). Using a modified [Ushahidi](http://ushahidi.com/) mapping tool with data overlayed from the [NYC Data Mine](http://nyc.gov/html/datamine/html/home/home.shtml), to give a real-life example of how opening government data can impact the lives of everyday New Yorkers and lead to a smarter city. In this case, I overlayed "Bike Racks" and "Low-Bridges", as some of the only sets available in the Geo Data Catalog, but it proved effective. My example was built from bike racks, stating that in my vision of  the year 2020, gasoline would be expensive, the environment polluted, cars more scarce, and so encouraging the city to place a bike rack in front of my office would enable people to bike to work, making the city more peaceful, healthier and cleaner. Plus, if the government thought a bike rack existed where one didn't, I could let them know about their error.
 
@@ -25,7 +25,7 @@ Digital democracy has engaged with participatory collaborative learning around t
 
 A few real problems did pop up. School in a park, [Open Road Park](http://playgrounddesign.blogspot.com/) to be exact, is beautiful, but makes it hard to work with too much tech. The one good projector was taken by the Google Team, which meant improvising on the fly. The bigger problem though, was spell-check. When students were entering in their main body of information, a line would show up automatically under misspelled words. Every time students would backtrack and try to figure out the right spelling. This happened so often that I estimate it took about twice the time to create each entry as it otherwise would have. In the places where there was no spell-check, like in the titles, the entries are littered with bad spelling.
 
-[![image](http://farm5.static.flickr.com/4039/4678708873_26c4679047_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/4678708873/)
+[![image](https://farm5.static.flickr.com/4039/4678708873_26c4679047_b.jpg)](http://www.flickr.com/photos/digitaldemocracy/4678708873/)
 
 Our work confronts language problems head on, mainly working with visual media such as maps, photos, videos, etc that can allow people to connect beyond these barriers. It's important to consider language barriers even with native English speakers as well. And in NYC, it's even more complicated, with our students on Saturday being from places as varied as Tibet, Thailand, Congo, Madagascar and Brooklyn.
 

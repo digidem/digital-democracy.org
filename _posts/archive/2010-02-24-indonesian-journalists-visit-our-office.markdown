@@ -6,12 +6,12 @@ title: Indonesian Journalists Visit Our Office
 wordpress_id: 1494
 categories:
 - archive
-image: http://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg
+image: https://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg
 ---
 
 Today we had the pleasure of hosting five journalists from Indonesia at the Digital Democracy office. Although none of us on staff speak Indonesian and none of their English was particularly strong, we managed to communicate through 2 translators who had a portable translator toolkit that connected the group via wired headsets. While it looked a bit funny, it certainly was a huge help and allowed us to get into a fascinating conversation ranging from similarities between their country and Thailand, to the meaning of democracy.
 
-[![image](http://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg)](http://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg)
+[![image](https://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg)](https://farm5.static.flickr.com/4049/4384312076_5d72bc2351.jpg)
 
 Not long into the conversation, Kristianto expressed that in Indonesia, citizen journalism is very lively but it's the demonstrations that are a lot harder. A recent incident of accusations of malpractice against a hospital brought support from millions online but when it came to taking to the streets, only 8000 or so came out. We spoke a bit about all of our conceptions of activism, the role of information and the changing tides of "action" in a digital state.
 
@@ -23,4 +23,4 @@ Muhlis then chimed in that, "It seems ideology is no longer important. It's abou
 
 Excitingly, it turns out that Kristianto is also the principal of a high school of 300 students in Lampung, who just received news yesterday that they will be getting an internet connection. He says that he wants the students to learn about the kind of democracy we'd been discussing. Hopefully we'll be able to connect with him on that. I promised to bring bagels.
 
-[![image](http://farm3.static.flickr.com/2776/4383531789_f7431a2a67.jpg)](http://farm3.static.flickr.com/2776/4383531789_f7431a2a67.jpg)
+[![image](https://farm3.static.flickr.com/2776/4383531789_f7431a2a67.jpg)](https://farm3.static.flickr.com/2776/4383531789_f7431a2a67.jpg)

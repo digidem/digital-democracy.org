@@ -6,7 +6,7 @@ title: Burmese refugee youth photos to be featured at Indianapolis City Market
 wordpress_id: 3306
 categories:
 - archive
-image: http://farm4.static.flickr.com/3387/5712555382_bd850b65c1_b.jpg
+image: https://farm4.static.flickr.com/3387/5712555382_bd850b65c1_b.jpg
 ---
 
 **Indianapolis, IN:** Wednesday, August 10th, the students of Project Einstein Indianapolis will have an audience of hundreds as visitors to the Indianapolis City Market's weekly farmer's market will be able to view the work of young photographers, who are primarily refugees from Burma/Myanmar.
@@ -21,4 +21,4 @@ Tomorrow's exhibit is the result of a year-long photo training with students fro
 
 To learn more, [read the press release](http://www.scribd.com/doc/61367176/Press-Release-Photo-Exhibit-August-10th-at-Indianapolis-City-Market) and [check out images from the spring photo exhibition at North Central High School](https://secure.flickr.com/photos/digitaldemocracy/sets/72157626528398141/with/5712549234/), taken by my mom, [Freddi Stevens-Jacobi](http://www.freddistevensjacobi.com).
 
-![image](http://farm4.static.flickr.com/3387/5712555382_bd850b65c1_b.jpg)
+![image](https://farm4.static.flickr.com/3387/5712555382_bd850b65c1_b.jpg)

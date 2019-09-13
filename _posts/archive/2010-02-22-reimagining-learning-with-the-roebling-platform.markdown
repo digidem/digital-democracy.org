@@ -6,7 +6,7 @@ title: Reimagining Learning with the Roebling Platform
 wordpress_id: 1430
 categories:
 - archive
-image: http://farm5.static.flickr.com/4029/4379358019_95297e9d48.jpg
+image: https://farm5.static.flickr.com/4029/4379358019_95297e9d48.jpg
 ---
 
 What is education in the 21st century? How do we prepare kids for the future when our teachers are unprepared? And what about the underserved children living on the margins of society, whether the tens of thousands of newly resettled refugees from Burma, Somalia and Iraq, or youth from districts that spend more money on the prison system than schools.
@@ -15,7 +15,7 @@ Digital media & learning are intrinsically tied and Digital Democracy is looking
 
 The Digital Media & Learning competition and conference was recently held and we were proud to submit an application, and thrilled to be one of the  contenders with the most comments. Thank you to all who have contributed. While commenting has ended, we want to be transparent in our process and learn from the skills that all of **YOU **bring to the table. If you weren't able to comment then, please comment now. Your thoughts are extremely helpful as we move forward in thinking about how our programming can have the biggest impact.
 
-![image](http://farm5.static.flickr.com/4029/4379358019_95297e9d48.jpg)
+![image](https://farm5.static.flickr.com/4029/4379358019_95297e9d48.jpg)
 
 
 **Our proposal**

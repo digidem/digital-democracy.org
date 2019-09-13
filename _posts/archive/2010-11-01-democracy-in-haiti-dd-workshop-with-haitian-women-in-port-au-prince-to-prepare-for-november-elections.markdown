@@ -7,7 +7,7 @@ title: Democracy In Haiti? Our workshop with Haitian Women To Prepare For Novemb
 wordpress_id: 2325
 categories:
 - archive
-image: http://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg
+image: https://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg
 ---
 We are dying from the dust their fancy cars kick up.
 Voting won’t change anything.
@@ -24,7 +24,7 @@ As a lawyer from our partner organization, the [Bureau des Avocats Internationau
 We don’t have democracy.We vote for leaders who don't protect us, who commit violence against us and our children, and use us to deepen their pockets.We have no food, no water, no homes, no education, no security, and no respect for our rights.Animals live better than we do.They are spending money to get elected, and we still live in tents.
 The training began with a group exercise in which women formed small groups and drew maps of their communities.  In total, eight maps of different parts of Port Au Prince were drawn and presented to the room by each group.  All eight maps contained some of the same information, despite having been developed separately by each group.  Most depicted garbage, latrines, and violence in the camps.  One group, with four of the youngest participants, drew the route from their home to KOFAVIV’s office – where we held the trainings. The map began with a school and when asked why the school was the largest object drawn, they responded that it was the “most important” and the thing “we want the most, so we drew it that way.”
 
-![image](http://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg)
+![image](https://farm2.static.flickr.com/1425/5136366779_9628fccc55.jpg)
 
 After each group presented, I presented a map of my home: New York.  I drew the five boroughs, the East River and the Hudson, and the airport in Queens. I shared where Dd staff lives, where the Dd office is, and other information about NYC. Needless to say, my map differed significantly from the others taped to the wall. The women’s questions were illuminating: they asked me “are the rivers dangerous?”  “Is there violence in New York like there is in Haiti?”  One can only imagine the impossibility of fathoming a place like NYC, a place so unlike anything or anywhere they know.
 
@@ -36,13 +36,13 @@ We followed this up with a discussion of other ways to leverage power and push f
 
 Another topic of discussion was barriers for women to meaningful participation in these elections, which turned into a series of group presentations on “reasons why we are not going to vote.” These reasons included, but were not limited to: still living in tents while politicians are “getting out the vote,” never having seen change by leaders they have voted for in the past, and most pervasive, concerns about security.
 
-![image](http://farm2.static.flickr.com/1201/5127286084_06d7c880a3.jpg)
+![image](https://farm2.static.flickr.com/1201/5127286084_06d7c880a3.jpg)
 
 One woman told us the story of having gone out to march to commemorate the anniversary of the founding of her organization, KONAMAVID, which was broadcast this fall on national television.  She said that since that day, she hasn’t slept in the same place two nights in a row because she has been receiving calls threatening her life.  If she received death threats for expressing her views and celebrating the work of her organization that day, one could only imagine the fear this woman and her colleagues feel when standing up for their rights publicly. We responded by talking about how technology can enable women to “march” virtually, anonymously, and more securely.
 
 To this end, we brought together the discussions of democracy and meaningful participation in the political process with technology and the various mapping exercises we began our week with.  We introduced the ways in which citizens have used communications tools such as video, photography, phone calls, sms, and the internet to report on elections around the world and increase transparency and knowledge of realities on the ground.  We invited colleagues from Solutions, a Haitian technology company that oversees the [noula.ht](http://noula.ht/) platform for mapping citizen reports in Haiti, to present the platform and how women can use it to safely report on violence and other injustices in their communities.  One of the presenters, Naomi, who is an operator who receives calls for Noula engaged the women by telling stories of threats she's received, and doing mock calls with participants to orient them to how to report an incident by calling the 177 shortcode in Haiti.
 
-![image](http://farm2.static.flickr.com/1065/5127293844_b684611d8f.jpg)
+![image](https://farm2.static.flickr.com/1065/5127293844_b684611d8f.jpg)
 
 We ended the training on Thursday with a day of smaller meetings with groups formed by dividing Port-au-Prince geographically into five loose neighborhoods where the women live. Each group took out a camera on Wednesday afternoon to aid their documentation, and on Thursday each individual reported on their homework - a case of injustice as well as a piece of news about the elections. While some cases were more general, many women came back with specific cases that had happened to their neighbors, families or themselves, such as the woman who had been beaten for her mobile phone, or a pregnant woman who was being refuges treatment. In reporting on injustice, one women from Cité-Soleil (a slum area of Port-au-Prince) had witnessed three cases of rape Wednesday night, and her colleague, also from Cité-Soleil, reported on election-related intimidation & harassment she had seen in her neighborhood that very morning, when a man had threatened to rip a candidate's shirt off of a woman because he supported another candidate, who paid for his allegiance.
 
