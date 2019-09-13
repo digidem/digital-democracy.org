@@ -9,7 +9,7 @@ categories:
 image: https://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg
 ---
 
-**What does democracy mean to you? **In 2011 the Digital Democracy (Dd) team has asked this question of people around the world. [Egyptians in Tahrir Square](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/), [#Occupy protestors in Zuccotti Park](http://digital-democracy.org/2011/10/19/occupyvotes-open-source-protest/), women in tent camps in Port-Au-Prince and folks at home have given us many answers, including freedom of speech and equal opportunity. The theme uniting them all? **Participation**: the ability for all people’s voices to be heard & represented in their community’s governance.
+**What does democracy mean to you? **In 2011 the Digital Democracy (Dd) team has asked this question of people around the world. [Egyptians in Tahrir Square](/archive/choose-your-democracy-in-egypt/), [#Occupy protestors in Zuccotti Park](/archive/occupyvotes-open-source-protest/), women in tent camps in Port-Au-Prince and folks at home have given us many answers, including freedom of speech and equal opportunity. The theme uniting them all? **Participation**: the ability for all people’s voices to be heard & represented in their community’s governance.
 
 Human rights abuses are barriers to participation. Rape, violence, censorship, police brutality, lack of access to education, discrimination - these abuses silence voices and prevent participation. **Dd works with groups striving to participate by helping them leverage technology to more effectively fight for their human rights. **
 
@@ -25,10 +25,10 @@ In 2011, we have seen the** impact of Dd’s programs **around the world. Our pr
   * **[Women in Haiti](http://digital-democracy.org/category/haiti/)** use blogs and photos to **share** stories of violence, the breakdown of elections, and hope. They use digital pens, databases and maps to **document** their experiences. They launched a call center to **provide emergency support** to rape survivors and they have combined all of these tools to** advocate for the changes necessary to end violence in their community.**
 
 
-  * **[Refugee youth in Indianapolis](http://digital-democracy.org/2011/05/23/telling-the-stories-of-young-refugees-in-indianapolis/)** have used photography as a process and a tool to **break down prejudices** between different ethnic groups, bring diverse stories from their community to welcoming ears, and help kids **grow into community leaders** and build **strong friendships** across ethnic divides.
+  * **[Refugee youth in Indianapolis](/archive/telling-the-stories-of-young-refugees-in-indianapolis/)** have used photography as a process and a tool to **break down prejudices** between different ethnic groups, bring diverse stories from their community to welcoming ears, and help kids **grow into community leaders** and build **strong friendships** across ethnic divides.
 
 
-  * **[Indigenous youth in Guatemala](http://digital-democracy.org/2011/10/11/elections-in-guatemala/)** used digital video cameras and a blog to report on elections, **bridging the voices of rural & indigenous communities** **to the national conversation** about their choice for a new leader.
+  * **[Indigenous youth in Guatemala](/archive/elections-in-guatemala/)** used digital video cameras and a blog to report on elections, **bridging the voices of rural & indigenous communities** **to the national conversation** about their choice for a new leader.
 
 
 

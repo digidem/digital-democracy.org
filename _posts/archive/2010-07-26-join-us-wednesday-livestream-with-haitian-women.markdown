@@ -9,7 +9,7 @@ categories:
 image: https://farm5.static.flickr.com/4079/4765844400_3dcdffb865_m.jpg
 ---
 
-I'm in Port-au-Prince, Haiti for the next week to follow-up on the great trip [Abby Goldberg](http://twitter.com/digiabby) and I took this spring. I began my trip distributing cameras for the [Life In A Day](http://www.youtube.com/watch?v=XMxuocCN1O0) project - the first user-generated feature film. I've also been distributing photos from our [workshop in April](http://digital-democracy.org/2010/05/01/reflections-from-a-week-among-haitis-women/) and I ferried some films from NY for the awesome folks at [FilmAid](http://www.filmaid.org/) to show in the camps.
+I'm in Port-au-Prince, Haiti for the next week to follow-up on the great trip [Abby Goldberg](http://twitter.com/digiabby) and I took this spring. I began my trip distributing cameras for the [Life In A Day](http://www.youtube.com/watch?v=XMxuocCN1O0) project - the first user-generated feature film. I've also been distributing photos from our [workshop in April](/archive/reflections-from-a-week-among-haitis-women/) and I ferried some films from NY for the awesome folks at [FilmAid](http://www.filmaid.org/) to show in the camps.
 
 ![image](https://farm5.static.flickr.com/4079/4765844400_3dcdffb865_m.jpg)
 

@@ -46,7 +46,7 @@ It's crucial for youth to develop these skills. They're becoming increasingly ab
 
 
 
-This kind of an education project can lay the foundations for future crisis response by having the maps and photographs created by youth as part of their education. We realized this, unfortunately, when we had a team on the ground in Haiti doing a media training with youth and the earthquake hit. Thankfully we were able to utilize [http://haiti.ushahidi.com/](http://haiti.ushahidi.com/) to respond in the immediate term. Now we're looking to build on the system even further for violence prevention and peace. Two of my colleagues evolved this into a [media training in Haiti](http://digital-democracy.org/2010/05/01/reflections-from-a-week-among-haitis-women/) as we develop a system for [technology on prevention of women and gender-based violence](http://digital-democracy.org/2010/04/19/traveling-to-haiti-to-support-local-women/).
+This kind of an education project can lay the foundations for future crisis response by having the maps and photographs created by youth as part of their education. We realized this, unfortunately, when we had a team on the ground in Haiti doing a media training with youth and the earthquake hit. Thankfully we were able to utilize [http://haiti.ushahidi.com/](http://haiti.ushahidi.com/) to respond in the immediate term. Now we're looking to build on the system even further for violence prevention and peace. Two of my colleagues evolved this into a [media training in Haiti](/archive/reflections-from-a-week-among-haitis-women/) as we develop a system for [technology on prevention of women and gender-based violence](/archive/traveling-to-haiti-to-support-local-women/).
 
 
 

@@ -29,7 +29,7 @@ Why did we choose All Our Ideas? Other platforms exist, including Google moderat
 
 [All Our Ideas](http://allourideas.org/) randomly generates a pairing. As more and more people vote, the information can become statistically representative and truly reflect the interests of the group. Or points of disagreement. All of that information is available in the data, which is open and available. We'll be publishing it in the interest of transparency.
 
-We're looking to gather volunteers to set up a voting booth in Liberty Plaza (Zuccotti Park) and engage people in the process of voting and presenting their specific demands. This site is an initial attempt to see if the tool speaks to people. Digital Democracy has had some [initial successes](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/) with this with our friends in Egypt, Tunisia and Morocco, and I'm hoping we can take the lessons and open source tools we've been working with around the world to continue to support the marginalized, even in this country - the 99%.
+We're looking to gather volunteers to set up a voting booth in Liberty Plaza (Zuccotti Park) and engage people in the process of voting and presenting their specific demands. This site is an initial attempt to see if the tool speaks to people. Digital Democracy has had some [initial successes](/archive/choose-your-democracy-in-egypt/) with this with our friends in Egypt, Tunisia and Morocco, and I'm hoping we can take the lessons and open source tools we've been working with around the world to continue to support the marginalized, even in this country - the 99%.
 
 We welcome your thoughts, feedback and - of course - your ideas!
 
@@ -38,5 +38,3 @@ Disclosure: All of the ideas on the allourideas site are currently seeded from u
 [![image](https://farm7.static.flickr.com/6040/6261154377_0c1d487fda_o.png)](http://bit.ly/r2NNGd)
 
 Update: Check out this Mashable article which talks about the project - [Occupy Wall Street Hackathons Produce Digital Tools and New Activists](http://mashable.com/2011/10/19/occupy-wall-street-hackathons-2/) and on the [All Our Ideas blog](http://blog.allourideas.org/post/11664873879/occupy-wall-street).
-
-

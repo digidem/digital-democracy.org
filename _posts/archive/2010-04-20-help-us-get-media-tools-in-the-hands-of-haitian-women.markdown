@@ -9,14 +9,14 @@ categories:
 image: http://digital-democracy.org/wp-content/uploads/2010/04/donatenowlogo1.gif
 ---
 
-Tomorrow morning [Abby and I travel to Port-au-Prince](http://digital-democracy.org/2010/04/19/traveling-to-haiti-to-support-local-women/) to focus on the needs of Haitian women. On our trip we have two objectives, and we need your help to meet them.
+Tomorrow morning [Abby and I travel to Port-au-Prince](/archive/traveling-to-haiti-to-support-local-women/) to focus on the needs of Haitian women. On our trip we have two objectives, and we need your help to meet them.
 
 
 
-	
+
   1. Investigating how technology can be leveraged to protect women and girls from gender-based violence.
 
-	
+
   2. Conducting media trainings with women and leaving them with equipment to continue reporting their views from the ground.
 
 

@@ -22,7 +22,7 @@ As we first [blogged][4] about in October, the Hackathon has two primary objecti
 1) design tools to improve the efficacy of the 572 Call Center by developing better ways to access and organize available information on valuable resources (like emergency care) outside the Port-au-Prince area.
 2) improve the use and visualization of data on instances of rape and sexual violence throughout Haiti. New data visualization tools will allow for enhanced visual reports on cases received by KOFAVIV, the identification of new trends in existing data and improved advocacy for increased security for women & girls.
 
- [4]: http://digital-democracy.org/2012/10/02/upcoming-haiti-hackathon-from-local-solutions-to-national-systems/
+ [4]: /blog/upcoming-haiti-hackathon-from-local-solutions-to-national-systems/
 
 The Hackathon will be hosted at the École Supérieure d’Infotronique d’Haïti. Not only has ESIH opened their space for the event, nine of their 3rd & 4th year students will be participating in the hackathon. As Director Patrick Attie told us:
 

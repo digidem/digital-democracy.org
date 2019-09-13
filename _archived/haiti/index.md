@@ -33,22 +33,22 @@ Important links:
 *   [October 25: Announcing USIP Support][17]
 *   [October 28: Training in technology tools and civic engagement][18]
 
- [3]: http://digital-democracy.org/2010/03/01/project-einstein-haiti-report-the-earthquake/
- [4]: http://digital-democracy.org/2010/05/01/reflections-from-a-week-among-haitis-women/
+ [3]: /archive/project-einstein-haiti-report-the-earthquake/
+ [4]: /archive/reflections-from-a-week-among-haitis-women/
  [5]: http://www.flickr.com/photos/digitaldemocracy/sets/72157623791167187/
  [6]: http://www.state.gov/p/wha/ci/ha/earthquake/haititech/index.htm
  [7]: http://www.scribd.com/doc/31572752/Women-of-Haiti
- [8]: http://digital-democracy.org/2010/05/28/12-u-s-senators-back-protection-of-haitian-women/
- [9]: http://digital-democracy.org/2010/08/02/direct-diplomacy-with-haiti/
+ [8]: /archive/12-u-s-senators-back-protection-of-haitian-women/
+ [9]: /archive/direct-diplomacy-with-haiti/
  [10]: http://www.flickr.com/photos/digitaldemocracy/sets/72157624487793077/
- [11]: http://digital-democracy.org/2010/07/28/life-in-a-day/
+ [11]: /archive/life-in-a-day/
  [12]: http://www.flickr.com/photos/digitaldemocracy/sets/72157624784235028/
  [13]: http://ipsnews.net/news.asp?idnews=52608
- [14]: http://digital-democracy.org/2010/09/20/commitment-to-clinton-global-a-visitor-from-haiti/
- [15]: http://digital-democracy.org/2010/09/28/democratic-design-thinking-2/
+ [14]: /archive/commitment-to-clinton-global-a-visitor-from-haiti/
+ [15]: /archive/democratic-design-thinking-2/
  [16]: http://www.bostonhaitian.com/node/236
- [17]: http://digital-democracy.org/2010/10/25/announcing-support-from-us-institute-of-peace-for-haiti-program/
- [18]: http://digital-democracy.org/2010/11/01/democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections/
+ [17]: /archive/announcing-support-from-us-institute-of-peace-for-haiti-program/
+ [18]: /archive/democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections/
 
 Get our one-pager with project details by clicking “download” below
 

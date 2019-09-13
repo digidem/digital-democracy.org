@@ -9,7 +9,7 @@ tags:
   - "front-page"
 ---
 
-Digital Democracy has been selected as [one of eight winners](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/) of the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles for [Remote Access](http://digital-democracy.org/2012/09/24/remote-access-connecting-threatened-communities/), empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats.
+Digital Democracy has been selected as [one of eight winners](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/) of the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles for [Remote Access](/blog/remote-access-connecting-threatened-communities/), empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats.
 
 Our pilot program will focus on supporting indigenous communities monitoring oil spills in the Peruvian Amazon.
 

@@ -8,7 +8,7 @@ categories:
 image: https://farm8.staticflickr.com/7009/6772613159_d4d07b2d37_o.jpg
 ---
 
-Tomorrow, January 28 from 3:00 to 6:00 pm, we'll be presenting at [Eyebeam's Activist Technology Demo Day]( http://eyebeam.org/events/activist-technology-demo-day). Come say hi and check out our [Occupy Votes]( http://www.allourideas.org/occupywallstreet?info=digidem ) & [Choose Your Democracy](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/) systems in action.
+Tomorrow, January 28 from 3:00 to 6:00 pm, we'll be presenting at [Eyebeam's Activist Technology Demo Day]( http://eyebeam.org/events/activist-technology-demo-day). Come say hi and check out our [Occupy Votes]( http://www.allourideas.org/occupywallstreet?info=digidem ) & [Choose Your Democracy](/archive/choose-your-democracy-in-egypt/) systems in action.
 
 **Update 2/1/12: **It was a great day! Check out our photos here: [http://bit.ly/wJl35R ](http://bit.ly/wJl35R )
 

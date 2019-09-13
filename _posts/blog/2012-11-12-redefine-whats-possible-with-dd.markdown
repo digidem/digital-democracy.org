@@ -28,7 +28,7 @@ Our partners tell us **collaboration with Dd has made things possible that they
   * Using [data to protect survivors of rape ](http://www.youtube.com/watch?v=DoXlJ4sgvyM&list=UUeJqgyf3UpDDXz3X1IQuPCg&index=1&feature=plcp)in Port-Au-Prince, Haiti.
 
 
-  * Making the [first phone call from a remote community in Chiapas](http://digital-democracy.org/2012/05/25/reporting-back-from-chiapas-mexico/), Mexico to get news on eviction threats.
+  * Making the [first phone call from a remote community in Chiapas](/blog/reporting-back-from-chiapas-mexico/), Mexico to get news on eviction threats.
 
 
 For the rest of the year you'll hear directly from Dd partners about the POSSIBILITY you help us create. **Join the Conversation: **Send us your thoughts & questions via [Google+](https://plus.google.com/b/112347862850711668157/112347862850711668157/posts), [Facebook](https://www.facebook.com/digidemocracy) or #DdPossible on Twitter.
