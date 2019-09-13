@@ -32,4 +32,4 @@ The Waorani are seeking allies to support their call to halt new oil drilling in
 
 [**Explore their map, sign their petition and support the Waorani's autonomy.**](https://waoresist.amazonfrontlines.org/explore/)
 
->For more on the Waorani mapping process, [read this blog post](http://www.digital-democracy.org/blog/update-from-the-ecuadorian-amazon/)
+>For more on the Waorani mapping process, [read this blog post](/blog/update-from-the-ecuadorian-amazon/)

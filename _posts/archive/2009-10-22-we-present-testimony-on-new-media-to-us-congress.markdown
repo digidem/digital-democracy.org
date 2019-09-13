@@ -21,7 +21,7 @@ image: https://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg
 [“Twitter against Tyrants: New Media in Authoritarian Regimes”](http://csce.gov/index.cfm?FuseAction=ContentRecords.ViewDetail&ContentRecord_id=822&ContentRecordType=P&ContentType=P&CFID=22388105&CFTOKEN=79817089)
 October 22, 2009
 
-Below is a excerpt from the testimony we submitted. You can read the full text [here](http://www.digital-democracy.org/news/helsinki-testimony-on-twitter-v-tyrants/).
+Below is a excerpt from the testimony we submitted. You can read the full text [here](/news/helsinki-testimony-on-twitter-v-tyrants/).
 
 Testimony of Mark Belinsky and Emily Jacobi
 Co-directors, Digital Democracy

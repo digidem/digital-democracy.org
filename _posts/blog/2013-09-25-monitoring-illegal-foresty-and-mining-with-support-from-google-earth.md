@@ -10,4 +10,4 @@ Digital Democracy is a proud recipient of a [2013 Google Earth Outreach Develope
 
 We're using the grant to build Wapichana Deforestation Alert System, an early warning system to help the Wapichana people of Guyana to incorporate satellite and remote sensing data into their efforts to stop illegal logging and mining in their territory. The Wapichana live in 7 million acres of amazon rainforest and natural savannah called the Rupununi in southern Guyana. We are partnering with software developers Whizbang Systems, American Academy for the Advancement of Science's [GeoSpatial Technologies team](shr.aaas.org/geotech/flaring.shtml), [Forest Peoples Programme](http://www.forestpeoples.org/) and the South Rupununi District Toshaos Council and South Central Peoples Development Association (SCPDA).
 
-For more information check out the [project page](http://www.digital-democracy.org/ourwork/guyana/).
+For more information check out the [project page](/ourwork/guyana/).

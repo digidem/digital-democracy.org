@@ -18,4 +18,4 @@ Not on the island?There are many ways you can help. We have been blown away by t
 
 3. Follow the [International Network of Crisis Mappers](http://www.CrisisMappers.net/) and [Crisis Camp on Twitter](http://twitter.com/crisiscamp) for updates. Yesterday, Crisis Camps took place all over the country, and more are expected. Participants worked on iPhone apps, coding, mapping the OpenStreetMap layer, and translation. Check in on [CrisisCommons](http://haiti.crisiscommons.org/) for updates.
 
-Stay tuned for personal stories from [Project Einstein: Haiti](http://www.digital-democracy.org/2010/01/13/supporting-earthquake-relief-update-from-project-einstein-haiti/).
+Stay tuned for personal stories from [Project Einstein: Haiti](/2010/01/13/supporting-earthquake-relief-update-from-project-einstein-haiti/).

@@ -50,7 +50,7 @@ The past eight years have been an incredible journey. We are grateful to all who
 
 The future hangs in the balance. I believe we all have a role to play to act on behalf of human dignity, our precious planet, and the kind of world we want to leave for future generations. What role will you play?
 
-[1]: http://www.digital-democracy.org/
+[1]: /
 [2]: http://www.knightfoundation.org/
 [3]: http://leonardodicaprio.org/
 [4]: http://www.abundance.org/
