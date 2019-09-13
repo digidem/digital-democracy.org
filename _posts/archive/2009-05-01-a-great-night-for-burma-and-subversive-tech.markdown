@@ -11,7 +11,7 @@ image: https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/dsc00815-
 
 On Monday, April 27th D2 co-hosted a packed event with [Not an Alternative](http://www.notanalternative.net/wordpress/) and [Eyebeam](http://eyebeam.org/) at their [Change You Want to See](http://thechangeyouwanttosee.com/) gallery in Brooklyn as part of their project [Upgrade!](http://upgrade.eyebeam.org/), a monthly series focusing on open-source activism and art. We had a fantastic turnout and met a lot of great people.
 
-Mark started things off with a [presentation](http://www.slideshare.net/mbelinsky/subversive-technology-burmas-struggle-for-democracy) on the situation in Burma and D2's work with community organizations on the borders.
+Mark started things off with a [presentation](https://www.slideshare.net/mbelinsky/subversive-technology-burmas-struggle-for-democracy) on the situation in Burma and D2's work with community organizations on the borders.
 
 [![image](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/dsc00815-300x225.jpg)](https://s3.amazonaws.com/digidem-www/wp-content/uploads/2009/05/dsc00815.jpg)
 

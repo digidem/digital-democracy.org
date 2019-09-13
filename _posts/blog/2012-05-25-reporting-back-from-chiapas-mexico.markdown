@@ -20,7 +20,7 @@ Due to the complexity of the current negotiations, we must currently obscure som
 
 
 
-**[Reporting back from Chiapas, Mexico](http://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico)**
+**[Reporting back from Chiapas, Mexico](https://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico)**
 
 
 
@@ -29,6 +29,6 @@ Due to the complexity of the current negotiations, we must currently obscure som
 
 
 
-**[Through our eyes: Photos by Mayan Villagers](http://www.slideshare.net/emjacobi/through-our-eyes-photos-by-mayan-villagers)**
+**[Through our eyes: Photos by Mayan Villagers](https://www.slideshare.net/emjacobi/through-our-eyes-photos-by-mayan-villagers)**
 
-View more [presentations](http://www.slideshare.net/) from [Emily Jacobi](http://www.slideshare.net/emjacobi)
+View more [presentations](https://www.slideshare.net/) from [Emily Jacobi](https://www.slideshare.net/emjacobi)

@@ -70,16 +70,16 @@ Check out our presentations on slideshare:
  [8]: http://www.iraqistreets.com/
  [9]: http://www.openoffice.org/
   [11]: http://freejiew.blogspot.com/
-   [14]: http://www.slideshare.net/mbelinsky/tweets-maps-apps
- [15]: http://www.slideshare.net/mbelinsky/iraq3
- [16]: http://www.slideshare.net/mbelinsky/how-can-new-media-technology-increase-dialogue-between-government-and-the-people-in-iraq
+   [14]: https://www.slideshare.net/mbelinsky/tweets-maps-apps
+ [15]: https://www.slideshare.net/mbelinsky/iraq3
+ [16]: https://www.slideshare.net/mbelinsky/how-can-new-media-technology-increase-dialogue-between-government-and-the-people-in-iraq
 
 
 
-  * [Tweets, Maps & Apps](http://www.slideshare.net/mbelinsky/tweets-maps-apps)
+  * [Tweets, Maps & Apps](https://www.slideshare.net/mbelinsky/tweets-maps-apps)
 
 
-  * [What new media activists should know about libel, copyright and Open Source technology](http://www.slideshare.net/mbelinsky/iraq3)
+  * [What new media activists should know about libel, copyright and Open Source technology](https://www.slideshare.net/mbelinsky/iraq3)
 
 
-  * [How can new media technology increase dialogue between government and the people in Iraq?](http://www.slideshare.net/mbelinsky/how-can-new-media-technology-increase-dialogue-between-government-and-the-people-in-iraq)
+  * [How can new media technology increase dialogue between government and the people in Iraq?](https://www.slideshare.net/mbelinsky/how-can-new-media-technology-increase-dialogue-between-government-and-the-people-in-iraq)

@@ -55,4 +55,4 @@ Thanks to BAVC and best of luck to all the filmmakers as you cross the bridge be
 
 
 
-View more [presentations](http://www.slideshare.net/) from [Mark Belinsky](http://www.slideshare.net/mbelinsky)
+View more [presentations](https://www.slideshare.net/) from [Mark Belinsky](https://www.slideshare.net/mbelinsky)

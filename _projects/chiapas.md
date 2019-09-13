@@ -39,7 +39,7 @@ Local villages in the Lacandon Jungle
 **Learn More:**
 
 
-  * [Slideshow about digital literacy collaboration](http://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico)
+  * [Slideshow about digital literacy collaboration](https://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico)
 
 
-  * [Trainee photos](http://www.slideshare.net/emjacobi/through-our-eyes-photos-by-mayan-villagers)
+  * [Trainee photos](https://www.slideshare.net/emjacobi/through-our-eyes-photos-by-mayan-villagers)
