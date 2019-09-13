@@ -6,7 +6,7 @@ title: Einstein Media Curriculum Now Available
 wordpress_id: 2684
 categories:
 - archive
-image: http://digital-democracy.org/wp-content/uploads/2011/02/eng_dd.png
+image: /assets/(2011/02/eng_dd.png)
 ---
 
 Working on a photography project with kids in Bangladesh, as their work drew to a close, the Anyat Ullah chose a name for the  project “Project Einstein.” All the kids quickly agreed, explaining:
@@ -19,4 +19,4 @@ Since those humble beginnings, our digital literacy program has grown to now be 
 
 I'm excited to now offer [our curriculum free for download](http://digital-democracy.org/what-we-do/materials/project-einstein-training-manual/). Working with [IREX International](http://www.irex.org/) on the Kazakhstan project, we were even able to have it translated into [Russian](http://digital-democracy.org/what-we-do/materials/project-einstein-training-manual/) and [Kazakh](http://digital-democracy.org/what-we-do/materials/project-einstein-training-manual/) languages. I hope that you find this helpful and please let me know if there's anything you'd like to see in future issues so that we can incorporate it. As always, it's Creative Commons license, so feel free to share and add to it yourself also! Just let us know so we can follow the awesome.
 
-[![image](http://digital-democracy.org/wp-content/uploads/2011/02/eng_dd.png)](http://digital-democracy.org/what-we-do/materials/project-einstein-training-manual/)
+[![image](/assets/(2011/02/eng_dd.png))](http://digital-democracy.org/what-we-do/materials/project-einstein-training-manual/)

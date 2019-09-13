@@ -6,12 +6,12 @@ title: Launching Jan Nou We L/The Way We See It
 wordpress_id: 3070
 categories:
 - archive
-image: http://digital-democracy.org/wp-content/uploads/2011/05/5685228790_3a2b994cc3-300x199.jpg
+image: /assets/(2011/05/5685228790_3a2b994cc3-300x199.jpg)
 ---
 
 On April 28th, 2011, Digital Democracy and [ELK Studios](http://www.elkstudios.com) launched**Jan Nou We L/The Way We See It: A Collection of Haitian Women's Photography**at [SplashLight Studios](http://splashlight.com/studios/soho-studios/) in New York.  The Collection of 47 original photographs is the culmination of a year of programming with Haitian women and a partnership with Erin Kornfeld and Erica Leone of ELK Studios, an NYC-based art collective, who curated the exhibition and designed the collection catalogue.  The result is a permanent collection of photographs taken by Haitian women to raise awareness about their lives in the aftermath of the January 2010 earthquake and raise support for their work.
 
-[![image](http://digital-democracy.org/wp-content/uploads/2011/05/5685228790_3a2b994cc3-300x199.jpg)](/archive/launching-jan-nou-we-lthe-way-we-see-it/5685228790_3a2b994cc3/)
+[![image](/assets/(2011/05/5685228790_3a2b994cc3-300x199.jpg))](/archive/launching-jan-nou-we-lthe-way-we-see-it/5685228790_3a2b994cc3/)
 
 The photographs were installed by a team of volunteers the morning of the show and told the stories of Haitian women through their own eyes.  Each 20 x 24 archival print was mounted with an accompanying caption in both English and Haitian Creole and titled by the women in Haiti.  Wall text was posted near several of the prints that were direct quotes from photographers taken from interviews conducted in Haiti in March 2011.
 
@@ -21,7 +21,7 @@ Our goal for the launch was to generate momentum around the collection, visibili
 
 More than 350 people came to the event from communities ranging from representatives of UN Women, to the Haitian American community in NY, including the Haitian American Nurses Association (HANA) and  the Haitian Physician Association (AMHE - Association des Medecins Haitiens vivant a l' Etranger) - both represented on the event's steering committee  - to artists and collectors and even a favorite Haitian food spot in Brooklyn – [Kombit](http://www.kombitrestaurant.com/) – who provided the delicious snacks.  And of course, our two guests of honor from Haiti – Malya Villard-Apollon and Eramithe Delva, co-founders of the Commission of Women Victims for Victims, [KOFAVIV](http://kofaviv.org/), who came to New York to represent the 30 women photographers from four grassroots women's groups in Haiti that were represented in the Collection. Many of these photographers were also online in Haiti that night, where they were engaging with the NY audience at one of three blogging stations that were set up for the evening to communicate with the photographers in Haiti.  There was Haitian music, and even Prestige Beer!
 
-[![image](http://digital-democracy.org/wp-content/uploads/2011/05/5685579480_2e9e137052-300x199.jpg)](/archive/launching-jan-nou-we-lthe-way-we-see-it/5685579480_2e9e137052/)
+[![image](/assets/(2011/05/5685579480_2e9e137052-300x199.jpg))](/archive/launching-jan-nou-we-lthe-way-we-see-it/5685579480_2e9e137052/)
 
 The energy surrounding the collection was palpable from the moment viewers stepped off of the elevator. Thanks to the outpouring of support and print purchases at the launch, we far surpassed our expectations - we raised more than $17,000 with proceeds going to benefit Haitian women and Digital Democracy's photography program. Several [articles](//www.coolhunting.com/culture/the-way-we-see-it.php) and tweets were published about the collection and launch, and more than 30 prints were purchased as part of the silent auction. But there are more available in this limited edition Collection.
 

@@ -27,4 +27,4 @@ We will be launching the project with two Indianapolis-area high schools in the 
 
 About the foundation: [The Clowes Fund](http://www.clowesfund.org/) is a family foundation established in 1952, in Indianapolis, Indiana. It makes grants in Indianapolis; Seattle, Washington; and northern New England to support human services, education and the arts. We are grateful for their support and excited to launch Project Einstein Indy!
 
-[![image](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks-300x200.jpg)](http://digital-democracy.org/wp-content/uploads/2010/04/Hoosierworks.jpg)
+[![image](/assets/(2010/04/Hoosierworks-300x200.jpg))](/assets/(2010/04/Hoosierworks.jpg))

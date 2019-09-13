@@ -23,7 +23,7 @@ CGI is built around commitments - every single attendee has to make a commitment
 
 It is fitting that our commitment will be in the spotlight this week, as this past week, we have been hosting our partner - Eramithe Delva - and have had the pleasure of speaking with her to the Women Donors Network, UN Foundation, NYU Law, State Department and more.
 
-[![image](http://digital-democracy.org/wp-content/uploads/2010/09/Malya-Eramithe-300x225.jpg)](http://digital-democracy.org/wp-content/uploads/2010/09/Malya-Eramithe.jpg)
+[![image](/assets/(2010/09/Malya-Eramithe-300x225.jpg))](/assets/(2010/09/Malya-Eramithe.jpg))
 
 Eramithe is a courageous advocate for Haitian women's rights. Responding to her rape and her husband's murder in 1994, she co-founded KOFAVIV (Commission of Women Victims for Victims) to organize fellow poor women raped during the military dictatorship. She has organized thousands of women over the past 15 years.
 

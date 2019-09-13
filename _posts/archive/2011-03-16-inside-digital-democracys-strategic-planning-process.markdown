@@ -6,7 +6,7 @@ title: Inside Digital Democracy's Strategic Planning Process
 wordpress_id: 2757
 categories:
 - archive
-image: http://digital-democracy.org/wp-content/uploads/2011/03/TOC-300x245.jpg
+image: /assets/(2011/03/TOC-300x245.jpg)
 ---
 In 2008, we formed Digital Democracy based on a simple but powerful idea: Technology should be used to empower even the most marginalized groups to engage in democratic action, whether locally, on a national or international scale.
 
@@ -39,7 +39,7 @@ We plan to do this in two ways:
 We believe change does not come from technology, but from how people use it. Our programs focus on a cycle we have identified:
 
 
-[![image](http://digital-democracy.org/wp-content/uploads/2011/03/TOC-300x245.jpg)](/archive/inside-digital-democracys-strategic-planning-process/toc/)
+[![image](/assets/(2011/03/TOC-300x245.jpg))](/archive/inside-digital-democracys-strategic-planning-process/toc/)
 
 
 Digital literacy, digital organizing, and digital governance are the three components critical to creating a state of "digital democracy," where all people have the ability to participate in a meaningful way in the decision-making that impacts their lives.

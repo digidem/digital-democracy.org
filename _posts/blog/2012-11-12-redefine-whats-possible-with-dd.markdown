@@ -43,4 +43,4 @@ Make it possible: **Help Dd continue to work with communities by making an inves
 
 __Your tax-deductible contribution will make an immediate and profound impact. __
 
-[![image](http://digital-democracy.org/wp-content/uploads/2012/11/121112-thermometer.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=s-xclick&hostedbuttonid=9936590)
+[![image](/assets/(2012/11/121112-thermometer.jpg))](https://www.paypal.com/cgi-bin/webscr?cmd=s-xclick&hostedbuttonid=9936590)

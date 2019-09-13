@@ -6,7 +6,7 @@ title: Censoring Liberty in Thailand
 wordpress_id: 2172
 categories:
 - archive
-image: http://digital-democracy.org/wp-content/uploads/2010/09/Screen-shot-2010-09-24-at-10.20.06-300x218.png
+image: /assets/(2010/09/Screen-shot-2010-09-24-at-10.20.06-300x218.png)
 ---
 
 **Thai journalist and anti-censorship activist is detained & released on bail 12 hours later
@@ -15,7 +15,7 @@ image: http://digital-democracy.org/wp-content/uploads/2010/09/Screen-shot-2010-
 (updated at 5:30pm EDT following Jiew's release from Thai authorities)
 September 24, 2010: New York, NY—Chiranuch Premchaiporn, known as Jiew — an advocate, founder and manager of a leading independent news website in Thailand — was detained today in the Bangkok airport upon return from the "Google Internet at Liberty" conference hosted in Budapest, Hungary. Held by police for over 12 hours, she was released on bail in the early hours of the morning in Khon Kean province, 400 kilometers northeast of Bangkok.
 
-[![image](http://digital-democracy.org/wp-content/uploads/2010/09/Screen-shot-2010-09-24-at-10.20.06-300x218.png)](/archive/censoring-liberty-in-thailand/screen-shot-2010-09-24-at-10-20-06/)
+[![image](/assets/(2010/09/Screen-shot-2010-09-24-at-10.20.06-300x218.png))](/archive/censoring-liberty-in-thailand/screen-shot-2010-09-24-at-10-20-06/)
 
 Already indicted under ten charges of the Thai New Computer Crime Act, she is set to go on trial in February. Jiew was previously detained on charges related to content posted by users on a website she runs for the independent news organization, Prachathai, which means "Free People" in English. Under local laws, those who run sites are responsible for all content on them, including comments. Under lese majeste laws, it is illegal to criticize the royal family. Authorities say she did remove such comments quickly enough.
 
