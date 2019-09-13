@@ -8,7 +8,7 @@ categories:
 - archive
 ---
 
-[![iphone app screenshot](/iphone.jpg)](/iphone.jpg)One of the things that drives us is being able to highlight exciting ways people are using technology to make the world a better place. Today, we're excited to highlight the [Extraordinairies](http://beextra.org) - a social enterprise using technology to help people micro-volunteer their time. Through their [iPhone app](http://download.beextra.org) or [website,](http://app.beextra.org/mission/browse) people can volunteer just minutes of their time to helping non-profits and community organizations with tasks.
+[![iphone app screenshot](/iphone.jpg)](/iphone.jpg)One of the things that drives us is being able to highlight exciting ways people are using technology to make the world a better place. Today, we're excited to highlight the [Extraordinairies](https://beextra.org) - a social enterprise using technology to help people micro-volunteer their time. Through their [iPhone app](http://download.beextra.org) or [website,](http://app.beextra.org/mission/browse) people can volunteer just minutes of their time to helping non-profits and community organizations with tasks.
 
 Two weeks ago, we signed up with the Extraordinaries with the thought that people might help tag the photos taken by [Project Einstein: Haiti](/2010/01/18/reflections-on-project-einstein-haiti-personal-story-of-earthquake-survivor/). Then, the earthquake hit. Although our Haiti photos have been lost, the Extraordinaries have done an amazing job applying their platform to the Haiti crisis. Go to http://beextra.org/haiti to micro-volunteer your time for the cause.
 

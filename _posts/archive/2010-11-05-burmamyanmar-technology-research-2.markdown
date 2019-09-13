@@ -12,7 +12,7 @@ image: /assets/(2010/11/burmaddos-300x200.jpg)
 Allegedly a country with less than 1% Internet & mobile penetration,
 Digital Democracy traveled to Burma/Myanmar in August 2009 to conduct research on ICT in the country to uncover the realities of how people are communicating. The trip offered a unique opportunity to look at how people and companies are developing unique mobile & internet technology strategies to benefit their society.
 
-[![image](/assets/(2010/11/burmaddos-300x200.jpg))](http://digital-democracy.org/?attachment_id=2343)
+[![image](/assets/(2010/11/burmaddos-300x200.jpg))](https://digital-democracy.org/?attachment_id=2343)
 
 The tripʼs goals were to conduct research through data mapping, perform trainings, and create media profiles and organizations. Dd visited Mandalay Division, Rakhine/Arakan State and Yangon/Rangoon Division. Digital Democracy has previously conducted research with Burmese groups in Thailand, Bangladesh India and China, creating a comprehensive study on information in and around the county.
 

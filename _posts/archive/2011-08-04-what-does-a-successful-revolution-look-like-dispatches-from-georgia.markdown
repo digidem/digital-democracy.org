@@ -6,7 +6,7 @@ title: What Does A Successful Revolution Look Like? Dispatches from Georgia
 wordpress_id: 3287
 categories:
 - archive
-image: http://www.europeanweek.ge/events/0014/12.jpg
+image: https://www.europeanweek.ge/events/0014/12.jpg
 ---
 
 [![20110803-112128.jpg](https://farm7.static.flickr.com/6012/6008382341_d47c03c42d_o.png)](http://www.flickr.com/photos/digitaldemocracy/6008382341/)
@@ -27,7 +27,7 @@ There were a number of events and panels staged throughout "[European Week](http
 
 It's fascinating to hear people who have recently gone through a revolution discuss their personal experiences. Unfortunately, they also rehashed the fact that the struggle continues. Stories told by Bassem of the police continuing to assault citizens were sobering to those who had expected more success, no doubt in part due to their own experiences. Meanwhile Faraz detailed cases of countries such as Bahrain, where attempts of citizens to stand up for their rights were being brutally repressed. The optimism Around technology's role as a tool for empowerment was also peppered with cautions to not discredit the people themselves. After all, technology can help bring people to the streets, but it's up to them to decide what to do once they are there.
 
-[![image](http://www.europeanweek.ge/events/0014/12.jpg)](http://www.europeanweek.ge/album.php?ev=14)
+[![image](https://www.europeanweek.ge/events/0014/12.jpg)](http://www.europeanweek.ge/album.php?ev=14)
 **_"[Revolutions from East to South](http://www.europeanweek.ge/album.php?ev=14)" which included people who supported the fall of the iron curtain, tech skeptics and myself : myself, James Crabtree (Financial Times) , Denis MacShane (Member of Parliament UK) , Hans Christoph Buch (Writer, Germany) Moderator: Marc Semo (Foreign Affairs Editor, Libération)_**
 
 Given that just beforehand, a number of leaders from various Arab world uprisings said that while technology didn't preclude the power of people and individual action, it was still essential to the successful overthrow of governments. The panel, aside from me, denied this entirely. My favorite quote being that "Mao did not need twitter." I guess they haven't thought about modern distribution methods for his little red book.

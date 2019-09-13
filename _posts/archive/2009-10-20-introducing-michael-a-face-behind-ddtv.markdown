@@ -8,7 +8,7 @@ categories:
 - archive
 ---
 
-![Hey there!](http://209.240.155.87/wp-content/uploads/2009/10/michael_mountain.jpg)
+![Hey there!](https://209.240.155.87/wp-content/uploads/2009/10/michael_mountain.jpg)
 
 The Digital Democracy team is growing, and I'd like to introduce myself as one of the latest members. I didn't mean to lurk in the corner for five months, but here it just happened!
 

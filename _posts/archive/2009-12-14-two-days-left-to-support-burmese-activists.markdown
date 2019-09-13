@@ -11,7 +11,7 @@ categories:
 
 
 
-[![Video thumbnail. Click to play](http://blip.tv/file/get/DigitalDemocracy-TwoDaysLeftToSupportBurmeseActivists144.mp4.jpg)](http://blip.tv/file/get/DigitalDemocracy-TwoDaysLeftToSupportBurmeseActivists144.mp4)
+[![Video thumbnail. Click to play](https://blip.tv/file/get/DigitalDemocracy-TwoDaysLeftToSupportBurmeseActivists144.mp4.jpg)](http://blip.tv/file/get/DigitalDemocracy-TwoDaysLeftToSupportBurmeseActivists144.mp4)
 
 
 Thanks to 46 backers, we've raised 75% of the money we need to translate Cory Doctorow's [Little Brother](http://craphound.com/littlebrother/about/) into four Burmese languages. It's been amazing to see such support.
@@ -32,5 +32,3 @@ It's sad that Amazon's rules mean non-americans can't initiate Kickstarter proje
 
 
 [Support our Kickstarter campaign today](http://bit.ly/little-bro).
-
-

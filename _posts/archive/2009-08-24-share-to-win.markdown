@@ -12,7 +12,7 @@ Our community of supporters has always been one of Digital Democracy's greatest 
 
 We have entered Project Einstein in the 3Banana [Share to Win](http://3banana.com/corp/share-to-win/) contest and we need you, our supporters, to help us win.
 
-[![Click here to go to our Project Einstein note on 3Banana](http://static.3banana.com/pics/sharetowin_badge_290x90.png)](http://3banana.com/m/zWu/B33Rbbl880h)
+[![Click here to go to our Project Einstein note on 3Banana](https://static.3banana.com/pics/sharetowin_badge_290x90.png)](http://3banana.com/m/zWu/B33Rbbl880h)
 
 The contest is very simple: we created a [note](http://3banana.com/m/zWu/B33Rbbl880h) about Project Einstein on the 3Bananas website. All you have to do is go to the [note](http://3banana.com/m/zWu/B33Rbbl880h) and leave a comment. The project note with the most comments will win the contest. First prize is $5000!
 

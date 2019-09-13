@@ -20,7 +20,7 @@ Supporters of the Shadow Fund believe marginalized groups must have a voice to b
 
 
 
-[![original fundraising ideas](http://www.fundraiserinsight.org/libs/thermometer.php?current=6795&max=6500&curr=36&t_id=0&skin=small_hor)](http://www.fundraiserinsight.org)
+[![original fundraising ideas](https://www.fundraiserinsight.org/libs/thermometer.php?current=6795&max=6500&curr=36&t_id=0&skin=small_hor)](http://www.fundraiserinsight.org)
 
 
 

@@ -6,10 +6,10 @@ title: Introducing Project Roebling
 wordpress_id: 843
 categories:
 - archive
-image: http://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg
 ---
 
-[![image](http://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg)](http://en.wikipedia.org/wiki/Brooklyn_Bridge)When the Brooklyn Bridge was built in 1893, it was the longest suspension bridge in the world. [Built by John, Washington and Emily Warren Roebling](http://en.wikipedia.org/wiki/Brooklyn_Bridge#Construction), it was a feet of engineering that has connected millions of people.
+[![image](https://upload.wikimedia.org/wikipedia/commons/6/65/Brooklyn_Bridge_h-panorama_cph_3c19639.jpg)](http://en.wikipedia.org/wiki/Brooklyn_Bridge)When the Brooklyn Bridge was built in 1893, it was the longest suspension bridge in the world. [Built by John, Washington and Emily Warren Roebling](http://en.wikipedia.org/wiki/Brooklyn_Bridge#Construction), it was a feet of engineering that has connected millions of people.
 
 We're working on our own bridge, for educators to connect students around the world. Partnering with [MIT Center for Future Civic Media](http://civic.mit.edu/) and [Eyebeam,](http://eyebeam.org/) Project Roebling - named for the builders of the Brooklyn Bridge - is the base for Project Einstein, our photography-based digital penpal program to connect refugee youth abroad and in the US.
 

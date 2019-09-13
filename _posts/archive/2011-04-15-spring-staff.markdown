@@ -29,6 +29,6 @@ It's getting warmer in NYC and the office is bustling with activity. We're happy
 
 Ada has a passion and a knack for learning foreign languages– her most recent conquests are in Serbian and Arabic.  She is interested in the intersections between communications, technology, human rights, social entrepreneurship, and development in post-conflict settings. She aspires to become a Communications Consultant. Follow her on [Twitter: @Mangoleira](http://twitter.com/Mangoleira)
 
-[![image](http://a2.twimg.com/profile_images/1282998811/YMCA-Suit.jpg)](http://www.flickr.com/photos/digitaldemocracy)
+[![image](https://a2.twimg.com/profile_images/1282998811/YMCA-Suit.jpg)](http://www.flickr.com/photos/digitaldemocracy)
 
 **Phil Knerr**, Software Development Volunteer, is contributing to our work in Haiti by assisting with a database project called Haiti Reporter that we're implimenting and creating the ability offline syncing. Follow him on [Twitter: @PhilKnerr](http://twitter.com/PhilKnerr)

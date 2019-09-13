@@ -27,6 +27,4 @@ My focus was discussing the future of mobiles and how the proliferation of them 
 
 At the same time, it's dangerous and complicated. 20 colleagues who were visiting from Belarus were detained at the border when they tried to reenter their home country. Literacy doesn't exist in a void of safety.
 
-[![image](http://wiki.techcampglobal.org/images/thumb/4/4b/TCVilniusLogo.jpg/376px-TCVilniusLogo.jpg)](http://wiki.techcampglobal.org/index.php?title=TechCamp:Vilnius)
-
 TechCamp Vilnius is one of a series of [TechCamps](http://techcampglobal.org/) being held around the world. Check it out and see if one is coming your way.

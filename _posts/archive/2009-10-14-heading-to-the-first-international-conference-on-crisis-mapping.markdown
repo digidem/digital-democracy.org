@@ -6,10 +6,10 @@ title: Heading to the first International Conference on Crisis Mapping
 wordpress_id: 727
 categories:
 - archive
-image: http://api.ning.com/files/VBE-wsjXsqB-ON-0KAMDMt6sUo4zBHpUjid*nH0LIlMaGmgO45m5H670hNXXetTDjTv0uosbKttJujgRniTU4yBUukURCwfN/crisismappingadsmallfinal.png
+image: https://api.ning.com/files/VBE-wsjXsqB-ON-0KAMDMt6sUo4zBHpUjid*nH0LIlMaGmgO45m5H670hNXXetTDjTv0uosbKttJujgRniTU4yBUukURCwfN/crisismappingadsmallfinal.png
 ---
 
-[![image](http://api.ning.com/files/VBE-wsjXsqB-ON-0KAMDMt6sUo4zBHpUjid*nH0LIlMaGmgO45m5H670hNXXetTDjTv0uosbKttJujgRniTU4yBUukURCwfN/crisismappingadsmallfinal.png)](http://crisismapping.ning.com/)This weekend, Digital Democracy is heading to join the conversations at the first International Conference on Crisis Mapping ([ICCM 2009](http://crisismapping.ning.com/)).
+[![image](https://api.ning.com/files/VBE-wsjXsqB-ON-0KAMDMt6sUo4zBHpUjid*nH0LIlMaGmgO45m5H670hNXXetTDjTv0uosbKttJujgRniTU4yBUukURCwfN/crisismappingadsmallfinal.png)](http://crisismapping.ning.com/)This weekend, Digital Democracy is heading to join the conversations at the first International Conference on Crisis Mapping ([ICCM 2009](http://crisismapping.ning.com/)).
 
 Co-organized by the Harvard Humanitarian Initiative ([HHI](http://hhi.harvard.edu/programs-and-research/crisis-mapping-and-early-warning)) and John Carroll University ([JCU](http://www.jcu.edu/politicalscience/)), ICCM is bringing together leading thinkers and practitioners in the field of humanitarian work and human rights, along with scholars, software developers, policy makers and donors.
 
