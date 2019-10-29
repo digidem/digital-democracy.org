@@ -6,7 +6,7 @@ author: Karissa McKelvey
 tags:
   - featured
   - front-page
-image: /assets/local-first-sync.jpeg
+image: /assets/phone-river.jpg
 excerpt: "Five years ago, we asked ourselves an important question: Why can't frontline communities do mapping and monitoring work themselves? Why does Mapeo need to exist?"
 ---
 
