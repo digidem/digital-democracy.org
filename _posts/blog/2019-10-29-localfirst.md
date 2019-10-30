@@ -33,10 +33,10 @@ technology is built. We are pushing the boundaries of what’s possible in
 technology so that we can better stand in solidarity with marginalized
 communities.
 
-How is this different than existing technologies that work offline?  Mapeo
-isn't the first mapping software that works offline. In fact, there's a long
-history of offline-first technologies designed specifically for mapping and
-monitoring. However, these differ because they are still clients in
+### How is this different than existing technologies that work offline?  
+
+Mapeo isn't the first mapping software that works offline. In fact, there's
+a long history of offline-first technologies designed specifically for mapping and monitoring. However, these differ because they are still clients in
 a hierarchical relationship with the cloud. The device is just holding data,
 waiting until it can connect to the cloud service.
 
