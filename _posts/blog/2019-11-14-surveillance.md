@@ -56,7 +56,7 @@ who are practicing data minimalism and data solidarity.
 
 ### K: Where are the biggest gaps in data solidarity? 
 
-A complete understanding of the social graph we carry with us is still a huge
+*Gunner*: A complete understanding of the social graph we carry with us is still a huge
 one that people still don't fully get. Data solidarity means how my social
 graph toxifies other people's social graphs, and puts them in danger. For
 example, I hosted Freedom of the Press, Edward Snowden's organization, we've
@@ -91,7 +91,7 @@ it's a step in the right direction.
 breadth of projects over the years. What projects have had the most impact that
 are still active today?
 
-Signal was and still is an emblem of a way to do technology in civil
+*Gunner*: Signal was and still is an emblem of a way to do technology in civil
 society. It was a design-first project, that is the design came first and was
 the most important thing to get right from the beginning. The goal was set so
 that the user need know nothing about the security that protects them. They
@@ -113,7 +113,40 @@ of options for how they can control their own data.
 ### K: For those reading this who are involved in non-profit technology; either
 supporting an existing project or making a new one, do you have some advice?
 
+*Gunner*: Listen to your users first second third. Technology should come last. Measure
+thrice cut once. Don't just do user research and code for a year and disappear. Test your findings, and then
+come back to your plan and give tough love to it and impacts it. 
 
-### K: I'm sure there are many people reading this now who want to do something to help this movement against surveillance capital. What would you say to those who want to enter into this space?
+Be open source & have the governance conversations first. Model for success.
+People are going to want to contribute code, money, etc. You need to talk about
+how those decisions get made, how those contributions get honored, how do you
+federate equity in a project as it scales. For example, see Mozilla's module
+architecture. There's a governance list & you can pass on your ownership of
+a module. There's always a fallback person if you get hit by a bus. This is
+a good example of a federated ownership module.
 
-### K: 
+### K: I'm sure there are many people reading this now who want to do something
+to help this movement against surveillance capital. What would you say to those
+who want to enter into this space?
+
+*Gunner*: My first answer is: learn how to be a data steward or data ally. Help
+Help organizations proactively think about what data they do colllct and how it
+is governed after its collected.  organizations to get their collective head
+around all the data they posess, how they curate it, how they back it up, and
+how over time they minimize it.
+
+There's a french proverb that the words that you have not spoken you are their
+owner, the words you have spoken, they own you. The data that organizations
+commit to digital memory controls them. How can you set up that dynamic to be
+the healthiest it can be?  
+
+Don't go to code academy, go to design academy. Be advocates of the user
+& consumer. It's not about learning how to code, its about translating
+real-world needs to technological specifications. B a steward of user-centric
+design. Learn how to manage data and offer your help.
+    
+Finally, work on your infmoration security literacy. Learn what a threat model
+is & learn how to mitigate threats. Afterall, it's not about the tech, it's about the data.
+
+Remember that tech decisions are political decisions, you are what you use, but
+your integrity lies in how you manage your data.
