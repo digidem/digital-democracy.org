@@ -6,11 +6,9 @@
 /team/jen-castro /team/jen
 /team/aldo-puicon /team/aldo
 /team/karissa-mckelvey /team/karissa
-/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v3.1.2/Installar_Mapeo_v3.1.2_macOS.dmg
-/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v3.1.2/Installar_Mapeo_3.1.2_Windows.exe
-
 # Show english pages for missing spanish pages
 /es/* /:splat 200
-
 # Redirect Spanish language users to Spanish version of the site
 /* /es/:splat 302 Language=es
+/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v4.5.3/Installar_Mapeo_v4.5.3_macOS.dmg
+/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v4.5.3/Installar_Mapeo_4.5.3_Windows.exe
