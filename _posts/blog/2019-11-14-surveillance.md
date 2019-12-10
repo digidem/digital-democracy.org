@@ -6,7 +6,7 @@ author: Karissa McKelvey
 tags:
   - featured
   - front-page
-image: /assets/.jpeg
+image: /assets/aspiration-team.jpg
 excerpt: ""
 ---
 
