@@ -7,7 +7,7 @@ tags:
   - featured
   - front-page
 image: /assets/aspiration-team.jpg
-excerpt: ""
+excerpt: "The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We’re taking a moment to explore the intersection of technology and human rights."
 ---
 
 This week, I was able to sit down with Allen Gunn, the Executive Director of [Aspiration](www.aspirationtech.org)in San Francisco, USA. He works to help NGOs, activists, foundations and software developers make more effective use of technology for social change.
