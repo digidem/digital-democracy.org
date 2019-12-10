@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "Surveillance Capital & Nonprofit Tech with Allen Gunn"
+title: "Surveillance Capitalism & Nonprofit Tech with Allen Gunn"
 author: Karissa McKelvey
 tags:
   - featured
