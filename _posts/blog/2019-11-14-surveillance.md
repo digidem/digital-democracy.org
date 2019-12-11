@@ -6,7 +6,7 @@ author: Karissa McKelvey
 tags:
   - featured
   - front-page
-image: /assets/aspiration-team.jpg
+image: /assets/aspiration_team.jpg
 excerpt: "The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We’re taking a moment to explore the intersection of technology and human rights."
 ---
 
