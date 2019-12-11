@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "Surveillance Capitalism & Nonprofit Tech with Allen Gunn"
+title: "The effect of surviellance capitalism on social change efforts, with Allen Gunn"
 author: Karissa McKelvey
 tags:
   - featured
