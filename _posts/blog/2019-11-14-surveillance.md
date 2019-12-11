@@ -10,7 +10,7 @@ image: /assets/aspiration-team.jpg
 excerpt: "The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We’re taking a moment to explore the intersection of technology and human rights."
 ---
 
-This week, I was able to sit down with Allen Gunn, the Executive Director of [Aspiration](www.aspirationtech.org)in San Francisco, USA. He works to help NGOs, activists, foundations and software developers make more effective use of technology for social change.
+This week, I sat down with Allen Gunn, the Executive Director of [Aspiration](www.aspirationtech.org)in San Francisco, USA. He works to help NGOs, activists, foundations and software developers make more effective use of technology for social change.
 
 The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We wanted to speak with him as part of our new Technology Solidarity series, where we’re taking a moment to explore what we’ve learned in conversation with others working at the intersection of technology and human rights.
 
@@ -32,7 +32,7 @@ If you want to talk about impact stories for non-profit and civil society, you n
 
 Everyone should concern themselves with having good data stewardship and retention policies. For example, do you save participant lists from your events forever? That’s something we wrestle with managing responsibly. We are experimenting with ways to talk about correlating data practices with carbon minimization and sequestration practices. In the same way that carbon in the atmosphere is going to kill us, data in the digital sphere has profound potential to harm us in our digital—and physical—environments as we move into the future. You already see this when folks are denied health care or financial services based on data secretly collected about them. 
 
-The US Deparment tried to subpoena Dreamhost for *all* the IP addresses of people who visited the [DisruptJ20 web site](http://www.disruptj20.org/) used for organizing protests around the Trump inauguration. Luckily, Dreamhost fought and prevented the [seizure of that information](https://en.wikipedia.org/wiki/DisruptJ20#Legal_proceedings), but what would the government have done with that data on US citizens and non-citizens, and how would we ever know?
+The US State Department tried to subpoena Dreamhost for *all* the IP addresses of people who visited the [DisruptJ20 web site](http://www.disruptj20.org/) used for organizing protests around the Trump inauguration. Luckily, Dreamhost fought and prevented the [seizure of that information](https://en.wikipedia.org/wiki/DisruptJ20#Legal_proceedings), but what would the government have done with that data on US citizens and non-citizens, and how would we ever know?
 
 The amazing [Daniel Kahn Gillmor (aka “dkg”)](https://www.aclu.org/news/by/daniel-kahn-gillmor/) says another way to think about this is to equate data with pesticides. As soon as they’re utilized, we don’t know the future harm they could cause. The more data we collect or let get collected, the more future harm we must imagine could be possible – so we should collectively try to generate and store as little data as possible, and think about the future risks associated with data we steward.
 
