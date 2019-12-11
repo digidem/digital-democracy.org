@@ -62,3 +62,5 @@ Don’t go to code academy, go to design academy. Be advocates of the user & con
 Finally, work on your information security literacy and teach all that forward. Learn what a threat model is, and explore how to model and mitigate present and future threats. After all, it’s not about the tech, it’s about the data, and we need more people thinking, talking and teaching about emerging data threats.
 
 Remember that tech decisions are political decisions, you are what you use, and ultimately your integrity lies in how you manage your data and the data of those with whom you work and live.
+
+[This article was cross-posted on Medium.com](https://medium.com/@karissamck/surviellance-capitalisms-impact-on-social-change-efforts-with-allen-gunn-e8123c677330?sk=caa2e9b7c38ab9ac9ead08001c9d2612)
