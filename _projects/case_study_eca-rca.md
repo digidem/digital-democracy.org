@@ -8,9 +8,7 @@ The Amarakaeri Communal Reserve in the dense and precipitous Southern Peruvian A
 
 ECA-RCA has been working with Digital Democracy since 2018 to build and strengthen the community patrol and monitoring system, which previously relied on monitors and park guards taking GPS points and filling in paper forms. In June 2019 the system switched to Dd’s Mapeo platform, which local land defenders are now using. They are looking for ways to further improve their new digital system and integrate it with the tools used by park rangers for tracking conservation data and monitoring activities impacting the Amarakaeri Communal Reserve.
 
-<div class="full-width">
-<img alt="Illegal gold mining operations within the Amarakaeri Communal Reserve" src="/assets/eca-digger.jpg">
-</div>
+![Large scale digging within the Amarakaeri Commual Reserve and the buffer zone, by illegal gold miners](/assets/eca-digger.jpg)
 
 ECA-RCA’s community driven process:
 
