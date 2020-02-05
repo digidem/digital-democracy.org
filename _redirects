@@ -10,5 +10,5 @@
 /es/* /:splat 200
 # Redirect Spanish language users to Spanish version of the site
 /* /es/:splat 302 Language=es
-/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v5.0.1/Installar_Mapeo_v5.0.1_mac.dmg 302
-/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v5.0.1/Installar_Mapeo_v5.0.1_win.exe 302
+/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v5.0.2/Installar_Mapeo_v5.0.2_mac.dmg 302
+/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v5.0.2/Installar_Mapeo_v5.0.2_win.exe 302
