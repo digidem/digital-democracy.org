@@ -2,12 +2,12 @@
 categories: blog
 published: true
 title: "Reflecting on Bringing MAPEO to Northern Peru"
-author: Jen Castro
+author: Jen Castro, Karissa McKelvey & Gregor MacLennan
 tags:
   - featured
   - front-page
 image: /assets/andoas-group-shot-fun.jpg
-excerpt: "Last month the Waorani hit the headlines worldwide due to their landmark win against the Ecuadorian Government, contesting a new oil block created without adequate consultation. The territory maps the Waorani have been making with us played an important role in the legal case."
+excerpt: "In November 2019, three members of the Digital Democracy team travelled high up the Pastaza River in the Peruvian Amazon to the small oil town of Andoas, near the border with Ecuador. The purpose of the trip was to train Indigenous land defenders to use MAPEO for collecting and sharing evidence of oil spills on their territory."
 ---
 
 ###3 perspectives on our work in the field
