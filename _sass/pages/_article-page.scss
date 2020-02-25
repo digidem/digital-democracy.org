@@ -136,6 +136,9 @@ $leftbar-width: remCalc(85);
       position: relative;
       margin: 0.85em -50% 0.85em 1em;
     }
+    img.square {
+      margin: 0;
+    }
     .profile-image {
       margin: 0 0 0.85em 1em;
       width: 50%;
