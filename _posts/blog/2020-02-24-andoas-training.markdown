@@ -78,6 +78,7 @@ The trip was also a learning experience for me, as Technical Director of Digital
 </div>
 We are ever grateful to our partners who welcome us into their communities and territories with such enthusiasm, sharing their experiences as land defenders with us and being key collaborators in technology that can be used in other communities worldwide.
 
+
 *To learn more about MAPEO and how are partners are using it to defend their territories visit [mapeo.world](https://mapeo.world)*
 
 *If you are interested in the technical workings of Mapeo, all our development is happening in the open [on GitHub](https://github.com/digidem/) where you can follow along and, if you have time and the skills, jump into the issues and help us fix some things.*
