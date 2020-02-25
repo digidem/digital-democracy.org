@@ -22,6 +22,7 @@ After two years development time and more than a year of field testing in the Am
 This is how it went:
 
 ***
+
 ## Jen
 
 <p class="image">
@@ -37,6 +38,7 @@ My role as program coordinator included designing and organizing the training pr
 Building lasting confidence with new technology is one of the most important things we can do as a technology organization. I was in absolute awe seeing freshly trained monitors training their peers with such enthusiasm and I was so inspired to see one group of monitors being trained in Quechua!! I also learned that deeply listening and stepping back in these gatherings is critical to keeping the power where it needs to be, with the local communities.  I am only a visitor after all, offering what I can and then returning home. Our partners are land defenders in Northern Peru, protecting their ecosystems, living on the frontlines of a decades-long battle with numerous oil companies and they know more about what they need than I ever will. If I travel all that way, what I offer needs to be what they are asking for and it better be good.
 
 ***
+
 ## Karissa
 
 <p class="image">
@@ -51,6 +53,7 @@ Gregor and I troubleshooted many personal phones and computers, as well as impro
 I also helped with the "train the trainers" portion of the event, where I walked around to different monitor pairs and groups to help answer any questions about how the technology works. It was inspiring to see monitors training and helping each other after only a couple days of training. This extra time we spent working with them in a collaborative and supportive fashion really seemed to be an important part of this particular training. This peer-to-peer learning was immensely effective and allowed them to grow their capacity to be more self-sufficient with the technology. It proved to be a successful model for the development of trainers.
 
 ***
+
 ## Gregor
 
 <p class="image">
@@ -69,6 +72,7 @@ It was also very powerful to observe the training method developed by my colleag
 The trip was also a learning experience for me, as Technical Director of Digital Democracy, to think through how we need to improve the MAPEO toolkit. Ultimately we want to reduce dependency on outside technical support and minimize training needs, so by sitting and listening to the training in progress we could observe what was easy and what was hard to learn, which parts of the app make sense and which are confusing. I returned motivated and inspired, and filled with ideas about how to improve the tools, for example, printing a report to a PDF, choosing a file name, and interacting with the filesystem was a real challenge for users and we can simplify this workflow. It is inspiring to work holding in mind the amazing team of people who are on the ground in Peru using MAPEO to gather critical evidence of the ongoing environmental abuses, in the hope that this evidence will make a real difference and begin to improve their lives and reduce contamination of this precious corner of the Amazon Rainforest.
 
 ***
+
 <div class="full-width">
 <img alt="Dd team in the community hall training space in Andoas, Peru" src="/assets/andoas-dd-team.jpg">
 </div>
