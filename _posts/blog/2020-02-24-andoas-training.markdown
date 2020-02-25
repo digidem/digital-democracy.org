@@ -10,7 +10,9 @@ image: /assets/andoas-group-shot-fun.jpg
 excerpt: "In November 2019, three members of the Digital Democracy team travelled high up the Pastaza River in the Peruvian Amazon to the small oil town of Andoas, near the border with Ecuador. The purpose of the trip was to train Indigenous land defenders to use MAPEO for collecting and sharing evidence of oil spills on their territory."
 ---
 
-### 3 perspectives on our work in the field
+### Three perspectives on our work in the field
+
+<img alt="a landscape of various house structures alond the riverbanks of the Pastaza River." src="/assets/andoas-river-community.jpg">
 In November 2019, three members of the Digital Democracy team travelled high up the Pastaza River in the Peruvian Amazon to the small oil town of Andoas, near the border with Ecuador. The purpose of the trip was to train Indigenous land defenders to use MAPEO for collecting and sharing evidence of oil spills on their territory.
 
 The community federations in the Pastaza, Tigre and Corrientes river basins had long been anticipating this training. They have been documenting oil contamination and reporting it to their local advisors and Peruvian authorities since 2006. Over the years, they've used various technologies to gather better and more precise information to try and improve company and government responses to their environmental monitoring efforts. The local teams have learned to use GPS, camera traps, drones and smartphones. However there were still gaps between community needs and the available technological solutions, for example there was no way for those collecting information to share data between themselves, without needing the internet. These locally identified needs were some of the original inspirations behind the creation of MAPEO Mobile.
@@ -19,6 +21,7 @@ After two years development time and more than a year of field testing in the Am
 
 This is how it went:
 
+***
 ## Jen
 
 <p class="image">
@@ -26,13 +29,14 @@ This is how it went:
     <img class="square" alt="Jen Castro demonstrating how to view data on MAPEO Desktop" src="/assets/andoas-jen.jpg" />
   </span>
   </p>
-We have been planning this training for over a year in collaboration with advisors from PUINAMUDT and researchers from the ISS (International Institute of Social Studies at Erasmus University) who have been supporting the federations with political organizing, strategizing and environmental monitor training. One of our key goals for the trip was to bring new equipment and tools to help the monitors collect data more easily, view it locally, and share it in situations where there is little to no internet connectivity. Another goal was to provide practical training to the monitors, building their confidence in using the technology, and most importantly training them to train others how to use MAPEO. One of the best ways we as an organization can offer long term support is to help build capacity for local partners to continue their work and skill development autonomously.
+We have been planning this training for over a year in collaboration with advisors from [PUINAMUDT](https://observatoriopetrolero.org/) and researchers from the [ISS](https://www.iss.nl/en) (International Institute of Social Studies at Erasmus University) who have been supporting the federations with political organizing, strategizing and environmental monitor training. One of our key goals for the trip was to bring new equipment and tools to help the monitors collect data more easily, view it locally, and share it in situations where there is little to no internet connectivity. Another goal was to provide practical training to the monitors, building their confidence in using the technology, and most importantly training them to train others how to use MAPEO. One of the best ways we as an organization can offer long term support is to help build capacity for local partners to continue their work and skill development autonomously.
 
 My role as program coordinator included designing and organizing the training program and materials, and facilitating the workshop so to make the most out of our 6 days together. We worked in breakout groups to build skills in various technologies, my focus being to train more experienced community monitors to use MAPEO Desktop to synchronize data with MAPEO Mobile. I knew from experience that learning this workflow gives users a good foundation for doing mobile to mobile sync with ease. After the monitors saw how quickly they could get the evidence they collected with MAPEO Mobile onto their laptops and also look at the data from their peers on a detailed map of their territory, they were even more motivated to be trainers of MAPEO Mobile. I helped them create a training agenda and they practiced training each other and then supported each other to co-facilitate, through a "teaching is learning" methodology.
 <img alt="John Garcia Ruiz is one of the community monitor coordinators of the Tigre river basin. Here he is training monitors from other communities on using MAPEO Mobile for collecting evidence of oil contamination." src="/assets/andoas-john1.jpg">
 
 Building lasting confidence with new technology is one of the most important things we can do as a technology organization. I was in absolute awe seeing freshly trained monitors training their peers with such enthusiasm and I was so inspired to see one group of monitors being trained in Quechua!! I also learned that deeply listening and stepping back in these gatherings is critical to keeping the power where it needs to be, with the local communities.  I am only a visitor after all, offering what I can and then returning home. Our partners are land defenders in Northern Peru, protecting their ecosystems, living on the frontlines of a decades-long battle with numerous oil companies and they know more about what they need than I ever will. If I travel all that way, what I offer needs to be what they are asking for and it better be good.
 
+***
 ## Karissa
 
 <p class="image">
@@ -46,6 +50,7 @@ Gregor and I troubleshooted many personal phones and computers, as well as impro
 
 I also helped with the "train the trainers" portion of the event, where I walked around to different monitor pairs and groups to help answer any questions about how the technology works. It was inspiring to see monitors training and helping each other after only a couple days of training. This extra time we spent working with them in a collaborative and supportive fashion really seemed to be an important part of this particular training. This peer-to-peer learning was immensely effective and allowed them to grow their capacity to be more self-sufficient with the technology. It proved to be a successful model for the development of trainers.
 
+***
 ## Gregor
 
 <p class="image">
@@ -63,14 +68,15 @@ It was also very powerful to observe the training method developed by my colleag
 
 The trip was also a learning experience for me, as Technical Director of Digital Democracy, to think through how we need to improve the MAPEO toolkit. Ultimately we want to reduce dependency on outside technical support and minimize training needs, so by sitting and listening to the training in progress we could observe what was easy and what was hard to learn, which parts of the app make sense and which are confusing. I returned motivated and inspired, and filled with ideas about how to improve the tools, for example, printing a report to a PDF, choosing a file name, and interacting with the filesystem was a real challenge for users and we can simplify this workflow. It is inspiring to work holding in mind the amazing team of people who are on the ground in Peru using MAPEO to gather critical evidence of the ongoing environmental abuses, in the hope that this evidence will make a real difference and begin to improve their lives and reduce contamination of this precious corner of the Amazon Rainforest.
 
+***
 <div class="full-width">
 <img alt="Dd team in the community hall training space in Andoas, Peru" src="/assets/andoas-dd-team.jpg">
 </div>
 
-We are ever grateful to our partners who welcome us into their communities and territories with such enthusiasm, sharing their experiences as land defenders with us and being key collaborators in technology that can be used in other communities worldwide.
 <div class="full-width">
 <img alt="Dd team in the community hall training space in Andoas, Peru" src="/assets/andoas-group-shot.jpg">
 </div>
+We are ever grateful to our partners who welcome us into their communities and territories with such enthusiasm, sharing their experiences as land defenders with us and being key collaborators in technology that can be used in other communities worldwide.
 
 *To learn more about MAPEO and how are partners are using it to defend their territories visit [mapeo.world](https://mapeo.world)*
 
