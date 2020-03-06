@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "Cooperative Ownership of Digital Knowledge without Blockchain"
+title: "Cooperative Ownership of Data without Blockchain"
 author: Karissa McKelvey
 tags:
   - featured
