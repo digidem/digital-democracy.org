@@ -6,7 +6,7 @@ author: Karissa McKelvey
 tags:
   - featured
   - front-page
-image: /assets/status-quo.jpg
+image: /assets/status-quo.png
 excerpt: "The entire business model of Silicon Valley breaks down without monopolistic control of user data & interactions, and this is why our approach hasn't been pursued by many in the technology industry to date."
 ---
 
