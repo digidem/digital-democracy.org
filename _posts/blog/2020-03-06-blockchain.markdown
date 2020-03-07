@@ -10,16 +10,15 @@ image: /assets/status-quo.png
 excerpt: "The entire business model of Silicon Valley breaks down without monopolistic control of user data & interactions, and this is why our approach hasn't been pursued by many in the technology industry to date."
 ---
 
-When building and deploying tech, we at Digital Democracy are rethinking the
-status quo of technology development, starting with the data. In the Silicon
-Valley model, user data is held hostage and sold on advertising marketplaces as
-a speculative asset. Instead, we're building applications where information is
-controlled by those who generate it. In [Mapeo](https://mapeo.world), data is
-managed as a common resource, and those who generate data also govern that
-data. Communities retain ownership of data, rather than corporations and
-governments controlling access to it. We’re part of a larger movement that is
-fighting the monopolization of digital knowledge by a few Silicon Valley
-"cloud" companies. 
+When building and deploying software, we at Digital Democracy are rethinking the
+status quo, starting with the data. In the Silicon Valley model, user data is
+held hostage and sold to the highest bidder. Instead, we're building
+applications where information is controlled by those who generate it. In
+[Mapeo](https://mapeo.world), data is managed as a common resource, and those
+who generate data also govern it.  Communities retain ownership of data, rather
+than corporations and governments.  We’re part of a larger movement that is
+fighting the monopolization of digital knowledge by
+a few Silicon Valley "cloud" companies. 
 
 ## Rethinking the status quo from the data up
 
@@ -97,10 +96,10 @@ critical for protecting their ancestral knowledge and environmental monitoring
 data until it’s ready to be shared with trusted partners such as legal and
 advocacy groups. 
 
-**Although blockchain authors claim it to be 'trustless' and horizontal and
+Although blockchain authors claim it to be 'trustless' and horizontal and
 autonomous, technology is not neutral, which in practice means that [you have
 to trust someone at some
-point.**](https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/).
+point.](https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/).
 Any technology requires its users to [trust the rules set by the software
 engineers, designers, and
 investors.](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/sea2.12136)
@@ -142,12 +141,10 @@ like these are what keeps us going.
 
 ## Further Reading
 
-* https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/
-* https://mitpress.mit.edu/books/understanding-knowledge-commons
-* https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/sea2.12136
-* https://www.investopedia.com/news/no-everyone-not-getting-rich-bitcoin/
-* https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/
-* https://www.bleepingcomputer.com/news/software/adobe-to-ban-users-from-venezuela-due-to-us-executive-order/
-* https://www.digital-democracy.org/blog/localfirst/
-* https://www.inkandswitch.com/local-first.html
+* [Article 19: Blockchain Technology Alone Cannot Protect Freedom of Expression](https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/)
+* [Understanding Knowledge as a Commons, Edited by Charlotte Hess and Elinor Ostrom](https://mitpress.mit.edu/books/understanding-knowledge-commons)
+* [Crypto‐miners: Digital labor and the power of blockchain technology](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/sea2.12136)
+* [No, Everyone Is Not Getting Rich Off Bitcoin](https://www.investopedia.com/news/no-everyone-not-getting-rich-bitcoin/)
+* [Local-first software for frontline communities](https://www.digital-democracy.org/blog/localfirst/)
+* [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first.html)
 
