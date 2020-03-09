@@ -21,4 +21,4 @@ Kira is based in Oakland, CA.
 
 Contact: [kira@digital-democracy.org](mailto:kira@digital-democracy.org)
 
-GitHub: [noffle](https://github.com/noffle)
+GitHub: [noffle](https://github.com/hackergrrl)
