@@ -50,7 +50,7 @@ way, people are able to take cooperative ownership of the data they generate.
 **The entire business model of Silicon Valley breaks down without monopolistic
 control of user data & interaction, and this is why this approach hasn’t been
 pursued by many in the technology industry to date.**  However, in a
-value-driven nonprofit like Digital Democracy, we’ve been able to prioritize
+values-driven nonprofit like Digital Democracy, we’ve been able to prioritize
 this peer-to-peer development model because it’s what works the best for our
 partners. Unlike a company or government, we’re able to listen and respond to
 concerns of marginalized groups that have no money or political clout. Our
@@ -99,14 +99,14 @@ advocacy groups.
 Although blockchain authors claim it to be 'trustless' and horizontal and
 autonomous, technology is not neutral, which in practice means that [you have
 to trust someone at some
-point.](https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/).
+point](https://www.article19.org/resources/blockchain-technology-alone-cannot-protect-freedom-of-expression/).
 Any technology requires its users to [trust the rules set by the software
 engineers, designers, and
-investors.](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/sea2.12136)
+investors](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/sea2.12136).
 Those able to understand and participate in these technical rulemakings
 primarily represent existing power imbalances -- they are mainly [technical,
 white, and male, and largely from the U.S. and
-Europe.](https://fortunly.com/statistics/blockchain-statistics/#gref). So then,
+Europe](https://fortunly.com/statistics/blockchain-statistics/#gref). So then,
 is a "trustless" public blockchain that much of a departure from the
 centralized power structures which we are trying to move away from? Who has the
 incentive to participate and invest in a blockchain to set the rules? Who
