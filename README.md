@@ -4,7 +4,30 @@ Digital Democracy website
 To run locally, navigate to the local folder, enter in a terminal window: jekyll serve
 Then run at localhost:4000
 
-# Creating a new blog post
+## Setup
+
+We recommend using rbenv to get your environment setup. 
+
+1. [Download and install rbenv](https://github.com/rbenv/rbenv#installation) (note: you can also use RVM, but you can't have both
+   installed at the same time!)
+1. Open a new terminal window.
+1. `git clone git@github.com:digidem/digital-democracy.org.git && cd digital-democracy`.
+1. `rbenv install`
+1. `gem install bundler`
+1. Re-open your terminal window and go back to the `digital-democracy` directory to ensure the correct paths are created.
+1. `bundler install`
+
+Now you will be ready to start the development server!
+
+## Running the development server 
+
+```bash
+bundler exec jekyll serve --incremental
+```
+
+bundler install
+
+## Creating a new blog post
 
 1. Open a blog post within the `_posts/blog` directory. Copy the contents of the file to the
    clipboard. e.g., [this blog post](https://raw.githubusercontent.com/digidem/digital-democracy.org/master/_posts/blog/2019-12-11-surveillance.md)
