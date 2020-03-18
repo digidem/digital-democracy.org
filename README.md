@@ -25,7 +25,6 @@ Now you will be ready to start the development server!
 bundler exec jekyll serve --incremental
 ```
 
-bundler install
 
 ## Creating a new blog post
 
