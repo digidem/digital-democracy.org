@@ -1,7 +1,7 @@
 ---
 categories: blog
 published: true
-title: "The effect of surviellance capitalism on social change efforts, with Allen Gunn"
+title: "The effect of surveillance capitalism on social change efforts, with Allen Gunn"
 author: Karissa McKelvey
 tags:
   - featured
@@ -10,7 +10,7 @@ image: /assets/aspiration_team.jpg
 excerpt: "The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We’re taking a moment to explore the intersection of technology and human rights."
 ---
 
-This week, I sat down with Allen Gunn, the Executive Director of [Aspiration](www.aspirationtech.org)in San Francisco, USA. He works to help NGOs, activists, foundations and software developers make more effective use of technology for social change.
+This week, I sat down with Allen Gunn, the Executive Director of [Aspiration](https://aspirationtech.org) in San Francisco, USA. He works to help NGOs, activists, foundations and software developers make more effective use of technology for social change.
 
 The common thread that connects all facets of Gunner’s work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. We wanted to speak with him as part of our new Technology Solidarity series, where we’re taking a moment to explore what we’ve learned in conversation with others working at the intersection of technology and human rights.
 
