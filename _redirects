@@ -11,5 +11,7 @@
 # Redirect Spanish language users to Spanish version of the site
 /* /es/:splat 302 Language=es
 /mapeo/icca/android https://mapeo-apks.ddem.us/icca/latest 302
-/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v5.0.2/Installar_Mapeo_v5.0.2_mac.dmg 302
-/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v5.0.2/Installar_Mapeo_v5.0.2_win.exe 302
+/mapeo/latest/android https://mapeo-apks.ddem.us/latest 302
+/mapeo/latest/mac https://github.com/digidem/mapeo-desktop/releases/download/v5.0.7/Installar_Mapeo_v5.0.7_mac.dmg 302
+/mapeo/latest/windows https://github.com/digidem/mapeo-desktop/releases/download/v5.0.7/Installar_Mapeo_v5.0.7_win.exe 302
+/mapeo/latest/linux https://github.com/digidem/mapeo-desktop/releases/download/v5.0.7/Installar_Mapeo_v5.0.7_linux.deb 302
