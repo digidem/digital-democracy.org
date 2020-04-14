@@ -156,7 +156,10 @@ layout: default
 
   // window.platform.os.family can sometimes be Ubuntu, CentOS, etc.. this
   // makes them all just 'linux'
-  if (/Linux/.test(navigator.platform)) slug = 'linux';
+  if (/Linux/i.test(navigator.platform)) slug = 'linux';
+
+  // Use win32 for mapeo/latest/:slug: 
+  if (/Win/i.test(os.family) && os.architecture === 32) slug = 'win32';
 
   var el = document.getElementById('download-link');
   var frame = document.getElementById('download-frame');
