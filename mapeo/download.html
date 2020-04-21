@@ -161,6 +161,9 @@ layout: default
   // Use win32 for mapeo/latest/:slug: 
   if (/Win/i.test(os.family) && os.architecture === 32) slug = 'win32';
 
+  // Use MAC for OSX 
+  if (/os x/i.test(slug)) slug = 'mac';
+
   var el = document.getElementById('download-link');
   var frame = document.getElementById('download-frame');
   el.href = '/mapeo/latest/' + slug;
