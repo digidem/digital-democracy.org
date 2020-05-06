@@ -6,6 +6,8 @@
 /team/jen-castro /team/jen
 /team/aldo-puicon /team/aldo
 /team/karissa-mckelvey /team/karissa
+# Covid Emergency Fund
+/covid https://pages.donately.com/digidem/campaign/peruvian-amazon-covid-emergency-fund
 # Show english pages for missing spanish pages
 /es/* /:splat 200
 # Redirect Spanish language users to Spanish version of the site
