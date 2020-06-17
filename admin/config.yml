@@ -1,0 +1,31 @@
+backend: 
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "assets" 
+public_folder: "/assets"
+
+collections: 
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      ## publish boolean is unnecessary now with the CMS, it has a built-in preview process
+      - {label: "Published", name: "published", widget: "hidden", default: true}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["featured", "front-page"]
+      - {label: "Body", name: "body", widget: "markdown"}
+
