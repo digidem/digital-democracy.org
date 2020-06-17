@@ -3,9 +3,8 @@ categories: blog
 title: "Color Coded: Co-design with intentionality, respectful technologies"
 published: true
 date: 2020-06-17T21:43:59.232Z
-excerpt: "### Cesia Domínguez López, is the Co-founder of Color Coded, a
-  POC-only space and collective co-teaching, co-creating, and co-owning new
-  technologies."
+excerpt: Cesia Domínguez López, is the Co-founder of Color Coded, a POC-only
+  space and collective co-teaching, co-creating, and co-owning new technologies.
 author: Karissa McKelvey
 image: /assets/screen-shot-2020-06-12-at-10.57.36-am.png
 tags:
