@@ -16,7 +16,8 @@ collections:
     fields: 
       - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Published", name: "published", widget: "boolean"}
+      ## publish boolean is unnecessary now with the CMS, it has a built-in preview process
+      - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
