@@ -48,3 +48,14 @@ body_class: full-header
   // Balances lines of text for elements in slideshow caption and mission statement
   balanceText('.slideshow h2.caption > *, .mission-statement', {watch: true});
 </script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
