@@ -13,13 +13,15 @@ tags:
 ---
 As part of our [Technology Solidarity](https://medium.com/technology-solidarity) research series, I was thrilled for the chance to speak with Pyrou Chung, who is Director of the Open Development Initiative (ODI), a project of the East West Management Institute (EWMI). We first connected with Pyrou through a shared interest in Indigenous Data Sovereignty and a commitment to supporting frontline communities to use simple tools they can manage themselves. On a video call with me in Washington DC and Pyrou in her current home in Melbourne, Australia, she shared her own journey and work on natural resource, land and data initiatives in Southeast Asia.
 
-Read below for a shortened version of our conversation, and learn more about Pyrou’s work by visiting the [Open Development Mekong](<https://opendevelopmentmekong.net/>) portal.
+Read below for a shortened version of our conversation, and learn more about Pyrou’s work by visiting the [Open Development Mekong](https://opendevelopmentmekong.net/) portal.
 
 **Emily: Can you begin with telling me a little bit about yourself?**
 
 **Pyrou:** I am an ecologist by background and training. I love nature. I studied environmental science and always wanted to work in conservation. That was my every call and ambition in life.
 
 It didn't really work out immediately. I did work in environmental governance in Australia when I first graduated, but I left and went on this crazy adventure, where I worked in the private sector on marketing for industrial machinery. I traveled around for a very long time before I decided to go back to studies and eventually found my way back to Cambodia, which is where I was born. In 2006, my first posting was in a remote area in Preah Vihear where I was supposed to teach before I started working with a few conservation groups.
+
+![]()
 
 While posted in Preah Vihear I ended up not teaching very much but became very curious about logging trucks. Virtually nobody in the village had a car and yet there was huge machinery coming in and out on a massive road built in front of the school — all of this development going on in and around the area had nothing to do with the villages. So that piqued my curiosity and eventually led to me working for EWMI as a conservationist who helped strengthen grassroots and informal groups, particularly indigenous communities and networks, which wasn't dissimilar to what I had been doing in Australia.
 
