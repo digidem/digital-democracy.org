@@ -7,7 +7,7 @@ excerpt: "Even with all of the technology in the world, this paper mapping
   process still needs to happen. There still needs to be some sort of physical
   aspect to help people understand what all of this data and information means "
 author: Emily Jacobi
-image: /assets/opendevmekong.png
+image: /assets/profilepic_pchung.jpg
 tags:
   - featured
   - front-page
@@ -22,7 +22,7 @@ Read below for a shortened version of our conversation, and learn more about Pyr
 
 It didn't really work out immediately. I did work in environmental governance in Australia when I first graduated, but I left and went on this crazy adventure, where I worked in the private sector on marketing for industrial machinery. I traveled around for a very long time before I decided to go back to studies and eventually found my way back to Cambodia, which is where I was born. In 2006, my first posting was in a remote area in Preah Vihear where I was supposed to teach before I started working with a few conservation groups.
 
-![]()
+![](/assets/opendevmekong.png)
 
 While posted in Preah Vihear I ended up not teaching very much but became very curious about logging trucks. Virtually nobody in the village had a car and yet there was huge machinery coming in and out on a massive road built in front of the school — all of this development going on in and around the area had nothing to do with the villages. So that piqued my curiosity and eventually led to me working for EWMI as a conservationist who helped strengthen grassroots and informal groups, particularly indigenous communities and networks, which wasn't dissimilar to what I had been doing in Australia.
 
