@@ -18,9 +18,9 @@ tags:
 
 **Cesia**
 
-Color Coded started while we were doing anti-displacement work in Los Angeles before the term “gentrification” and much less “displacement” were part of the narrative.  \
+Color Coded started while we were doing anti-displacement work in Los Angeles before the term “gentrification” and much less “displacement” were part of the narrative.  
 
-The origin in color coded is rooted in my story. In the 90s, I was part of the generation where the Internet didn't happen until middle school. I went to an academy for math engineering and science in high school. I didn't have access to a computer at home, but I was going to school with students that had not just one but also multiple screens, and who were learning how to code in high school. They had access to that through a STEM high school education. For someone who didn't have a computer at home, and undocumented in Salt Lake City, I was contending with the questions of who gets access to things, who gets to own things?
+I am a 90s baby, so the internet didn't really take off until I was in middle school. For my high school education, I attended the Academy for Math, Engineering, and Science. I was one of the many kids from low income communities that were poached for the “STEM track” from an early age. A lot of my classmates were programming new software, filing patents for their code/projects, and had multiple screens available to them at home. I received my first computer as a graduation gift and I’m very thankful for my uncle and others who offered tech access and support to make sure I had the tools I needed in order to be successful in high school with the hope of pursuing post-secondary education.
 
 I did neuroscience in undergrad, and computer science is something that's always talked about. I wanted to learn about it, but being in a predominantly white institution, in the sciences there was one black professor and one latino lab assistant. 
 
