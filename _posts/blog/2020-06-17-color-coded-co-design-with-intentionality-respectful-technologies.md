@@ -7,16 +7,14 @@ date: 2020-06-17T21:43:59.232Z
 excerpt: Cesia Domínguez López, is the Co-founder of Color Coded, a POC-only
   space and collective co-teaching, co-creating, and co-owning new technologies.
 author: Karissa McKelvey
-image: /assets/screen-shot-2020-06-12-at-10.57.36-am.png
+image: /assets/img_0420.gif
 tags:
   - featured
   - front-page
 ---
-### Cesia Domínguez López, is the Co-founder of Color Coded, a POC-only space and collective co-teaching, co-creating, and co-owning new technologies. To learn more about their work, visit: <https://colorcoded.la/>
+### Digital Democracy has worked with *Color Coded* to craft the user experience design for Mapeo. This year, they're celebrating 5 years together. We sat down with Cesia Domínguez López, the Co-founder of Color Coded, a POC-only space and collective co-teaching, co-creating, and co-owning new technologies. To learn more about their work, visit: <https://colorcoded.la/>
 
-**Karissa**
-
-What sparked you to start Color Coded?
+**What sparked you to start Color Coded?**
 
 **Cesia**
 
@@ -32,9 +30,7 @@ I left feeling angry, I had known about interlocking systems of domination, hete
 
 We don't want to do that labor or slow down to explain these topics to folks. We wanted a safe space where we didn't have to do that emotional labor and educational labor.
 
-**Karissa**
-
-What did it look like when it first started and how did it evolve?
+**What did it look like when it first started and how did it evolve?**
 
 **Cesia**
 
@@ -48,9 +44,7 @@ The way our work is sustained is getting hired by non-profits that need tech sup
 
 We're 5 years in and we want to celebrate that. We had to make the choice to let go of the physical space this year. We had plans to open up more of a community space so that people part of the collective are now living in that space, we were having those conversations in Jan/Feb, and with all this going on… there isn't a need for a physical space for people to gather yet. So that's on hold, and wondering what that looks like post-COVID.
 
-**Karissa**
-
-What does ‘uplifting technologies’ look like?
+**What does ‘uplifting technologies’ look like?**
 
 **Cesia**
 
@@ -58,9 +52,7 @@ We want to uplift technologies outside of the western definition. Invite communi
 
 For example, we have invited different herbalists that think about plant medicine, plant technology. Resistance technologies, for example youth on the street using graffiti as a way to have their voices heard. Maybe they aren't building a website, but they're using a platform to communicate. There is a whole intentionality of processes built-in with art making.
 
-**Karissa**
-
-I'm happy you brought in art, because most technology today is made for profit. Can you talk a bit more about the corporate domination of technologies and how Color Coded relates to it?
+**I'm happy you brought in art, because most technology today is made for profit. Can you talk a bit more about the corporate domination of technologies and how Color Coded relates to it?**
 
 **Cesia**
 
@@ -68,9 +60,7 @@ We don't engage in corporate tech. It's been interesting to navigate. A lot of f
 
 Think about tech in your organizing, We had to do a little bit of that bridge building. We were excited when there was a whole conference targeting movements, and how technology relates. It wasn't at the front of mind... and now in this moment, it's in the front of mind for many people doing organize.
 
-**Karissa**
-
-I’m glad you mentioned organizing. Can you talk a bit about technology now in this moment of mass organizing and mobilization?
+**Can you talk a bit about technology now in this moment of mass organizing and mobilization?**
 
 **Cesia**
 
@@ -86,9 +76,7 @@ I want to give a shout out to los zapatistas. one world where many worlds fit. T
 
 As soon as you start defining what utopia looks like, you start excluding folks. It's part of the technology process. An analogy to use is if you're not constantly maintaining and keeping track of your tech, it's got a bug, it's going to break. So we want to do that maintenance within ourselves too.
 
-**Karissa**
-
-Amazing, I LOVE that you make that analogy between tech maintenance and maintenance inside ourselves! What other easy have you been thinking about movements in relation to corporate tech?
+**Amazing, I LOVE that you make that analogy between tech maintenance and maintenance inside ourselves! What other easy have you been thinking about movements in relation to corporate tech?**
 
 **Cesia**
 
@@ -102,9 +90,7 @@ Autonomy is also something I'd like to highlight. It's not enough to create our 
 
 That's one thing we are trying to figure out what to talk about. Every community doesn't have the capacity to build their own Internet, to build their own p2p secure network. For people to have autonomy is to have ownership of these utilities.
 
-**Karissa**
-
-That’s very important work. As part of this series we’ve also highlighted work from Rhizomatic, which is building community networks in Oaxaca, Mexico, which you might be interested in. Another question I have, what would you tell a funder or donor that agrees with everything you’ve said and wants to contribute to this kind of work?
+**That’s very important work. As part of this series we’ve also highlighted work from [Rhizomatica](https://www.digital-democracy.org/blog/telling-a-different-story-about-technology-with-ramesh-srinivasan/), which is building community networks in Oaxaca, Mexico, which you might be interested in. Another question I have, what would you tell a funder or donor that agrees with everything you’ve said and wants to contribute to this kind of work?**
 
 **Cesia**
 
@@ -118,9 +104,7 @@ When Trans Queer Puelblo got a knock on the door from the bigger non-profits, th
 
 We like to say we don't build for people, we build with people. We want to make sure you have the skills to make it sustainable, so you can have ownership and adopt it to whatever the local needs might be.
 
-**Karissa**
-
-Wow, yes this is so important -- this white supremacy culture and patriarchal attitude is not helpful and supportive to groups that are busy getting the work done. Can you say a little bit more about co-design and how that plays into your process of ‘getting the work done’?
+**Wow, yes this is so important -- this white supremacy culture and patriarchal attitude is not helpful and supportive to groups that are busy getting the work done. Can you say a little bit more about co-design and how that plays into your process of ‘getting the work done’?**
 
 **Cesia**
 
@@ -133,3 +117,7 @@ We are at the place of “respectful tech” where there are a few guiding quest
 *“Am I being respectful to my body and other bodies?”*
 
 Sometimes folks think that we need the solution! In western progressive, and tech world, the progress narrative.. sometimes we don't need that. Sometimes it's unnecessary. Sometimes analog is actually better. Is this even actually needed and is a big part of the question? Slowing down is a method for this. Intentionality. If you're being intentional, you're going to go slow. You're building relationships with folks, deep listening, listening again. Am I being respectful to other bodies? Am I building a technology that perpetuates extraction, bodies of water, bodies of land? We have crafted a workshop and slidedeck that you can use to help put it together.
+
+![](/assets/screen-shot-2020-06-12-at-10.57.36-am.png)
+
+![](/assets/screen-shot-2020-06-12-at-10.55.25-am.png)
