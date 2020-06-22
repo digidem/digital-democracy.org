@@ -10,6 +10,7 @@ author: Emily Jacobi
 image: /assets/opendevmekong.png
 tags:
   - featured
+  - front-page
 ---
 As part of our [Technology Solidarity](https://medium.com/technology-solidarity) research series, I was thrilled for the chance to speak with Pyrou Chung, who is Director of the Open Development Initiative (ODI), a project of the East West Management Institute (EWMI). We first connected with Pyrou through a shared interest in Indigenous Data Sovereignty and a commitment to supporting frontline communities to use simple tools they can manage themselves. On a video call with me in Washington DC and Pyrou in her current home in Melbourne, Australia, she shared her own journey and work on natural resource, land and data initiatives in Southeast Asia.
 
