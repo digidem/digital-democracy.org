@@ -129,18 +129,15 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 ADD LINE 
 
-
-
-ADD IMAGE 
+![]( "The mapping process begins in a participatory way with paper and markers. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
-ADD IMAGE 
+![]( "One of the first maps created during the process, from the village of Nemonpare.")
 
 And here are just a few of the over 150 icons they have created over time:
 
-\
-ADD IMAGE OF ICONS 
+![An example of some of the many original icons the Waorani created over time. ]()
 
 Working closely on the maps over the past five years, we saw the ways the mapping team constantly negotiated between making maps that reflected & reinforced the way Waorani people see their territory, and awareness of an external audience.
 
@@ -154,14 +151,42 @@ The community decided to launch a legal case against the government to fight the
 
 In 2019 the Waorani won the lawsuit when the national court ruled that the Government had not carried out adequate consultation before creating the oil blocks, violating the communities’ rights to Free, Prior, and Informed Consent (FPIC). The oil block was removed and ½ million acres of the Amazon were protected. The case set a major precedent for indigenous action within Ecuador and across the globe. Read more about this in my colleague Aliya’s account of [the role of the maps in the legal process](https://www.digital-democracy.org/blog/waorani-victory-in-court/).
 
-
-
 ![Waorani elder Dika, one of the leaders of Kenaweno. “The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.”]( "Waorani elder Dika, one of the leaders of Kenaweno. “The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.”")
 
 ## The Role of Technology in Decolonizing Mapping
 
 Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
 
- **\    “Technology won’t save our land. We have to save our land.”**                                                                                             — *Opi Nenquimo, director of the Wao Mapping project*
+ **\    “Technology won’t save our land. We have to save our land.”**                                                                                         — *Opi Nenquimo, director of the Wao Mapping project*
 
-The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
+The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form a consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
+
+INSERT IMAGE OF NIHUA
+
+*“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*
+
+There are plenty of tools available today that can collect data offline, but very few of them are designed to transform that data into locally empowered data management. This common oversight has normalized a data collection process that is inherently extractive, obfuscating even the best of intentions through assumptions embedded in design, which too often serve an end-user who is far removed from those collecting the data.
+
+When we started building Mapeo seven years ago, we set out to build a free tool that makes it easy for local communities to collect data offline, and manage that data locally. As an organization, we prioritize [data solidarity](https://medium.com/technology-solidarity/towards-a-technology-of-solidarity-10-lessons-from-dds-first-10-years-b0d5a3faf623) and [local-first principles](https://www.digital-democracy.org/blog/localfirst/) in the development and assessment of our tools.
+
+[Mapeo](https://www.digital-democracy.org/mapeo/) has come a long way since we began working with the first Waorani village of Nemonpare, thanks to their help co-designing the tools & processes. The progression of these tools over time has been directed by the unique needs of local communities that we work with. Today, [Mapeo](https://www.digital-democracy.org/mapeo/) allows users to use both mobile & desktop tools to map baseline territory information, such as sacred sites and rivers, and to track ongoing monitoring information such as oil spills and illegal logging.
+
+Mapeo is currently being used by over 150 frontline land defenders to monitor and defend almost 10 million acres of indigenous lands from environmental and human rights abuses, serving over 14,000 people, and has been used to map over 700,000 acres of ancestral lands.
+
+**Learn More**
+
+To learn more about Mapeo, visit <http://mapeo.app/>
+
+To read more about the Waorani mapping process, read my colleague Aliya Ryan’s article, “[Our Rivers are not Blue: Lessons, Reflections and Challenges from Waorani Map Making in the Ecuadorian Amazon.](https://societyofcartographers.files.wordpress.com/2018/07/51_ryan.pdf)”
+
+**You are on Native Land:** At Dd, we are committed to the practice of learning whose land we are on & acknowledging the traditional peoples of the territory. [Native-land.ca](https://native-land.ca/) is an important resource for this.
+
+For other examples and information about Indigenous & Counter Mapping see
+
+* The work of the [Inuit Land Use and Occupancy Project](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0064.2010.00341.x#:~:text=The%20Inuit%20Land%20Use%20and%20Occupancy%20Project%20%28ILUOP%29%20presented%20a,Northwest%20Territories%20and%20northeast%20Yukon.) from the 1970s
+* The analyses of Renee Paulani Louis, an Indigenous Hawai’ain academic and cartographer
+* [Emergence Magazine’s profile on Zuni Counter Mapping](https://emergencemagazine.org/story/counter-mapping/)
+* [Guardian article discussing counter mapping as subversive storytelling device for the marginalized](https://www.theguardian.com/science/blog/2018/mar/06/counter-mapping-cartography-that-lets-the-powerless-speak)
+* Oxfam blog listing a range of great [initiatives and resources](https://oxfamblogs.org/fp2p/powershifts-resources-collective-mapping/) for community mappers
+
+Watch this short documentary about the Wao mapping process, and read [the accompanying article from Al Jazeera](https://www.aljazeera.com/indepth/features/amazonian-tribe-defending-land-technology-181220113423595.html)
