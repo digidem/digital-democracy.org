@@ -12,111 +12,89 @@ tags:
   - featured
   - front-page
 ---
-### Digital Democracy has worked with *Color Coded* to craft the user experience design for Mapeo. This year, they're celebrating 5 years together. We sat down with Cesia Domínguez López, the Co-founder of Color Coded, a POC-only space and collective co-teaching, co-creating, and co-owning new technologies. To learn more about their work, visit: <https://colorcoded.la/>
+**Color Coded is a POC-only space and collective that is co-teaching, co-creating, and co-owning new technologies. This year, they celebrated their 5th anniversary. Digital Democracy has worked with Color Coded to craft the user experience design for Mapeo. The following is a shortened transcript of a conversation we had with Cesia Domínguez López, Co-founder of Color Coded.**
 
-**What sparked you to start Color Coded?**
+**To learn more about Color Coded's work, visit: <https://colorcoded.la/>**
 
-**Cesia**
+**Karissa: What sparked you to start Color Coded?**
 
-Color Coded started while we were doing anti-displacement work in Los Angeles before the term “gentrification” and much less “displacement” were part of the narrative.  
+**Cesia:** Color Coded started while we were doing anti-displacement work in Los Angeles before the term “gentrification” and much less “displacement” was part of the narrative.
 
-I am a 90s baby, so the internet didn't really take off until I was in middle school. For my high school education, I attended the Academy for Math, Engineering, and Science. I was one of the many kids from low income communities that were poached for the “STEM track” from an early age. A lot of my classmates were programming new software, filing patents for their code/projects, and had multiple screens available to them at home. I received my first computer as a graduation gift and I’m very thankful for my uncle and others who offered tech access and support to make sure I had the tools I needed in order to be successful in high school with the hope of pursuing post-secondary education.
+I am a 90s baby, so the Internet didn't really take off until I was in middle school. For my high school education, I attended the Academy for Math, Engineering, and Science. I was one of the many kids from low-income communities that were poached for the “STEM track” from an early age. A lot of my classmates were programming new software, filing patents for their code/projects, and had multiple screens available to them at home. I received my first computer as a graduation gift and I’m very thankful for my uncle and others who offered tech access and support to make sure I had the tools I needed in order to be successful in high school with the hope of pursuing post-secondary education.\
+\
+During my undergrad education, computer science (CS) was also referenced as a way to talk about neural networks and as a neuroscience major, we were encouraged to take CS classes. I was always interested in the subject but being in a predominantly white institution, where most of the CS majors I knew were white men from wealthy backgrounds, it didn't really feel like a space where I could be vulnerable enough to learn. In all of the STEM classes I took, there was one Black professor and one Latino lab assistant.
 
-I did neuroscience in undergrad, and computer science is something that's always talked about. I wanted to learn about it, but being in a predominantly white institution, in the sciences there was one black professor and one latino lab assistant. 
+Most of the students in the sciences were middle class, white, and a lot of them were trying to do pre-med. They didn't have lived experiences of how the issues we talked about in the classroom or rather, didn’t talk about, affected working people of color. It made me nervous to think that these same students would go on to become the doctors, researchers, teachers, and social workers working in “service” of low-income communities.
 
-It became really frustrating because most of the students within the sciences were predominantly middle class, white, a lot of them trying to do pre-med. They didn't have lived experiences of how these things we talked about in the classroom affected working people of color.
+I left college feeling very angry and resentful. Growing up, I knew about interlocking systems of domination (like heteronormativity, capitalism, religion, and whiteness as an ideology) because I could see these systems at play in my lived experience. But I didn't have the language to talk about how intentional this violence is until I took classes in Black Feminist and queer theory. As I processed this intentional violence that most of my classmates benefitted from, it became important for me to have a safe space to learn without having to navigate the emotional labor of trying to explain these things to folks who didn’t get it, and the grief that came with this knowledge
 
-I left feeling angry, I had known about interlocking systems of domination, heteronormativity, capitalism, religion, and whiteness as an ideology. I knew about it growing up but I didn't have a language to talk about it until I left. And because of all of these students I interacted with, it became important for me to have a safe space to learn.
+Fast forward to our Color Coded space -- we didn't want to have to do that labor or slow down to explain these topics to privileged folks.
 
-We don't want to do that labor or slow down to explain these topics to folks. We wanted a safe space where we didn't have to do that emotional labor and educational labor.
+**Karissa: What did it look like when it first started and how did it evolve?**
 
-**What did it look like when it first started and how did it evolve?**
+**Cesia:** I was working in the NGO industrial complex, some of us were working in the tech industry as well, touching the corporate world a little bit. During the first couple of years, we started meeting around my kitchen table and took up space wherever we could. When my kitchen table wasn't big enough, we took over my job’s office space and would meet there after hours.
 
-**Cesia**
+In the first 1-2 years, we joked about it as a support group for those of us who were frustrated with “business as usual” and disillusioned about the avenues for change or economic security that weren’t available to us no matter the industry. As a first-generation student, you are told that if you get a bachelors, and then get a job, it will bring you and your family economic security; it will get your family closer to that \[harmful] narrative of the American dream. That wasn't the reality. As people of color working in white-dominated spaces, it became clear that we needed a space for healing together and to cultivate a place from which we could take action to prevent some of this harm from happening to other folks of color.
 
-I was working in the NGO industrial complex, working in the tech industry as well, touching the corporate world a little bit. It became clear during the first couple of years, we started meeting over our kitchen table and taking up space as we could. When my kitchen table wasn't big enough we had to look for space. I had a lot of office space available, and we would meet there after hours.
+Our space has always taken an intergenerational approach and from the very beginning, we were thinking about youth and other community members that we are attached to, the folks who are part of our collective body. One of our first collective-wide projects, Locales.la, was coded and designed with highschool youth and señoras living in Boyle Heights and East LA.
 
-In the first 1-2 years, we would joke about it as a 'support group' and being disillusioned about what was possible in our jobs. Especially as an undocumented person, you are told to get a bachelors, get a job, that you'll get access... that wasn't a reality. We needed a space for healing moments together as well, heal from it, and take action.
+The current pandemic has brought questions of access to the forefront that a lot of our communities have been grappling with for a long time. How can you do virtual school when most of your students may not have access to WiFi, to a computer at home, or to a safe space to learn? The mainstream narrative around the digital divide doesn't capture what's actually happening. I'm in community with lots of folks who don't have regular access to computers or don't use them in the same way that I do, but they still engage in many different technology modalities. It became important to de-center digital and Western technologies to make the technologies that our community members were already engaged with more visible. We started thinking about ways that we could uplift and bring non-Western technologies to the forefront.
 
-If we're seeing this as a challenge, as an issue, we’re now thinking about solutions as well. It's also thinking about youth and other community members we are attached to. I'm the oldest of four. I don't like talking about it in terms of the digital divide, it doesn't capture what's happening. I'm in community with lots of folks who don't have access or don't use computers in the same way I use computers. So we started thinking about how we can uplift technologies that people create.
+To offer our skill-sharing at no cost to our community members, we have blended tax status as a profit/business as well as a fiscal sponsor. LABS is our “worker-owned” offshoot where our members commit to a contract together and 30% of the profits go into the collective fund to help maintain our space and offerings at no cost.
 
-The way our work is sustained is getting hired by non-profits that need tech support. We have a worker-owned offshoot within where people take that contract. 30% of the profits go to the collective fund to take care of community members that need it.
+We're 5 years in and we want to celebrate that.
 
-We're 5 years in and we want to celebrate that. We had to make the choice to let go of the physical space this year. We had plans to open up more of a community space so that people part of the collective are now living in that space, we were having those conversations in Jan/Feb, and with all this going on… there isn't a need for a physical space for people to gather yet. So that's on hold, and wondering what that looks like post-COVID.
+**Karissa: What does “uplifting technologies” look like?**
 
-**What does ‘uplifting technologies’ look like?**
+**Cesia:** We want to uplift technologies that fall outside of the Western definition. Through our #CommunityTech workshops, we invited community members who are using tech in different ways to share their work. Technology is defined as “applying knowledge or a set of practices towards a practical process.” Our work is about intentionality, it's about rigor, it's about discipline, and really studying what problem you're trying to solve. We know that communities of color have been doing this for decades but lots of these technologies haven’t been recognized or celebrated.
 
-**Cesia**
+For example, we’ve invited herbalists who are thinking about plant medicine/plant technology. We’ve also worked with a lot of artists who are creating propaganda and other Resistance technologies. Like youth on the street using graffiti as a way to make sure their voices are heard. Maybe they aren't building a website, but they're using a platform to communicate. There is a whole intentionality of processes built-in to that specific way of art-making.
 
-We want to uplift technologies outside of the western definition. Invite community members who are using tech in a different way. The way we define technology is an applied process, it's about intentionality, it's about rigor, it's about discipline, and really studying what you're trying to problem solve. We know that communities of color have been doing that for generations, for decades. Lots of these technologies are not celebrated because of western definitions.
+**Karissa: I'm happy you brought in art because most technology today is made for profit. Can you talk about the corporate domination of technologies and how Color Coded relates to it?**
 
-For example, we have invited different herbalists that think about plant medicine, plant technology. Resistance technologies, for example youth on the street using graffiti as a way to have their voices heard. Maybe they aren't building a website, but they're using a platform to communicate. There is a whole intentionality of processes built-in with art making.
+**Cesia:** We don't engage in the corporate tech world, which has been interesting to navigate. A lot of folks can't place us in the tech industry because we aren't friends with those folks, but we are also a bit out of place in traditional movement spaces. We’ve had to do some of that bridge-building. We were excited when there was a whole conference targeting movements, and how technology relates. When Mijente launched their [\#NoTechforICE](https://notechforice.com/) campaign, a lot of organizers began to realize the importance of thinking through how and which technologies were present in their work. This is happening at an even larger scale now that the pandemic is pushing us further into the digital realm.
 
-**I'm happy you brought in art, because most technology today is made for profit. Can you talk a bit more about the corporate domination of technologies and how Color Coded relates to it?**
+Karissa: Can you talk more about how technology fits into this moment of mass organizing and mobilization?
 
-**Cesia**
+**Cesia:** We have been exploring art as an abolition technology. In partnership with [Stop LAPD Spying Coalition,](https://stoplapdspying.org/) we have an art and practice space for abolition called [\#EmbodyAbolition #BuildManyWorlds](https://embodyabolition.us/). Those of us who are targeted by surveillance know what the threats are and we know which carceral technologies are causing harm; we don’t want cops, we don’t want prisons; we don’t want body cams.
 
-We don't engage in corporate tech. It's been interesting to navigate. A lot of folks can't place us in the tech industry because we aren't friends with folks in the tech industry. When mi gente launched the No tech for ICE campaign, people understood that they needed to think about technology and that it is important.
+But what do we want instead? A lot of us don't know what that new world could look like because none of us have lived outside of colonization. Cultivating abolition technologies requires creativity and imagination. Working class Black and Brown folks don’t have access to many spaces where they are asked to imagine what a life of health and dignity might look like and then given the tools and resources to build toward that new world.
 
-Think about tech in your organizing, We had to do a little bit of that bridge building. We were excited when there was a whole conference targeting movements, and how technology relates. It wasn't at the front of mind... and now in this moment, it's in the front of mind for many people doing organize.
+We like to say that abolition isn't a destination or a deliverable--it’s a process. How do you practice abolition tech? How do you embody abolition? How do you embody those carceral technologies? I know that I have anti-blackness, capitalistic behaviors because I am someone who has grown up in it. Yet, how can we think of different ways of inhabiting our bodies despite this carceral world that we live in?
 
-**Can you talk a bit about technology now in this moment of mass organizing and mobilization?**
+The #BuildManyWorlds part is a shout out to Los Zapatistas -- *a world where many worlds fit.* One solution is not going to be right for everyone, for every context or geography.
 
-**Cesia**
+As soon as you start defining what utopia looks like, you start excluding folks. It's part of the technology process -- if you're not constantly maintaining and keeping track of your tech, it's got a bug, and it's going to break. We have to do that kind of maintenance within our systems, our bodies too.
 
-We worked on an art and practice space about abolition, and abolition technologies, called [\#EmbodyAbolition #BuildManyWorlds](https://embodyabolition.us/). For people who are targeted by surveillance, they know what the threats are. We know that we don't want all of these carceral technologies, body cams,  police, jails.
+**Karissa: I love that analogy between tech maintenance and maintenance inside ourselves! What other ideas do you have about movements in relation to corporate tech?**
 
-But what do we want instead? A lot of us don't know what that alternative world could look like. For us, it's about imagination. We try something, we will experiment. If it works -- great! If it doesn't, try again. Science has a lot of those rules and tenants, too. Constantly exploring, being creative. Creativity and imagination around what abolition technologies are is really important for us, as well as making sure people have access to those tools and spaces.
+**Cesia:** We know that we can't rely on most tech companies or their products to keep us safe. Amazon and a lot of these Big Tech companies are connected to ICE, DHS, local police departments, and other social services databases. We know that most of the tech we use harms Black and Brown communities. Lithium batteries are contaminating land and communities. How do we take this into account for all bodies? Not just humans, but bodies of land, bodies of people, bodies of plants, bodies of animals. How do we have healthy relationships with technology? How do we cultivate healthy tech environments? It's one thing to do interpersonal analysis, but how about the infrastructure it is built upon?
 
-For working class black and brown communities, they don't have a space where they get asked: “What would your world look like if you didn't have to deal with the police?” 
+Autonomy is also important to highlight. It's not enough to create our own apps if we don’t have control over the infrastructure. We want an Internet owned by the people and for the people. This can apply to all sorts of technologies that come to us in the form of utilities like electricity and water. Not every community has the capacity to build its own Internet, to build a P2P secure network. But for people to have the autonomy they need to have ownership of these utilities.
 
-We like to say abolition isn't a destination or deliverable... it's being co-opted by non-profits. It's a process. How do you practice abolition tech? How do you practice abolition? How do you embody those carceral technologies? I know that I have anti-blackness, capitalistic notions, as someone who has grown up in it, how can we think of different ways to be in this world?
+**Karissa: What would you tell a funder that agrees with everything you’ve just said and wants to contribute to this kind of work?**
 
-I want to give a shout out to los zapatistas. one world where many worlds fit. That's what we think about when we say we build many worlds. One solution is not going to be right for everyone.
+**Cesia:** Focus on sustaining the folks who are most impacted and who are already doing the work.
 
-As soon as you start defining what utopia looks like, you start excluding folks. It's part of the technology process. An analogy to use is if you're not constantly maintaining and keeping track of your tech, it's got a bug, it's going to break. So we want to do that maintenance within ourselves too.
+Now that abolition is “sexy,” for example, more groups are getting funding for abolition work, but many of them are actually doing reform-based work, and diverting resources from folks that have been doing on-the-ground abolition work for a long time.
 
-**Amazing, I LOVE that you make that analogy between tech maintenance and maintenance inside ourselves! What other easy have you been thinking about movements in relation to corporate tech?**
+Another thing -- no strings attached. If you're going to give money, don't require reports, orgs often have their own methods of evaluation. Through their divest/invest work, [Movement Generation](https://movementgeneration.org/) has worked to bring more capital to “the commons” or to the hands of the people rather than private corporations. Their [Just Transition framework](https://movementgeneration.org/movement-generation-just-transition-framework-resources/) is an inspiring way to think about moving away from extractive economies and toward regenerative economies.
 
-**Cesia**
+Groups like [Trans Queer Pueblo](https://www.tqpueblo.org/), have shifted the way that funders give grants. The folks that have the best and most creative solutions are the ones who are living and existing in these communities. It’s so important to get the money directly into their hands.
 
-We know that we can't rely on most tech companies or tech products to keep us safe. Especially now, yesterday, the CEO of zoom is going to be working with law enforcement. Those folks are the same. We know that amazon and these big tech companies are all connected to ICE, DHS, getting tons of funding for this police work. Migente did a lot of great work tracking the contracts in their no tech for ice campaign.
+At Color Coded, we like to say we don't build for people, we build with people. We want to make sure folks have the skills to make it sustainable once the designers or coders are gone.
 
-We don't want to be reactionary, and we have long-standing conversations. How do we have healthy relationships with technology? How do we cultivate healthy tech environments? It's one thing to do interpersonal analysis, but how about the infrastructure it is built upon that comes into place?
+**Karissa: Can you say more about co-design and how that plays into your process of ‘getting the work done’?**
 
-We know that most of the tech we use harms black and brown communities. Lithium batteries are all causing contamination for land and communities. How do we take this into account for all bodies? Not just human bodies, but bodies of land, bodies of people, bodies of plants, bodies of animals.
+**Cesia:** We have been exploring “technologies of respect” for the health and dignity of Black and Indigenous communities. [Dori Tunstall’s](https://news.berkeley.edu/2019/01/25/berkeley-talks-dori-tunstall/#:~:text=Elizabeth%20(Dori)%20Tunstall%20is%20a,of%20a%20faculty%20of%20design.) work explores Decolonizing Design at Ontario College of Art and Design. In Canada, she is able to more deeply do this work because they have legal “reverse racism,” so she was able to hire professors that represented communities from the local nations and actually start handing over decision-making power of the institution to these folks.
 
-Autonomy is also something I'd like to highlight. It's not enough to create our own apps, if we don’t have control and autonomy around the infrastructure. One of the demands could be an Internet owned by the people and for the people. This can apply to all sorts of technologies and utilities, electricity, water, and these infrastructures that are built. Having access and control over these utilities is what will give us autonomy and get our needs met.
+We are not ready to talk about “decolonizing technology” in the United States. Right now, decolonizing is just a buzzword rooted in academia and theory rather than praxis. Especially at this moment, these institutions don’t go much further than publishing statements on “diversity & inclusion.”
 
-That's one thing we are trying to figure out what to talk about. Every community doesn't have the capacity to build their own Internet, to build their own p2p secure network. For people to have autonomy is to have ownership of these utilities.
+We have come up with some guiding questions to make sure we are building respectful technologies. Like, “Am I honoring myself and my lineage?” “Am I the right person to be doing this work?” Maybe it's not my role--maybe I should step back.
 
-**That’s very important work. As part of this series we’ve also highlighted work from [Rhizomatica](https://www.digital-democracy.org/blog/telling-a-different-story-about-technology-with-ramesh-srinivasan/), which is building community networks in Oaxaca, Mexico, which you might be interested in. Another question I have, what would you tell a funder or donor that agrees with everything you’ve said and wants to contribute to this kind of work?**
+The world of Big Tech tends to get so caught up in a solution-centric narrative of progress, but sometimes we need to slow down. Sometimes analog is actually better. Slowing down is a method to help us ask -- is this even needed? -- with intention. If you're being intentional, you're going to go slow. You're building relationships with folks through deep listening, and listening again. Am I being respectful to my body and other bodies? Am I building a technology that perpetuates extraction or respect? We have created a [workshop and slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vQrxNp2JGCiFMSfcDCl1q2H1u32kpuqG5lCXNnA15pMgq1hZ3dWaNpZXwZ0AFQRWUaSsixVpSD5lX97/pub?start=true&loop=true&delayms=3000&slide=id.g2177c805b0_1_53) that you can use to help put it together.
 
-**Cesia**
 
-First, sustainability of folks who have already been doing the work.
-
-Now that abolition is “sexy” for example, there are all of these groups that get funding for abolition work. But some of these groups actually do reform-based work instead. And groups that are doing the on-the-ground work are not given resources.
-
-Another thing -- no strings attached. If you're going to give money, don't require reports, orgs have their own way of evaluating the work. There are a few folks that have been doing that work -- Movement Generation has been moving away from extractive economies to regenerative economies. 
-
-When Trans Queer Puelblo got a knock on the door from the bigger non-profits, they had to negotiate. They said, these funders will not change the way we do our reports. They asked them to invest in power building. The folks that have the best solutions and creativity are the folks who are living and existing in these communities. Getting the money to their hands directly is more important. A lot of these folks come out of user experience work, and apply it to their organizing. It means that trans mujeres that got released from a detention center are now leading the work. They are now evaluating, reporting on their own work. 
-
-We like to say we don't build for people, we build with people. We want to make sure you have the skills to make it sustainable, so you can have ownership and adopt it to whatever the local needs might be.
-
-**Wow, yes this is so important -- this white supremacy culture and patriarchal attitude is not helpful and supportive to groups that are busy getting the work done. Can you say a little bit more about co-design and how that plays into your process of ‘getting the work done’?**
-
-**Cesia**
-
-Respectful technologies. I want to give a shout out to Dori Tunstall, the dean of Ontario College of Art and Design. In Canada, where they have reverse racism, they talk about decolonizing design.
-
-We are not ready to talk about decolonizing design and technology in the United States, until we have certain things that Canada has, like reverse racism being legal. Decolonizing is just a buzzword and rooted in academia and theory rather than praxis. We didn't want to say decolonizing tech because that's not where we are at in the U.S.
-
-We are at the place of “respectful tech” where there are a few guiding questions that we have. One: “Am I actually the right person to do this work?” Maybe it's not my role. Instead of trying to work with black feminists as a white man, maybe I shouldn't do that. Maybe I should give funding resources, train black women so that they can work with those folks.
-
-*“Am I being respectful to my body and other bodies?”*
-
-Sometimes folks think that we need the solution! In western progressive, and tech world, the progress narrative.. sometimes we don't need that. Sometimes it's unnecessary. Sometimes analog is actually better. Is this even actually needed and is a big part of the question? Slowing down is a method for this. Intentionality. If you're being intentional, you're going to go slow. You're building relationships with folks, deep listening, listening again. Am I being respectful to other bodies? Am I building a technology that perpetuates extraction, bodies of water, bodies of land? We have crafted a workshop and slidedeck that you can use to help put it together.
 
 ![](/assets/screen-shot-2020-06-12-at-10.57.36-am.png)
 
