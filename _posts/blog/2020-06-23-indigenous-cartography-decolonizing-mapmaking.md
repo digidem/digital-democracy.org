@@ -16,4 +16,4 @@ image: /assets/achuar-map-excerpt.jpg
 tags:
   - featured
 ---
-jjj
+Just started this - feel free to ditch this and start again if you prefer. The image isn't from Emily's article, I just needed an image in order to save it, so pulled one from the file.
