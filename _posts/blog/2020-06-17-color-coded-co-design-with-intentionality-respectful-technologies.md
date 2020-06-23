@@ -12,9 +12,9 @@ tags:
   - featured
   - front-page
 ---
-**Color Coded is a POC-only space and collective that is co-teaching, co-creating, and co-owning new technologies. This year, they celebrated their 5th anniversary. Digital Democracy has worked with Color Coded to craft the user experience design for Mapeo. The following is a shortened transcript of a conversation we had with Cesia Domínguez López, Co-founder of Color Coded.**
+**Color Coded is a POC-only space and collective that is co-teaching, co-creating, and co-owning new technologies. This year, they are celebrating their 5th anniversary. Digital Democracy has worked with Color Coded to craft the user experience design for Mapeo. The following is a shortened transcript of a conversation we had with Cesia Domínguez López, Co-founder of Color Coded.**
 
-**To learn more about Color Coded's work, visit: <https://colorcoded.la/>**
+**To learn more about their work, visit: <https://colorcoded.la/>**
 
 **Karissa: What sparked you to start Color Coded?**
 
@@ -93,8 +93,6 @@ We are not ready to talk about “decolonizing technology” in the United State
 We have come up with some guiding questions to make sure we are building respectful technologies. Like, “Am I honoring myself and my lineage?” “Am I the right person to be doing this work?” Maybe it's not my role--maybe I should step back.
 
 The world of Big Tech tends to get so caught up in a solution-centric narrative of progress, but sometimes we need to slow down. Sometimes analog is actually better. Slowing down is a method to help us ask -- is this even needed? -- with intention. If you're being intentional, you're going to go slow. You're building relationships with folks through deep listening, and listening again. Am I being respectful to my body and other bodies? Am I building a technology that perpetuates extraction or respect? We have created a [workshop and slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vQrxNp2JGCiFMSfcDCl1q2H1u32kpuqG5lCXNnA15pMgq1hZ3dWaNpZXwZ0AFQRWUaSsixVpSD5lX97/pub?start=true&loop=true&delayms=3000&slide=id.g2177c805b0_1_53) that you can use to help put it together.
-
-
 
 ![](/assets/screen-shot-2020-06-12-at-10.57.36-am.png)
 
