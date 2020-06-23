@@ -1,7 +1,7 @@
 ---
 categories: blog
-title: "Color Coded: Building Technologies of Respect for the Health and Dignity
-  of Black & Indigenous Communities"
+title: "Color Coded: Building Technologies of Respect for Black & Indigenous
+  Communities"
 published: true
 date: 2020-06-17T21:43:59.232Z
 excerpt: Cesia Domínguez López is the Co-founder of Color Coded, a POC-only
