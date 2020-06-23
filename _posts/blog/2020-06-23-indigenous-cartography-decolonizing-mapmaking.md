@@ -108,3 +108,60 @@ This map shows the territorial boundaries of the Waorani people. Unmarked are th
 This map style is typical of maps made for official purposes and circulated by and for the Ecuadorian State. It is dominated by empty green forest and suggests little human presence, save a few village dots. Maps like this one make it easy for the government to sell off Indigenous territory for oil blocks, which happened in some parts of Waorani territory: the red line entering Waorani territory in the east marks a road built by the oil company to access its drilling platforms and pipelines.
 
 Many Waorani people saw the devastating impact of oil on their cousins in the eastern part of their territory. They began working with Alianza Ceibo and Amazon Frontlines to try and prevent drilling in their territory by creating “a map full of things that don’t have a price.” The mapping team tested a variety of different applications but none of them were a good fit for their offline environment and collaborative mapping process. In 2015, they reached out to Digital Democracy and asked us to help support their mapping process.
+
+
+
+ADD LINE BREAK                                                               **The Mapping Process**
+
+As of 2020, we have completed the following mapping process with 20 of the 52 villages.
+
+*Drawing board:* The process begins in a participatory way with paper & markers. Everyone in the community — men, women, elders, children — is invited to come and draw their knowledge of the territory across large sheets of paper. This process makes visual the community’s deep intimacy with the unique history, resources, and features of their home, in addition to making an opportunity for elders’ voices and stories to be heard by younger generations. Once the paper mapping is complete, the community decides which features are important to document. A designer turns these items into unique symbols that will comprise the legend.
+
+*Walkabout:* The mapping team goes on walks with village elders and knowledge-holders to collect GIS data using handheld GPS devices as well as oral testimony and stories about important features, such as palm swamps, fruiting trees, animal mineral licks and fishing spots.
+
+*Data entry:* Back in the village, the team enters the GPS points into [Mapeo Desktop](https://www.digital-democracy.org/mapeo/), as well as additional information and stories. A variety of background maps from satellite images are used to help locate geographical features. Once the data points are uploaded, the map is projected on a wall for the whole community to see.
+
+*Lexicon:* The data is entered using the unique symbols within the legend. The Waorani legend contains over 150 items, from jaguar paths to clay deposits, ancient burial sites to flying ant nests.
+
+*Export:* The data is exported from Mapeo to GeoJSON, and then uploaded into Mapbox where the design template is stored. Legend and titles are added using illustrator.
+
+*Print:*Draft maps are sent to each village for further editing and verification. Finalized maps are then printed and given to each family in the village.
+
+ADD LINE 
+
+
+
+ADD IMAGE 
+
+Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
+
+ADD IMAGE 
+
+And here are just a few of the over 150 icons they have created over time:
+
+\
+ADD IMAGE OF ICONS 
+
+Working closely on the maps over the past five years, we saw the ways the mapping team constantly negotiated between making maps that reflected & reinforced the way Waorani people see their territory, and awareness of an external audience.
+
+One example of this is how to represent water. For anyone who, like me, grew up with Eurocentric maps, we assume that blue is the color for water. And yet our Waorani friends were puzzled by this. There are many rivers in Wao territory. Some are green, brown, even black depending on the rains and the season, but they aren’t blue.
+
+In the end, they decided to use blue on the maps to make them more legible to an outside audience, but it was a process that revealed to me just how little I had actually paid attention to the color of rivers before. It’s just one of the thousands of examples of how a structure of knowing such as “water is blue” can hold us back from seeing what’s right before our eyes.
+
+The maps were first and foremost created for the Waorani people, but from the beginning, the villagers understood that the maps could ultimately be used as a tool to communicate their vision of their land to the outside world. In 2018, this proved invaluable when the Ecuadorian government announced a massive sale of new oil blocks that encompassed over 7 million acres of Ecuadorian rainforest, including Block 22 -- the Western part of Waorani territory where we had been mapping.
+
+The community decided to launch a legal case against the government to fight the sale, and we helped them publish an [online mapstory](https://waoresist.amazonfrontlines.org/explore/) showcasing their message for the accompanying campaign. This map told a different story from the government’s green emptiness — one rich with characters and history, one in which every single vibrant acre of the territory in question would be threatened by oil production, from Waorani cultural traditions to the many plants and animals who live on their land.
+
+In 2019 the Waorani won the lawsuit when the national court ruled that the Government had not carried out adequate consultation before creating the oil blocks, violating the communities’ rights to Free, Prior, and Informed Consent (FPIC). The oil block was removed and ½ million acres of the Amazon were protected. The case set a major precedent for indigenous action within Ecuador and across the globe. Read more about this in my colleague Aliya’s account of [the role of the maps in the legal process](https://www.digital-democracy.org/blog/waorani-victory-in-court/).
+
+
+
+![Waorani elder Dika, one of the leaders of Kenaweno. “The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.”]( "Waorani elder Dika, one of the leaders of Kenaweno. “The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.”")
+
+## The Role of Technology in Decolonizing Mapping
+
+Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
+
+ **\    “Technology won’t save our land. We have to save our land.”**                                                                                             — *Opi Nenquimo, director of the Wao Mapping project*
+
+The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
