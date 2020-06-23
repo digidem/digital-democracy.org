@@ -11,9 +11,9 @@ tags:
   - featured
   - front-page
 ---
-Color Coded is a POC-only space and collective that is co-teaching, co-creating, and co-owning new technologies. This year, they are celebrating their 5th anniversary. Digital Democracy has worked with Color Coded to craft the user experience design for Mapeo. The following is a shortened transcript of a conversation I had with Cesia Domínguez López, the Co-founder of Color Coded.
+*Color Coded is a POC-only space and collective that is co-teaching, co-creating, and co-owning new technologies. This year, they are celebrating their 5th anniversary. Digital Democracy has worked with Color Coded to craft the user experience design for Mapeo. The following is a shortened transcript of a conversation I had with Cesia Domínguez López, the Co-founder of Color Coded.*
 
-To learn more about their work, visit: <https://colorcoded.la/>
+*To learn more about their work, visit: <https://colorcoded.la/>*
 
 **Karissa: What sparked you to start Color Coded?**
 
