@@ -62,13 +62,13 @@ Let’s begin with a few examples from one of my favorite resources, [The Decolo
 
 The example below challenges our very notion of a map as a two-dimensional object. What about a map that can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters. 
 
-![These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. ]( " Source: Topografisk Atlas Grønland")
+![These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. ](/assets/1-3-jos1ncsvst6juinzhqkq.jpeg " Source: Topografisk Atlas Grønland")
 
 *“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.”* <https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
-![]()
+![](/assets/0-gfazbnhacuqmagta.png)
 
 Although this is a familiar two-dimensional map with green & yellow representing land, and blue representing water, it challenges a basic assumption of European mapmaking by orienting the map towards the east rather than the north, because East (Waabang) is the orientation used in  Ashinaabemowin culture. The compass rose itself is in the form of a medicine wheel, an Indigenous symbol used across the continent to denote the four directions.
 
@@ -82,7 +82,7 @@ In contrast to colonial mapping, there have been efforts for decades to displace
 
 The Waorani are an Indigenous people who live in the east of the Ecuadorian Amazon. They have lived on their territory for thousands of years and have effectively fought against different waves of invasion, from the Inca to the Spanish conquistadores, from rubber plantations to American missionaries and oil developments. Even as Waorani people have increasingly interacted with the outside world in recent years, they maintain ongoing customary practices and connection to their territory. 
 
-![*Basemap of Waorani Ancestral Territory*]( "*Basemap of Waorani Ancestral Territory*")
+![*Basemap of Waorani Ancestral Territory*](/assets/0-z8oe4rkodfegrg3f.png "*Basemap of Waorani Ancestral Territory*")
 
 This map shows the territorial boundaries of the Waorani people. Unmarked are the laws influenced by the doctrine of discovery that grant the Waorani people title to the land but deny them rights to subsoil resources, such as oil and minerals, dividing up what is for the Waorani an integrated and indivisible territory.
 
@@ -110,15 +110,15 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 - - -
 
-![The participatory mapping process. ]()
+![The participatory mapping process. ](/assets/0-bcfbqusdtz8sdykt.png)
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
-![]()
+![](/assets/0-n18m3zwhj0zjltlv.png)
 
 And here are just a few of the over 150  icons they have created over time:  
 
-![]()
+![](/assets/0-zhf0dssv_x-zwck2.jpeg)
 
 Working closely on the maps over the past five years, we saw the ways the mapping team constantly negotiated between making maps that reflected & reinforced the way Waorani people see their territory and awareness of an external audience. 
 
@@ -132,7 +132,7 @@ The community decided to launch a legal case against the government to fight the
 
 In 2019 the Waorani **won the lawsuit** when the national court ruled that the Government had not carried out adequate consultation before creating the oil blocks, violating the communities’ rights to Free, Prior, and Informed Consent (FPIC). **The oil block was removed and ½ million acres of the Amazon were protected.** The case set a major precedent for indigenous action within Ecuador and across the globe. Read more about this in my colleague Aliya’s account of [the role of the maps in the legal process](https://www.digital-democracy.org/blog/waorani-victory-in-court/).
 
-![]()
+![](/assets/0-_am93ywhmouc4atu.png)
 
 > *“The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.” -- Waorani elder Dika, one of the leaders of Kenaweno.*
 
@@ -144,7 +144,7 @@ Whether we’re aware of it or not, things like the Doctrine of Discovery contin
 
 The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships. 
 
-![*Nihua Quimontasi*]()
+![*Nihua Quimontasi*](/assets/0-g7n47kczyvjzcvgr.png)
 
 > *“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside, and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” -- Nihua Quimontasi*
 
