@@ -40,13 +40,11 @@ Something I’ve learned from Indigenous scholars like [Steven Newcomb](http://o
 
 ![]( "*Pope Alexander VI’s Demarcation Bull, May 4, 1493, (Gilder Lehrman Institute of American History)*")
 
-*Pope Alexander VI’s Demarcation Bull, May 4, 1493, (Gilder Lehrman Institute of American History)*
-
 Pope Nicholas V delivered the first law of the Doctrine of Discovery in 1452 to Portuguese sailors navigating the coast of Africa. The pope commanded that they capture and subdue all pagans and enemies of Christ, put them into slavery, and take away their property.
 
 The doctrine was further edified in 1493, when Pope Alexander VI announced to the Spanish crown, upon landing in the Caribbean:
 
- We, by authority of almighty God, give to you forever all islands and mainlands found, to be found, discovered, and to be discovered, towards the west and south, from the Arctic Pole, to the Antarctic Pole, and we appoint you and your heirs Lords of them with full authority and jurisdiction of every kind.
+*We, by authority of almighty God, give to you forever all islands and mainlands found, to be found, discovered, and to be discovered, towards the west and south, from the Arctic Pole, to the Antarctic Pole, and we appoint you and your heirs Lords of them with full authority and jurisdiction of every kind.*
 
 The doctrine guided the entire European conquest of the Americas and US law still rests on this framework regarding land rights. Despite its devastating legacy, it has never been annulled.
 
@@ -62,7 +60,7 @@ Let’s begin with a few examples from one of my favorite resources, [The Decolo
 
 The example below challenges our very notion of a map as a two-dimensional object. What about a map that can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters.
 
-INSERT MAP 
+![]()
 
 *Source: Topografisk Atlas Grønland*
 
