@@ -138,13 +138,13 @@ In 2019 the Waorani won the lawsuit when the national court ruled that the Gover
 
 Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
 
-**“Technology won’t save our land. We have to save our land.”**                                                                                         —*Opi Nenquimo, director of the Wao Mapping project*
+> *“Technology won’t save our land. We have to save our land.”                                                                                        —Opi Nenquimo, director of the Wao Mapping project*
 
 The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form a consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
 
 ![]( "Nihua Quimontasi")
 
-*“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*
+> *“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*
 
 There are plenty of tools available today that can collect data offline, but very few of them are designed to transform that data into locally empowered data management. This common oversight has normalized a data collection process that is inherently extractive, obfuscating even the best of intentions through assumptions embedded in design, which too often serve an end-user who is far removed from those collecting the data.
 
