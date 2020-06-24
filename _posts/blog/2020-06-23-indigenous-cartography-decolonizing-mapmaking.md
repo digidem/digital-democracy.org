@@ -24,19 +24,19 @@ tags:
 
 It’s taken me a long time to fully grasp it, but the more I learn about maps, the more I’ve realized they shape just about everything - good, bad & otherwise - about the society I live in. My love for maps started long before I co-founded Digital Democracy (Dd) in 2008. I even worked in a map store in college. But as our work at Dd has increasingly involved mapping projects in recent years, I’ve been at times humbled — and even ashamed — by how uninformed assumptions, even when coming from good intentions, can create immeasurable harm when they are embedded in our maps. So, if you consider yourself a mapper, someone who loves maps, someone who works with GIS data, or someone interested in visual storytelling, perhaps this story will be relevant to you. 
 
-#### ***What kind of world are we building with our maps?*** 
+#### ***What kind of world are we building with our maps?***
 
 How many of us take the time to ask this when we sit down with our tools (whether pen & paper or state of the art software) to draw our polygons and lines? And yet to make a map — and publish it, or define a congressional district with it, or [profile where protests for Black Lives Matter are happening](https://www.creosotemaps.com/blm2020/?fbclid=IwAR28N-iX_CZZ06JZrR7fd64xp5lfPIYBvLiHb_sB7g1Kb1-z70rCDBnX4qs) — is an act that affects the world. With our maps, we can reify old biases, or we can open people’s hearts. We can further entrench corrupt power systems, or we can call for a more just future.
 
 The truth is that maps have been used as a tool to enable slavery, genocide, and massive land theft. They were critical to the European conquest of the Americas. While the practice of mapping as indigenous erasure may seem like a relic of the past, the shapes drawn to accommodate eurocentrism have defined the world that we live in today, and maps continue to be used to justify the theft of Indigenous land.
 
-![*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*]( "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*" "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*]( \"*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society")
+![*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*]( "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*" "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*](/assets/0-gusmwbmgs9rcdjhh.png)
 
 This is a map of the Americas in 1606. I grew up seeing maps like this and used to linger on the monsters in the ocean, with childlike curiosity for a time of beasts. But as I learned more about the world, maps like this one started to shift. The monsters faded into the sea as the land mass came under harsh light. As a current resident of the so-called United States, I live in a hemisphere that has and continues to be populated by incredible civilizations —more than 800 nations and tribes estimated in North America alone, with complex religions, cultures, and societal rules — all living together on this land.
 
 And yet the map says “Francia” and “Brasil,” names imposed from outsiders. Clean cuts of land are labeled according to the conqueror,  disappearing Indigenous peoples from their rightful place. 
 
-### ***Why is that?*** 
+### ***Why is that?***
 
 Something I’ve learned from Indigenous scholars like [Steven Newcomb](http://originalfreenations.com/) is that the erasure of this continent’s Original Peoples didn’t happen accidentally, it was a purposeful policy of European church and state. Critical to this history is learning about the [Doctrine of Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/), which originated in a series of edicts written by popes in the 15th century that proclaimed the concept of “terra nullius,” (or “nobody’s land”) as any territory occupied by non-Christians. This doctrine literally encouraged European powers to go forth & conquer new lands, and to either kill, enslave or convert the non-Christians and take control of their territory. How many of the horrors of history & the injustices of our current moment can be traced in part to this doctrine of Euro-Christian supremacy?
 
@@ -156,7 +156,7 @@ When we started building Mapeo seven years ago, we set out to build a free tool 
 
 Mapeo is currently being used by over **150 frontline land defenders to monitor and defend almost 10 million acres of** indigenous lands from environmental and human rights abuses, **serving over 14,000 people**, and has been used to map **over 700,000 acres** of ancestral lands.
 
-##### **How to learn more:** 
+##### **How to learn more:**
 
 To learn more about Mapeo, visit <http://mapeo.app/>
 
