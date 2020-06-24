@@ -142,7 +142,9 @@ Whether we’re aware of it or not, things like the Doctrine of Discovery contin
 
 The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form a consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
 
-![]( "*“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*")
+![]( "Nihua Quimontasi")
+
+*“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*
 
 There are plenty of tools available today that can collect data offline, but very few of them are designed to transform that data into locally empowered data management. This common oversight has normalized a data collection process that is inherently extractive, obfuscating even the best of intentions through assumptions embedded in design, which too often serve an end-user who is far removed from those collecting the data.
 
