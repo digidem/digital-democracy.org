@@ -38,23 +38,17 @@ Why is that?
 
 Something I’ve learned from Indigenous scholars like [Steven Newcomb](http://originalfreenations.com/) is that the erasure of this continent’s Original Peoples didn’t happen accidentally, it was a purposeful policy of European church and state. Critical to this history is learning about the [Doctrine of Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/), which originated in a series of edicts written by popes in the 15th century that proclaimed the concept of “terra nullius,” (or “nobody’s land”) as any territory occupied by non-Christians. This doctrine literally encouraged European powers to go forth & conquer new lands, and to either kill, enslave or convert the non-Christians and take control of their territory. How many of the horrors of history & the injustices of our current moment can be traced in part to this doctrine of Euro-Christian supremacy?
 
-INSERT DOCUMENT 
+![]()
 
 *Pope Alexander VI’s Demarcation Bull, May 4, 1493, (Gilder Lehrman Institute of American History)*
 
 Pope Nicholas V delivered the first law of the Doctrine of Discovery in 1452 to Portuguese sailors navigating the coast of Africa. The pope commanded that they capture and subdue all pagans and enemies of Christ, put them into slavery, and take away their property.
 
-
-
 The doctrine was further edified in 1493, when Pope Alexander VI announced to the Spanish crown, upon landing in the Caribbean:
 
 We, by authority of almighty God, give to you forever all islands and mainlands found, to be found, discovered, and to be discovered, towards the west and south, from the Arctic Pole, to the Antarctic Pole, and we appoint you and your heirs Lords of them with full authority and jurisdiction of every kind.
 
-
-
 The doctrine guided the entire European conquest of the Americas and US law still rests on this framework regarding land rights. Despite its devastating legacy, it has never been annulled.
-
-
 
 Many of the basic lines that sought to erase the existence of Indigenous peoples are still the same. The maps that we build upon and navigate today do not reflect the land as it once was, or even as it is, but by how it is perceived through colonizers’ eyes.
 
@@ -68,25 +62,17 @@ Let’s begin with a few examples from one of my favorite resources, [The Decolo
 
 The example below challenges our very notion of a map as a two-dimensional object. What about a map that can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters.
 
-
-
 INSERT MAP 
 
 *Source: Topografisk Atlas Grønland*
-
-
 
 *“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” ---<https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>*
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
-
-
 ![]()
 
 INSERT MAP 
-
-
 
 Although this is a familiar two-dimensional map with green & yellow representing land, and blue representing water, it challenges a basic assumption of European mapmaking by orienting the map towards the east rather than the north, because East (Waabang) is the orientation used in Ashinaabemowin culture. The compass rose itself is in the form of a medicine wheel, an Indigenous symbol used across the continent to denote the four directions.
 
@@ -108,8 +94,6 @@ This map shows the territorial boundaries of the Waorani people. Unmarked are th
 This map style is typical of maps made for official purposes and circulated by and for the Ecuadorian State. It is dominated by empty green forest and suggests little human presence, save a few village dots. Maps like this one make it easy for the government to sell off Indigenous territory for oil blocks, which happened in some parts of Waorani territory: the red line entering Waorani territory in the east marks a road built by the oil company to access its drilling platforms and pipelines.
 
 Many Waorani people saw the devastating impact of oil on their cousins in the eastern part of their territory. They began working with Alianza Ceibo and Amazon Frontlines to try and prevent drilling in their territory by creating “a map full of things that don’t have a price.” The mapping team tested a variety of different applications but none of them were a good fit for their offline environment and collaborative mapping process. In 2015, they reached out to Digital Democracy and asked us to help support their mapping process.
-
-
 
 ADD LINE BREAK                                                               **The Mapping Process**
 
