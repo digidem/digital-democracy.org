@@ -60,11 +60,9 @@ Let’s begin with a few examples from one of my favorite resources, [The Decolo
 
 The example below challenges our very notion of a map as a two-dimensional object. What about a map that can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters.
 
-![]()
+![]( "*Source: Topografisk Atlas Grønland*")
 
-*Source: Topografisk Atlas Grønland*
-
-*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” ---<https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>*
+*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” (<https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>*
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
