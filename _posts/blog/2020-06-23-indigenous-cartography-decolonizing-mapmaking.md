@@ -62,7 +62,7 @@ The example below challenges our very notion of a map as a two-dimensional objec
 
 ![]( "*Source: Topografisk Atlas Grønland*")
 
-*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” (<https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>*
+*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” <https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>*
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
@@ -84,14 +84,15 @@ The Waorani are an Indigenous people who live in the east of the Ecuadorian Amaz
 
 ![Basemap of Waorani Ancestral Territory]( "Basemap of Waorani Ancestral Territory")
 
-\
 This map shows the territorial boundaries of the Waorani people. Unmarked are the laws influenced by the doctrine of discovery that grant the Waorani people title to the land but deny them rights to subsoil resources, such as oil and minerals, dividing up what is for the Waorani an integrated and indivisible territory.
 
 This map style is typical of maps made for official purposes and circulated by and for the Ecuadorian State. It is dominated by empty green forest and suggests little human presence, save a few village dots. Maps like this one make it easy for the government to sell off Indigenous territory for oil blocks, which happened in some parts of Waorani territory: the red line entering Waorani territory in the east marks a road built by the oil company to access its drilling platforms and pipelines.
 
 Many Waorani people saw the devastating impact of oil on their cousins in the eastern part of their territory. They began working with Alianza Ceibo and Amazon Frontlines to try and prevent drilling in their territory by creating “a map full of things that don’t have a price.” The mapping team tested a variety of different applications but none of them were a good fit for their offline environment and collaborative mapping process. In 2015, they reached out to Digital Democracy and asked us to help support their mapping process.
 
-ADD LINE BREAK                                                               **The Mapping Process**
+ADD line break
+
+**The Mapping Process**
 
 As of 2020, we have completed the following mapping process with 20 of the 52 villages.
 
@@ -105,11 +106,11 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 *Export:* The data is exported from Mapeo to GeoJSON, and then uploaded into Mapbox where the design template is stored. Legend and titles are added using illustrator.
 
-*Print:*Draft maps are sent to each village for further editing and verification. Finalized maps are then printed and given to each family in the village.
+*Print:* Draft maps are sent to each village for further editing and verification. Finalized maps are then printed and given to each family in the village.
 
-ADD LINE 
+ADD Line break
 
-![]( "The mapping process begins in a participatory way with paper and markers. ")
+![Parti]( "The mapping process begins in a participatory way with paper and markers. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
