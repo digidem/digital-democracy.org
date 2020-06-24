@@ -110,7 +110,7 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 ADD Line break
 
-![Parti]( "The mapping process begins in a participatory way with paper and markers. ")
+![Participat]( "The mapping process begins in a participatory way with paper and markers. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
@@ -120,7 +120,7 @@ And here are just a few of the over 150 icons they have created over time:
 
 ![An example of some of the many original icons the Waorani created over time. ]()
 
-Working closely on the maps over the past five years, we saw the ways the mapping team constantly negotiated between making maps that reflected & reinforced the way Waorani people see their territory, and awareness of an external audience.
+Working closely on the maps over the past five years, we saw the ways the mapping team constantly negotiated between making maps that reflected & reinforced the way Waorani people see their territory and awareness of an external audience.
 
 One example of this is how to represent water. For anyone who, like me, grew up with Eurocentric maps, we assume that blue is the color for water. And yet our Waorani friends were puzzled by this. There are many rivers in Wao territory. Some are green, brown, even black depending on the rains and the season, but they aren’t blue.
 
@@ -138,11 +138,11 @@ In 2019 the Waorani won the lawsuit when the national court ruled that the Gover
 
 Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
 
- **\    “Technology won’t save our land. We have to save our land.”**                                                                                         — *Opi Nenquimo, director of the Wao Mapping project*
+**“Technology won’t save our land. We have to save our land.”**                                                                                         —*Opi Nenquimo, director of the Wao Mapping project*
 
 The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form a consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships.
 
-INSERT IMAGE OF NIHUA
+![]()
 
 *“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” - Nihua Quimontasi*
 
