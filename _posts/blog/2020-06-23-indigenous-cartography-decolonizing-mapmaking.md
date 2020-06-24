@@ -38,7 +38,7 @@ Why is that?
 
 Something I’ve learned from Indigenous scholars like [Steven Newcomb](http://originalfreenations.com/) is that the erasure of this continent’s Original Peoples didn’t happen accidentally, it was a purposeful policy of European church and state. Critical to this history is learning about the [Doctrine of Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/), which originated in a series of edicts written by popes in the 15th century that proclaimed the concept of “terra nullius,” (or “nobody’s land”) as any territory occupied by non-Christians. This doctrine literally encouraged European powers to go forth & conquer new lands, and to either kill, enslave or convert the non-Christians and take control of their territory. How many of the horrors of history & the injustices of our current moment can be traced in part to this doctrine of Euro-Christian supremacy?
 
-![]()
+![]( "*Pope Alexander VI’s Demarcation Bull, May 4, 1493, (Gilder Lehrman Institute of American History)*")
 
 *Pope Alexander VI’s Demarcation Bull, May 4, 1493, (Gilder Lehrman Institute of American History)*
 
@@ -46,7 +46,7 @@ Pope Nicholas V delivered the first law of the Doctrine of Discovery in 1452 to 
 
 The doctrine was further edified in 1493, when Pope Alexander VI announced to the Spanish crown, upon landing in the Caribbean:
 
-We, by authority of almighty God, give to you forever all islands and mainlands found, to be found, discovered, and to be discovered, towards the west and south, from the Arctic Pole, to the Antarctic Pole, and we appoint you and your heirs Lords of them with full authority and jurisdiction of every kind.
+ We, by authority of almighty God, give to you forever all islands and mainlands found, to be found, discovered, and to be discovered, towards the west and south, from the Arctic Pole, to the Antarctic Pole, and we appoint you and your heirs Lords of them with full authority and jurisdiction of every kind.
 
 The doctrine guided the entire European conquest of the Americas and US law still rests on this framework regarding land rights. Despite its devastating legacy, it has never been annulled.
 
