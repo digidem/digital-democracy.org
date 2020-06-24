@@ -2,7 +2,7 @@
 categories: blog
 title: Indigenous Cartography & Decolonizing Mapmaking
 published: true
-date: 2020-06-30T15:56:39.569Z
+date: 2020-06-24T15:56:39.569Z
 excerpt: What kind of world are we building with our maps? How many of us take
   the time to ask this when we sit down with our tools (whether pen & paper or
   state of the art software) to draw our polygons and lines? And yet to make a
