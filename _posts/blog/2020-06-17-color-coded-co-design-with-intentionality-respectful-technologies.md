@@ -92,6 +92,6 @@ We have come up with some guiding questions to make sure we are building respect
 
 The world of Big Tech tends to get so caught up in a solution-centric narrative of progress, but sometimes we need to slow down. Sometimes analog is actually better. Slowing down is a method to help us ask -- is this even needed? -- with intention. If you're being intentional, you're going to go slow. You're building relationships with folks through deep listening, and listening again. Am I being respectful to my body and other bodies? Am I building a technology that perpetuates extraction or respect? We have created a [workshop and slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vQrxNp2JGCiFMSfcDCl1q2H1u32kpuqG5lCXNnA15pMgq1hZ3dWaNpZXwZ0AFQRWUaSsixVpSD5lX97/pub?start=true&loop=true&delayms=3000&slide=id.g2177c805b0_1_53) that you can use to help put it together.
 
-![](/assets/screen-shot-2020-06-12-at-10.57.36-am.png)
+![](/assets/tech-4-respect.png)
 
 ![](/assets/screen-shot-2020-06-12-at-10.55.25-am.png)
