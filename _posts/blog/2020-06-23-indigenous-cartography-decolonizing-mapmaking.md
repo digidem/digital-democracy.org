@@ -68,11 +68,11 @@ This example challenges our very notion of a map as a two-dimensional object. Wh
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
-![](/assets/0-z8oe4rkodfegrg3f.png "Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.")
+![*Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.*](/assets/0-z8oe4rkodfegrg3f.png "*Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.*")
 
 Although this is a familiar two-dimensional map with green & yellow representing land, and blue representing water, it challenges a basic assumption of European mapmaking by orienting the map towards the east rather than the north, because East (Waabang) is the orientation used in  Ashinaabemowin culture. The compass rose itself is in the form of a medicine wheel, an Indigenous symbol used across the continent to denote the four directions.
 
-“Nayaano-nibiimaang Gichigamiin” means “The Five Freshwater Seas” in Anishinaabemowin. I grew up in the Great Lakes region, in so-called Indiana, and these lakes had a huge imprint on me as a child. And yet as a student in Indianapolis, I barely learned anything about the original inhabitants, or about the Native peoples still living in the region today. But the cultural impact of the Anishinaabe on the region is everywhere, as evidenced by this map, and in the now anglicized names. Mino-akiing (At the Good Land) became Milwaukee, WI.  Odaawaa became Ottawa, Ontario. Gaa-zhigaagowanzhigokaag (At the Place Abundant with Skunk-grass) became Chicago, Illinois.
+“Nayaano-nibiimaang Gichigamiin” means “The Five Freshwater Seas” in Anishinaabemowin (Ojibwe). I grew up in the Great Lakes region, in so-called Indiana, and these lakes had a huge imprint on me as a child. And yet as a student in Indianapolis, I barely learned anything about the original inhabitants, or about the Native peoples still living in the region today. But the cultural impact of the Anishinaabe on the region is everywhere, as evidenced by this map, and in the now anglicized names. Mino-akiing (At the Good Land) became Milwaukee, WI.  Odaawaa became Ottawa, Ontario. Gaa-zhigaagowanzhigokaag (At the Place Abundant with Skunk-grass) became Chicago, Illinois.
 
 #### ***Counter Mapping, Indigenous Voices & Mapping from the Ground Up***
 
