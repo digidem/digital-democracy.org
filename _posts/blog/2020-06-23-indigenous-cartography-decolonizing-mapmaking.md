@@ -124,15 +124,15 @@ Working closely on the maps over the past five years, we saw the ways the mappin
 
 One example of this is how to represent water. For anyone who, like me, grew up with Eurocentric maps, we assume that blue is the color for water. And yet our Waorani friends were puzzled by this. There are many rivers in Wao territory. Some are green, brown, even black depending on the rains and the season, but they aren’t blue. 
 
-In the end, they decided to use blue on the maps to make them more legible to an outside audience, but it was a process that revealed to me just how little I had actually paid attention to the color of rivers before. It’s just one of thousands of examples of how a structure of knowing such as “water is blue” can hold us back from seeing what’s right before our eyes.
+In the end, they decided to use blue on the maps to make them more legible to an outside audience, but it was a process that revealed to me just how little I had actually paid attention to the color of rivers before. It’s just one of the thousands of examples of how a structure of knowing such as “water is blue” can hold us back from seeing what’s right before our eyes.
 
 The maps were first and foremost created for the Waorani people, but from the beginning, the villagers understood that the maps could ultimately be used as a tool to communicate their vision of their land to the outside world. In 2018, this proved invaluable when the Ecuadorian government announced a massive sale of new oil blocks that encompassed over 7 million acres of Ecuadorian rainforest, including Block 22 -- the Western part of Waorani territory where we had been mapping.  
 
-The community decided to launch a legal case against the government to fight the sale, and we helped them publish an [online mapstory ](https://waoresist.amazonfrontlines.org/explore/) showcasing their message for the accompanying campaign. This map told a different story from the government’s green emptiness — one rich with characters and history, one in which every single vibrant acre of the territory in question would be threatened by oil production, from Waorani cultural traditions to the many plants and animals who live on their land.
+The community decided to launch a legal case against the government to fight the sale, and we helped them publish an [online mapstory ](https://waoresist.amazonfrontlines.org/explore/)showcasing their message for the accompanying campaign. This map told a different story from the government’s green emptiness — one rich with characters and history, one in which every single vibrant acre of the territory in question would be threatened by oil production, from Waorani cultural traditions to the many plants and animals who live on their land.
 
 In 2019 the Waorani **won the lawsuit** when the national court ruled that the Government had not carried out adequate consultation before creating the oil blocks, violating the communities’ rights to Free, Prior, and Informed Consent (FPIC). **The oil block was removed and ½ million acres of the Amazon were protected.** The case set a major precedent for indigenous action within Ecuador and across the globe. Read more about this in my colleague Aliya’s account of [the role of the maps in the legal process](https://www.digital-democracy.org/blog/waorani-victory-in-court/).
 
-![](/assets/0-_am93ywhmouc4atu.png)
+![](/assets/0-_am93ywhmouc4atu.png "*Waorani elder Dika, one of the leaders of Kenaweno*")
 
 > *“The map will speak to the world and show the life we want to protect. We can show the map to the neighbors. This is a story that I can show to my grandchildren. Through this, they will know the work I have done.” -- Waorani elder Dika, one of the leaders of Kenaweno.*
 
