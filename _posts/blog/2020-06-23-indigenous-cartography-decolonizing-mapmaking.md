@@ -30,7 +30,7 @@ How many of us take the time to ask this when we sit down with our tools (whethe
 
 The truth is that maps have been used as a tool to enable slavery, genocide, and massive land theft. They were critical to the European conquest of the Americas. While the practice of mapping as indigenous erasure may seem like a relic of the past, the shapes drawn to accommodate eurocentrism have defined the world that we live in today, and maps continue to be used to justify the theft of Indigenous land.
 
-![*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*]( "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*" "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*](/assets/0-gusmwbmgs9rcdjhh.png)
+![*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*]( "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*" "*Map of the Americas, 1606, by Jodocus Hondius, from the archive of the [Oregon Historical Society](https://ohs.org/research-and-library/our-collections/maps.cfm)*](/assets/0-gusmwbmgs9rcdjhh.png "*Map of the Americas (1606) by Jodocus Hondius, from the archive of the Oregon Historical Society.*")
 
 This is a map of the Americas in 1606. I grew up seeing maps like this and used to linger on the monsters in the ocean, with childlike curiosity for a time of beasts. But as I learned more about the world, maps like this one started to shift. The monsters faded into the sea as the land mass came under harsh light. As a current resident of the so-called United States, I live in a hemisphere that has and continues to be populated by incredible civilizations —more than 800 nations and tribes estimated in North America alone, with complex religions, cultures, and societal rules — all living together on this land.
 
@@ -60,11 +60,11 @@ The good news is that there are many examples of hope for a new mapping process 
 
 Let’s begin with a few examples from one of my favorite resources, [The Decolonial Atlas](https://decolonialatlas.wordpress.com). 
 
-The example below challenges our very notion of a map as a two-dimensional object. What about a map that can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters. 
+This example challenges our very notion of a map as a two-dimensional object. What about a map that can fit in a mitten and can be read in the dark, that floats and suffers no damage if dropped in the sea? This is true of the maps of Inuit people in Kalaallit Nunaat (Greenland), who traditionally carve portable maps out of driftwood, which are used for navigating their windy coastal waters. 
 
-![These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. ](/assets/0-gfazbnhacuqmagta.png " Source: Topografisk Atlas Grønland")
+![These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. ](/assets/0-gfazbnhacuqmagta.png " *Source: Topografisk Atlas Grønland*")
 
-*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.”* <https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/>
+*“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” ([Decolonial Atlas](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/))* [](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/)
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
