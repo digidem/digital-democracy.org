@@ -138,19 +138,19 @@ In 2019 the Waorani **won the lawsuit** when the national court ruled that the G
 
 #### ***The Role of Technology in Decolonizing Mapping***
 
-Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation, and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
+Whether we’re aware of it or not, things like the Doctrine of Discovery continue to shape our lives, from our maps to our laws. When maps show territory that is empty, it is easy to buy into the false belief that it is “nobody’s land” and that the government has the right to sell it off. When Indigenous peoples make their own maps that affirm their rich cultural heritage & deep connection to local ecology, it starts to change the equation and helps the rest of us question our own assumptions that have been shaped by Eurocentrism & white supremacy.
 
 > “Technology won’t save our land. We have to save our land.” — Opi Nenquimo, director of the Wao Mapping project
 
 The process of mapping helped the Waorani build an argument for why their land would be threatened by oil. It also laid the groundwork for Waorani from different villages to form consensus to take action against the sale. The collaborative mapping process strengthens shared memory and relationships. 
 
-![*Nihua Quimontasi*](/assets/0-g7n47kczyvjzcvgr.png)
+![*Nihua Quimontasi*](/assets/0-g7n47kczyvjzcvgr.png "*Nihua Quimontasi*")
 
 > *“I remember being a child when the Evangelists came here. Over the past 40 years, they & others have talked to us about maps, but they are from the outside, and bring other people’s ideas about our territory. But I walked for two months to make this map. When we are in meetings with the government ministries, and they show us maps of our land and our communities, I can take out our map and show them how it really is.” -- Nihua Quimontasi*
 
 There are plenty of tools available today that can collect data offline, but very few of them are designed to transform that data into locally empowered data management. This common oversight has normalized a data collection process that is inherently extractive, obfuscating even the best of intentions through assumptions embedded in design, which too often serve an end-user who is far removed from those collecting the data. 
 
-When we started building Mapeo seven years ago, we set out to build a free tool that makes it easy for local communities to collect data offline, and manage that data locally. As an organization, we prioritize [data solidarity ](https://medium.com/technology-solidarity/towards-a-technology-of-solidarity-10-lessons-from-dds-first-10-years-b0d5a3faf623) and [local-first principles](https://www.digital-democracy.org/blog/localfirst/) in the development and assessment of our tools. 
+When we started building Mapeo seven years ago, we set out to build a free tool that makes it easy for local communities to collect data offline, and manage that data locally. As an organization, we prioritize [data solidarity ](https://medium.com/technology-solidarity/towards-a-technology-of-solidarity-10-lessons-from-dds-first-10-years-b0d5a3faf623)and [local-first principles](https://www.digital-democracy.org/blog/localfirst/) in the development and assessment of our tools. 
 
 [Mapeo](https://www.digital-democracy.org/mapeo/) has come a long way since we began working with the first Waorani village of Nemonpare, thanks to their help co-designing the tools & processes. The progression of these tools over time has been directed by the unique needs of local communities that we work with. Today, [Mapeo](https://www.digital-democracy.org/mapeo/) allows users to use both mobile & desktop tools to map baseline territory information, such as sacred sites and rivers, and to track ongoing monitoring information such as oil spills and illegal logging.
 
