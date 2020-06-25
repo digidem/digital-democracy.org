@@ -82,7 +82,7 @@ In contrast to colonial mapping, there have been efforts for decades to displace
 
 The Waorani are an Indigenous people who live in the east of the Ecuadorian Amazon. They have lived on their territory for thousands of years and have effectively fought against different waves of invasion, from the Inca to the Spanish conquistadores, from rubber plantations to American missionaries and oil developments. Even as Waorani people have increasingly interacted with the outside world in recent years, they maintain ongoing customary practices and connection to their territory. 
 
-![*Basemap of Waorani Ancestral Territory*](/assets/0-z8oe4rkodfegrg3f.png "*Basemap of Waorani Ancestral Territory*")
+![*Basemap of Waorani Ancestral Territory*](/assets/0-bcfbqusdtz8sdykt.png "*Basemap of Waorani Ancestral Territory*")
 
 This map shows the territorial boundaries of the Waorani people. Unmarked are the laws influenced by the doctrine of discovery that grant the Waorani people title to the land but deny them rights to subsoil resources, such as oil and minerals, dividing up what is for the Waorani an integrated and indivisible territory.
 
@@ -110,7 +110,7 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 - - -
 
-![The participatory mapping process. ](/assets/0-bcfbqusdtz8sdykt.png)
+![The participatory mapping process. ](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
