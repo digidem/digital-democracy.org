@@ -68,7 +68,7 @@ This example challenges our very notion of a map as a two-dimensional object. Wh
 
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
-![](/assets/0-z8oe4rkodfegrg3f.png)
+![](/assets/0-z8oe4rkodfegrg3f.png "Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.")
 
 Although this is a familiar two-dimensional map with green & yellow representing land, and blue representing water, it challenges a basic assumption of European mapmaking by orienting the map towards the east rather than the north, because East (Waabang) is the orientation used in  Ashinaabemowin culture. The compass rose itself is in the form of a medicine wheel, an Indigenous symbol used across the continent to denote the four directions.
 
