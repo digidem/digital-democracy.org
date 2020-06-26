@@ -123,103 +123,15 @@ What we’re doing is not about limiting them to a set standard, it's about givi
 
 **Dinesh:** Our collective has a community radio van, with a solar roof and WiFi, it can go everywhere. This van has a studio in it where people can cut, edit, and publish the stories. When the van comes back to the community, it synchronizes. These are initially in a “raw” bucket and then moved to curated buckets to be picked up by anyone. If you record something in your Pi, it syncs whenever it connects to the network. 
 
-![alt_text](images/image8.jpg "image_tooltip")
+![](/assets/dinesh8.jpeg "*Community Radio activity center and camp setup (Source: [jaaga.in](http://www.jaaga.in/), Bengaluru)*")
 
 *Community Radio activity center and camp setup (Source: [jaaga.in](http://www.jaaga.in/), Bengaluru)*
 
 We do automatic sync so people realize they are not alone in this. They realize there are other people that will help with the re-annotations. In the radio editing studio, it’s a more powerful Pi, some box that is a little more powerful. Whatever comes out of this box is published and shareable. Otherwise, it's private. We don't share names other than what's coming out of the audio.
 
-![alt_text](images/image9.png "image_tooltip")
+![](/assets/dinesh9.png "*Papad --  http://papad.pantoto.org/*")
 
-*Papad http://papad.pantoto.org/*
-
-We ask the community to contribute and suggest tags for the audio files. There are lots of pieces like this, just scratching the surface of what we are doing. Most of all, it's about using the non-typical approach. We don't insist on web forms, for example. It's contributed metadata, it's not self-proclaimed metadata, added after the fact by many people.
-
-If they do that, they become something, and get an understanding of how the world works. If something isn't handed down, they can change the world. 
-
-**Learn more:** 
-
-Re-narration Web: <http://a11y.in>
-
-IruWay Farm: <https://iruway.janastu.org/>
-
-<http://wiki.janastu.org>
-
-[http://j.mp/janastu-mesh](http://wiki.janastu.org)
-
-[https://crafts.janastu.org](http://wiki.janastu.org)
-
-[http://followsheep.pantoto.org/](http://wiki.janastu.org)p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image6.jpg "image_tooltip")
-
-*A solar panel with an omni antenna serves as an 24/7 online media server for the wifi-mesh based community radio activity in a rural and remote context*
-
-**Karissa** 
-
-**What is a concrete example of local knowledge gathering and its impact?**
-
-**Dinesh** 
-
-We helped create a document about the Raika bio-cultural protocol (BCP). This village is tending to their camels with an 1000 year old protocol for living with animals and taking care of them. When there is a top-down law, someone will say, “they don’t know what they're doing.. we need to tell them.” To those at the top, if it's not written down, it doesn't exist. They think that the local community is destroying the environment.
-
-This “BCP” work focuses on making written legal documents with the community so that the people at the top, like policy makers, can read about their protocol. Because the document we create is for those at the top, it is written in English. So the document also needs to be profusely re-narrated in different ways so the community can understand them.
-
-Different people contribute to the whole document. You can also add audio per paragraph, and see the translation. The software keeps a connection to the original so that you can have that authenticity, even if it's different and not about translation, about re-narration, it has a backlink to the original. This is one way to address the huge question of how to tell a new story from an existing one.
-
-We are trying to use it as the new standard to do all the annotations. Every edit and re-narration is authored and attributed to the people who contributed. 
-
-**Karissa**
-
-What is the tension between the global Internet and what's accessible locally?
-
-**Dinesh**
-
-People want to use WhatsApp, it's a natural ambient technology. We are not competing with WhatsApp. What we are doing is likely not going to be taken over by any of these big companies. Publishing locally, to the people next to you, is not what these companies are interested in doing. If you talk to a neighbor, the whole narrative is so different.
-
-For example, if you make a computer game with your village, you're not going to get a gun and shoot all your neighbors. You see this everywhere -- as soon as I am anonymous, I can use bad words to harm someone I don't know, loud and clear. This relates to everything on the Internet, even the online harassment of women. Where does it come from? Disconnection? The thrill?
-
-This is why logging in and authentication becomes so important for these larger internet companies. When you go to the village, it's the last thing you need, or rather, you can't even do it. Logging in without internet connectivity just to authenticate somebody, but why? 
-
-**Karissa**
-
-**Yes, the concept of ‘authentication’ and ‘anonymity’ does change so drastically when you’re from a small community where everyone knows everyone else. It also seems like you’re engaging in an educational practice, teaching journalism and technology.**
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image7.jpg "image_tooltip")
-
-*Students at rural public school working together and listening to a podcast on the mesh*
-
-**Dinesh**
-
-To be honest, it's more educational than their experience at school and very validating. The syllabi for their typical education is set in the capital of the state and pushed down to every village without any contextual knowledge, so that the state has a common metric for who knows addition, multiplication, etc.
-
-They want to know that people have actually learned this.  If the schools teach a more flexible, contextual syllabus, they can't test them. It’s all very puzzling. 
-
-What we’re doing is not about limiting them to a set standard, it's about giving them access and opening them up. 
-
-**Karissa**
-
-**Do they share their stories between communities?**
-
-**Dinesh**
-
-Our collective has a community radio van, with a solar roof and WiFi, it can go everywhere. This van has a studio in it where people can cut, edit, and publish the stories. When the van comes back to the community, it synchronizes. These are initially in a “raw” bucket and then moved to curated buckets to be picked up by anyone. If you record something in your Pi, it syncs whenever it connects to the network. 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image8.jpg "image_tooltip")
-
-*Community Radio activity center and camp setup (Source: [jaaga.in](http://www.jaaga.in/), Bengaluru)*
-
-We do automatic sync so people realize they are not alone in this. They realize there are other people that will help with the re-annotations. In the radio editing studio, it’s a more powerful Pi, some box that is a little more powerful. Whatever comes out of this box is published and shareable. Otherwise, it's private. We don't share names other than what's coming out of the audio.
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image9.png "image_tooltip")
-
-*Papad http://papad.pantoto.org/*
+*Papad --  http://papad.pantoto.org/*
 
 We ask the community to contribute and suggest tags for the audio files. There are lots of pieces like this, just scratching the surface of what we are doing. Most of all, it's about using the non-typical approach. We don't insist on web forms, for example. It's contributed metadata, it's not self-proclaimed metadata, added after the fact by many people.
 
