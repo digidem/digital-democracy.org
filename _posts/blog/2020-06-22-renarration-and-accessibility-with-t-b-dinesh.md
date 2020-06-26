@@ -105,9 +105,9 @@ She just hits a button and starts talking, she doesn’t need to print, put it o
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image1.jpg "image_tooltip")
+![](images/image1.jpg "*A media making kiosk-studio includes a microphone and a monitor.*")
 
-*A media making kiosk-studio includes a microphone, monitor etc*
+*A media making kiosk-studio includes a microphone and a monitor.* 
 
 The caste system is based on enslaving a large number of people as sacred knowledge propagators. These propagators were forced to memorize the “Word of God”, and regurgitate it in another space and time. The Brahmins came up with many creative systems to preserve knowledge that relies upon millions of people, generations upon generations, just so something could be orally replicated with precision. 
 
@@ -115,17 +115,13 @@ When you look at the axis at any rural school, of 100 children studying, only 5-
 
 They want a way to validate themselves by just talking rather than feeling like they are lesser beings by not knowing how to read and write. I’m not saying they shouldn’t be taught, but to require it invalidates a person, and it’s time to change that. 
 
-**Karissa** 
+**Karissa: In typical software development practice based in Europe/US, literacy isn’t really thought of as a key component of accessibility. Cell phones are designed for people who are literate.**
 
-**In typical software development practice based in Europe/US, literacy isn’t really thought of as a key component of accessibility. Cell phones are designed for people who are literate.**
+**Dinesh:** We looked at the web accessibility guidelines, and all of them expect you to be similarly educated--even if you are blind. If you have eyes but cannot read, there is no web accessibility standard that can be used as a guide. Now if 70-80% of your country is illiterate, this is a problem. Most of these guidelines are made by Western people. Most of the research is coming from the west. They focus on localization (translation), but accessibility needs to go beyond that.
 
-**Dinesh**
+For us, accessibility means something different. It means a social semantic web. By social we mean that people contribute towards accessibility needs. By semantic I mean the first paragraph can be retold by someone else--while keeping the abstract intent of the content--for another audience. The second can be retold to another's needs, and so on, establishing relations between the original and the retold parts using attributes such as the target language, identifier tags or a target community context. This network can go as big as you want, every document can be elaborated and connected.
 
-We looked at the web accessibility guidelines, and all of them expect you to be similarly educated--even if you are blind. If you have eyes but cannot read, there is no web accessibility standard that can be used as a guide. Now if 70-80% of your country is illiterate, this is a problem. Most of these guidelines are made by Western people. Most of the research is coming from the west. They focus on localization (translation), but accessibility needs to go beyond that.
-
-For us accessibility means something different. It means a social semantic web. By social we mean that people contribute towards accessibility needs. By semantic I mean the first paragraph can be retold by someone else--while keeping the abstract intent of the content--for another audience. The second can be retold to another's needs, and so on, establishing relations between the original and the retold parts using attributes such as the target language, identifier tags or a target community context. This network can go as big as you want, every document can be elaborated and connected.
-
-So if it's a text heavy document, how do you make it accessible to people who can’t read? We call this _[Renarration (Sweet Web).](http://wiki.janastu.org/wiki/Sweet_Web) _The web documents should have the kind of structural framework that facilitates alternate narrations.  That's how we started this work -- can I take a text document from your blog, take it to my village and make it a visual story for them? What are the actions that I need to take? What do I highlight?
+So if it's a text-heavy document, how do you make it accessible to people who can’t read? We call this _[Renarration (Sweet Web).](http://wiki.janastu.org/wiki/Sweet_Web) _The web documents should have the kind of structural framework that facilitates alternate narrations.  That's how we started this work -- can I take a text document from your blog, take it to my village and make it a visual story for them? What are the actions that I need to take? What do I highlight?
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
