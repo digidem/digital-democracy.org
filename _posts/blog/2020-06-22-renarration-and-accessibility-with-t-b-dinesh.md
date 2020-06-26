@@ -57,8 +57,6 @@ So if it's a text-heavy document, how do you make it accessible to people who ca
 
 ![](/assets/dinesh2.png)
 
-*Alipi.us*
-
 So we work with a web annotation framework. Annotations are another layer over the web. We don't assume anything is automatic in this process. But this doesn't take a lot of time. it doesn't need to be an all or nothing task - typically, it’s more likely that someone provides an alternative narrative that is suitable for the person they want to share the document with.  
 
 For example, the [minimum wage act](http://wiki.janastu.org/wiki/ReNarrationAct) that we've worked on -- many people who need it probably can't read it. A simplified English version of the act was published 30 years later, but otherwise,  it's in legal language. The easy to read version helps the local Indian NGOs understand it. They need a simplified version in order to explain it to their stakeholders - ie., what the act is about, and to provide a general understanding of what minimum wages mean.
