@@ -103,9 +103,7 @@ She just hits a button and starts talking, she doesn’t need to print, put it o
 
 [Listen to stories from Namma School Radio](https://www.namdu1radio.com/). 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![](images/image1.jpg "*A media making kiosk-studio includes a microphone and a monitor.*")
+![](/assets/dinesh1.jpg "*A media making kiosk-studio includes a microphone and a monitor.*")
 
 *A media making kiosk-studio includes a microphone and a monitor.* 
 
