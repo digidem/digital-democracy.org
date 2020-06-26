@@ -112,9 +112,27 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 ![The participatory mapping process. ](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
 
+
+
+
+
+
+
+
+
+
+
+
+
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
 ![](/assets/0-n18m3zwhj0zjltlv.png)
+
+
+
+
+
+
 
 And here are just a few of the over 150  icons they have created over time:  
 
