@@ -129,13 +129,13 @@ So if it's a text heavy document, how do you make it accessible to people who ca
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image2.png "image_tooltip")
+![](images/image2.png "*Alipi.us*")
 
 *Alipi.us*
 
 So we work with a web annotation framework. Annotations are another layer over the web. We don't assume anything is automatic in this process. But this doesn't take a lot of time. it doesn't need to be an all or nothing task - typically, it’s more likely that someone provides an alternative narrative that is suitable for the person they want to share the document with.  
 
-For example, the [minimum wage act](http://wiki.janastu.org/wiki/ReNarrationAct) that we've worked on -- many people who need it probably can't read it. A simplified english version of the act was published 30 years later, but otherwise,  it's in legal language. The easy to read version helps the local Indian NGOs understand it. They need a simplified version in order to explain it to their stakeholders - ie., what the act is about, and to provide a general understanding of what minimum wages mean.
+For example, the [minimum wage act](http://wiki.janastu.org/wiki/ReNarrationAct) that we've worked on -- many people who need it probably can't read it. A simplified English version of the act was published 30 years later, but otherwise,  it's in legal language. The easy to read version helps the local Indian NGOs understand it. They need a simplified version in order to explain it to their stakeholders - ie., what the act is about, and to provide a general understanding of what minimum wages mean.
 
 **Karissa: What led you to start working on local knowledge?**
 
