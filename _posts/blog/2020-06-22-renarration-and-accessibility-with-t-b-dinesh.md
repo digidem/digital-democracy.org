@@ -137,21 +137,15 @@ So we work with a web annotation framework. Annotations are another layer over t
 
 For example, the [minimum wage act](http://wiki.janastu.org/wiki/ReNarrationAct) that we've worked on -- many people who need it probably can't read it. A simplified english version of the act was published 30 years later, but otherwise,  it's in legal language. The easy to read version helps the local Indian NGOs understand it. They need a simplified version in order to explain it to their stakeholders - ie., what the act is about, and to provide a general understanding of what minimum wages mean.
 
-**Karissa** 
+**Karissa: What led you to start working on local knowledge?**
 
-**What led you to start working on local knowledge?**
-
-**Dinesh**
-
-We started trying to make  it easy for NGOs to manage the community knowledge they assimilate when we worked on a platform called Pantoto - communities managing community knowledge. Most of the NGOs we were working with were afraid that their work would get stolen. We tried to explain that if they put their work out on the Web, a reader would be able to look it up and know that it was originally published by them and thus realise if someone was misappropriating their content. For original content, it matters that you put it out there, publish it. 
+**Dinesh:** We started trying to make it easy for NGOs to manage the community knowledge they assimilate when we worked on a platform called Pantoto - communities managing community knowledge. Most of the NGOs we were working with were afraid that their work would get stolen. We tried to explain that if they put their work out on the Web, a reader would be able to look it up and know that it was originally published by them and thus realise if someone was misappropriating their content. For original content, it matters that you put it out there, publish it. 
 
 As we were working with smaller groups in different villages, we started to focus on content accessibility issues for their specific needs.
 
 Now, after almost a decade, our work is an attempt to address aspects of accessibility completely from the ground-up, starting with low-literate communities who find it impossible to publish on the Web. We build these Raspberry Pi based audio recorders and leave them in a village craft center. They can record messages to the community, and to the other groups that have access to the Pis. It’s a community mesh-radio. It’s important that no one needs to be a coder or even literate to publish or manage their data.
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image3.png "image_tooltip")
+![](/assets/dinesh3.png "*[Craft Cluster](https://crafts.janastu.org/), Durgadahalli, Tumkur Dist. 2018*")
 
 *[Craft Cluster](https://crafts.janastu.org/), Durgadahalli, Tumkur Dist. 2018*
 
