@@ -83,17 +83,13 @@ In the radio studios under lock and key, we don't depend on the internet. We are
 
 ![alt_text](images/image5.jpg "image_tooltip")
 
-T B Dinesh is a community media activist with a background in Computer Science. The recent focus of his work is on storytelling methods and encouraging people from marginalised communities to tell their own stories and document their ways of life. T B Dinesh is a founder of Janastu in Bangalore, India. [Janastu](https://www.janastu.org/home/index.html#/about-us) is a non-profit that has been providing free and open source software solutions and support to small not-for-profit and non-governmental organizations (NPOs/NGOs) since 2002. 
+*T B Dinesh is a community media activist with a background in Computer Science. The recent focus of his work is on storytelling methods and encouraging people from marginalised communities to tell their own stories and document their ways of life. T B Dinesh is a founder of Janastu in Bangalore, India. [Janastu](https://www.janastu.org/home/index.html#/about-us) is a non-profit that has been providing free and open source software solutions and support to small not-for-profit and non-governmental organizations (NPOs/NGOs) since 2002.* 
 
-The following is a shortened transcript of a conversation we had in the spring. 
+*The following is a shortened transcript of a conversation we had in the spring.* 
 
-**Karissa** 
+**Karissa: What are you working on these days?**
 
-**What are you working on these days?**
-
-**Dinesh**
-
-Our big slow-moving project is focused on local knowledge and local Wi-Fi mesh networks in rural and remote areas in India. 60-70% of India is illiterate -- for all practical purposes, they cannot read or write -- which describes most of the population.
+**Dinesh:** Our big slow-moving project is focused on local knowledge and local Wi-Fi mesh networks in rural and remote areas in India. 60-70% of India is illiterate -- for all practical purposes, they cannot read or write -- which describes most of the population.
 
 We’re focused on how to make local knowledge tools that do not expect any kind of literacy. We are building an audio internet where most of the publications are audio/video, stories and visuals. The term ‘hypermedia’ means linking one piece of knowledge to another, like HTML does. We are taking this concept and doing it with audio/visual. 
 
