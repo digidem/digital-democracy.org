@@ -135,7 +135,7 @@ We do automatic sync so people realize they are not alone in this. They realize 
 
 We ask the community to contribute and suggest tags for the audio files. There are lots of pieces like this, just scratching the surface of what we are doing. Most of all, it's about using the non-typical approach. We don't insist on web forms, for example. It's contributed metadata, it's not self-proclaimed metadata, added after the fact by many people.
 
-If they do that, they become something, and get an understanding of how the world works. If something isn't handed down, they can change the world. 
+If they do that, they become something and get an understanding of how the world works. If nothing is handed down, they can't change the world. 
 
 **Learn more:** 
 
