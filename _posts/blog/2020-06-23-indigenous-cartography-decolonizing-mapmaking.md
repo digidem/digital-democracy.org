@@ -3,14 +3,12 @@ categories: blog
 title: Indigenous Cartography & Decolonizing Mapmaking
 published: true
 date: 2020-06-24T15:56:39.569Z
-excerpt: What kind of world are we building with our maps? How many of us take
+excerpt: "What kind of world are we building with our maps? How many of us take
   the time to ask this when we sit down with our tools (whether pen & paper or
   state of the art software) to draw our polygons and lines? And yet to make a
   map — and publish it, or define a congressional district with it, or profile
   where protests for Black Lives Matter are happening — is an act that affects
-  the world. With our maps, we can reify old biases, or we can open people’s
-  hearts. We can further entrench corrupt power systems, or we can call for a
-  more just future.
+  the world. "
 author: Emily Jacobi
 image: /assets/achuar-map-excerpt.jpg
 tags:
@@ -110,7 +108,7 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 - - -
 
-![The participatory mapping process. ](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
+![](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
