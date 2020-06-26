@@ -33,6 +33,14 @@ She just hits a button and starts talking, she doesn’t need to print, put it o
 
 *A media making kiosk-studio, including a microphone and monitor.* 
 
+
+
+
+
+
+
+
+
 The caste system is based on enslaving a large number of people as sacred knowledge propagators. These propagators were forced to memorize the “Word of God”, and regurgitate it in another space and time. The Brahmins came up with many creative systems to preserve knowledge that relies upon millions of people, generations upon generations, just so something could be orally replicated with precision. 
 
 When you look at the axis at any rural school, of 100 children studying, only 5-10 will be able to read and write, go to town, and get a basic job as an errand boy or cleaner. Most others will experience an invalidation of the self, as a typical school curriculum can only validate one who is comfortably literate.
