@@ -94,4 +94,4 @@ The world of Big Tech tends to get so caught up in a solution-centric narrative 
 
 ![](/assets/tech-4-respect.png)
 
-![](/assets/screen-shot-2020-06-12-at-10.55.25-am.png)
+![]()
