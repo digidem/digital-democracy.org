@@ -66,6 +66,10 @@ This example challenges our very notion of a map as a two-dimensional object. Wh
 
 *“These three wooden maps show the journey from Sermiligaaq to Kangertittivatsiaq, on Greenland’s East Coast. The map to the right shows the islands along the coast, while the map in the middle shows the mainland and is read from one side of the block around to the other. The map to the left shows the peninsula between the Sermiligaaq and Kangertivartikajik fjords.” ([Decolonial Atlas](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/))* [](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/)
 
+
+
+
+
 Another example from the Decolonial Atlas challenges how we orient our maps. Do you recognize these bodies of water?
 
 ![*Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.*](/assets/0-z8oe4rkodfegrg3f.png "*Nayanno-nibiimaang Gichigamiin (The Great Lakes) in Anishinaabemowin (Ojibwe), by Charles Lippert and Jordan Engel.*")
@@ -110,29 +114,11 @@ As of 2020, we have completed the following mapping process with 20 of the 52 vi
 
 - - -
 
-![The participatory mapping process. ](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/0-bdgq4rkdlkl-9qwy.png "The participatory mapping process. ")
 
 Here is a detail from one of the first maps created during the process, from the village of Nemonpare:
 
 ![](/assets/0-n18m3zwhj0zjltlv.png)
-
-
-
-
-
-
 
 And here are just a few of the over 150  icons they have created over time:  
 
