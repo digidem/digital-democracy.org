@@ -4,9 +4,8 @@ title: "Renarration and Accessiblity: T B Dinesh on Localized Knowledge in Rural
   India"
 published: true
 date: 2020-06-22T21:21:39.565Z
-excerpt: Dinesh is a community media activist and the recent focus of his work
-  is on storytelling methods and encouraging people from marginalised
-  communities to tell their own stories and document their ways of life.
+excerpt: Dinesh is a community media activist who focuses on on storytelling
+  methods and local documentation in marginalised communities.
 author: Karissa McKelvey
 image: /assets/dinesh3.png
 tags:
