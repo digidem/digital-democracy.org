@@ -1,6 +1,7 @@
 ---
 categories: blog
-title: Renarration and accessibility, with T B Dinesh
+title: "Renarration and Accessiblity: T B Dinesh on Localized Knowledge in Rural
+  India"
 published: true
 date: 2020-06-22T21:21:39.565Z
 excerpt: Dinesh is a community media activist and the recent focus of his work
