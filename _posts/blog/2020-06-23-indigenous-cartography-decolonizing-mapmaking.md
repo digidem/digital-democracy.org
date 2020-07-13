@@ -10,7 +10,7 @@ excerpt: "What kind of world are we building with our maps? How many of us take
   where protests for Black Lives Matter are happening — is an act that affects
   the world. "
 author: Emily Jacobi
-image: /assets/achuar-map-excerpt.jpg
+image: /assets/0-_am93ywhmouc4atu.png
 tags:
   - featured
 ---
