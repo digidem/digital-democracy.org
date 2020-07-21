@@ -2,10 +2,10 @@
 layout: job
 title: Front-end Developer
 published: true
-excerpt: "We’re looking for a front-end developer with 5+ years of experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible."
+excerpt: "We’re looking for a front-end developer with 5+ years developer experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible."
 ---
 Digital Democracy is looking for a front-end developer with 5+ years of
-experience to join our small, remote team on a 6-month contract (with
+developer experience to join our small, remote team on a 6-month contract (with
 potential long-term) starting as soon as possible. You will help build
 cutting-edge open-source mobile and desktop mapping apps for remote and
 marginalized communities to document, map, monitor, manage and report
