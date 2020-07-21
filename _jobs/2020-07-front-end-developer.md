@@ -1,6 +1,6 @@
 ---
 layout: job
-title: UX Designer
+title: Front-end Developer
 published: true
 excerpt: "We’re looking for a front-end developer with 5+ years of experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible."
 ---
