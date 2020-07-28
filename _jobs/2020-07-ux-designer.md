@@ -126,9 +126,8 @@ when best fits your schedule.
 
 ## How to Apply
 
-Send a note with the following to
+Send a note with the following by **9am UTC August 10th** to
 [jobs@digital-democracy.org](mailto:jobs@digital-democracy.org).
-We will review applications as we receive them.
 
 - Why you're interested in developing tools at Digital Democracy.
 
