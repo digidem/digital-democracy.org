@@ -2,7 +2,7 @@
 categories: blog
 title: "Mapeo Version 5"
 published: true
-date: 2020-07-29T18:48:20.517Z
+date: 2020-07-29T13:48:20.517Z
 excerpt:  Designed for communities and groups to collaborate on mapping, monitoring, and documentation projects, MAPEO works entirely offline and communities retain control of their information.
 author: Karissa McKelvey
 image: /assets/eca_case_study_hero.jpg
@@ -40,9 +40,14 @@ that we continue to document as possible new features. We forge on, continuing
 MAPEO development and looking forward to realizing innovations that have impact
 where it is needed most. 
 
-You can download the latest MAPEO read the user guide at
-[https://mapeo.app](https://www.digital-democracy.org/mapeo/). Mapeo Mobile is
-available on [the Android Google Play
+We've also spent time creating more resources in our [public user
+guide](https://docs.mapeo.app/) to make it easier to get started using MAPEO.
+Anyone can suggest edits to the guide, including the ecosystem of organizations
+and individuals that contribute to MAPEO's usability in a multitude of contexts. 
+
+You can download the latest MAPEO at 
+[https://mapeo.app](https://www.digital-democracy.org/mapeo/). MAPEO for
+Android is available on the [Google Play
 store](https://play.google.com/store/apps/details?id=com.mapeo&hl=en_US). If
 you don't have access to the play store, you can also install MAPEO manually by
 downloading the [Android
