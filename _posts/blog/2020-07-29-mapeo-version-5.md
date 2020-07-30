@@ -5,7 +5,7 @@ published: true
 date: 2020-07-29T13:48:20.517Z
 excerpt:  Designed for communities and groups to collaborate on mapping, monitoring, and documentation projects, MAPEO works entirely offline and communities retain control of their information.
 author: Karissa McKelvey
-image: /assets/md-obs.jpg
+image: /assets/md-obs.png
 tags:
   - featured
   - front-page
