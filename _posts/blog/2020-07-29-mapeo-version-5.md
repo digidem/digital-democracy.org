@@ -5,7 +5,7 @@ published: true
 date: 2020-07-29T13:48:20.517Z
 excerpt:  Designed for communities and groups to collaborate on mapping, monitoring, and documentation projects, MAPEO works entirely offline and communities retain control of their information.
 author: Karissa McKelvey
-image: /assets/eca_case_study_hero.jpg
+image: /assets/md-obs.jpg
 tags:
   - featured
   - front-page
@@ -34,6 +34,8 @@ monitoring projects and amplify community engagement in their activities. The
 new configuration loader in MAPEO mobile is an example of a feature that we
 prioritized to meet partner needs and solve the challenge of adding users to
 a project when members of the Dd team are not there.
+
+![](/assets/mm-config-loader.png "*Configuration loader in Mapeo Mobile*")
 
 MAPEO users are definitely inspired by using the tools and have amazing ideas
 that we continue to document as possible new features. We forge on, continuing
