@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: "Mapeo Version 5"
+title: "One year of co-design"
 published: true
 date: 2020-07-29T13:48:20.517Z
 excerpt:  Designed for communities and groups to collaborate on mapping, monitoring, and documentation projects, MAPEO works entirely offline and communities retain control of their information.
