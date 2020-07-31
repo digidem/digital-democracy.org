@@ -44,17 +44,19 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 ## Funding Partners
 
-[Abundance Foundation](http://www.abundance.org/empowerment/dd/)
-
-[Channel Foundation](http://www.channelfoundation.org/dd.html)
-
 [Dutch Postcode Lottery](https://www.postcodeloterij.nl)
 
 [Hivos Foundation](https://latin-america.hivos.org/)
 
-[Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
+[Earth Alliance](https://ealliance.org/)
 
-[Leonardo DiCaprio Foundation](http://leonardodicaprio.org/)
+[One Earth Initiative](https://www.oneearth.org/)
+
+[McGovern Foundation](https://www.mcgovern.org/)
+
+[Samsung NEXT](https://samsungnext.com/)
+
+[Open Society Foundations](https://www.opensocietyfoundations.org/)
 
 ## International Partners
 
@@ -78,7 +80,7 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 ## Tech Partners & Communities of Support
 
-[Dat Project](https://datproject.org)
+[The Dat Community](https://dat.foundation)
 
 [Global Forest Watch](http://www.globalforestwatch.org/)
 
@@ -91,3 +93,16 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 [Transparency and Accountability Initiative](http://www.transparency-initiative.org/)
 
 [Witness](https://witness.org)
+
+[Simply Secure](https://simplysecure.org)
+
+## Previous Funding Partners
+
+[Abundance Foundation](http://www.abundance.org/empowerment/dd/)
+
+[Channel Foundation](http://www.channelfoundation.org/dd.html)
+
+[Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
+
+[Leonardo DiCaprio Foundation](http://leonardodicaprio.org/)
+
