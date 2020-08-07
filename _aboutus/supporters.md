@@ -58,6 +58,8 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 [Open Society Foundations](https://www.opensocietyfoundations.org/)
 
+[Good Energies](https://www.goodenergies.org/)
+
 ## International Partners
 
 [Amazon Frontlines](https://www.amazonfrontlines.org/)
@@ -95,14 +97,4 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 [Witness](https://witness.org)
 
 [Simply Secure](https://simplysecure.org)
-
-## Previous Funding Partners
-
-[Abundance Foundation](http://www.abundance.org/empowerment/dd/)
-
-[Channel Foundation](http://www.channelfoundation.org/dd.html)
-
-[Knight Foundation](http://www.knightfoundation.org/grants/20123670/)
-
-[Leonardo DiCaprio Foundation](http://leonardodicaprio.org/)
 
