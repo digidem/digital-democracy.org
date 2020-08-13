@@ -139,11 +139,10 @@ want to know about what makes you stand out.
 
 ## How to apply
 
-Send a note with the following by 9am UTC, August 10th*, to
+Send a note with the following by 9am UTC, August 17th (or earlier!), to
 [jobs+edt@digital-democracy.org](mailto:jobs+edt@digital-democracy.org) If we
 are interested in talking further we will get in touch with you by August 20th.
-Interviews will be scheduled for the week of August 24th. 
-(*Updated deadline due to high volume of applicants.)
+Interviews will be scheduled for the week of August 24th.
 
 - Why you’re interested in this role and working with Digital
 Democracy
