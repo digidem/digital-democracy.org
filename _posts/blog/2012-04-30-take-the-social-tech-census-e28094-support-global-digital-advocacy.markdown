@@ -5,7 +5,7 @@ title: Take the Social Tech Census — Support Global Digital Advocacy
 wordpress_id: 3817
 categories:
 - blog
-image: http://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg
+image: https://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg
 ---
 Our partners at the Engine Room are working to coordinate and streamline digital activism and advocacy around the globe. Participation is the key to doing that successfully. They need your input. Please take the Social Tech Census here and check out the blog post below from their Susannah Villa to learn more.  
 ***
@@ -29,7 +29,7 @@ From the Arab Spring to Occupy, the events of 2011 highlighted the potential of 
 This isn’t happening as much as it could. Why? I think it’s because of a few big challenges facing the field of support for digital advocates. First, there’s a lack of information from the ground about what is actually needed. Second, trainers are too often flown in from thousands of miles away for a few days of workshopping with no incentive to remain in contact with the advocates they trained. Third, remote training resources (like guides) often sit on the web without reaching those who might be able to benefit from them.
 
 
-![image](http://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg)
+![image](https://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg)
 
 
 Part of why we founded the [engine room](http://theengineroom.org/) was to address these challenges. Our first project, the [Social Tech Census](https://www.theengineroom.org/?page_id=2331), aims to map the best resources for integrating digital media into advocacy work in order to inform the work of the communities of practice that we work with: advocates, support organizations and technologists.  The Census is an important foundational step for us and (if all goes according to plan) will also be a useful tool for [our partners](https://www.theengineroom.org/?page_id=1518/).
@@ -79,7 +79,7 @@ Susannah used to run outreach and training content for Movements.org, where she
 Image from infographic on IHub Nairobi ([startupafrica.com](http://startupafrica.com/))
 
 
- [1]: http://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg "Engine Room Data Map"
+ [1]: https://farm9.staticflickr.com/8144/6970630292_d7c2a458a0_o.jpg "Engine Room Data Map"
  [2]: http://theengineroom.org/ "engine room website"
  [3]: https://www.theengineroom.org/?page_id=2331
  [4]: https://www.theengineroom.org/?page_id=1518/

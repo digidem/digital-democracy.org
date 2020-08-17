@@ -8,4 +8,4 @@ categories:
 - archive
 ---
 
-Tune in at 7:30 PM EST by following our [liveblogging on Twitter](http://twitter.com/digidem), seeing our [presentation](http://www.slideshare.net/mbelinsky/subversive-technology-burmas-struggle-for-democracy) -  and/or to watch the [streaming live](http://www.mogulus.com/notanalternative).
+Tune in at 7:30 PM EST by following our [liveblogging on Twitter](http://twitter.com/digidem), seeing our [presentation](https://www.slideshare.net/mbelinsky/subversive-technology-burmas-struggle-for-democracy) -  and/or to watch the [streaming live](http://www.mogulus.com/notanalternative).

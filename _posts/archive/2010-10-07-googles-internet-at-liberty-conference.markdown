@@ -6,7 +6,7 @@ title: Google's Internet at Liberty Conference
 wordpress_id: 2248
 categories:
 - archive
-image: http://farm5.static.flickr.com/4144/5059949241_8c5a509cdf.jpg
+image: https://farm5.static.flickr.com/4144/5059949241_8c5a509cdf.jpg
 ---
 
 If you were to Google "Internet", "freedom", "security", "privacy","blog" and pull together the people and organizations that make up the top hits of the search, you would have the [Internet at Liberty Conference](http://www.cmcs.ceu.hu/news/conference-internet-liberty-2010), hosted by Google on September 20-22 in Budapest. A venerablewho's whoof people involved in the worldwide discussion surrounding Internet freedom, this conference was an amazing opportunity to catch up with some of my favorite people who are fighting for the rights of humanity online, to hear updates from the internet governance forum that occurred the week before, and for strategizing new and innovative projects.
@@ -15,7 +15,7 @@ The themes of the conference centered around how the internet can be used to adv
 
 The Chatham House Rule was enacted at the Conference, meaning that no one could be photographed or quoted without permission. I appreciate that Google made this simple but important gesture, given that many people were endangering their own lives to attend this conference and to be a part of these conversations. I'm often upset with the lack of caution taken when people take photos of friends who are dissidents in foreign countries. It's frightening what a little social network analysis can reveal for interested authorities. And it's a tool that is becoming less and less complicated and out of reach for some of the World's most repressive regimes.
 
-![image](http://farm5.static.flickr.com/4144/5059949241_8c5a509cdf.jpg)
+![image](https://farm5.static.flickr.com/4144/5059949241_8c5a509cdf.jpg)
 
 Google vs Facebook was a sight to be seen. Google has planted it's feet firmly in the ground that information is a human right and they appear to be doing everything possible to lead by positive example. Facebook on the other is frequently beaten up by bloggers offended by their policies and more recently by mothers upset by their censorship.
 

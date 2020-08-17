@@ -5,7 +5,7 @@ title: 'A Different Kind of Record: Burma, BarCamp and the Lady'
 wordpress_id: 3754
 categories:
 - blog
-image: http://farm8.staticflickr.com/7191/6787604120_42860dd8c9_o.jpg
+image: https://farm8.staticflickr.com/7191/6787604120_42860dd8c9_o.jpg
 ---
 
 **_This article was written by Emily Jacobi and first appeared in theHuffington Poston 2/23/12. Read it here: http://www.huffingtonpost.com/emily-jacobi/burma-myanmar-technology_b_1291110.html_**
@@ -14,7 +14,7 @@ Once again, a global record was shattered in Myanmar/Burma.
 
 This time, the record wasn't for the largest number of child soldiers (designated by Human Rights Watch in 2002), the world's longest-running civil conflict, or the jailing of dissidents. Instead, this month organizers in the largest city, Yangon, broke the record for the largest number of attendees at a BarCamp, a type of user-generated technology conference that has been hosted all over the world. Not only did more than 5,000 people attend the tech convening, the opening address was made by Nobel Peace Prize Laureate and opposition leader Aung San Suu Kyi, known affectionately as "the Lady."
 
-[![image](http://farm8.staticflickr.com/7191/6787604120_42860dd8c9_o.jpg)](http://www.huffingtonpost.com/emily-jacobi/burma-myanmar-technology_b_1291110.html)
+[![image](https://farm8.staticflickr.com/7191/6787604120_42860dd8c9_o.jpg)](http://www.huffingtonpost.com/emily-jacobi/burma-myanmar-technology_b_1291110.html)
 
 
 

@@ -18,7 +18,7 @@ For our partner KOFAVIV, the promotion from Digicel was a major victory in their
 
 ##Calls in Context: Current Rates of Sexual Violence in PaP
 
-![image](http://farm9.staticflickr.com/8119/8758626267_be595757a5_z.jpg)
+![image](https://farm9.staticflickr.com/8119/8758626267_be595757a5_z.jpg)
 
 KOFAVIV and other women’s organizations continue to be alarmed by the steady rates of sexual violence in and around Port-au-Prince. In the first 3 months of 2013 alone, KOFAVIV has documented 110 incidents. But despite the consistent influx of cases, community agents have noted some positive changes as a result of ongoing awareness-raising campaigns like this one. As Fania, one of the KOFAVIV Technology Agents, shared:
 
@@ -30,4 +30,4 @@ Throughout the past months, KOFAVIV has found ample support for promotion of the
 
 While Dd’s partnership with KOFAVIV has focused on the technology and design of the call center and database, the success of these tools has relied on the strength of KOFAVIV’s core program: Organizing with survivors of sexual violence, providing psycho-social support, accompanying women and girlsto legal and medical services, and documenting the details of their cases.
 
-In February, Dd worked with KOFAVIV, ESIH & other partners to host [Haiti’s first Hackathon](http://digital-democracy.org/2013/01/31/first-hackathon-to-be-held-in-haiti-cross-cultural-collaboration-to-create-community-driven-solutions/), where Haitian and international developers collaborated with KOFAVIV’s tech and call center agents to design a web-based map application so that KOFAVIV can more easily serve callers from across the country. The Hackathon represented the end of the direct implementation phase of our work to address GBV in Haiti. We have since focused on reporting on our work and supporting KOFAVIV's full management of the technical systems we build together. Moving forward, Dd is continuing to work with KOFAVIV to spread the word about 572, focus on strategic use of data for prevention and stressing the urgent need to continue funding medical, legal, psychosocial services.
+In February, Dd worked with KOFAVIV, ESIH & other partners to host [Haiti’s first Hackathon](/blog/first-hackathon-to-be-held-in-haiti-cross-cultural-collaboration-to-create-community-driven-solutions/), where Haitian and international developers collaborated with KOFAVIV’s tech and call center agents to design a web-based map application so that KOFAVIV can more easily serve callers from across the country. The Hackathon represented the end of the direct implementation phase of our work to address GBV in Haiti. We have since focused on reporting on our work and supporting KOFAVIV's full management of the technical systems we build together. Moving forward, Dd is continuing to work with KOFAVIV to spread the word about 572, focus on strategic use of data for prevention and stressing the urgent need to continue funding medical, legal, psychosocial services.

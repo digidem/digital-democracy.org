@@ -6,14 +6,14 @@ title: 'Google Changing Course in China: A Teachable Moment'
 wordpress_id: 899
 categories:
 - archive
-image: http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg
+image: https://online.wsj.com/media/googbjoffice_G_20100113075250.jpg
 ---
 
-[![image](http://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)
+[![image](https://online.wsj.com/media/googbjoffice_G_20100113075250.jpg)](http://blogs.wsj.com/digits/2010/01/13/flowers-for-google-in-china/)
 
-In August 2008, Digital Democracy [conducted research with Burmese community groups operating in southern China](http://www.digital-democracy.org/2008/08/15/news-from-the-china-burma-border/), near the Burma/Myanmar border. While researching the use of communications technologies, one young Kachin man explained the difference between the Internet in China and Burma, stating, "To me the web in China is totally free." Censored though the Chinese web may be, his statement helps us keep in mind the complex realities - and differing degrees - of modern communication tools.
+In August 2008, Digital Democracy [conducted research with Burmese community groups operating in southern China](/2008/08/15/news-from-the-china-burma-border/), near the Burma/Myanmar border. While researching the use of communications technologies, one young Kachin man explained the difference between the Internet in China and Burma, stating, "To me the web in China is totally free." Censored though the Chinese web may be, his statement helps us keep in mind the complex realities - and differing degrees - of modern communication tools.
 
-This fall, Digital Democracy submitted testimony to US Congress at the US-Helsinki Commission briefing, [“Twitter against Tyrants: New Media in Authoritarian Regimes.”](http://www.digital-democracy.org/news/helsinki-testimony-on-twitter-v-tyrants/) In our statement, we stressed that repressive regimes thrive on the distortion of truth, and the need for better understanding of how communications technology is used on the ground by grassroots organizations. We emphasized the critical need for dialogue on security, new media literacy and the meaning of freedom of speech.
+This fall, Digital Democracy submitted testimony to US Congress at the US-Helsinki Commission briefing, [“Twitter against Tyrants: New Media in Authoritarian Regimes.”](/news/helsinki-testimony-on-twitter-v-tyrants/) In our statement, we stressed that repressive regimes thrive on the distortion of truth, and the need for better understanding of how communications technology is used on the ground by grassroots organizations. We emphasized the critical need for dialogue on security, new media literacy and the meaning of freedom of speech.
 
 Just 24 hours after Google announced a shift in their China policy, a conversation of this nature is well under way. With their statement [A new approach to China](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html)_, the Fortune 500 company has openly described the difficulties of operating within the country, conforming to China's censorship policy and facing cyberattacks on their users.
 
@@ -26,16 +26,16 @@ One concern we hope to closely monitor is what impact this decision will have on
 
 
 
-	
+
   1. Security continues to be a priority and access to information can continue to happen anywhere in the world when accessed with knowledge of the right tools.
 
-	
+
   2. Local partners continue to have the best information about ICT realities on the ground in any particular country, and it is critical to connect and dialogue with them on their needs.
 
-	
+
   3. Tools should be developed and adapted to address changing circumstances.
 
-	
+
   4. Education is critical. Reducing barriers to freedom of information requires an evolving new media literacy.
 
 

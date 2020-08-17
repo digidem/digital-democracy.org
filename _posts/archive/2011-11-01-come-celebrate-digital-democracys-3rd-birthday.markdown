@@ -17,16 +17,16 @@ See you there to enjoy....
 
 
 
-	
+
   * [DJ iBeat](http://www.myspace.com/djibeat) spinning for your dancing & listening pleasure
 
-	
+
   * [Bulldog Gin](http://www.bulldoggin.com/) & [Brooklyn Brewery](http://www.brooklynbrewery.com/) for the open bar
 
-	
+
   * [Elizabeth Hodes Custom Cakes & Sugar Art](http://www.elizabethhodes.com/) for our custom-designed cake
 
-	
+
   * [Lucy’s Whey](http://www.lucyswhey.com/) for CHEESE
 
 
@@ -34,10 +34,8 @@ There will be fun to go around...
 
 & you can **WIN**. Enter our raffle for a chance to take home a brand new Google Chromebook...
 
-[![image](http://www.google.com/chromebook/static/images/samsung-series5-leftperspective-350x232.png)](http://www.google.com/chromebook/#chromebooks-samsung)
+[![image](https://www.google.com/chromebook/static/images/samsung-series5-leftperspective-350x232.png)](https://www.google.com/chromebook/#chromebooks-samsung)
 
 Play telephone, spread the word, and if you bring 10 friends you get a free raffle ticket. Questions? Email Biz at biz [at] digital-democracy [dot] org.
 
 **Thank you to everyone who's donations will make this a special night!** And feel free to check out these photos from our [1st Anniversary](https://secure.flickr.com/photos/digitaldemocracy/sets/72157622964995475/) at [OpenPlans](http://openplans.org/) and [2nd Anniversary](https://secure.flickr.com/photos/digitaldemocracy/sets/72157625515838753/) at [New Work City](http://nwc.co/).
-
-

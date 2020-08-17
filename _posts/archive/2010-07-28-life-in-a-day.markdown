@@ -6,7 +6,7 @@ title: Filming Worldwide for Life in a Day
 wordpress_id: 1979
 categories:
 - archive
-image: http://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg
+image: https://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg
 ---
 
 If you filmed all around the world on the same day, what would it look like?
@@ -17,6 +17,6 @@ Project partner Against All Odds Productions contacted us to help connect them 
 
 Please see some of the pictures from their shoots:
 
-[![image](http://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838090566/)
+[![image](https://farm5.static.flickr.com/4148/4838090566_3f10b3ce44.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838090566/)
 
-[![image](http://farm5.static.flickr.com/4154/4838091632_046665b49c.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838091632/)
+[![image](https://farm5.static.flickr.com/4154/4838091632_046665b49c.jpg)](http://www.flickr.com/photos/digitaldemocracy/4838091632/)

@@ -6,10 +6,10 @@ title: Speaking at the White House
 wordpress_id: 3257
 categories:
 - archive
-image: http://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg
+image: https://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg
 ---
 
-[![image](http://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
+[![image](https://farm7.static.flickr.com/6131/5958528047_d5315cb220_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
 
 Its an honor to be invited to speak at the White House . Its especially exciting to see an administration that understands the power of youth and works to pull in our voices.
 
@@ -19,7 +19,7 @@ For instance, in the Middle East, almost 65 percent of the regions’ people are
 
 A 48 starred flag, painting of George Washington, an eagle, and the golden chandelier lent the air of authenticity to remind me that this building has stood for hundreds of years and that this conversation can, at its best, change the course of history. 20 eager youth, experts in the fields of environment, health, security, and technology all sat with intense looks in their eyes. The groups varied from [Truman National Security Project](http://www.trumanproject.org/), [National Center for Global Engagement](http://nc4ge.org/), [350.org](http://350.org), [Americans for Informed Democracy](http://aidemocracy.org/), [Bamyan Media](http://bamyan.org/), [The Millennium Campus Network](http://www.millenniumcampusnetwork.org/), and others. We were ready to take up the challenge.
 
-[![image](http://farm7.static.flickr.com/6130/5958527847_da81484bd9_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
+[![image](https://farm7.static.flickr.com/6130/5958527847_da81484bd9_o.jpg)](http://www.flickr.com/photos/digitaldemocracy/)
 
 Many of the ideas bouncing around the room seemed to agree that there was a need to fund the best and most innovative groups, not the ones that were just the best at writing applications and getting funded. The tension is how to do that successfully while doing large-scale support and making sure that they money trail is transparent and trackable.
 
@@ -32,5 +32,3 @@ We all went to the White House, and were excited and honored to have been invite
 Please see [the video](http://www.youtube.com/watch?v=UmeNbHvmRN0) below and visit the [USAID YouthImpact](http://www.usaid.gov/youthimpact/) site for more information about the initiative.
 
 http://www.youtube.com/watch?v=UmeNbHvmRN0
-
-

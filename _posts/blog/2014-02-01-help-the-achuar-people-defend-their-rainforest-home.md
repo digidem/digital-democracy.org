@@ -13,7 +13,7 @@ In remote Amazon headwaters in Peru and Ecuador, the Achuar people have lived fo
 
 The Achuar’s home is under threat from oil drilling, which would irreversibly damage the fragile wetland ecosystems which are core to their survival and identity. They have asked for Digital Democracy’s help to make maps of their forest to show how their way of life is under threat.
 
-**You can [donate now via paypal](http://www.digital-democracy.org/donate) to help the Achuar defend their rainforest home.**
+**You can [donate now via paypal](/donate) to help the Achuar defend their rainforest home.**
 
 In an historic gathering in 2003 Achuar elders and leaders from 40 Achuar villages in Peru developed a “Plan de Vida” (“Life Plan”) which lays out the Peruvian Achuar vision for the future of their territory and their people. They saw the threat of encroaching oil and logging industries and had seen the government maps that show their territory as an empty space. They asked for help to make detailed maps to show how they occupy and use this land, and how it is important to every aspect of their lands and identity.
 
@@ -29,4 +29,4 @@ We need your help to make this possible. We’re raising $5,000 to cover travel,
 
 Our aim is to provide the Achuar with the tools to tell their story to the world and demonstrate how their rights and way of life are under threat from oil development in their rainforest home. In the field, we’ll be working with the remote, unmapped Achuar village to develop detailed maps of their territory: their hunting camps, fishing grounds, spiritual sites, and stories. Afterward, we’ll be combining this map into an interactive map of all Achuar territory, which the Achuar can use as an advocacy tool to help defend their rights and territory.
 
-To help the Achuar defend their rainforest home you can **[donate now via paypal](http://www.digital-democracy.org/donate)**, or email info(at)digital-democracy.org to discuss other forms of support.
+To help the Achuar defend their rainforest home you can **[donate now via paypal](/donate)**, or email info(at)digital-democracy.org to discuss other forms of support.

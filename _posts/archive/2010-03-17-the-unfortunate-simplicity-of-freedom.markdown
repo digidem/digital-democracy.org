@@ -6,7 +6,7 @@ title: The Unfortunate Simplicity of Freedom
 wordpress_id: 1622
 categories:
 - archive
-image: http://farm3.static.flickr.com/2729/4379912433_c2af09c773.jpg
+image: https://farm3.static.flickr.com/2729/4379912433_c2af09c773.jpg
 ---
 
 Today we're honored to have a guest blog post by Digital Democracy Advisory Board member [Sean McDonald](http://digital-democracy.org/who-we-are/advisors/#sean1), taking a look at the US State Department's focus on Internet Freedom. Sean, Director of New Media Business Development at [MetroStar Systems](http://www.metrostarsystems.com/), brings a background in journalism, law and peace & conflict resolution.
@@ -15,7 +15,7 @@ Today we're honored to have a guest blog post by Digital Democracy Advisory Boar
 
 On January 21, 2010, Secretary of State Hillary Rodham Clinton gratified a legion of us geeks by giving a rousing [speech](http://www.state.gov/secretary/rm/2010/01/135519.htm) announcing the United States’ new policy on, “Internet Freedom.” The term Internet Freedom, unfortunately, oversimplifies and amalgamates complex international issues such as ‘Access to Information,’ ‘Intellectual Property,’ and ‘Internet Regulation,’ under a single, amorphous banner. This may have been necessary to inclusively address these issues in Secretary Clinton’s speech, but by lumping these together, without preemptively establishing a refined definition, cohesive implementation plan, or coalition of supportive constituencies, we’ve endangered the common enterprise of defining normative behavior among civilized people.
 
-![image](http://farm3.static.flickr.com/2729/4379912433_c2af09c773.jpg)
+![image](https://farm3.static.flickr.com/2729/4379912433_c2af09c773.jpg)
 
 Secretary Clinton’s speech, delivered without the explicit or implied support of partner states, unilaterally framed access to the Internet as a basic human right, provided for under a penumbra of principles embodied in the Universal Declaration of Human Rights.  As with many discussions about affirmatively stated human rights, however, the interpretation of those principles varies widely.  As Rebecca MacKinnon explained in a recent [Guardian article](http://www.guardian.co.uk/commentisfree/libertycentral/2010/jan/13/google-china-western-internet-freedom), the US’s traditional human rights allies, such as France, Italy, and the UK have different approaches to foundational component issues of Internet Freedom, such as [intermediary liability](http://www.utexas.edu/law/academics/centers/clbe/assets/Internet_Intermediary_Liability.pdf).  While the United States ought to be commended for taking a boldly principled stance on access to information, it is difficult to underestimate the value of multilateralism on issues so global in scope.
 
@@ -25,16 +25,16 @@ On February 17, the Assistant Secretary of State for Democracy, Human Rights, an
 
 
 
-	
+
   1. Leading the charge for Internet Freedom by example, focusing on the [digital chapter of the Anti-Counterfeiting Trade Agreement](http://www.scribd.com/doc/27241204/Acta-Digital-Chapter-Draft) ([European Digital Rights](http://www.edri.org/) answers FAQ[ here](http://www.edri.org/files/acta_FAQ_100222.pdf)), the controversy over [NSA’s Policy for Surveillance Programs](http://epic.org/2009/11/epic-files-appeal-for-nsa-poli.html), intermediary liability, and other flashpoint issues.
 
-	
+
   2. Engaging the business community through corporate social responsibility avenues, such as the [Global Network Initiative](http://www.globalnetworkinitiative.org/), in order to prevent the spread of technologies and services with potentially negative applications.
 
-	
+
   3. Leveraging diplomatic channels to build international support for the definition and enforcement of Internet Freedom principles, using common points of disagreement to frame the debate.
 
-	
+
   4. Providing education and technological support to civil society organizations in contravention of oppressive regimes.
 
 

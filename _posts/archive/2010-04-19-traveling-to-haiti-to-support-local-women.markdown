@@ -6,11 +6,11 @@ title: Traveling to Haiti to support local women
 wordpress_id: 1706
 categories:
 - archive
-image: http://farm4.static.flickr.com/3338/3546066329_386444fdab.jpg
+image: https://farm4.static.flickr.com/3338/3546066329_386444fdab.jpg
 ---
 
 In Haiti, a second humanitarian crisis is unfolding: **Haiti's women are under siege from increasing insecurity, **which has grown steadily since the earthquake devastated the country in January. Facing violence and rape, Haiti's women operate within discriminatory legal structures which prevent them from accessing aid and taking an active role in their country's redevelopment process.
-![image](http://farm4.static.flickr.com/3338/3546066329_386444fdab.jpg)This must change.Digital Democracy is focusing on how technology can be used to to amplify the voices of Haiti's women and ensure their protection. **We need your support today to invest in Haitian women. **
+![image](https://farm4.static.flickr.com/3338/3546066329_386444fdab.jpg)This must change.Digital Democracy is focusing on how technology can be used to to amplify the voices of Haiti's women and ensure their protection. **We need your support today to invest in Haitian women. **
 
 On Wednesday my colleague Abby Goldberg  and I are traveling to Haiti to work on exactly that. Working with international agencies and grassroots women's organizations, we're focusing on how technology can be leveraged to protect women, and conducting media workshops with women's groups.
 

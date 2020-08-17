@@ -1,19 +1,19 @@
 ---
-categories: 
+categories:
   - blog
 author: Emily Jacobi
 title: Knight News Mobile Challenge Winners
 image: "/assets/achuar-gps-monitoring.jpg"
 published: true
-tags: 
+tags:
   - "front-page"
 ---
 
-Digital Democracy has been selected as [one of eight winners](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/) of the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles for [Remote Access](http://digital-democracy.org/2012/09/24/remote-access-connecting-threatened-communities/), empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats.
+Digital Democracy has been selected as [one of eight winners](http://www.knightfoundation.org/press-room/press-release/eight-mobile-ventures-win-24-million-funding-knigh/) of the John S. and James L. Knight Foundation’s Knight News Challenge on Mobiles for [Remote Access](/blog/remote-access-connecting-threatened-communities/), empowering remote and off-the-grid communities with a toolkit to report environmental and human rights threats.
 
 Our pilot program will focus on supporting indigenous communities monitoring oil spills in the Peruvian Amazon.
 
-[![image](http://farm9.staticflickr.com/8222/8389656781_aae8e3cc3e.jpg)](http://www.knightfoundation.org/)
+[![image](https://farm9.staticflickr.com/8222/8389656781_aae8e3cc3e.jpg)](http://www.knightfoundation.org/)
 
 Please check out our [official press release](http://www.scribd.com/doc/120834901/Press-Release-Digital-Democracy-a-winner-of-the-Knight-News-Mobile-Challenge) and additional information below. Tune in tomorrow (Friday, Jan. 18th at 12:30pm ET) for a livestream presentation of the winning projects, at [knightfoundation.org/live](http://www.knightfoundation.org/live).
 

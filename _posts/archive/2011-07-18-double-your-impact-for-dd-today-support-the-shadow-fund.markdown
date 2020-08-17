@@ -6,11 +6,11 @@ title: Double your impact for Dd today! Support the Shadow Fund
 wordpress_id: 3221
 categories:
 - archive
-image: http://farm7.static.flickr.com/6006/5950659977_0450029b10_b.jpg
+image: https://farm7.static.flickr.com/6006/5950659977_0450029b10_b.jpg
 ---
 
 *Double your support of Dd’s work empowering marginalized groups by [giving to the Shadow Fund][1] *by August 1*!*Double your support of Dd's work empowering marginalized groups by [giving to the Shadow Fund](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590) _by August 1_!
-[![image](http://farm7.static.flickr.com/6006/5950659977_0450029b10_b.jpg)](http://www.flickr.com/photos/digitaldemocracy)
+[![image](https://farm7.static.flickr.com/6006/5950659977_0450029b10_b.jpg)](http://www.flickr.com/photos/digitaldemocracy)
 
 The Shadow Fund keeps Digital Democracy moving forward: designing new programs, building relationships with the right community partners and honing our curriculum and process to continue working with the _most _marginalized communities around the globe, to break them out of the shadows and allow them to drive the future of their societies and our world.
 
@@ -20,7 +20,7 @@ Supporters of the Shadow Fund believe marginalized groups must have a voice to b
 
 
 
-[![original fundraising ideas](http://www.fundraiserinsight.org/libs/thermometer.php?current=6795&max=6500&curr=36&t_id=0&skin=small_hor)](http://www.fundraiserinsight.org)
+[![original fundraising ideas](https://www.fundraiserinsight.org/libs/thermometer.php?current=6795&max=6500&curr=36&t_id=0&skin=small_hor)](http://www.fundraiserinsight.org)
 
 
 

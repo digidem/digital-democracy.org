@@ -6,14 +6,14 @@ title: Introducing Project Einstein Guatemala
 wordpress_id: 1739
 categories:
 - archive
-image: http://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg
+image: https://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg
 ---
 
 Project Einstein started as photo training with a group of youth in a refugee camp in Bangladesh, so named by one of the participants because "Einstein was a refugee but could still do great things."
 
 We've since expanded the project, working with youth in Pretoria, South Africa, a Burmese refugee camp in Thailand, and the town of Gros Monde in northern Haiti.
 
-![image](http://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg)
+![image](https://farm5.static.flickr.com/4050/4581870657_76a7ab2ae7_o.jpg)
 
 What's next? Project Einstein Guatemala, in partnership with longtime friend of Digital Democracy Emma Hulse and local organization [Proyecto de Desarrollo Santiago](http://www.prodessa.net/) (PRODESSA). Last week, we sent cameras to Emma in Guatemala City, who is leaving soon for an isolated region of Guatemala known as the Zona Reyna. In the Zona Reyna, she'll be working with indigenous women's groups for the next few months on literacy projects. Additionally, she'll be using the cameras and Project Einstein curriculum to do a two-month long photo project with youth in the community.
 
@@ -30,4 +30,4 @@ Photos will be exhibited both online and in the community at the conclusion of t
 Ultimately, Project Einstein Guatemala seeks to spark dialogue both within the community and with youth and adults elsewhere. Photography provides a medium accessible to all members of the community, while new media allows youth to insert their voices in national and international conversations about education, indigenous rights and development.
 
 
-![image](http://farm5.static.flickr.com/4022/4581870577_8c7305c6a5_o.jpg)
+![image](https://farm5.static.flickr.com/4022/4581870577_8c7305c6a5_o.jpg)

@@ -6,7 +6,7 @@ title: 'We''re sticking to it - Get #StuckonDd'
 wordpress_id: 2514
 categories:
 - archive
-image: http://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg
+image: https://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg
 ---
 
 For two years Digital Democracy has built programs and worked with people around the world to empower groups whose voices are silenced. We train them to use innovative technologies to serve the needs they tell us they have.
@@ -15,7 +15,7 @@ Our partners — including refugee communities, government officials in Iraq, wo
 
 That’s why we started [#stuckonDd](http://digital-democracy.org/stuckondd/), a campaign that brings all of our partners and supporters around the world together and show your support to the world. Where does your Dd sticker live? On your computer, phone, bike, bed, or …? Show us!
 
-![image](http://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg)
+![image](https://farm6.static.flickr.com/5085/5249383037_ec7a81e03f.jpg)
 
 Don’t have a sticker? It’s as easy as a **$10 donation** that goes straight to the heart of the matter: supporting Dd at our core. We are volunteers. We are operating with small strategic grants. We are bootstrapping and getting our space generously donated. We need your help to take Dd and all it can be into our third year.
 

@@ -1,17 +1,17 @@
 ---
-categories: 
+categories:
   - blog
 author: Biz Ghormley
 slug: "3979"
 title: "Dd | Haiti: Reflections from a first visit"
 wordpress_id: 3979
 published: true
-image: "http://farm8.staticflickr.com/7459/9807000083_bb7a116a3c_k.jpg"
+image: "https://farm8.staticflickr.com/7459/9807000083_bb7a116a3c_k.jpg"
 ---
 
 “As a small grassroots group, we are not supposed to have access to these kinds of systems,” Jocie Philistin, Program Coordinator for our partner, KOFAVIV, recently told us in Haiti. She continued, “Now, tech is at the core of our organization and allows us to be better at all parts of our work.” Jocie was referring to the systems we — Dd and KOFAVIV — have built together that, upon my first visit to Haiti, I was seeing with my own eyes: the 572 Call Center and KOFAVIV database.
 
-![image](http://farm9.staticflickr.com/8003/7687034530_0f84b4c10f_o.jpg)
+![image](https://farm9.staticflickr.com/8003/7687034530_0f84b4c10f_o.jpg)
 
 The database secures case information for each survivor of sexual violence who comes to KOFAVIV. It allows them to track cases and care from medical, legal and psycho-social providers. It also allows them to track trends, create reports and analyze the data they have about each case without jeopardizing the safety of the victims.
 
@@ -25,4 +25,4 @@ A couple weeks ago, I got to the KOFAVIV offices. Along with our full [staff](h
 
 We visited the [KOFAVIV](http://www.facebook.com/pages/KOFAVIV-Komisyon-Fanm-Viktim-pou-Viktim-The-Commission-of-Women-Victims-f/103953636302552 ) offices and met the technical team that is now running the systems we built together. We met the women of KOFAVIV and FAVILEK who participated in photo trainings in 2010. We met the leaders of [Bureau des Avocats Internationaux (BAI)](http://ijdh.org/articles/article_bureau_internationaux.php) and saw their backyard where our first photo trainings took place. We visited Place St. Anne, a tent camp that remains in Port-Au-Prince where families are still living, and met those families and the women who lead many of them, women and children who have been victims of sexual violence, including members of KOFAVIV. We met with the [Digicel Foundation](http://digicelfoundation.org/), the philanthropic arm of the largest mobile phone carrier in Haiti and provider of the 572 short code. We met with representatives from the [International Rescue Committee (IRC)](http://www.rescue.org/) doing a variety of projects throughout Port-Au-Prince.
 
-In the context of our largest program, we stood witness to the complexity of a beautiful place, the progress of our collaborations and work there, reviewed and evaluated our work to date and [made big decisions for our next steps](http://digital-democracy.org/2012/07/30/mapping-injustice-the-three-areas-of-work-for-dd%E2%80%99s-next-steps/) as an organization. We were humbled and inspired.
+In the context of our largest program, we stood witness to the complexity of a beautiful place, the progress of our collaborations and work there, reviewed and evaluated our work to date and [made big decisions for our next steps](/blog/mapping-injustice-the-three-areas-of-work-for-dd%E2%80%99s-next-steps/) as an organization. We were humbled and inspired.

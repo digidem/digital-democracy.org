@@ -13,7 +13,7 @@ Calling all technologists, mobile app developers and passionate civic-hackers: D
 
 ## What's at stake?
 
-Across the Amazon, and rainforests around the globe, indigenous people face multiple threats, including oil contamination, pollution from mining, and deforestation. Dd is supporting [local communities who are working to document and respond to oil contamination and environmental threats](http://www.digital-democracy.org/blog/update-on-remote-access/) in the Peruvian & Ecuadorian Amazon.
+Across the Amazon, and rainforests around the globe, indigenous people face multiple threats, including oil contamination, pollution from mining, and deforestation. Dd is supporting [local communities who are working to document and respond to oil contamination and environmental threats](/blog/update-on-remote-access/) in the Peruvian & Ecuadorian Amazon.
 
 ## Why should you go?
 

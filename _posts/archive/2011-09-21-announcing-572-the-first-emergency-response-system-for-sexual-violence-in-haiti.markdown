@@ -7,7 +7,7 @@ title: 'Announcing 572: the First Emergency Response System Dedicated to Sexual 
 wordpress_id: 3362
 categories:
 - archive
-image: http://farm7.static.flickr.com/6166/6164699382_dde4d0fab9.jpg
+image: https://farm7.static.flickr.com/6166/6164699382_dde4d0fab9.jpg
 ---
 In one year since CGI commitment, Digital Democracy has trained 150 women and built a database documenting over 400 cases of rape in Haiti.
 
@@ -15,7 +15,7 @@ Today we announce the launch of the only phone-based emergency response system d
 
 The Call Center is one of four components of the [Dd commitment](http://www.clintonglobalinitiative.org/commitments/commitments_search.asp?id=694377 ) to the [Clinton Global Initiative](http://www.clintonglobalinitiative.org/) (CGI) to use technology to address rape and gender-based violence (sGBV) with women in Haiti. Dd and KOFAVIV are seeking $150,000 to support the Call Center and expand its reach throughout Port-Au-Prince, announced Dd at the CGI Annual meeting today.
 
-[![image](http://farm7.static.flickr.com/6166/6164699382_dde4d0fab9.jpg)](https://secure.flickr.com/photos/digitaldemocracy/sets/72157623791167187/)
+[![image](https://farm7.static.flickr.com/6166/6164699382_dde4d0fab9.jpg)](https://secure.flickr.com/photos/digitaldemocracy/sets/72157623791167187/)
 
 “When we first started working with Haitian women leaders, there was no accurate information on the increasing rates of sexual violence in the tent-camps,” explains Emily Jacobi, our Executive Director. “The Call Center is a key component of an information management system we built with KOFAVIV to accurately capture data on the real scope of the problem, and get urgent preventative care to the most vulnerable cases.”
 

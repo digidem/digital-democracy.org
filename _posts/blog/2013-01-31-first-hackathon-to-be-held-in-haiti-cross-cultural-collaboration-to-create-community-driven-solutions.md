@@ -1,15 +1,15 @@
 ---
-categories: 
+categories:
   - blog
 title: "First Hackathon to be held in Haiti: Cross-cultural collaboration to create community-driven solutions"
 author: Emily Jacobi
-featured: 
-  - "http://farm9.staticflickr.com/8317/8043723849_8bb21d0748_z.jpg"
-  - "http://farm9.staticflickr.com/8317/8043723849_8bb21d0748.jpg"
-dsq_thread_id: 
+featured:
+  - "https://farm9.staticflickr.com/8317/8043723849_8bb21d0748_z.jpg"
+  - "https://farm9.staticflickr.com/8317/8043723849_8bb21d0748.jpg"
+dsq_thread_id:
   - 1056727333
 published: true
-image: "http://farm9.staticflickr.com/8317/8043723849_6fa653d93f_o.jpg"
+image: "https://farm9.staticflickr.com/8317/8043723849_6fa653d93f_o.jpg"
 ---
 
 _February 1-3, 2013_ –  This weekend, Digital Democracy – along with partners [KOFAVIV](http://kofaviv.org/), [ESIH](http://www.esih.edu/) & more – is hosting “From Local Solutions to National Systems,” a Hackathon in Port-au-Prince, Haiti. We’re thrilled to be convening a talented group of Haitian & international developers, designers and issue areas experts for the first Hackathon FOR Haiti to be hosted IN Haiti.
@@ -18,11 +18,11 @@ What is a Hackathon? A combination of the words “hack” and “marathon,” a
 
  [3]: http://www.fastcoexist.com/1680242/when-911-isnt-there-inside-haitis-rape-crisis-hotline
 
-As we first [blogged][4] about in October, the Hackathon has two primary objectives:  
-1) design tools to improve the efficacy of the 572 Call Center by developing better ways to access and organize available information on valuable resources (like emergency care) outside the Port-au-Prince area.  
+As we first [blogged][4] about in October, the Hackathon has two primary objectives:
+1) design tools to improve the efficacy of the 572 Call Center by developing better ways to access and organize available information on valuable resources (like emergency care) outside the Port-au-Prince area.
 2) improve the use and visualization of data on instances of rape and sexual violence throughout Haiti. New data visualization tools will allow for enhanced visual reports on cases received by KOFAVIV, the identification of new trends in existing data and improved advocacy for increased security for women & girls.
 
- [4]: http://digital-democracy.org/2012/10/02/upcoming-haiti-hackathon-from-local-solutions-to-national-systems/
+ [4]: /blog/upcoming-haiti-hackathon-from-local-solutions-to-national-systems/
 
 The Hackathon will be hosted at the École Supérieure d’Infotronique d’Haïti. Not only has ESIH opened their space for the event, nine of their 3rd & 4th year students will be participating in the hackathon. As Director Patrick Attie told us:
 
@@ -96,5 +96,5 @@ Follow [#HaitiHack][39] this weekend to join the activities virtually!
 
  [39]: https://twitter.com/search/realtime?q=#haitihack&src=typd
 
-**  
+**
 **

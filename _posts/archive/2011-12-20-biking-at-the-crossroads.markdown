@@ -6,10 +6,10 @@ title: Biking at the Crossroads
 wordpress_id: 3642
 categories:
 - archive
-image: http://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png
+image: https://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png
 ---
 
-[![image](http://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png)](http://bikehispaniola.tumblr.com/)
+[![image](https://farm8.staticflickr.com/7021/6545815971_e5fd68d1e0_o.png)](http://bikehispaniola.tumblr.com/)
 
 At crossroads in my life, I bike across countries. Nine years ago, I biked across the United States. Today, I find myself at another transition: I am moving on from my role as President of Digital Democracy. In honor of that change, I'll be crossing the Dominican Republic and Haiti on the island of Hispaniola.
 

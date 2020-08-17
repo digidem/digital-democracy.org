@@ -6,10 +6,10 @@ title: Testifying at US Congress
 wordpress_id: 738
 categories:
 - archive
-image: http://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg
+image: https://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg
 ---
 
-![image](http://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg)We are currently writing from the Capitol Building in Washington, DC where Digital Democracy is submitting written testimony to a special Congressional hearing investigating the role of digital technology in protests that have occurred in recent years in countries under authoritarian governments:
+![image](https://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg)We are currently writing from the Capitol Building in Washington, DC where Digital Democracy is submitting written testimony to a special Congressional hearing investigating the role of digital technology in protests that have occurred in recent years in countries under authoritarian governments:
 
 
 [Helsinki Commission Briefing](http://csce.gov/index.cfm?FuseAction=Home.Home)
@@ -21,7 +21,7 @@ image: http://farm3.static.flickr.com/2580/4034575037_23246fa539.jpg
 [“Twitter against Tyrants: New Media in Authoritarian Regimes”](http://csce.gov/index.cfm?FuseAction=ContentRecords.ViewDetail&ContentRecord_id=822&ContentRecordType=P&ContentType=P&CFID=22388105&CFTOKEN=79817089)
 October 22, 2009
 
-Below is a excerpt from the testimony we submitted. You can read the full text [here](http://www.digital-democracy.org/news/helsinki-testimony-on-twitter-v-tyrants/).
+Below is a excerpt from the testimony we submitted. You can read the full text [here](/news/helsinki-testimony-on-twitter-v-tyrants/).
 
 Testimony of Mark Belinsky and Emily Jacobi
 Co-directors, Digital Democracy

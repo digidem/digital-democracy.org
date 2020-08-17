@@ -33,4 +33,4 @@ OSM-Lite will prototype a light-weight mapping stack for anybody who wants to co
 
 Several organizations are already looking at OpenStreetMap as infrastructure, installing a custom version of the OpenStreetMap server stack, such as Development Seed’s [open roads project in the Philippines](https://developmentseed.org/blog/2015/04/15/openstreetmap-for-government/) or Moabi’s [maps of natural resource issues in DRC](http://rdc.moabi.org/en/). But the barrier for anyone to do this is still high. Our goal is to build off these efforts and make it simple for anybody to get up and running with their own “custom OpenStreetMap” for their particular mapping goals. Our focus is “small data” -- local teams, networks of villages, local NGOs, who need to quickly put stuff on a map and work together.
 
-If you want to join our team and help us build this, [we’re hiring](http://www.digital-democracy.org/jobs/).
+If you want to join our team and help us build this, [we’re hiring](/jobs/).

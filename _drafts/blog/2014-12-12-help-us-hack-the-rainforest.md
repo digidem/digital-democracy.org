@@ -4,7 +4,7 @@ layout: post
 published: false
 title: ""
 author: Emily Jacobi
-tags: 
+tags:
   - featured
   - "front-page"
   - Remote Access
@@ -18,7 +18,7 @@ Calling all technologists, mobile app developers and passionate civic-hackers: D
 
 **What's at stake?**
 
-Across the Amazon, and rainforests around the globe, indigenous people face multiple threats, including oil contamination, pollution from mining, and deforestation. Dd is supporting [local communities who are working to document and respond to oil contamination and environmental threats](http://www.digital-democracy.org/blog/update-on-remote-access/) in the Peruvian & Ecuadorian Amazon. 
+Across the Amazon, and rainforests around the globe, indigenous people face multiple threats, including oil contamination, pollution from mining, and deforestation. Dd is supporting [local communities who are working to document and respond to oil contamination and environmental threats](/blog/update-on-remote-access/) in the Peruvian & Ecuadorian Amazon.
 
 _Why should you go?_
 
@@ -30,9 +30,9 @@ _Why should you go?_
 
 4) To collaborate with incredible technologists & creators from around the world, including the Dd & Seamless Planet crews.
 
-5) (Optional) To follow-up the hackathon with a trek to Machu Picchu, heart of the Incan Empire & one of the world's most beautiful world heritage sites 
+5) (Optional) To follow-up the hackathon with a trek to Machu Picchu, heart of the Incan Empire & one of the world's most beautiful world heritage sites
 
-Interested in joining us? 
+Interested in joining us?
 
 Check out the full details, itinerary and apply at [www.hacktherainforest.org](http://www.hacktherainforest.org/home/#intro). Read below for the technical skills we're looking for in participants.
 

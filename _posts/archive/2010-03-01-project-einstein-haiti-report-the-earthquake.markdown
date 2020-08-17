@@ -6,14 +6,14 @@ title: Project Einstein Haiti Report & The Earthquake
 wordpress_id: 1510
 categories:
 - archive
-image: http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg
+image: https://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg
 ---
 
 On January 12th, a devastating earthquake shook Haiti. We had a team of people on the ground working with young Haitians. Thankfully they all survived, but what was life like before and what can it be like after? Today we're proudly publishing our report from the research they were conducting, looking at the economic livelihoods of  young people in the country.
 
 This report details the findings of their research, gives an overview of the Project Einstein curriculum adapted for Haiti and provides recommendations for how training young people will be a critical aspect of reconstruction, providing 21st century skills and an infrastructure of empowerment by monitoring aid and corruption.
 
-[![image](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)](http://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)
+[![image](https://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)](https://farm5.static.flickr.com/4044/4267795513_8ed96cd2fe_o.jpg)
 
 The project on the ground was led by two students at the Fletcher School at Tufts University, Joshua Haynes and Chrissy Martin. Chrissy had this to say about her experiences:
 

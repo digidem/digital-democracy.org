@@ -1,18 +1,18 @@
 ---
-categories: 
+categories:
   - blog
 author: Emily Jacobi
 slug: "upcoming-haiti-hackathon-from-local-solutions-to-national-systems"
 title: "Upcoming Haiti Hackathon: From Local Solutions to National Systems"
 wordpressid: 4242
 published: true
-image: "http://farm4.staticflickr.com/3817/9801177555_ee607efff0_k.jpg"
+image: "https://farm4.staticflickr.com/3817/9801177555_ee607efff0_k.jpg"
 ---
 
 On _February 1-3, 2013_, Digital Democracy is hosting a Hackathon in Port-au-Prince, Haiti, inviting local and international developers & designers to address these questions. Focused on supporting the life-saving work of Haitian women's organization KOFAVIV, the hackathon will help them expand their services to survivors of rape & gender-based violence across Haiti.
 
-![image](http://farm9.staticflickr.com/8169/80473255484354277fa0.jpg)
-_How are Haitian women organizing to address and prevent rape and sexual violence? How can critical services be extended to survivors across the country? What is the role that technologists, designers & data wizards can play in strengthening the capacity of Haitian technologists & community organizers?_ 
+![image](https://farm9.staticflickr.com/8169/80473255484354277fa0.jpg)
+_How are Haitian women organizing to address and prevent rape and sexual violence? How can critical services be extended to survivors across the country? What is the role that technologists, designers & data wizards can play in strengthening the capacity of Haitian technologists & community organizers?_
 
 Made possible thanks to the [Abundance Foundation](http://www.abundance.org/) and [ESIH (](http://www.esih.edu/)[Ecole Supérieure d'Infotronique d'Haïti)](http://www.esih.edu/), and with facilitation of [Willow Brugh](https://twitter.com/willowbl00) of [Geeks Without Bounds](http://gwob.org/), the Hackathon is focused on developing tools to help scale the impact of our current systems in two areas, resulting in outputs that will dramatically improve the work of our partners.
 
@@ -43,25 +43,25 @@ HOW CAN YOU GET INVOLVED?
 If you or someone you know has skills in the following and would be interested in participating, please [submit an application here](http://bit.ly/PaPhack) (bit.ly/PaPhack). Specifically, we're looking for participants skilled in:
 
 
-	
+
   * Drupal
 
-	
+
   * Front end design
 
-	
+
   * Graphic design
 
-	
+
   * Dynamic code
 
-	
+
   * Dataviz
 
-	
+
   * Big data
 
-	
+
   * Mapping / GIS
 
 

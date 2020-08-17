@@ -7,7 +7,7 @@ dsq_thread_id:
 ---
 Since before the devastating earthquake in January, 2010, Digital Democracy has been working on programs in Haiti ranging from youth photography trainings to harnessing technology to address gender-based violence (GBV).
 
- [1]: http://farm5.static.flickr.com/4082/4911082098_1ca4977275.jpg
+ [1]: https://farm5.static.flickr.com/4082/4911082098_1ca4977275.jpg
 
 ####
 
@@ -33,22 +33,22 @@ Important links:
 *   [October 25: Announcing USIP Support][17]
 *   [October 28: Training in technology tools and civic engagement][18]
 
- [3]: http://digital-democracy.org/2010/03/01/project-einstein-haiti-report-the-earthquake/
- [4]: http://digital-democracy.org/2010/05/01/reflections-from-a-week-among-haitis-women/
+ [3]: /archive/project-einstein-haiti-report-the-earthquake/
+ [4]: /archive/reflections-from-a-week-among-haitis-women/
  [5]: http://www.flickr.com/photos/digitaldemocracy/sets/72157623791167187/
  [6]: http://www.state.gov/p/wha/ci/ha/earthquake/haititech/index.htm
  [7]: http://www.scribd.com/doc/31572752/Women-of-Haiti
- [8]: http://digital-democracy.org/2010/05/28/12-u-s-senators-back-protection-of-haitian-women/
- [9]: http://digital-democracy.org/2010/08/02/direct-diplomacy-with-haiti/
+ [8]: /archive/12-u-s-senators-back-protection-of-haitian-women/
+ [9]: /archive/direct-diplomacy-with-haiti/
  [10]: http://www.flickr.com/photos/digitaldemocracy/sets/72157624487793077/
- [11]: http://digital-democracy.org/2010/07/28/life-in-a-day/
+ [11]: /archive/life-in-a-day/
  [12]: http://www.flickr.com/photos/digitaldemocracy/sets/72157624784235028/
  [13]: http://ipsnews.net/news.asp?idnews=52608
- [14]: http://digital-democracy.org/2010/09/20/commitment-to-clinton-global-a-visitor-from-haiti/
- [15]: http://digital-democracy.org/2010/09/28/democratic-design-thinking-2/
+ [14]: /archive/commitment-to-clinton-global-a-visitor-from-haiti/
+ [15]: /archive/democratic-design-thinking-2/
  [16]: http://www.bostonhaitian.com/node/236
- [17]: http://digital-democracy.org/2010/10/25/announcing-support-from-us-institute-of-peace-for-haiti-program/
- [18]: http://digital-democracy.org/2010/11/01/democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections/
+ [17]: /archive/announcing-support-from-us-institute-of-peace-for-haiti-program/
+ [18]: /archive/democracy-in-haiti-dd-workshop-with-haitian-women-in-port-au-prince-to-prepare-for-november-elections/
 
 Get our one-pager with project details by clicking “download” below
 
@@ -72,12 +72,12 @@ Partners:
  [24]: http://www.madre.org/
  [25]: http://newmediaadvocacy.org/
 
-Grassroots Women’s Organizations: [  
+Grassroots Women’s Organizations: [
 Komisyon Fanm Viktim Pou Viktim (Commission of Women Victims for Victims), ][25][Fanm Viktim, Leve Janpe (Women Victims Get up Stand up][26]), Kodinasyon Nasyonal Viktim Direk (National Coordination of Direct Victims), Fanm Viktim Koperativ (Women Victim’s Cooperative), Association des Femmes Victimes de Bel-Air (Association of Women Victims of Bel Air), and Viktim Koperativ ak Ti Komes (Victim Cooperative and Small Business)
 
  [26]: http://favilek.interconnection.org/
 
-[SUPPORT DIGITAL DEMOCRACY’S WORK IN HAITI][27] 
+[SUPPORT DIGITAL DEMOCRACY’S WORK IN HAITI][27]
 
 
  [27]: https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=52-1780842&vlrStratCode=GrmdBW%2B6DQu5HeN4HZcC68sH1zItPit2w7B9rU6Fh39rcRxBDg8epxB4FyDkFCGw

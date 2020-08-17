@@ -6,13 +6,13 @@ title: Future of Libraries in Ukraine and Romania
 wordpress_id: 2606
 categories:
 - archive
-image: http://farm6.static.flickr.com/5084/5277477302_b9c5a20def.jpg
+image: https://farm6.static.flickr.com/5084/5277477302_b9c5a20def.jpg
 ---
 
 What is the future of libraries? The debate is raging on what information management will look like in the 21st century and how relevant and useful public buildings such as libraries really are. I was excited to travel to Kiev to discuss the issue with some libraries from Ukraine and Romania.
 
 
-[![image](http://farm6.static.flickr.com/5084/5277477302_b9c5a20def.jpg)](http://www.flickr.com/photos/digitaldemocracy/5277477302/)
+[![image](https://farm6.static.flickr.com/5084/5277477302_b9c5a20def.jpg)](http://www.flickr.com/photos/digitaldemocracy/5277477302/)
 
 
 As a trainer, my goal was to unpack this conversation, understand local perspectives on it and get everyone registered for the different free and open source tools that have the most relevance. To aggregate the information, we used the tag #ukrainetech and pinned the central point of the conversation to ukrainetech.wordpress.com. Through interactive exercises trainees would come away with tangible experience and an open online conversation about library tech upon which to build in the future through social media.
@@ -29,22 +29,22 @@ Special thanks to friend of Digital Democracy and library future [Joe Murphy](ht
 
 
 
-	
+
   * [Тернопільська обласна бібліотека для молоді ](http://www.yl.edu.te.ua/)
 
-	
+
   * [Української бібліотечної](http://librportal.org.ua/)
 
-	
+
   * [библиотека без барьеров ](http://om222.blogspot.com/)
 
-	
+
   * [Бібліотечний гопак](http://bibliote4nyj-gopak.blogspot.com/)
 
-	
+
   * [Бібліотека ім. В. Маяковського](http://mayakovskiylib.blox.ua/)
 
 
 
 
-[![image](http://farm6.static.flickr.com/5166/5277477510_71f21bfbcd.jpg)](http://www.flickr.com/photos/digitaldemocracy/5277477510)
+[![image](https://farm6.static.flickr.com/5166/5277477510_71f21bfbcd.jpg)](http://www.flickr.com/photos/digitaldemocracy/5277477510)

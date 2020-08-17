@@ -5,9 +5,9 @@ title: 572 Call Center in Haiti now open 24 hours
 wordpress_id: 3899
 categories:
 - blog
-image: http://farm9.staticflickr.com/8164/7394555716_cc009f9c61_o.jpg
+image: https://farm9.staticflickr.com/8164/7394555716_cc009f9c61_o.jpg
 ---
-In September of last year [Dd launched the first emergency response hotline for rape and sexual violence in Haiti with our local partner KOFAVIV](http://digital-democracy.org/2011/09/21/announcing-572-the-first-emergency-response-system-for-sexual-violence-in-haiti/).  As of May 1, we are proud to announce the 572 Emergency Response Hotline is open 24 hours a day. No matter the time of day or night, survivors of gender-based violence (GBV) including rape, sexual violence and domestic violence in Haiti can call 572 to access critical support and services.
+In September of last year [Dd launched the first emergency response hotline for rape and sexual violence in Haiti with our local partner KOFAVIV](/archive/announcing-572-the-first-emergency-response-system-for-sexual-violence-in-haiti/).  As of May 1, we are proud to announce the 572 Emergency Response Hotline is open 24 hours a day. No matter the time of day or night, survivors of gender-based violence (GBV) including rape, sexual violence and domestic violence in Haiti can call 572 to access critical support and services.
 
 
 
@@ -17,7 +17,7 @@ In September of last year [Dd launched the first emergency response hotline for 
 
 
 
-![image]( http://farm9.staticflickr.com/8164/7394555716_cc009f9c61_o.jpg)
+![image]( https://farm9.staticflickr.com/8164/7394555716_cc009f9c61_o.jpg)
 
 
 
@@ -33,4 +33,4 @@ Since its formal launch in September 2012, the call center has fielded over 1700
 
 
 
-The call center is part of Dd’s systemic approach to using technology to address rape, sexual violence and abuse in Haiti. The program includes comprehensive trainings and work focused on leveraging data, mobiles and media. Learn more [here](http://www.scribd.com/doc/92391004/Haiti-One-Pager-FINAL), view our [slideshow](http://www.slideshare.net/digidem/haiti-slide-deck-16may2012) overview of the program, and/or view photos of our work [here](http://www.flickr.com/photos/digitaldemocracy/sets/72157623791167187/).
+The call center is part of Dd’s systemic approach to using technology to address rape, sexual violence and abuse in Haiti. The program includes comprehensive trainings and work focused on leveraging data, mobiles and media. Learn more [here](http://www.scribd.com/doc/92391004/Haiti-One-Pager-FINAL), view our [slideshow](https://www.slideshare.net/digidem/haiti-slide-deck-16may2012) overview of the program, and/or view photos of our work [here](http://www.flickr.com/photos/digitaldemocracy/sets/72157623791167187/).

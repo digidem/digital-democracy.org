@@ -6,14 +6,14 @@ title: Participation transforms possibility. Please Give to Dd!
 wordpress_id: 3584
 categories:
 - archive
-image: http://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg
+image: https://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg
 ---
 
-**What does democracy mean to you? **In 2011 the Digital Democracy (Dd) team has asked this question of people around the world. [Egyptians in Tahrir Square](http://digital-democracy.org/2011/02/02/choose-your-democracy-in-egypt/), [#Occupy protestors in Zuccotti Park](http://digital-democracy.org/2011/10/19/occupyvotes-open-source-protest/), women in tent camps in Port-Au-Prince and folks at home have given us many answers, including freedom of speech and equal opportunity. The theme uniting them all? **Participation**: the ability for all people’s voices to be heard & represented in their community’s governance.
+**What does democracy mean to you? **In 2011 the Digital Democracy (Dd) team has asked this question of people around the world. [Egyptians in Tahrir Square](/archive/choose-your-democracy-in-egypt/), [#Occupy protestors in Zuccotti Park](/archive/occupyvotes-open-source-protest/), women in tent camps in Port-Au-Prince and folks at home have given us many answers, including freedom of speech and equal opportunity. The theme uniting them all? **Participation**: the ability for all people’s voices to be heard & represented in their community’s governance.
 
 Human rights abuses are barriers to participation. Rape, violence, censorship, police brutality, lack of access to education, discrimination - these abuses silence voices and prevent participation. **Dd works with groups striving to participate by helping them leverage technology to more effectively fight for their human rights. **
 
-[![image](http://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg)](http://www.flickr.com/photos/digitaldemocracy/6198035717/in/photostream)
+[![image](https://farm7.staticflickr.com/6122/6198035717_4286a4ed60.jpg)](http://www.flickr.com/photos/digitaldemocracy/6198035717/in/photostream)
 
 Mark & I co-founded Dd in 2008 because we thought technology tools had the ability to help the most marginalized people participate in their societies in a meaningful way. Three years later, there are 7 billion people on the planet and close to 6 billion mobile phones. We work to help people turn their mobile phones into tools for freedom and participation, shifting the paradigm so marginalized communities can participate in societies like Haiti, Burma and Guatemala.
 
@@ -21,14 +21,14 @@ In 2011, we have seen the** impact of Dd’s programs **around the world. Our pr
 
 
 
-	
+
   * **[Women in Haiti](http://digital-democracy.org/category/haiti/)** use blogs and photos to **share** stories of violence, the breakdown of elections, and hope. They use digital pens, databases and maps to **document** their experiences. They launched a call center to **provide emergency support** to rape survivors and they have combined all of these tools to** advocate for the changes necessary to end violence in their community.**
 
-	
-  * **[Refugee youth in Indianapolis](http://digital-democracy.org/2011/05/23/telling-the-stories-of-young-refugees-in-indianapolis/)** have used photography as a process and a tool to **break down prejudices** between different ethnic groups, bring diverse stories from their community to welcoming ears, and help kids **grow into community leaders** and build **strong friendships** across ethnic divides.
 
-	
-  * **[Indigenous youth in Guatemala](http://digital-democracy.org/2011/10/11/elections-in-guatemala/)** used digital video cameras and a blog to report on elections, **bridging the voices of rural & indigenous communities** **to the national conversation** about their choice for a new leader.
+  * **[Refugee youth in Indianapolis](/archive/telling-the-stories-of-young-refugees-in-indianapolis/)** have used photography as a process and a tool to **break down prejudices** between different ethnic groups, bring diverse stories from their community to welcoming ears, and help kids **grow into community leaders** and build **strong friendships** across ethnic divides.
+
+
+  * **[Indigenous youth in Guatemala](/archive/elections-in-guatemala/)** used digital video cameras and a blog to report on elections, **bridging the voices of rural & indigenous communities** **to the national conversation** about their choice for a new leader.
 
 
 
@@ -49,7 +49,7 @@ We can't do this work alone. We ask you to **[please participate in Digital Demo
 
 
 
-[![image](http://farm8.staticflickr.com/7006/6608743623_e91f19671c.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590)
+[![image](https://farm8.staticflickr.com/7006/6608743623_e91f19671c.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590)
 
 
 **_Exciting Update [12/31/11]: You have helped us raise & exceed our matching challenge!! [Please donate TODAY](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9936590) to help us raise $20,000 to start 2012 ready to make it the best Dd year yet! _**

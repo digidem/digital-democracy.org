@@ -18,47 +18,47 @@ What have we been up to the past twelve months? Quite a lot.
 
 
 
-	
+
   * Blog posts: 62
 
-	
+
   * Dd team member talks & presentations: 34
 
-	
+
   * Mainstream press about Dd: 16 articles/videos
 
-	
+
   * Digital Democracy TV (DdTv) episodes released: 6
 
-	
+
   * Country reports on ICT & civic participation published: 4
 
 
-Check out these reports from [Armenia](http://digital-democracy.org/2010/09/02/media-and-technology-in-armenia/), [Burma/Myanmar](http://digital-democracy.org/2010/11/05/burmamyanmar-technology-research-2/), [Haiti](http://digital-democracy.org/2010/03/01/project-einstein-haiti-report-the-earthquake/) & [Zimbabwe](http://digital-democracy.org/2010/11/17/zimbabwe-during-transition-and-hyperinflation/).
+Check out these reports from [Armenia](/archive/media-and-technology-in-armenia/), [Burma/Myanmar](/archive/burmamyanmar-technology-research-2/), [Haiti](http://digital-democracy.org/2010/03/01/project-einstein-haiti-report-the-earthquake/) & [Zimbabwe](http://digital-democracy.org/2010/11/17/zimbabwe-during-transition-and-hyperinflation/).
 
 **Work with local partners in the US & globally:**
 
 
 
-	
+
   * Number of people trained by Dd Staff: 465
 
-	
+
   * Countries where we worked: 21
 
-	
+
   * Ushahidi deployment trainings: 8
 
-	
+
   * Tech & security workshops with local partners: 6
 
-	
+
   * Additional workshops on media & mapping: 4
 
-	
+
   * Project Einstein deployments: 4 countries
 
-	
+
   * Projects related to election monitoring: 3
 
 
@@ -66,13 +66,13 @@ This year our **local partners** have done incredible work from filing petitions
 
 
 
-	
+
   * Photos taken by Project Einstein participants: 6,289.
 
-	
+
   * Incidents of human rights violations logged on Handheld Human Rights Burma: 661
 
-	
+
   * Blog posts by women in Haiti since 11/1/10: 15
 
 

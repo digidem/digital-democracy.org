@@ -1,12 +1,12 @@
 ---
-categories: 
+categories:
   - blog
 author: Biz Ghormley
 slug: "mapping-injustice-the-three-areas-of-work-for-dd%e2%80%99s-next-steps"
 title: "Mapping Injustice: the three areas of work for Dd’s next steps.   "
 wordpress_id: 3953
 published: true
-image: "http://farm8.staticflickr.com/7269/7679845896_e5ca2f990e_o.jpg"
+image: "https://farm8.staticflickr.com/7269/7679845896_e5ca2f990e_o.jpg"
 ---
 
 We're excited to share the plans and prospects that lie ahead for Digital Democracy following the Board's recent meeting in Haiti. **The Board has outlined directives for programming in three categories: Direct Implementation, Tool-Building & Local-to-Global Engagement.** The plans outlined mark significant growth for Dd. We are eager to share this overview of what lies ahead and invite you to join us in making it all possible!
@@ -20,7 +20,7 @@ We're excited to share the plans and prospects that lie ahead for Digital Democr
 
 **>>>** Due to the strength and success of the phases of our program, we plan** to wind down our work on the ground in Haiti **by the end of 2012. For the rest of the year we'll focus on fully transitioning the 572 Call Center & database system to local ownership, mapping national resources for gender-based violence and comprehensively documenting the scope of our work in Haiti and lessons learned.
 
-**>>> Digital Organizing in** **Chiapas. **Based on the success of our [pilot digital literacy trainings this spring](http://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico), we are planning to begin phase 2 of our work there.** **We will be returning to the Lacandon Jungle to engage in a longer-term mapping project focused on environmental sustainability and dialogue between indigenous villagers & Mexican authorities.
+**>>> Digital Organizing in** **Chiapas. **Based on the success of our [pilot digital literacy trainings this spring](https://www.slideshare.net/emjacobi/reporting-back-from-chiapas-mexico), we are planning to begin phase 2 of our work there.** **We will be returning to the Lacandon Jungle to engage in a longer-term mapping project focused on environmental sustainability and dialogue between indigenous villagers & Mexican authorities.
 
 **>>> **We are **bringing our work home. **Building from past projects with the New York City Department of Education and high schoolers in Indianapolis, we are excited to have a green-light from the board to explore possibilities for a **domestic Dd program**. We'll keep you posted as we meet with the coalition fighting Stop & Frisk in NYC, opportunities working with youth on data literacy in Newark, NJ and partnerships with other marginalized groups in NYC.
 

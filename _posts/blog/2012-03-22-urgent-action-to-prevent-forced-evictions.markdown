@@ -5,17 +5,17 @@ title: Urgent action to prevent forced evictions
 wordpress_id: 3793
 categories:
 - blog
-image: http://farm8.staticflickr.com/7117/7002015421_c2b2bae075_o.png
+image: https://farm8.staticflickr.com/7117/7002015421_c2b2bae075_o.png
 ---
 
 **Chiapas, Mexico:** Three indigenous communities in the Lancandon Jungle are under urgent threat of eviction from the Mexican authorities. We need your help to halt the evictions and help the indigenous communities gain more equal footing to advocate for their human rights. **There are three ways you can help today**: 1) Understand this complex issue. 2) Sign up to to for our Urgent Alerts so that you can take action as the situation evolves. 3) Donate to get a rapid response team on the ground.
 
 
-![image](http://farm8.staticflickr.com/7117/7002015421_c2b2bae075_o.png)
+![image](https://farm8.staticflickr.com/7117/7002015421_c2b2bae075_o.png)
 
 
 1) Understand the issue
-For a year [Dd has collaborated with civil society actors to build the concept for a community mapping program in Chiapas, Mexico](http://digital-democracy.org/2011/08/25/indigenous-science-film-in-mexico/). Chiapas is a region with a complex history of land tenure disputes between ethnic groups, timber companies and the government. There, the Montes Azules Biosphere Reserve holds Mexico's greatest concentration of biodiversity. In Montes Azules, 11 indigenous communities are under threat of imminent forced eviction by Mexican authorities. Last week, three communities were told they have only weeks left on the land.
+For a year [Dd has collaborated with civil society actors to build the concept for a community mapping program in Chiapas, Mexico](/archive/indigenous-science-film-in-mexico/). Chiapas is a region with a complex history of land tenure disputes between ethnic groups, timber companies and the government. There, the Montes Azules Biosphere Reserve holds Mexico's greatest concentration of biodiversity. In Montes Azules, 11 indigenous communities are under threat of imminent forced eviction by Mexican authorities. Last week, three communities were told they have only weeks left on the land.
 
 Evictions would be devastating — especially to the women of the community. Evictions would force the 500 villagers into urban slums or onto flood plains. Though the community has committed no crime, they would likely be held in detention. When resettled, finding a livelihood would be a struggle. For indigenous women in the community, it is very likely that they would be pushed into prostitution to survive.
 

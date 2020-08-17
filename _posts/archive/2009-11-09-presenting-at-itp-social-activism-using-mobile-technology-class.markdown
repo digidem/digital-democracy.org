@@ -16,31 +16,31 @@ Emily and I had the pleasure of guest lecturing at Nathan Freitas’ [Social Act
 
 
 
-> 
+>
 
-> 
-> 
-	
+>
+>
+
 >   1. Who are you and what is your project?
-> 
-	
+>
+
 >   2. How did you determine the need?
-> 
-	
+>
+
 >   3. What’s your biggest barrier to success?
-> 
-	
+>
+
 >   4. What impact do you hope to achieve?
-> 
+>
 
 
 
 
 
 
-> 
+>
 
-[![Social Activism using Mobile Technology class & Dd Advisor Abby Goldberg](http://4hours.files.wordpress.com/2009/11/img_1041.jpg?w=300&h=225)](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/)
+[![Social Activism using Mobile Technology class & Dd Advisor Abby Goldberg](https://4hours.files.wordpress.com/2009/11/img_1041.jpg?w=300&h=225)](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/)
 
 
 [Visit my blog to read more](http://4hours.wordpress.com/2009/11/09/presenting-at-itp-social-activism-using-mobile-technology-class/) about the class and their projects.

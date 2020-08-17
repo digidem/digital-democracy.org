@@ -21,7 +21,7 @@ _Mapeo_ is an easy-to-use offline mapping app built on [iD Editor][1], the defau
 
 _Mapeo_ is built on top of [osm-p2p][4], a peer-to-peer database designed to be used where internet is unreliable and teams need to make maps together, but can't stay connected. For example: two villages a half-day walk apart working together on the same map of their shared territory. _Mapeo_ provides a simple interface for adding and editing data and then synchronizing changes to a USB drive that can be taken to the next village, bringing the two datasets in sync.
 
-[4]: http://www.digital-democracy.org/blog/osm-p2p/
+[4]: /blog/osm-p2p/
 
 We consider _Mapeo_ alpha software right now: there are bugs and it is under active development. Our partners are already using it in Ecuador to create detailed and beautiful maps, and our team is working remotely directly with community mappers to learn about what works well and what needs improving. Over the next couple of months we are cleaning up the code, improving documentation, and creating auto-updating installers for Mac OSX and Windows. If you're feeling brave you can follow development, test it out, and help fix bugs and write code: everything is being done in the open over at the [Mapeo Github repo][5]
 
