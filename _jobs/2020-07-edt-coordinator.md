@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Project Coordinator
-published: true
+published: false
 excerpt: "We’re looking for a part-time Project Coordinator to join our small, remote team on an eight month contract (with potential long-term) starting as soon as possible to prepare materials and oversee the launch of an online learning platform for the 'Earth Defenders Toolkit'"
 ---
 Digital Democracy is looking for a part-time Project Coordinator to join

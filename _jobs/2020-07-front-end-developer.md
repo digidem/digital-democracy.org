@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Front-end Developer
-published: true
+published: false
 excerpt: "We’re looking for a front-end developer with 5+ years developer experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible."
 ---
 Digital Democracy is looking for a front-end developer with 5+ years of
