@@ -7,6 +7,7 @@ tags:
 current: true
 permalink: /team/rudo
 image: "/assets/rudo-kemper-headshot.jpg"
+twitter: "https://twitter.com/rudokemper"
 ---
 
 Rudo Kemper works with Digital Democracy on the programs team, and manages the creation of the Earth Defenders Toolkit. Rudo is a human geographer with a background in archives and international administration, and a lifelong technology tinkerer. He is passionate about co-creating and using technology to support marginalized communities in defending their right to self-determination and representation, and towards other decolonizing and emancipatory ends.
