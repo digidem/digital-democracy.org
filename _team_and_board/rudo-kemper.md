@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Rudo Kemper
-role: "Earth Defenders Toolkit"
+role: "Earth Defenders Toolkit & Programs"
 tags:
   - core
 current: true
