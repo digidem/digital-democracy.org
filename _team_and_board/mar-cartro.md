@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Mar Cartró Sabeté
+title: Mar Cartró Sabaté
 role: "Programs"
 tags:
   - core
