@@ -8,7 +8,7 @@ image: /assets/mike-migurski.jpg
 twitter: "https://twitter.com/michalmigurski"
 excerpt: ""
 email: ""
-"background-image": ""
+permalink: /team/mike
 ---
 
 

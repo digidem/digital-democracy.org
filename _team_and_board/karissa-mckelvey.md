@@ -5,7 +5,7 @@ role: "Technology and Partnerships"
 twitter: "https://twitter.com/okdistribute"
 tags:
   - core
-current: true
+current: false
 permalink: /team/karissa
 image: "/assets/karissa.jpeg"
 ---
