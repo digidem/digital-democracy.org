@@ -11,7 +11,7 @@ tags:
 ---
 
 Today, in tandem with the [Indigenous Mapping
-Workshop](http://indigenousmaps.com), the [Digital
+Workshop](https://indigenousmaps.com), the [Digital
 Democracy](https://www.digital-democracy.org/) team is excited to announce the
 **Earth Defenders’ Toolkit** (EDT), a collection of open-source tools and
 training materials for communities on the frontlines of the struggle to defend
@@ -52,7 +52,7 @@ In addition to providing a channel for tool access and training support,
 EDT will also build a collaborative platform for local community
 organizations and their allies and partners to co-create the toolkit and
 share digital knowledge. [Join the EDT
-community](http://earthdefenderstoolkit.com/) by signing up for
+community](https://earthdefenderstoolkit.com/) by signing up for
 the mailing list, and we'll keep you posted on how to get involved.
 
 (IMAGE)
@@ -75,4 +75,4 @@ planet. EDT is a critical channel for ensuring that frontline
 communities have access to effective tools to defend their homes.
 
 To learn more and sign up to the mailing list, visit:
-[http://earthdefenderstoolkit.com/](http://earthdefenderstoolkit.com/)
+[https://earthdefenderstoolkit.com/](https://earthdefenderstoolkit.com/)
