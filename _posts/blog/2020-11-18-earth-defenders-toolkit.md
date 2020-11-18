@@ -19,6 +19,8 @@ critical ecosystems around the world.
 
 ## How does it work?
 
+![A Cofan monitor in Ecuador using Mapeo Mobile](/assets/edt-website-cofan.jpg)
+
 The toolkit will contain [mapping,
 monitoring](https://www.digital-democracy.org/mapeo/) and
 [digital-storytelling](https://terrastories.io/) tools that can be used by
@@ -29,8 +31,6 @@ communities to:
 - Document human rights & environmental abuses
 - Reinforce local advocacy with concrete evidence
 - Tell their story to the world
-
-(IMAGE)
 
 ## Our Approach
 
@@ -55,7 +55,7 @@ share digital knowledge. [Join the EDT
 community](https://earthdefenderstoolkit.com/) by signing up for
 the mailing list, and we'll keep you posted on how to get involved.
 
-(IMAGE)
+![A close up view of Mapeo Mobile in someone's hands](/assets/edt-website-mapeo-mobile-closeup.jpg)
 
 ## Why now?
 
