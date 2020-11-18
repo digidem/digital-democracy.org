@@ -4,7 +4,7 @@ title: "Coming soon! The Earth Defenders’ Toolkit"
 published: true
 excerpt: "Today, in tandem with the Indigenous Mapping Workshop, the Digital Democracy team is excited to announce the Earth Defenders’ Toolkit (EDT)"
 author: Rudo Kemper
-image: /assets/md-obs.png
+image: /assets/edt-blogpost-image.jpg
 tags:
   - featured
   - front-page
