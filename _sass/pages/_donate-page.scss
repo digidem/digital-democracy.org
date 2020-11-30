@@ -28,7 +28,35 @@
   height: 60vh;
 }
 
-body.full-header.donate {
+@media #{$small-only} {
+  body.donate {
+    .slideshow-item h2.caption {
+      position: absolute;
+      bottom: 0;
+    }
+  }
+  .donate-header {
+    height: initial;
+  }
+  article.article {
+    .content:not(:first-child) > * {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+@media #{$small} {
+  body.donate {
+    article.article {
+      .content {
+        padding-top: 1em;
+      }
+    }
+  }
+}
+
+body.donate {
   article.article {
     top: initial;
   }
