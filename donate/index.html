@@ -1,48 +1,72 @@
 ---
-layout: default
+layout: no_nav
 published: true
+body_class: full-header donate
 ---
-<div class="row">
-  <div class="small-12 large-6 columns">
-    <h2>Support our work</h2>
-    <p>
-      All donations help us partner with communities worldwide to build and use technology to defend their rights.
-      <strong>Please make your tax-deductible contribution today.</strong>
-    </p>
-    <h4>May 2020: Support Frontline Communities fighting the Coronavirus Pandemic</h4>
-    <p>
-      To contribute directly to our grassroots Indigenous partners,
-      please <a href="/covid" target="_blank" rel=”noopener noreferrer”>donate directly to our Covid Emergency fund.</a>
-      100% of your donation to Indigenous partners in Peru working to meet
-      immediate food & sanitation needs during the pandemic.
-    </p>
-    <p>
-      <strong><a href="/covid" target="_blank" rel=”noopener noreferrer”>Donate to the Covid Emergency Fund</a></strong>
-    </p>
-    <hr>
-  </div>
-  <div class="small-12 large-6 columns">
-    <div class="donate-form-wrapper">
-      <script
-        src="https://cdn.donately.com/dntly-core/3.6/core.min.js"
-        data-donately-id='act_16d7a3b1160b'
-        data-stripe-publishable-key='pk_live_LLK3uNLcpQzfXoNg9FZ1WnuI'
-        data-donately-form-id='frm_19c3fbfad38b'
-        data-donately-presets='50,100,250,500,1000'
-        data-donately-amount='25'
-        data-donately-payment-options='cc,ach,paypal'
-        data-donately-donor-pays-fees='{"cc":{"processor_percent":0.029,"processor_fixed":0.3,"processor_cap":"","dntly_percent":0.03,"complex_calc":true},"ach":{"processor_percent":0.008,"processor_fixed":0,"processor_cap":5,"dntly_percent":0.03,"complex_calc":true},"paypal":{"processor_percent":0.029,"processor_fixed":0.3,"processor_cap":"","dntly_percent":0.03,"complex_calc":true}}' data-donately-campaign-id='cmp_4ccb03e03bae'>
-      </script>
+
+<header class="site-header">
+  <h1 class="logo">
+    <a href="/">Digital</a>
+    <br />
+    <a href="/">Democracy</a>
+  </h1>
+</header>
+
+<header class="donate-header">
+  <div class="slideshow-item">
+      <div class="image">
+        <img src="/assets/team_on_ferry.jpg" class="check-aspect-ratio" />
+      </div>
+      <h2 class="caption">
+        <strong>Support Digital Democracy</strong>
+      </h2>
+    </div></div>
+  </header>
+
+  <article class="article">
+    <div class="content" tx-content="block">
+      <h1>Your donation will…</h1>
+
+      <ul>
+        <li>
+          Empower Indigenous communities and protect valuable ecosystems
+          worldwide
+        </li>
+        <li>
+          Support the development and circulation of open source technology to
+          map and monitor environmental and human rights abuses
+        </li>
+        <li>Strengthen community-led advocacy by Indigenous partners</li>
+      </ul>
     </div>
-    <script type="text/javascript">
-    var wrapper = document.getElementsByClassName('donate-form-wrapper')[0]
-    window.addEventListener('message', function (event) {
-      try { var data = JSON.parse(event.data) }
-      catch (e) { var data = event.data }
-      if (data.event == 'donately.loaded') {
-        wrapper.classList.add('loaded')
-      }
-    })
-  </script>
+
+
+<div class="content" tx-content="block">
+  <div class="donate-form-wrapper">
+    <script
+      src="https://cdn.donately.com/dntly-core/3.6/core.min.js"
+      data-donately-id="act_16d7a3b1160b"
+      data-stripe-publishable-key="pk_live_LLK3uNLcpQzfXoNg9FZ1WnuI"
+      data-donately-form-id="frm_19c3fbfad38b"
+      data-donately-presets="50,100,250,500,1000"
+      data-donately-amount="25"
+      data-donately-payment-options="cc,ach,paypal"
+      data-donately-donor-pays-fees='{"cc":{"processor_percent":0.029,"processor_fixed":0.3,"processor_cap":"","dntly_percent":0.03,"complex_calc":true},"ach":{"processor_percent":0.008,"processor_fixed":0,"processor_cap":5,"dntly_percent":0.03,"complex_calc":true},"paypal":{"processor_percent":0.029,"processor_fixed":0.3,"processor_cap":"","dntly_percent":0.03,"complex_calc":true}}'
+      data-donately-campaign-id="cmp_4ccb03e03bae"
+    ></script>
   </div>
+  <script type="text/javascript">
+    var wrapper = document.getElementsByClassName("donate-form-wrapper")[0];
+    window.addEventListener("message", function (event) {
+      try {
+        var data = JSON.parse(event.data);
+      } catch (e) {
+        var data = event.data;
+      }
+      if (data.event == "donately.loaded") {
+        wrapper.classList.add("loaded");
+      }
+    });
+  </script>
 </div>
+</article>
