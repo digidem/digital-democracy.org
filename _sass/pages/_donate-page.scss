@@ -21,3 +21,27 @@
   border: 1px solid $dd-blue;
   border-radius: 4px;
 }
+
+.donate-header {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+}
+
+body.full-header.donate {
+  article.article {
+    top: initial;
+  }
+  footer {
+    top: initial;
+  }
+}
+
+article.article {
+  .content:first-child > * {
+    padding-right: 0;
+  }
+  .content:not(:first-child) {
+    padding-top: 0;
+  }
+}
