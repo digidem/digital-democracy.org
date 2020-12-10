@@ -22,13 +22,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       ## publish boolean is unnecessary now with the CMS, it has a built-in preview process
       - {label: "Published", name: "published", widget: "hidden", default: true}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Publish Date", name: "date", date_format: "LL", time_format: "LT", widget: "datetime"}
+      - {label: "Excerpt", name: "excerpt", widget: "text", hint: "This excerpt is used for the blog posts on the front page and in list view. If this is blank the first paragraph of the post will be used"}
+      - {label: "Author", name: "author", widget: "string", hint: "This should be the full name, matching the full name used in the team page metadata (if writer is on that page)"}
+      - {label: "Featured Image", name: "image", widget: "image", required: true, hint: "Main header image for blog post"}
       - label: "Tags"
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["featured", "front-page"]
+        options: ["featured"]
+        hint: "The most recent post with the 'featured' tag will appear at the top of the blog page"
       - {label: "Body", name: "body", widget: "markdown"}
