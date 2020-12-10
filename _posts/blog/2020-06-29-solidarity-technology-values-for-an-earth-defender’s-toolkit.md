@@ -2,7 +2,7 @@
 categories: blog
 title: "Solidarity Technology: Values for an Earth Defender’s Toolkit"
 published: true
-date: 2020-06-29T18:48:20.517Z
+date: 2020-06-29
 excerpt: Over the past year, we’ve dug deeply into our convictions and had
   empowering conversations with practitioners, allies, and partners.  We combine
   this with our own experiences co-designing technology with earth defenders

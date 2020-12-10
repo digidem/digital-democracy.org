@@ -2,7 +2,7 @@
 categories: blog
 title: Telling a Different Story about Technology, with Ramesh Srinivasan
 published: true
-date: 2020-06-17T21:05:55.260Z
+date: 2020-06-17
 excerpt: Ramesh is a technologist who grounds his work in human experiences. He
   has traveled the world to report on innovative ways that local communities are
   making technology their own.

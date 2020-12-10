@@ -2,7 +2,7 @@
 categories: blog
 title: "Color Coded: Building Technologies of Respect for Our Collective Liberation "
 published: true
-date: 2020-06-17T21:43:59.232Z
+date: 2020-06-17
 excerpt: "A conversation with Cesia Domínguez López, Co-founder of Color Coded. "
 author: Karissa McKelvey
 image: /assets/img_0420.gif

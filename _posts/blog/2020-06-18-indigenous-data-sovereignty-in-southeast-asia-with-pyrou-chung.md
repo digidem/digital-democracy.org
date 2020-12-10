@@ -2,7 +2,7 @@
 categories: blog
 title: Indigenous Data Sovereignty in Southeast Asia, with Pyrou Chung
 published: true
-date: 2020-06-19T14:27:00.000Z
+date: 2020-06-19
 excerpt: "Even with all of the technology in the world, the paper mapping
   process still needs to happen. There still needs to be a physical aspect to
   help people understand what all of this data and information means "

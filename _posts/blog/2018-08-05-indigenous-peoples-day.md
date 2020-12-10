@@ -3,7 +3,7 @@ categories: blog
 published: true
 title: "Partner Spotlight: International Indigenous Peoples Day"
 author: Aliya Ryan
-date: 2018-08-09T10:20:00Z
+date: 2018-08-09
 tags:
   - featured
   - front-page
