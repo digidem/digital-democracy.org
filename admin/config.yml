@@ -17,6 +17,14 @@ collections:
     folder: "_posts/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{year}}-{{month}}-{{day}} {{title}}"
+    sortable_fields: ['date', 'commit_date', 'title']
+    editor:
+      preview: false
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
     fields:
       - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
@@ -32,4 +40,54 @@ collections:
         multiple: true
         options: ["featured"]
         hint: "The most recent post with the 'featured' tag will appear at the top of the blog page"
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Post body", name: "body", widget: "markdown"}
+  - name: "team"
+    label: "Team members"
+    label_singular: "Team member"
+    folder: "_team_and_board"
+    summary: "{{title}} ({{fields.role}})"
+    filter: {field: "tags", value: "core"}
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    view_groups:
+      - label: "Role"
+        field: "role"
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Role", name: "role", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: "core"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
+      - {label: "Image", name: "image", widget: "image", required: true, hint: "A headshot, must be square (1:1)"}
+      - label: "URL"
+        name: "permalink"
+        widget: "string"
+        hint: "Relative URL for this page, must start with `/team`"
+        pattern: ['^\/team\/.*', 'Must start with /team']
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "URL of a twitter profile e.g. https://twitter.com/emjacobi"
+        pattern: ['^https:\/\/twitter\.com\/.*', 'Must be a URL starting with https://twitter.com/']
+      - {label: "Bio", name: "body", widget: "markdown"}
+  - name: "board"
+    label: "Board members"
+    label_singular: "Board member"
+    folder: "_team_and_board"
+    summary: "{{title}}"
+    filter: {field: "tags", value: "board"}
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Role", name: "role", widget: "string", default: "Board"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: "board"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
+      - {label: "Image", name: "image", widget: "image", required: true, hint: "A headshot, must be square (1:1)"}
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "URL of a twitter profile e.g. https://twitter.com/emjacobi"
+        pattern: ['^https:\/\/twitter\.com\/.*', 'Must be a URL starting with https://twitter.com/']
+      - {label: "Bio", name: "body", widget: "markdown"}
