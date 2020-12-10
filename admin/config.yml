@@ -51,6 +51,7 @@ collections:
     label: "Team members"
     label_singular: "Team member"
     folder: "_team_and_board"
+    create: true
     summary: "{{title}} ({{fields.role}})"
     filter: {field: "tags", value: "core"}
     slug: "{{slug}}"
@@ -80,6 +81,7 @@ collections:
     label: "Board members"
     label_singular: "Board member"
     folder: "_team_and_board"
+    create: true
     summary: "{{title}}"
     filter: {field: "tags", value: "board"}
     slug: "{{slug}}"
