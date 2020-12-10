@@ -3,7 +3,7 @@ categories: blog
 title: Co-creating an Earth Defenders Toolkit with the Indigenous Mapping
   Community at #2020IMW
 published: true
-date: 2020-12-09
+date: 2020-12-10
 excerpt: Last month, Digital Democracy and our allies announced the launch of
   the Earth Defenders Toolkit at the 2020 Virtual Indigenous Mapping Workshop,
   and I'm delighted to share with you some of what we learned.
