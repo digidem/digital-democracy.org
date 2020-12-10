@@ -1,4 +1,5 @@
 ---
+date: 2014-12-24
 categories: blog
 published: true
 title: "Join Dd's Mesh Network"

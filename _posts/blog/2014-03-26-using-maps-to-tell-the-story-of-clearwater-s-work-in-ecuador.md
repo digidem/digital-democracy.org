@@ -1,4 +1,5 @@
 ---
+date: 2014-03-26
 categories: blog
 published: true
 title: "Using maps to tell the story of ClearWater's work in Ecuador"

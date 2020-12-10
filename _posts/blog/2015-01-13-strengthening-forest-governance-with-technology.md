@@ -1,4 +1,5 @@
 ---
+date: 2015-01-13
 categories: blog
 published: true
 title: Strengthening Forest Governance with Technology

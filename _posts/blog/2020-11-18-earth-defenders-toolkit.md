@@ -1,4 +1,5 @@
 ---
+date: 2020-11-18
 categories: blog
 title: "Coming soon! The Earth Defenders’ Toolkit"
 published: true

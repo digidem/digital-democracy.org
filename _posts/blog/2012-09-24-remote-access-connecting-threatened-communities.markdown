@@ -1,4 +1,5 @@
 ---
+date: 2012-09-24
 categories:
   - blog
 author: Emily Jacobi

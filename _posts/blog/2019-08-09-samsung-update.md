@@ -1,4 +1,5 @@
 ---
+date: 2019-08-09
 categories: blog
 published: true
 title: "Mapeo Update on Samsung NEXT Stack Zero Grant"

@@ -1,4 +1,5 @@
 ---
+date: 2017-10-05
 categories: blog
 published: true
 title: "Guyana: Wapichan villages publish monitoring data showing widespread illegal mining"

@@ -12,25 +12,25 @@ tags:
   - front-page
   - featured
 ---
-*T B Dinesh is a community media activist with a background in Computer Science. The recent focus of his work is on storytelling methods and encouraging people from marginalised communities to tell their own stories and document their ways of life. T B Dinesh is a founder of Janastu in Bangalore, India. [Janastu](https://www.janastu.org/home/index.html#/about-us) is a non-profit that has been providing free and open-source software solutions and support to small not-for-profit and non-governmental organizations (NPOs/NGOs) since 2002.* 
+*T B Dinesh is a community media activist with a background in Computer Science. The recent focus of his work is on storytelling methods and encouraging people from marginalised communities to tell their own stories and document their ways of life. T B Dinesh is a founder of Janastu in Bangalore, India. [Janastu](https://www.janastu.org/home/index.html#/about-us) is a non-profit that has been providing free and open-source software solutions and support to small not-for-profit and non-governmental organizations (NPOs/NGOs) since 2002.*
 
-*The following is a shortened transcript of a conversation we had in the spring.* 
+*The following is a shortened transcript of a conversation we had in the spring.*
 
 **Karissa: What are you working on these days?**
 
 **Dinesh:** Our big slow-moving project is focused on local knowledge and local Wi-Fi mesh networks in rural and remote areas in India. 60-70% of India is illiterate -- for all practical purposes, they cannot read or write -- which describes most of the population.
 
-We’re focused on how to make local knowledge tools that do not expect any kind of literacy. We are building an audio internet where most of the publications are audio/video, stories and visuals. The term ‘hypermedia’ means linking one piece of knowledge to another, like HTML does. We are taking this concept and doing it with audio/visual. 
+We’re focused on how to make local knowledge tools that do not expect any kind of literacy. We are building an audio internet where most of the publications are audio/video, stories and visuals. The term ‘hypermedia’ means linking one piece of knowledge to another, like HTML does. We are taking this concept and doing it with audio/visual.
 
 For example, we give village girls a community radio device. If she has a geometry equipment box, we put a Raspberry Pi inside and do group recordings.. If she has a phone she can use it to transmit, but the system doesn't require a phone. The radios encourage group activity and collaboration while phones are personal.
 
 She just hits a button and starts talking, she doesn’t need to print, put it on a palm leaf or paper or inscribe it on a rock. Two generations later someone can listen to it. It does not ask who you are -- if you are a rural person or tribal or educated. It's an amazing new equality.
 
-[Listen to stories from Namma School Radio](https://www.namdu1radio.com/). 
+[Listen to stories from Namma School Radio](https://www.namdu1radio.com/).
 
 ![](/assets/dinesh1.jpg)
 
-*A media making kiosk-studio, including a microphone and monitor.* 
+*A media making kiosk-studio, including a microphone and monitor.*
 
 
 
@@ -40,11 +40,11 @@ She just hits a button and starts talking, she doesn’t need to print, put it o
 
 
 
-The caste system is based on enslaving a large number of people as sacred knowledge propagators. These propagators were forced to memorize the “Word of God”, and regurgitate it in another space and time. The Brahmins came up with many creative systems to preserve knowledge that relies upon millions of people, generations upon generations, just so something could be orally replicated with precision. 
+The caste system is based on enslaving a large number of people as sacred knowledge propagators. These propagators were forced to memorize the “Word of God”, and regurgitate it in another space and time. The Brahmins came up with many creative systems to preserve knowledge that relies upon millions of people, generations upon generations, just so something could be orally replicated with precision.
 
 When you look at the axis at any rural school, of 100 children studying, only 5-10 will be able to read and write, go to town, and get a basic job as an errand boy or cleaner. Most others will experience an invalidation of the self, as a typical school curriculum can only validate one who is comfortably literate.
 
-They want a way to validate themselves by just talking rather than feeling like they are lesser beings by not knowing how to read and write. I’m not saying they shouldn’t be taught, but to require it invalidates a person, and it’s time to change that. 
+They want a way to validate themselves by just talking rather than feeling like they are lesser beings by not knowing how to read and write. I’m not saying they shouldn’t be taught, but to require it invalidates a person, and it’s time to change that.
 
 **Karissa: In typical software development practice based in Europe/US, literacy isn’t really thought of as a key component of accessibility. Cell phones are designed for people who are literate.**
 
@@ -56,13 +56,13 @@ So if it's a text-heavy document, how do you make it accessible to people who ca
 
 ![](/assets/dinesh2.png)
 
-So we work with a web annotation framework. Annotations are another layer over the web. We don't assume anything is automatic in this process. But this doesn't take a lot of time. it doesn't need to be an all or nothing task - typically, it’s more likely that someone provides an alternative narrative that is suitable for the person they want to share the document with.  
+So we work with a web annotation framework. Annotations are another layer over the web. We don't assume anything is automatic in this process. But this doesn't take a lot of time. it doesn't need to be an all or nothing task - typically, it’s more likely that someone provides an alternative narrative that is suitable for the person they want to share the document with.
 
 For example, the [minimum wage act](http://wiki.janastu.org/wiki/ReNarrationAct) that we've worked on -- many people who need it probably can't read it. A simplified English version of the act was published 30 years later, but otherwise,  it's in legal language. The easy to read version helps the local Indian NGOs understand it. They need a simplified version in order to explain it to their stakeholders - ie., what the act is about, and to provide a general understanding of what minimum wages mean.
 
 **Karissa: What led you to start working on local knowledge?**
 
-**Dinesh:** We started trying to make it easy for NGOs to manage the community knowledge they assimilate when we worked on a platform called Pantoto - communities managing community knowledge. Most of the NGOs we were working with were afraid that their work would get stolen. We tried to explain that if they put their work out on the Web, a reader would be able to look it up and know that it was originally published by them and thus realise if someone was misappropriating their content. For original content, it matters that you put it out there, publish it. 
+**Dinesh:** We started trying to make it easy for NGOs to manage the community knowledge they assimilate when we worked on a platform called Pantoto - communities managing community knowledge. Most of the NGOs we were working with were afraid that their work would get stolen. We tried to explain that if they put their work out on the Web, a reader would be able to look it up and know that it was originally published by them and thus realise if someone was misappropriating their content. For original content, it matters that you put it out there, publish it.
 
 As we were working with smaller groups in different villages, we started to focus on content accessibility issues for their specific needs.
 
@@ -74,7 +74,7 @@ Now, after almost a decade, our work is an attempt to address aspects of accessi
 
 **Karissa: What are some key challenges that you’ve had to overcome while building out this project?**
 
-**Dinesh:** One challenge we have is how to store all of the information. Everyone has something to say, sing, recipes, stories, lessons … the many ways we learn. But how do we store it? We have created a Wi-Fi mesh network of archives that are locally available on the mesh. Then, all of our tools help people annotate their content so that it's discoverable and navigable. 
+**Dinesh:** One challenge we have is how to store all of the information. Everyone has something to say, sing, recipes, stories, lessons … the many ways we learn. But how do we store it? We have created a Wi-Fi mesh network of archives that are locally available on the mesh. Then, all of our tools help people annotate their content so that it's discoverable and navigable.
 
 All of their data will stay on their own Raspberry Pi - they don't need to push anything out to anywhere else. We are cheating a bit, by syncing in the background that's encrypted, just in case they were to lose everything. Once it's out on the mesh archive, it's sharable on WhatsApp, or can be synced with another Pi in a different village.
 
@@ -102,7 +102,7 @@ This “BCP” work focuses on making written legal documents with the community
 
 Different people contribute to the whole document. You can also add audio per paragraph, and see the translation. The software keeps a connection to the original so that you can have that authenticity, even if it's different and not about translation, about re-narration, it has a backlink to the original. This is one way to address the huge question of how to tell a new story from an existing one.
 
-We are trying to use it as the new standard to do all the annotations. Every edit and re-narration is authored and attributed to the people who contributed. 
+We are trying to use it as the new standard to do all the annotations. Every edit and re-narration is authored and attributed to the people who contributed.
 
 **Karissa: What is the tension between the global Internet and what's accessible locally?**
 
@@ -110,7 +110,7 @@ We are trying to use it as the new standard to do all the annotations. Every edi
 
 For example, if you make a computer game with your village, you're not going to get a gun and shoot all your neighbors. You see this everywhere -- as soon as I am anonymous, I can use bad words to harm someone I don't know, loud and clear. This relates to everything on the Internet, even the online harassment of women. Where does it come from? Disconnection? The thrill?
 
-This is why logging in and authentication becomes so important for these larger internet companies. When you go to the village, it's the last thing you need, or rather, you can't even do it. Logging in without internet connectivity just to authenticate somebody, but why? 
+This is why logging in and authentication becomes so important for these larger internet companies. When you go to the village, it's the last thing you need, or rather, you can't even do it. Logging in without internet connectivity just to authenticate somebody, but why?
 
 ![](/assets/dinesh7.jpeg "*Students at rural public school working together and listening to a podcast on the mesh.*")
 
@@ -120,13 +120,13 @@ This is why logging in and authentication becomes so important for these larger 
 
 **Dinesh:** To be honest, it's more educational than their experience at school and very validating. The syllabi for their typical education is set in the capital of the state and pushed down to every village without any contextual knowledge, so that the state has a common metric for who knows addition, multiplication, etc.
 
-They want to know that people have actually learned this.  If the schools teach a more flexible, contextual syllabus, they can't test them. It’s all very puzzling. 
+They want to know that people have actually learned this.  If the schools teach a more flexible, contextual syllabus, they can't test them. It’s all very puzzling.
 
-What we’re doing is not about limiting them to a set standard, it's about giving them access and opening them up. 
+What we’re doing is not about limiting them to a set standard, it's about giving them access and opening them up.
 
 **Karissa: Do they share their stories between communities?**
 
-**Dinesh:** Our collective has a community radio van, with a solar roof and WiFi, it can go everywhere. This van has a studio in it where people can cut, edit, and publish the stories. When the van comes back to the community, it synchronizes. These are initially in a “raw” bucket and then moved to curated buckets to be picked up by anyone. If you record something in your Pi, it syncs whenever it connects to the network. 
+**Dinesh:** Our collective has a community radio van, with a solar roof and WiFi, it can go everywhere. This van has a studio in it where people can cut, edit, and publish the stories. When the van comes back to the community, it synchronizes. These are initially in a “raw” bucket and then moved to curated buckets to be picked up by anyone. If you record something in your Pi, it syncs whenever it connects to the network.
 
 ![](/assets/dinesh8.jpeg "*Community Radio activity center and camp setup (Source: [jaaga.in](http://www.jaaga.in/), Bengaluru)*")
 
@@ -140,9 +140,9 @@ We do automatic sync so people realize they are not alone in this. They realize 
 
 We ask the community to contribute and suggest tags for the audio files. There are lots of pieces like this, just scratching the surface of what we are doing. Most of all, it's about using the non-typical approach. We don't insist on web forms, for example. It's contributed metadata, it's not self-proclaimed metadata, added after the fact by many people.
 
-If they do that, they become something and get an understanding of how the world works. If nothing is handed down, they can't change the world. 
+If they do that, they become something and get an understanding of how the world works. If nothing is handed down, they can't change the world.
 
-**Learn more:** 
+**Learn more:**
 
 Re-narration Web: <http://a11y.in>
 

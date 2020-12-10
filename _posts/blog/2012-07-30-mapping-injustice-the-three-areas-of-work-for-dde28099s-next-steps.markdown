@@ -1,4 +1,5 @@
 ---
+date: 2012-07-30
 categories:
   - blog
 author: Biz Ghormley

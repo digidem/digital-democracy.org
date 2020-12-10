@@ -1,4 +1,5 @@
 ---
+date: 2019-12-11
 categories: blog
 published: true
 title: "The effect of surveillance capitalism on social change efforts, with Allen Gunn"

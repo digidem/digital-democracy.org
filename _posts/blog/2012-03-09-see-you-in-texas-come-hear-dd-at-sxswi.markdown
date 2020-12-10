@@ -1,4 +1,5 @@
 ---
+date: 2012-03-09
 author: Biz Ghormley
 slug: see-you-in-texas-come-hear-dd-at-sxswi
 title: See you in Texas... Come hear Dd at SXSWi

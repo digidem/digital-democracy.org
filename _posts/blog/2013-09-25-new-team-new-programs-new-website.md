@@ -1,4 +1,5 @@
 ---
+date: 2013-09-25
 categories: blog
 published: true
 title: "New team, new programs, new website"

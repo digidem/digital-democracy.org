@@ -1,4 +1,5 @@
 ---
+date: 2015-05-23
 categories: blog
 published: true
 title: Honoring the life of Dan Fredinburg

@@ -1,4 +1,5 @@
 ---
+date: 2012-05-25
 author: Emily Jacobi
 slug: reporting-back-from-chiapas-mexico
 title: Reporting back from Chiapas, Mexico

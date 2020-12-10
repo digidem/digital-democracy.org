@@ -1,4 +1,5 @@
 ---
+date: 2012-06-11
 author: Biz Ghormley
 slug: support-dd-and-our-kili-climbing-team
 title: Support Dd and our Kili-climbing team

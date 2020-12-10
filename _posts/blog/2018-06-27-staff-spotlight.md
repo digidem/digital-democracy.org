@@ -1,4 +1,5 @@
 ---
+date: 2018-06-27
 categories: blog
 published: true
 title: "Meet the team"

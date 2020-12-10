@@ -1,4 +1,5 @@
 ---
+date: 2012-11-08
 author: Emily Jacobi
 slug: resilience-response-sandy-in-haiti-new-york-beyond
 title: 'Resilience & Response: Sandy in Haiti, New York & Beyond'

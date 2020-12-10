@@ -1,4 +1,5 @@
 ---
+date: 2016-06-09
 categories: blog
 author: Gregor MacLennan
 excerpt: "We’ve built mapping tools based on OpenStreetMap that work offline and without any server, which indigenous communities in the Amazon are using to create territory maps to defend their ancestral rainforest home from oil drilling, mining and logging."

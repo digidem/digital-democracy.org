@@ -1,4 +1,5 @@
 ---
+date: 2012-02-27
 author: Biz Ghormley
 slug: a-different-kind-of-record-burma-barcamp-and-the-lady
 title: 'A Different Kind of Record: Burma, BarCamp and the Lady'

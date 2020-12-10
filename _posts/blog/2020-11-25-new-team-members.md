@@ -1,4 +1,5 @@
 ---
+date: 2020-11-25
 categories: blog
 title: "Welcoming new team members"
 published: true

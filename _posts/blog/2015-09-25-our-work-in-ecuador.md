@@ -1,4 +1,5 @@
 ---
+date: 2015-09-25
 categories: blog
 layout: video
 published: true

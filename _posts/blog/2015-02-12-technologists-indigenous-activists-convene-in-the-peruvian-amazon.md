@@ -1,4 +1,5 @@
 ---
+date: 2015-02-12
 categories: blog
 published: true
 title: "Technologists & Indigenous Activists Convene in the Peruvian Amazon"

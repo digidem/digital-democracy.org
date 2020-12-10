@@ -1,4 +1,5 @@
 ---
+date: 2013-11-26
 categories: blog
 published: false
 title: "Join Dd's Board of Directors"

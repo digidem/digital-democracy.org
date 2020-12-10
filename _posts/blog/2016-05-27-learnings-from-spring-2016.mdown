@@ -1,4 +1,5 @@
 ---
+date: 2016-05-27
 categories: blog
 author: Ruth Miller
 excerpt: "Five months, 15000 miles, 57 Git commits, four drones, and many, many batteries. As my time at Digital Democracy winds down, here's a look back on what it's like to work with technology for the defense of human rights."

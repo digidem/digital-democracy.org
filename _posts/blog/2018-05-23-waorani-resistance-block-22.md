@@ -1,4 +1,5 @@
 ---
+date: 2018-05-23
 categories: blog
 published: true
 title: '“Our land is not for sale”: Waorani Resistance in Ecuador'

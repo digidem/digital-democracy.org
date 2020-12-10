@@ -1,4 +1,5 @@
 ---
+date: 2019-10-29
 categories: blog
 published: true
 title: "Local-first software for frontline communities"

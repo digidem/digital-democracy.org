@@ -1,4 +1,5 @@
 ---
+date: 2012-12-11
 categories:
   - blog
 author: admin

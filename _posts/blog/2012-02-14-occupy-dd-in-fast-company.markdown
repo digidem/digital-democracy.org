@@ -1,4 +1,5 @@
 ---
+date: 2012-02-14
 author: Biz Ghormley
 slug: occupy-dd-in-fast-company
 title: Occupy & Dd in Fast Company

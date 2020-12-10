@@ -1,4 +1,5 @@
 ---
+date: 2014-12-12
 categories: blog
 published: true
 title: Help us Hack the Rainforest

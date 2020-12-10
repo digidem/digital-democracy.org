@@ -1,4 +1,5 @@
 ---
+date: 2013-01-31
 categories:
   - blog
 title: "First Hackathon to be held in Haiti: Cross-cultural collaboration to create community-driven solutions"

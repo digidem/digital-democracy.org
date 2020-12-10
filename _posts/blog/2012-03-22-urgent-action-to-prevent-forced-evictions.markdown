@@ -1,4 +1,5 @@
 ---
+date: 2012-03-22
 author: Emily Jacobi
 slug: urgent-action-to-prevent-forced-evictions
 title: Urgent action to prevent forced evictions

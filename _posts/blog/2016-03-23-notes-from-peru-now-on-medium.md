@@ -1,4 +1,5 @@
 ---
+date: 2016-03-23
 categories: blog
 author: Ruth Miller
 excerpt: "Inspired, and with ample time and notebooks to sketch and write, I jotted down some observations. These informed two posts that are now up on Digital Democracy's Medium page."

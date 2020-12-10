@@ -1,4 +1,5 @@
 ---
+date: 2012-04-30
 author: Biz Ghormley
 slug: take-the-social-tech-census-%e2%80%94-support-global-digital-advocacy
 title: Take the Social Tech Census — Support Global Digital Advocacy

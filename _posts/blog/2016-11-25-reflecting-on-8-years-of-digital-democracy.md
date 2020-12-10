@@ -1,4 +1,5 @@
 ---
+date: 2016-11-25
 categories: blog
 published: true
 title: "Reflecting on 8 Years of Digital Democracy"

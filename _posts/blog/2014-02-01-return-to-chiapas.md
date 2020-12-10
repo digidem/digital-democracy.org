@@ -1,4 +1,5 @@
 ---
+date: 2014-02-01
 categories: blog
 published: true
 title: Return to Chiapas

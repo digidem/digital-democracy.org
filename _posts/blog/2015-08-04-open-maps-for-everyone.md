@@ -1,4 +1,5 @@
 ---
+date: 2015-08-04
 categories: blog
 published: true
 title: Open Maps for Everyone

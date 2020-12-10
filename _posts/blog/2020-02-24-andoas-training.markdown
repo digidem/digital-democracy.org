@@ -1,4 +1,5 @@
 ---
+date: 2020-02-24
 categories: blog
 published: true
 title: "Reflecting on Bringing MAPEO to Northern Peru"

@@ -1,4 +1,5 @@
 ---
+date: 2015-05-26
 categories: blog
 published: true
 title: Code with us

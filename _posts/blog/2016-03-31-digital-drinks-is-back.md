@@ -1,4 +1,5 @@
 ---
+date: 2016-03-31
 categories: blog
 author: Ruth Miller
 excerpt: "The Amazon is muggy, but Oakland is perfectly sunny. Celebrate the change of seasons and meet other technologists for good at our first Digital Drinks of 2016. "

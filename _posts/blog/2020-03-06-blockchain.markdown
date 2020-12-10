@@ -1,4 +1,5 @@
 ---
+date: 2020-03-06
 categories: blog
 published: true
 title: "Cooperative Ownership of Data without Blockchain"

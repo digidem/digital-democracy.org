@@ -1,4 +1,5 @@
 ---
+date: 2016-05-18
 categories: blog
 layout: video
 published: false

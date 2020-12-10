@@ -1,4 +1,5 @@
 ---
+date: 2012-01-27
 author: Biz Ghormley
 slug: tech4activism-join-us-at-the-eyebeam-demo-day
 title: 'Tech4Activism: Join us at the Eyebeam DEMO Day!'

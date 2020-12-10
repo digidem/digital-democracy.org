@@ -1,4 +1,5 @@
 ---
+date: 2014-12-16
 categories: blog
 layout: post
 published: false

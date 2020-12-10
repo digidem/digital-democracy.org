@@ -1,4 +1,5 @@
 ---
+date: 2012-11-12
 author: Biz Ghormley
 slug: redefine-whats-possible-with-dd
 title: Redefine what's possible with Dd

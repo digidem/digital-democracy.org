@@ -1,4 +1,5 @@
 ---
+date: 2019-05-26
 categories: blog
 published: true
 title: "Maps in Court and the Waorani Victory"

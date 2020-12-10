@@ -88,4 +88,14 @@ Too often, projects are rushed due to constraints of time, resources and personn
 
 To fundamentally flip this approach would mean having communities design and develop their own applications without intermediaries and contractors. This will not happen immediately. And Indigenous communities are always at the tail-end of design considerations. Most applications are already designed before women are considered, check, and then you think about indigenous communities, check. We need to stop treating marginalized communities like boxes that have to be checked. Instead, we need to think about the most marginalized communities first, and then work our way up because it's easier to be inclusive from the get-go. What are the fundamental needs of a person with no literacy, no tech skills — and then build from there.
 
-In Asia, the difficulty is the intermediary factor. There's always some NGO or intermediate group that's facilitating the communications. And I have to recognize that’s true for us as well — we don't have a big field base so we're working through intermediaries. But ideally, the focus should be around building capacity and infrastructure within the communities to self manage their systems. And the design will come. Unfortunately, there's not a lot of funders that want to invest in these systems because it doesn't tick their boxes —funding boxes, development boxes. It doesn't tick global agendas. There was recently [a study](https://www.philanthropy.com/article/Nonprofits-Led-by-People-of/248720) that showed that funders award less money to organizations led by people of color, and that’s a fundamental part of the problem.
+In Asia, the difficulty is the intermediary factor. There's always some NGO or
+intermediate group that's facilitating the communications. And I have to
+recognize that’s true for us as well — we don't have a big field base so we're
+working through intermediaries. But ideally, the focus should be around building
+capacity and infrastructure within the communities to self manage their systems.
+And the design will come. Unfortunately, there's not a lot of funders that want
+to invest in these systems because it doesn't tick their boxes —funding boxes,
+development boxes. It doesn't tick global agendas. There was recently [a
+study](https://www.philanthropy.com/article/Nonprofits-Led-by-People-of/248720)
+that showed that funders award less money to organizations led by people of
+color, and that’s a fundamental part of the problem.

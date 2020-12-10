@@ -1,4 +1,5 @@
 ---
+date: 2017-03-28
 categories: blog
 published: true
 title: "Mapping Waorani Territory: Update from the Ecuadorian Amazon"

@@ -1,4 +1,5 @@
 ---
+date: 2012-03-08
 author: Biz Ghormley
 slug: celebrating-international-womens-day-in-solidarity
 title: Celebrating International Women's Day in solidarity

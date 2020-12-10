@@ -1,4 +1,5 @@
 ---
+date: 2013-10-12
 categories: blog
 published: true
 title: Participatory Mapping for Indigenous Rights

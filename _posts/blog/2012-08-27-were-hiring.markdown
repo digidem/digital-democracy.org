@@ -1,4 +1,5 @@
 ---
+date: 2012-08-27
 author: Biz Ghormley
 published: false
 slug: were-hiring

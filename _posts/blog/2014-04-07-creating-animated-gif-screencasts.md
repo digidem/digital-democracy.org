@@ -1,4 +1,5 @@
 ---
+date: 2014-04-07
 categories: blog
 published: false
 title: Creating animated GIF screencasts

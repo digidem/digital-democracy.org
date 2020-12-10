@@ -1,4 +1,5 @@
 ---
+date: 2014-12-19
 categories: blog
 layout: video
 published: true
