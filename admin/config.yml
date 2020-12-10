@@ -24,6 +24,8 @@ collections:
       - label: Year
         field: date
         pattern: \d{4}
+      - label: Author
+        field: author
     fields:
       - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
