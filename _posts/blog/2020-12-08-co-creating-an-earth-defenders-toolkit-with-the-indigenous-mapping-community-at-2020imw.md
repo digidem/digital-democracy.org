@@ -1,13 +1,17 @@
 ---
 categories: blog
-title: "Co-creating an Earth Defenders Toolkit with the Indigenous Mapping Community at #2020IMW"
+title: Co-creating an Earth Defenders Toolkit with the Indigenous Mapping
+  Community at #2020IMW
 published: true
 date: 2020-12-09
 excerpt: Last month, Digital Democracy and our allies announced the launch of
   the Earth Defenders Toolkit at the 2020 Virtual Indigenous Mapping Workshop,
   and I'm delighted to share with you some of what we learned.
 author: Rudo Kemper
-image: /assets/earthdefenderstoolkit-splash.png
+image: /assets/1_hzq7bixfitrpp3ydkmbuua.png
+tags:
+  - featured
+slug: 2020-12-08-co-creating-an-earth-defenders-toolkit-with-the-indigenous-mapping-community
 ---
 Last month, [Digital Democracy](https://digital-democracy.org) and our allies announced the launch of the **[Earth Defenders Toolkit](https://earthdefenderstoolkit.com)**, a new collection of open-source tools and training materials for communities on the frontlines of the struggle to defend critical ecosystems around the world.
 
