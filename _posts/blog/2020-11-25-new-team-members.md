@@ -3,9 +3,7 @@ date: 2020-11-25
 categories: blog
 title: "Welcoming new team members"
 published: true
-excerpt: "Thanks to recent support from the McGovern Foundation and Good
-Energies, and growing partnerships in new locations including Brazil,
-Sub-Saharan Africa and Southeast Asia, the Digital Democracy team is expanding."
+excerpt: "Thanks to recent support from the McGovern Foundation and Good Energies, and growing partnerships in new locations including Brazil, Sub-Saharan Africa and Southeast Asia, the Digital Democracy team is expanding."
 author: Emily Jacobi
 image: /assets/2020-11-new-team.jpg
 ---
