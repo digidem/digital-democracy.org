@@ -1,19 +1,20 @@
-backend: 
-  name: git-gateway
-  branch: master
+backend:
+  name: github
+  repo: digidem/digital-democracy.org
+  use_graphql: true
 
 publish_mode: editorial_workflow
 
-media_folder: "assets" 
+media_folder: "assets"
 public_folder: "/assets"
 
-collections: 
+collections:
   - name: "blog"
     label: "Blog"
     folder: "_posts/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: 
+    fields:
       - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       ## publish boolean is unnecessary now with the CMS, it has a built-in preview process
@@ -28,4 +29,3 @@ collections:
         multiple: true
         options: ["featured", "front-page"]
       - {label: "Body", name: "body", widget: "markdown"}
-
