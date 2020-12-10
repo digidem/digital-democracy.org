@@ -9,6 +9,11 @@ site_url: https://www.digital-democracy.org
 media_folder: "assets"
 public_folder: "/assets"
 
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "_"
+
 collections:
   - name: "blog"
     label: "Blog posts"
