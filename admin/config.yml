@@ -12,7 +12,8 @@ public_folder: "/assets"
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Blog posts"
+    label_singular: "Blog post"
     folder: "_posts/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
