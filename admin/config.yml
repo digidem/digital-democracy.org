@@ -41,6 +41,11 @@ collections:
         multiple: true
         options: ["featured"]
         hint: "The most recent post with the 'featured' tag will appear at the top of the blog page"
+      - label: "Slug for URL"
+        name: "slug"
+        widget: "string"
+        hint: "Customize the URL for this page, e.g. if you put 'my-blog-post' here, the page URL will be /blob/my-blog-post"
+        pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
       - {label: "Post body", name: "body", widget: "markdown"}
   - name: "team"
     label: "Team members"
@@ -60,11 +65,11 @@ collections:
       - {label: "Tags", name: "tags", widget: "hidden", default: "core"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
       - {label: "Image", name: "image", widget: "image", required: true, hint: "A headshot, must be square (1:1)"}
-      - label: "URL"
-        name: "permalink"
+      - label: "Slug for URL"
+        name: "slug"
         widget: "string"
-        hint: "Relative URL for this page, must start with `/team`"
-        pattern: ['^\/team\/.*', 'Must start with /team']
+        hint: "Customize the URL for this page, e.g. if you put 'bob' here, the page URL will be /team/bob"
+        pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
       - label: "Twitter"
         name: "twitter"
         widget: "string"
@@ -86,6 +91,11 @@ collections:
       - {label: "Tags", name: "tags", widget: "hidden", default: "board"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
       - {label: "Image", name: "image", widget: "image", required: true, hint: "A headshot, must be square (1:1)"}
+      - label: "Slug for URL"
+        name: "slug"
+        widget: "string"
+        hint: "Customize the URL for this page, e.g. if you put 'bob' here, the page URL will be /team/bob"
+        pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
       - label: "Twitter"
         name: "twitter"
         widget: "string"

@@ -2,9 +2,8 @@
 layout: team
 title: Mar Cartró Sabaté
 role: "Programs"
-tags:
-  - core
-permalink: /team/mar
+tags: core
+slug: mar
 image: "/assets/mar-cartro-headshot.jpg"
 ---
 

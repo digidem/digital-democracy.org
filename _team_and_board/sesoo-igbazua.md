@@ -2,9 +2,8 @@
 layout: team
 title: Sesoo Igbazua
 role: "Director of Finance and Operations"
-tags:
-  - core
-permalink: /team/sesoo
+tags: core
+slug: sesoo
 image: "/assets/sesoo-igbazua-headshot.jpg"
 ---
 

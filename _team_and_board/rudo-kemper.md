@@ -2,9 +2,8 @@
 layout: team
 title: Rudo Kemper
 role: "Earth Defenders Toolkit & Programs"
-tags:
-  - core
-permalink: /team/rudo
+tags: core
+slug: rudo
 image: "/assets/rudo-kemper-headshot.jpg"
 twitter: "https://twitter.com/rudokemper"
 ---

@@ -4,7 +4,7 @@ title: Emilie Reiser
 role: "Programs"
 twitter: "https://twitter.com/emreiser"
 tags: core
-permalink: /team/emilie
+slug: emilie
 image: /assets/emilie-profile.jpg
 ---
 

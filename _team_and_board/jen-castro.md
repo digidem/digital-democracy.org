@@ -3,9 +3,8 @@ layout: team
 title: Jen Castro
 role: "Programs"
 twitter: "https://twitter.com/jenofthisearth"
-tags:
-  - core
-permalink: /team/jen
+tags: core
+slug: jen
 image: "/assets/jen-headshot.jpg"
 ---
 Jen Castro is a community organizer and artist freshly relocated to Montreal, Quebec after 10 years in East Vancouver, British Columbia. She has been using digital and IRL tech to bring communities closer to where they want to go. Her work has largely centered reframing projects to uphold dignity and traditional ways of being in the communities whose rich culture and history is generally overlooked or imposed on by uninvited external forces. In Canada, this has meant acting in service of indigenous communities through digital media and event support. Jen’s work is grounded/rooted in active investigation of how industry, migration, displacement and social constructs intersect and impact both communities and individuals. Her cross-movement work with communities has recently included offering facilitation and training for people working towards social justice. In Vancouver, much of her work was fed or is fueled by community-based artistic practices and storytelling. From Montreal she will be expanding explorations of cross cultural communities through language, technology and art.

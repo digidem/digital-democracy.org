@@ -3,7 +3,7 @@ layout: team
 title: Sabella Flagg
 role: "Design"
 tags: core
-permalink: /team/sabella
+slug: sabella
 image: /assets/sabella-profile.jpg
 ---
 

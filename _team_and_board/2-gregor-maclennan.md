@@ -3,8 +3,7 @@ layout: team
 title: Gregor MacLennan
 role: Technology
 twitter: "https://twitter.com/gmaclennan"
-tags:
-  - core
+tags: core
 permalink: /team/gregor
 image: /assets/headshot2.jpg
 ---

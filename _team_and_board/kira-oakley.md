@@ -3,9 +3,8 @@ layout: team
 title: Kira Oakley
 role: "Technology"
 twitter: "https://twitter.com/hackergrrl"
-tags:
-  - core
-permalink: /team/kira
+tags: core
+slug: kira
 image: "/assets/kira.jpg"
 ---
 

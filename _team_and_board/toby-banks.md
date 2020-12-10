@@ -2,9 +2,8 @@
 layout: team
 title: Toby Banks
 role: "Fundraising"
-tags:
-  - core
-permalink: /team/toby
+tags: core
+slug: toby
 image: "/assets/toby-banks-headshot.jpg"
 ---
 **Toby Banks** has over 20 years experience raising millions of dollars for a wide range of nonprofit organizations around the globe. As a fundraising and nonprofit management consultant, she forged partnerships that resulted in significant organizational growth for clients such as Thomson Reuters Foundation, the Asia Society, and the Malave Leadership Academy. Toby has supported organizations on five continents, allowing them to expand their work in areas ranging from environmental conservation to women’s rights, education to health, and the performing and visual arts among many others.

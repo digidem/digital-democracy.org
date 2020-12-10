@@ -3,7 +3,7 @@ layout: team
 title: Lisbet Portman
 role: "Programs"
 tags: core
-permalink: /team/lisbet
+slug: lisbet
 image: /assets/lisbet-profile.jpg
 ---
 

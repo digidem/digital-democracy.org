@@ -3,9 +3,8 @@ layout: team
 title: Emily Jacobi
 role: "Executive Director & Founder"
 twitter: "https://twitter.com/emjacobi"
-tags:
-  - core
-permalink: /team/emily
+tags: core
+slug: emily
 image: "/assets/emily-headshot-2.jpg"
 ---
 

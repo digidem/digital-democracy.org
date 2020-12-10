@@ -3,7 +3,7 @@ layout: team
 role: Board
 image: /assets/pooven-headshot.jpg
 tags: board
-permalink: /team/pooven
+slug: pooven
 title: Pooven Moodley
 ---
 Pooven Moodley is a Human Rights Lawyer and social justice activist from South Africa. He is currently the Executive Director of Natural Justice, lawyers for the community and the environment. Before joining Natural Justice he was the Associate Country Director of Oxfam GB in South Africa and the Global Head of Campaigning for ActionAid International. He most recently led with other activists, the successful Campaign for A Just Energy Future to stop South Africa’s proposed massive nuclear deal with the Russians, against all odds.

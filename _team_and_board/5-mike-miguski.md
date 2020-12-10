@@ -7,7 +7,7 @@ image: /assets/mike-migurski.jpg
 twitter: "https://twitter.com/michalmigurski"
 excerpt: ""
 email: ""
-permalink: /team/mike
+slug: mike
 ---
 
 

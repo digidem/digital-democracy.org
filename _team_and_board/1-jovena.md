@@ -4,7 +4,7 @@ role: Board President
 email: "jovena@clutchtalent.com"
 image: /assets/jovena_whatmoor.png
 tags: board
-permalink: /team/jovena
+slug: jovena
 title: Jovena Whatmoor
 twitter: "https://twitter.com/clutchtalent"
 ---
