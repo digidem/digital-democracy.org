@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: digidem/digital-democracy.org
-  use_graphql: true
+  name: git-gateway
+  branch: master
   squash_merges: true
 
 publish_mode: editorial_workflow
