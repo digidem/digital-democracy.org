@@ -5,7 +5,6 @@ role: "Design"
 twitter: "https://twitter.com/aldopuicon"
 tags:
   - core
-current: true
 permalink: /team/aldo
 image: "/assets/aldo-sunny.jpg"
 ---

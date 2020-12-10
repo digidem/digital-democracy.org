@@ -5,7 +5,6 @@ role: Technology
 twitter: "https://twitter.com/gmaclennan"
 tags:
   - core
-current: true
 permalink: /team/gregor
 image: /assets/headshot2.jpg
 ---
@@ -21,4 +20,3 @@ Contact: [gmaclennan@digital-democracy.org](mailto:gmaclennan@digital-democracy.
 Twitter: [@gmaclennan](https://twitter.com/gmaclennan)
 
 Github: [@gmaclennan](https://github.com/gmaclennan) and [@digidem](https://github.com/digidem)
-

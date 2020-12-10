@@ -2,7 +2,6 @@
 layout: team
 title: Lisbet Portman
 role: "Programs"
-current: true
 tags: core
 permalink: /team/lisbet
 image: /assets/lisbet-profile.jpg

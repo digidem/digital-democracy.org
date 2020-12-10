@@ -3,7 +3,6 @@ layout: team
 title: Emilie Reiser
 role: "Programs"
 twitter: "https://twitter.com/emreiser"
-current: true
 tags: core
 permalink: /team/emilie
 image: /assets/emilie-profile.jpg

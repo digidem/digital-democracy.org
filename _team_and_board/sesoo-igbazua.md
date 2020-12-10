@@ -4,7 +4,6 @@ title: Sesoo Igbazua
 role: "Director of Finance and Operations"
 tags:
   - core
-current: true
 permalink: /team/sesoo
 image: "/assets/sesoo-igbazua-headshot.jpg"
 ---

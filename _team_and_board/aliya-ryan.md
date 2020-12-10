@@ -4,7 +4,6 @@ title: Aliya Ryan
 role: "Programs"
 tags:
   - core
-current: true
 permalink: /team/aliya
 image: "/assets/aliya-ryan-headshot.jpg"
 ---

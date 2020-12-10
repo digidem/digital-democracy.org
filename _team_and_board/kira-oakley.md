@@ -5,7 +5,6 @@ role: "Technology"
 twitter: "https://twitter.com/hackergrrl"
 tags:
   - core
-current: true
 permalink: /team/kira
 image: "/assets/kira.jpg"
 ---
@@ -26,4 +25,3 @@ Kira is based out of Oakland, California.
 Contact: [kira@digital-democracy.org](mailto:kira@digital-democracy.org)
 
 GitHub: [hackergrrl](https://github.com/noffle)
-

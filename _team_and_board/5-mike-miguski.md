@@ -1,6 +1,5 @@
 ---
 layout: team
-current: true
 title: Michal Migurski
 tags: board
 role: Board Treasurer

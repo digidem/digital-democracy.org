@@ -4,7 +4,6 @@ title: Toby Banks
 role: "Fundraising"
 tags:
   - core
-current: true
 permalink: /team/toby
 image: "/assets/toby-banks-headshot.jpg"
 ---

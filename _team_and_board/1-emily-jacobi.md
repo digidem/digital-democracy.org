@@ -5,7 +5,6 @@ role: "Executive Director & Founder"
 twitter: "https://twitter.com/emjacobi"
 tags:
   - core
-current: true
 permalink: /team/emily
 image: "/assets/emily-headshot-2.jpg"
 ---

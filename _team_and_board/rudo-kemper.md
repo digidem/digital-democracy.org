@@ -4,7 +4,6 @@ title: Rudo Kemper
 role: "Earth Defenders Toolkit & Programs"
 tags:
   - core
-current: true
 permalink: /team/rudo
 image: "/assets/rudo-kemper-headshot.jpg"
 twitter: "https://twitter.com/rudokemper"

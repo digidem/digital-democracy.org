@@ -4,7 +4,6 @@ title: Mar Cartró Sabaté
 role: "Programs"
 tags:
   - core
-current: true
 permalink: /team/mar
 image: "/assets/mar-cartro-headshot.jpg"
 ---

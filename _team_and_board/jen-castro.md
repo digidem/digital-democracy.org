@@ -5,7 +5,6 @@ role: "Programs"
 twitter: "https://twitter.com/jenofthisearth"
 tags:
   - core
-current: true
 permalink: /team/jen
 image: "/assets/jen-headshot.jpg"
 ---
