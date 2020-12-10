@@ -34,15 +34,15 @@
       position: absolute;
       bottom: 0;
     }
+    article.article {
+      .content:not(:first-child) > * {
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
   }
   .donate-header {
     height: initial;
-  }
-  article.article {
-    .content:not(:first-child) > * {
-      padding-left: 0;
-      padding-right: 0;
-    }
   }
 }
 
@@ -59,17 +59,14 @@
 body.donate {
   article.article {
     top: initial;
+    .content:first-child > * {
+      padding-right: 0;
+    }
+    .content:not(:first-child) {
+      padding-top: 0;
+    }
   }
   footer {
     top: initial;
-  }
-}
-
-article.article {
-  .content:first-child > * {
-    padding-right: 0;
-  }
-  .content:not(:first-child) {
-    padding-top: 0;
   }
 }
