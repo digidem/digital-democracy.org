@@ -51,7 +51,10 @@ collections:
         widget: "string"
         hint: "Customize the URL for this page, e.g. if you put 'my-blog-post' here, the page URL will be /blob/my-blog-post"
         pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
-      - {label: "Post body", name: "body", widget: "markdown"}
+      - label: "Post body"
+        name: "body"
+        widget: "markdown"
+        editor_components: ['image']
   - name: "team"
     label: "Team members"
     label_singular: "Team member"

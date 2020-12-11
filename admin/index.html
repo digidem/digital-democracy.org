@@ -8,5 +8,45 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+CMS.registerEditorComponent({
+  label: 'Image',
+  id: 'image',
+  fromBlock: match => match && {
+    image: match[2] || match[4],
+    alt: match[1] || match[3],
+    full: match[3] && match[4]
+  },
+  toBlock: ({ alt, image, full }) =>
+    full ?
+      `{% include full_width_image.html alt="${alt || ''}" src="${image || ''}" title="${alt || ''}" %}` :
+      `![${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+  toPreview: ({ alt, image, full }, getAsset, fields) => {
+    const imageField = fields?.find(f => f.get('widget') === 'image');
+    const src = getAsset(image, imageField);
+    return `<img src={src || ''} alt={alt || ''} />`;
+  },
+  pattern: /(?:^!\[(.*)\]\((.*?)(?:\s".*")?\)$|^\{\% include full_width_image\.html alt="(.*)" src="(.*)" \%\}$)/,
+  fields: [
+    {
+      label: 'Image',
+      name: 'image',
+      widget: 'image',
+      media_library: {
+        allow_multiple: false,
+      },
+    },
+    {
+      label: 'Alt Text',
+      name: 'alt',
+    },
+    {
+      label: 'Full width?',
+      name: 'full',
+      widget: 'boolean'
+    }
+  ],
+});
+  </script>
 </body>
 </html>
