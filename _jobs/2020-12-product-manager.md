@@ -3,6 +3,7 @@ layout: job
 title: Product Manager
 published: true
 slug: product-manager
+excerpt: "We're looking for a Product Manager with 3+ years experience to join our remote team part time, on a 6-month contract (with potential long-term) starting as soon as possible."
 ---
 Digital Democracy is looking for a Product Manager with 3+ years
 experience to join our remote team part time, on a 6-month contract
