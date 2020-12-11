@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: digidem/digital-democracy.org
   branch: master
   squash_merges: true
 
@@ -112,3 +113,25 @@ collections:
         hint: "URL of a twitter profile e.g. https://twitter.com/emjacobi"
         pattern: ['^https:\/\/twitter\.com\/.*', 'Must be a URL starting with https://twitter.com/']
       - {label: "Bio", name: "body", widget: "markdown"}
+  - name: "jobs"
+    label: "Job Postings"
+    label_singular: "Job Posting"
+    folder: "_jobs"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "published", value: true}
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "job"}
+      - {label: "Job Title", name: "title", widget: "string"}
+      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - label: "Slug for URL"
+        name: "slug"
+        widget: "string"
+        hint: "Customize the URL for this page, e.g. if you put 'my-blog-post' here, the page URL will be /blob/my-blog-post"
+        pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
+      - label: "Post body"
+        name: "body"
+        widget: "markdown"
+        editor_components: []
