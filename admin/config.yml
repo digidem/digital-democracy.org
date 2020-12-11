@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: digidem/digital-democracy.org
+  name: git-gateway
   branch: master
   squash_merges: true
 
