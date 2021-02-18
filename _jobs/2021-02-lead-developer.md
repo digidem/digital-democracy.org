@@ -11,7 +11,7 @@ Digital Democracy is looking for a lead front-end developer with 5+ years of
 developer experience to join our small, remote team on a 12-month contract (with
 potential long-term) starting as soon as possible. See also our [Front-end
 Developer
-role](https://www.digital-democracy.org/jobs/2021-02-front-end-developer/). You
+role](/jobs/2021-02-front-end-developer/). You
 will lead the development of a cutting-edge open-source mobile and desktop
 mapping app for remote and marginalized communities to document, map, monitor,
 manage and report information on environmental and human rights issues around
