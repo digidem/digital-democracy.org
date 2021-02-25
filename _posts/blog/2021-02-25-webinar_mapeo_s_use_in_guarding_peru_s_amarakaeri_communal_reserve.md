@@ -25,6 +25,8 @@ Through the use of technology that integrates the traditional knowledge of the I
 
 MAPEO is one of the technological tools used in the reserve, and it is a free application that allows the user to store information effectively and quickly without using the internet. On February 12, 2021, we held a webinar “[MAPEO: A technological tool for the surveillance and control of the Amarakaeri Communal Reserve](https://fb.watch/3PkdrW0aPw/)”.
 
+[![](http://img.youtube.com/vi/XMmldDe245A/0.jpg)](http://www.youtube.com/watch?v=XMmldDe245A "")
+
 Jen Castro of Digital Democracy began by highlighting that MAPEO is a tool for community-based monitoring with a suitable system for Android smartphones (MAPEO Mobile) and computers (MAPEO Desktop).
 
 She highlighted that “MAPEO is designed for different Indigenous Peoples that are working for the territorial defense of nature and human rights. It is a free application that can be downloaded online. MAPEO Mobile and MAPEO Desktop help users allow generating geospatial information.”
