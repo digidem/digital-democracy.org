@@ -19,6 +19,6 @@
 /mapeo/latest/win32 https://github.com/digidem/mapeo-desktop/releases/download/v5.3.1/Installar_Mapeo_v5.3.1_win-ia32.exe 302
 /mapeo/latest/linux https://github.com/digidem/mapeo-desktop/releases/download/v5.3.1/Installar_Mapeo_v5.3.1_linux.deb 302
 /blog/* https://wp.digital-democracy.org/:splat 200
-/blog https://wp.digital-democracy.org/ 200
+/blog/ https://wp.digital-democracy.org/ 200
 /wp-admin https://wp.digital-democracy.org/wp-admin 200
 /wp-json https://wp.digital-democracy.org//wp-json 200
