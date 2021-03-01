@@ -21,4 +21,4 @@
 /blog/* https://wp.digital-democracy.org/:splat 200
 /blog/ https://wp.digital-democracy.org/ 200
 /wp-admin https://wp.digital-democracy.org/wp-admin 200
-/wp-json https://wp.digital-democracy.org//wp-json 200
+/wp-json https://wp.digital-democracy.org/wp-json 200
