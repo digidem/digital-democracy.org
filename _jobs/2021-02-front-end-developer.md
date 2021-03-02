@@ -102,7 +102,7 @@ Perks
 How to Apply
 ------------
 
-Send a note with the following to [jobs+fe02@digital-democracy.org](mailto:jobs+fe02@digital-democracy.org) by March 3rd 2021. We will review applications as we receive them.
+Send a note with the following to [jobs+fe02@digital-democracy.org](mailto:jobs+fe02@digital-democracy.org) by March 17th 2021. We will review applications as we receive them.
 
 - Why you're interested in developing tools at Digital Democracy.
 - *Résumé* / CV
