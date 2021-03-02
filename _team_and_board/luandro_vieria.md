@@ -3,7 +3,7 @@ title: Luandro Vieria
 role: Technology
 tags: core
 layout: team
-image: /assets/screen_shot_2021-02-09_at_12.44.45_pm.png
+image: /assets/luandro.png
 slug: luandro
 twitter: https://twitter.com/Digidem
 ---
