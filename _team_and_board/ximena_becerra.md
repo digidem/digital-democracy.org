@@ -1,6 +1,6 @@
 ---
 title: "Ximena Becerra "
-role: "Product Manager "
+role: Technology
 tags: core
 layout: team
 image: /assets/ximena.jpg
