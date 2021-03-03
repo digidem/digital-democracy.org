@@ -3,7 +3,7 @@ title: "Ximena Becerra "
 role: Technology
 tags: core
 layout: team
-image: /assets/ximena.png
+image: /assets/ximenab.jpg
 slug: ximena
 twitter: https://twitter.com/digidem
 ---
