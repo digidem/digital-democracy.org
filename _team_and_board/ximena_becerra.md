@@ -5,7 +5,7 @@ tags: core
 layout: team
 image: /assets/ximenab.jpg
 slug: ximena
-twitter: https://twitter.com/digidem
+twitter: ""
 ---
 Ximena Becerra, Product Manager, joins the Digital Democracy team with a passionate engagement to merge innovative cutting edge technology with social and environmental issues. With a background in fine arts and tech in the live-events space, Ximena believes empathy, communication and human connections are at the forefront of product building.  Originally from Chile, Valparaiso, Ximena lives in Montreal with her cat James.
 
