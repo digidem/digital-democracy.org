@@ -1,11 +1,11 @@
 ---
-title: Luandro Vieria
+title: Luandro Vieira
 role: Technology
 tags: core
 layout: team
 image: /assets/luandro.png
 slug: luandro
-twitter: https://twitter.com/Digidem
+twitter: ""
 ---
 **Luandro,** Distributed Systems Developer at Digital Democracy, works to empower native communities and their ways of life. From Pindo Abya Ayala (named Brazil by invaders), has lived for the past 8 years in a maroon community located at the continent's central plateau. The first years learning about their customs and traditions, specially on agriculture, and in the last four, together with neighbors has built his house mostly with local natural resources and completely off-grid. Spends most of his time practicing agroforestry, hacking the digital world or listening to tales from elders.
 
