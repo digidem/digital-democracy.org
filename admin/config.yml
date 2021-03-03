@@ -80,6 +80,7 @@ collections:
         hint: "Customize the URL for this page, e.g. if you put 'bob' here, the page URL will be /team/bob"
         pattern: ['^[a-z0-9_-]*$', 'The slug must only contain lowercase a-Z, numbers, underscore _, or hyphen -']
       - label: "Twitter"
+        required: false
         name: "twitter"
         widget: "string"
         hint: "URL of a twitter profile e.g. https://twitter.com/emjacobi"
@@ -109,6 +110,7 @@ collections:
       - label: "Twitter"
         name: "twitter"
         widget: "string"
+        required: false
         hint: "URL of a twitter profile e.g. https://twitter.com/emjacobi"
         pattern: ['^https:\/\/twitter\.com\/.*', 'Must be a URL starting with https://twitter.com/']
       - {label: "Bio", name: "body", widget: "markdown"}
