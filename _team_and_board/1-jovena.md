@@ -1,12 +1,12 @@
 ---
-layout: team
+title: Jovena Natal
 role: Board President
-email: "jovena@clutchtalent.com"
-image: /assets/jovena_whatmoor.png
 tags: board
+layout: team
+image: /assets/jovena_whatmoor.png
 slug: jovena
-title: Jovena Whatmoor
-twitter: "https://twitter.com/clutchtalent"
+twitter: https://twitter.com/clutchtalent
+email: jovena@clutchtalent.com
 ---
 
 Jovena is on a mission to boost, scale and strengthen the tech community. Jovena is the Founder & CEO of [Clutch Talent](http://www.clutchtalent.com/), a small NY-based boutique recruitment agency, specializing in white-glove representation for top software engineers and other technical leaders. She works with a small selection of tech companies and top startups working on innovative products, using modern technology. Jovena also serves on the leadership teams of [NY Women in Tech](http://nywomenintech.com/) and [NY JavaScript](http://nyjavascript.com/).
