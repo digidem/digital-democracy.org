@@ -238,6 +238,7 @@ prose:
       - name: "twitter"
         field:
           element: "text"
+          required: false
           label: "Twitter Profile"
           placeholder: "Enter URL to Twitter feed"
       - name: "image"
