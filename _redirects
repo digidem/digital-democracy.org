@@ -20,10 +20,10 @@
 /mapeo/latest/linux https://github.com/digidem/mapeo-desktop/releases/download/v5.3.1/Installar_Mapeo_v5.3.1_linux.deb 302
 /blog/* https://wp.digital-democracy.org/:splat 200!
 /blog https://wp.digital-democracy.org/ 200!
-/wp-admin https://wp.digital-democracy.org/wp-admin 200!
-/wp-admin/* https://wp.digital-democracy.org/wp-admin/:splat 200!
+/wp-admin https://wp.digital-democracy.org/wp-admin 302
+/wp-admin/* https://wp.digital-democracy.org/wp-admin/:splat 302
 /wp-json https://wp.digital-democracy.org/wp-json 200!
 /wp-includes/* https://wp.digital-democracy.org/wp-includes/:splat 200!
 /wp-content/* https://wp.digital-democracy.org/wp-content/:splat 200!
 /cdn-cgi/* https://wp.digital-democracy.org/cdn-cgi/:splat 200!
-/wp-login.php https://wp.digital-democracy.org/wp-login.php 200!
+/wp-login.php https://wp.digital-democracy.org/wp-login.php 302
