@@ -104,7 +104,7 @@ Perks
 How to Apply
 ------------
 
-Send a note with the following to [jobs+ld02@digital-democracy.org](mailto:jobs+ld02@digital-democracy.org) by March 17th 2021. We will review applications as we receive them.
+Send a note with the following to [jobs+ld02@digital-democracy.org](mailto:jobs+ld02@digital-democracy.org) by March 25th 2021. We will review applications as we receive them.
 
 - Why you're interested in developing tools at Digital Democracy.
 - *Résumé* / CV
