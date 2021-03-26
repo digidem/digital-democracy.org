@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Lead Developer
-published: true
+published: false
 excerpt: "We’re looking for a lead front-end developer with 5+
 years of developer experience to join our small, remote team on a
 12-month contract (with potential long-term) starting as soon as
