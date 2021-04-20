@@ -27,7 +27,7 @@ We are looking for a graphic designer who can work closely with a small, fast-pa
 
 We are looking for someone who likes to work collaboratively and is excited about our mission. 
 
-One month contract starting May 1, 2021. Compensation commensurate with experience, and to be determined together following a discussion of the deliverables. 
+One month contract starting May 1, 2021. Expected compensation will be $2,000 but flexible depending on portfolio and agreed upon deliverables.
 
 ## Our Team
 
