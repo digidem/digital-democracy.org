@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Illustrator (Earth Defenders Toolkit)
-published: true
+published: false
 excerpt: "Dd is seeking an illustrator to join our small, remote team for a one
   month contract to help us develop the toolkit components and visual branding
   for an exciting new project called Earth Defenders Toolkit (EDToolkit) that is
