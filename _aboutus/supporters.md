@@ -44,25 +44,26 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 ## Funding Partners
 
-[Internews](https://internews.org/)
-
-[Open Technology Fund ](https://www.opentech.fund/)
-
 [Dutch Postcode Lottery](https://www.postcodeloterij.nl)
-
-[Hivos Foundation](https://latin-america.hivos.org/)
 
 [Earth Alliance](https://ealliance.org/)
 
+[Good Energies](https://www.goodenergies.org/)
+
+[Hivos Foundation](https://latin-america.hivos.org/)
+
+[Internews](https://internews.org/)
+
 [One Earth Initiative](https://www.oneearth.org/)
+
+[Open Society Foundations](https://www.opensocietyfoundations.org/)
+
+[Open Technology Fund ](https://www.opentech.fund/)
 
 [The Patrick J. McGovern Foundation](https://www.mcgovern.org/)
 
 [Samsung NEXT](https://samsungnext.com/)
 
-[Open Society Foundations](https://www.opensocietyfoundations.org/)
-
-[Good Energies](https://www.goodenergies.org/)
 
 ## International Partners
 
@@ -83,6 +84,7 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 [ISS: Institute of Social Studies at Erasmus University](https://www.iss.nl)
 
 [Rainforest Action Network](http://www.ran.org/)
+
 
 ## Tech Partners & Communities of Support
 
