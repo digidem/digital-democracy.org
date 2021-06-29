@@ -175,13 +175,14 @@ header.site-header {
         display: none;
       }
       & > a {
-        white-space: nowrap;
+        // white-space: nowrap;
         display: block;
         width: 100%;
         font-weight: $topbar-link-weight;
         padding: 5px 24px;
         color: white;
         font-size: 2.2rem;
+        line-height: 1.3;
 
         // &.donate {
           // font-size: 2.3rem;
@@ -253,6 +254,7 @@ header.site-header {
     }
 
     ul {
+      white-space: nowrap;
       width: auto;
       margin: 0;
       background-color: transparent;
