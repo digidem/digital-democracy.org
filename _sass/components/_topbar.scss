@@ -127,9 +127,9 @@ header.site-header {
     min-height: calc(100vh - 85px);
     background-color: $dd-blue-dark;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-direction: column;
-    padding: 45px 0 78px 0;
+    // padding: 45px 0 78px 0;
     opacity: 1;
   }
 
@@ -175,34 +175,35 @@ header.site-header {
         display: none;
       }
       & > a {
-        white-space: nowrap;
+        // white-space: nowrap;
         display: block;
         width: 100%;
         font-weight: $topbar-link-weight;
         padding: 5px 24px;
         color: white;
         font-size: 2.2rem;
+        line-height: 1.3;
 
-        &.donate {
-          font-size: 2.3rem;
-          padding: 32px 24px;
-          position: relative;
-          margin: 16px 0px;
-          &:before, &:after {
-            content: "";
-            position: absolute;
-            height: 1px;
-            background-color: rgba(255,255,255,0.5);
-            width: 40px;
-            left: 24px;
-          }
-          &:before {
-            top: 0;
-          }
-          &:after {
-            bottom: 0;
-          }
-        }
+        // &.donate {
+          // font-size: 2.3rem;
+          // padding: 32px 24px;
+          // position: relative;
+          // margin: 16px 0px;
+          // &:before, &:after {
+          //   content: "";
+          //   position: absolute;
+          //   height: 1px;
+          //   background-color: rgba(255,255,255,0.5);
+          //   width: 40px;
+          //   left: 24px;
+          // }
+          // &:before {
+          //   top: 0;
+          // }
+          // &:after {
+          //   bottom: 0;
+          // }
+        // }
         &.lang {
           text-transform: uppercase;
           font-weight: 300;
@@ -253,6 +254,7 @@ header.site-header {
     }
 
     ul {
+      white-space: nowrap;
       width: auto;
       margin: 0;
       background-color: transparent;
@@ -287,8 +289,8 @@ header.site-header {
             }
           }
           &.donate {
-            padding: 5px 17px;
-            margin: 0 28px 0 14px;
+            // padding: 5px 17px;
+            // margin: 0 28px 0 14px;
             font-size: 1.2em;
             color: white;
             background-color: #FF3301;
