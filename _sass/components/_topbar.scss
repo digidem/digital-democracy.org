@@ -183,26 +183,26 @@ header.site-header {
         color: white;
         font-size: 2.2rem;
 
-        &.donate {
-          font-size: 2.3rem;
-          padding: 32px 24px;
-          position: relative;
-          margin: 16px 0px;
-          &:before, &:after {
-            content: "";
-            position: absolute;
-            height: 1px;
-            background-color: rgba(255,255,255,0.5);
-            width: 40px;
-            left: 24px;
-          }
-          &:before {
-            top: 0;
-          }
-          &:after {
-            bottom: 0;
-          }
-        }
+        // &.donate {
+          // font-size: 2.3rem;
+          // padding: 32px 24px;
+          // position: relative;
+          // margin: 16px 0px;
+          // &:before, &:after {
+          //   content: "";
+          //   position: absolute;
+          //   height: 1px;
+          //   background-color: rgba(255,255,255,0.5);
+          //   width: 40px;
+          //   left: 24px;
+          // }
+          // &:before {
+          //   top: 0;
+          // }
+          // &:after {
+          //   bottom: 0;
+          // }
+        // }
         &.lang {
           text-transform: uppercase;
           font-weight: 300;
@@ -287,8 +287,8 @@ header.site-header {
             }
           }
           &.donate {
-            padding: 5px 17px;
-            margin: 0 28px 0 14px;
+            // padding: 5px 17px;
+            // margin: 0 28px 0 14px;
             font-size: 1.2em;
             color: white;
             background-color: #FF3301;
