@@ -1,11 +1,11 @@
 ---
-layout: team
 title: Andrew Chou 
 role: "Front-End Developer"
-twitter: @_andrewchou
 tags: core
-slug: andrew
+layout: team
 image: "/assets/Andrew-Chou-Headshot.png"
+slug: andrew
+twitter: https://twitter.com/andrewchou"
 ---
 
 Andrew Chou is a Front-end developer at Digital Democracy. His professional experience has largely focused on building considerate digital products at tech startups. He loves to explore the various niches of the web landscape and improve his understanding of the social impact of technology.
