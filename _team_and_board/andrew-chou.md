@@ -3,7 +3,7 @@ title: Andrew Chou
 role: "Front-end Developer"
 tags: core
 layout: team
-image: "/assets/Andrew-Chou-Headshot.png"
+image: "/assets/Andrew-Chou-Headshot .png"
 slug: andrew
 twitter: https://twitter.com/andrewchou
 ---
