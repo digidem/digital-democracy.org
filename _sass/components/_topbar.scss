@@ -127,9 +127,9 @@ header.site-header {
     min-height: calc(100vh - 85px);
     background-color: $dd-blue-dark;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-direction: column;
-    padding: 45px 0 78px 0;
+    // padding: 45px 0 78px 0;
     opacity: 1;
   }
 
