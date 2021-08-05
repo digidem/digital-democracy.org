@@ -3,9 +3,9 @@ categories: blog
 title: "Event Recap: Earth Defenders Toolkit Global Launch"
 published: true
 date: 2021-08-05
-excerpt: "On July 14, 2021, Digital Democracy along with co-hosts Alianza Ceibo,
+excerpt: On July 14, 2021, Digital Democracy along with co-hosts Alianza Ceibo,
   Amazon Frontlines & Oxfam hosted a global launch event for the Earth Defenders
-  Toolkit, a collaborative space for earth defenders and their allies. "
+  Toolkit, a collaborative space for earth defenders and their allies.
 author: Emily Jacobi
 image: /assets/global_launch_participants.png
 tags:
