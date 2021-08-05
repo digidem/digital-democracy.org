@@ -48,8 +48,8 @@ Here are some key takeaways: 
 
 Early on, participants were invited to visit this [jamboard](https://bit.ly/paradefensores), and identify their position on the map with an icon. Roughly half of the participants were from global south regions (Latin America, Africa, and Asia/Pacific).
 
-{% include full_width_image.html alt="" src="https://lh4.googleusercontent.com/DF_ZkKJ8Zdke-OvFJYwa1CMw1NvLql_uxBYKXUhDwZrXDAAIreaiUUhHx_x138lDsM9oW7sNmdvi-L1dxtLK7ygxF1X3xk128pOjELMJ8Es14n9Ksq8vtmxX8A-4xSYM_NvfeHoN" title="" %}
+{% include full_width_image.html alt="" src="/assets/untitled.png" title="" %}
 
-{% include full_width_image.html alt="" src="https://lh6.googleusercontent.com/1Ka0rLO6J0JbdbfOWhJCILzc7eBH_CQSrdfREFg3LtH5BaVm9cH9HFAus8IsmNVYfdIBRQ5yPxsbU6tOdO3ttx97eqIwRucygyafNpvPkgSAHx7EEQ0YzPtaP7PT2c2mjsbh1LR6" title="" %}
+{% include full_width_image.html alt="" src="/assets/jamboard.png" title="" %}
 
 Stay tuned next week for a blog about the second part of the event that delves into the testimonies shared by partners from around the world and highlights ideas from participants during and after the event that will inform the toolkit moving forward.
