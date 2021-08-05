@@ -50,6 +50,6 @@ Early on, participants were invited to visit this [jamboard](https://bit.ly/para
 
 {% include full_width_image.html alt="" src="/assets/untitled.png" title="" %}
 
-{% include full_width_image.html alt="" src="/assets/jamboard.png" title="" %}
+{% include full_width_image.html alt="" src="/assets/global_launch_participants.png" title="" %}
 
 Stay tuned next week for a blog about the second part of the event that delves into the testimonies shared by partners from around the world and highlights ideas from participants during and after the event that will inform the toolkit moving forward.
