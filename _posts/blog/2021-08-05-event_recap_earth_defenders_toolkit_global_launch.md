@@ -24,7 +24,9 @@ Despite this, frontline groups around the world are risking their lives to prote
 
 The toolkit prioritizes co-creation and has already grown with ideas gathered from participants during the launch event itself and the many conversations that have followed. 
 
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfCY9DzuufU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Launch Event Highlights 
 
@@ -38,11 +40,15 @@ Here are some key takeaways: 
 
 "[Earth Defenders](https://twitter.com/hashtag/EarthDefenders?src=hashtag_click) Toolkit is a fundamental tool for the protection of territory in different nationalities of the Amazon and for the whole world," Norma Nenquimo. 
 
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9715xwoAAhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 "What we know for sure is that technology will only benefit everyone when communities can use these tools. It’s not enough to just have access to products - communities must be the cocreators, designers and implementers of their own technology solutions,"  [Vilas Dhar](https://twitter.com/vilasdhar). 
 
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86t2dbyt38Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Participation and Engagement 
 
