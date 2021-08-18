@@ -24,7 +24,7 @@ Here’s the full event recording in English
 
 First, we heard from Hernan Payaguaje from our partner [Alianza Ceibo](https://www.alianzaceibo.org/), an alliance of four Indigenous nationalities in the Ecuadorian Amazon united to fight against environmental threats to their territories. Hernan spoke about how tools such as Mapeo have supported their efforts and helped to engage youth in the process of territory mapping.
 
-
+{% include full_width_image.html alt="" src="/assets/ceibo-edt.png" title="" %}
 
 *“The state of Ecuador does not know our territory. Now, with technology, we are building maps that reflect the richness of our traditional knowledge, both for our own use and so that the state sees a different story of our land and recognizes our rights.”* ~ Hernan Payaguaje
 
