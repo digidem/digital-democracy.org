@@ -36,8 +36,6 @@ Direk Khruajnli from ODI partner, [Raks Thai Foundation,](https://www.raksthai.o
 
 *"We found that the Mapeo app is well-suited for our local communities needs. They can collect and use the data to improve the planning of communities and local government organizations."* [](https://twitter.com/hashtag/EarthDefendersToolkit?src=hashtag_click) ~ Direk Khruajnli, Raks Thai Foundation 
 
-
-
 *A community member from one of Raks Thai’s pilot projects in Thailand presents a hand drawn map of their community.* 
 
 **Western Kenya** 
