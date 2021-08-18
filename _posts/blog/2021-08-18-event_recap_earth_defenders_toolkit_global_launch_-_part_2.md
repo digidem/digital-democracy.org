@@ -38,17 +38,15 @@ Direk Khruajnli from ODI partner, [Raks Thai Foundation,](https://www.raksthai.o
 
 {% include full_width_image.html alt="" src="/assets/raks-edt.png" title="" %}
 
-
 *A community member from one of Raks Thai’s pilot projects in Thailand presents a hand drawn map of their community.* 
 
 **Western Kenya** 
 
 Peter Kitelo from the [Chepkitale Indigenous People Development Project (CIPDP)](https://www.forestpeoples.org/en/partner/chepkitale-indigenous-peoples-development-project-cipdp) in Kenya spoke about how the organization is using Mapeo as a tool to negotiate Ogiek ancestral land rights with the Kenyan government and discuss shared resource use with neighboring communities. [Learn more about this project.](https://www.digital-democracy.org/blog/mapping-ogiek-ancestral-lands-in-kenya-using-mapeo-during-a-pandemic/)
 
-{% include full_width_image.html alt="" src="/assets/cipdp-edt.png" title="" %}
-
-
 “Mapeo can help us show how the community has been preserving these lands for a long time - how we are integral to the sustainability of this place.” ~ Peter Kitelo, CIPDP
+
+{% include full_width_image.html alt="" src="/assets/cipdp-edt.png" title="" %}
 
 *Ogiek community members discussing plans for mapping their ancestral homelands at Mount Elgon, Kenya*
 
