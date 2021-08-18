@@ -36,11 +36,17 @@ Direk Khruajnli from ODI partner, [Raks Thai Foundation,](https://www.raksthai.o
 
 *"We found that the Mapeo app is well-suited for our local communities needs. They can collect and use the data to improve the planning of communities and local government organizations."* [](https://twitter.com/hashtag/EarthDefendersToolkit?src=hashtag_click) ~ Direk Khruajnli, Raks Thai Foundation 
 
+{% include full_width_image.html alt="" src="/assets/raks-edt.png" title="" %}
+
+
 *A community member from one of Raks Thai’s pilot projects in Thailand presents a hand drawn map of their community.* 
 
 **Western Kenya** 
 
 Peter Kitelo from the [Chepkitale Indigenous People Development Project (CIPDP)](https://www.forestpeoples.org/en/partner/chepkitale-indigenous-peoples-development-project-cipdp) in Kenya spoke about how the organization is using Mapeo as a tool to negotiate Ogiek ancestral land rights with the Kenyan government and discuss shared resource use with neighboring communities. [Learn more about this project.](https://www.digital-democracy.org/blog/mapping-ogiek-ancestral-lands-in-kenya-using-mapeo-during-a-pandemic/)
+
+{% include full_width_image.html alt="" src="/assets/cipdp-edt.png" title="" %}
+
 
 “Mapeo can help us show how the community has been preserving these lands for a long time - how we are integral to the sustainability of this place.” ~ Peter Kitelo, CIPDP
 
@@ -60,6 +66,8 @@ Moderator Jen Castro led attendees through a jamboard exercise seeking ideas abo
 * *highlight simple tools for mobile phone video editing so communities can tell their stories.*
 
 At the end of the recorded event, we broke into smaller breakout groups to delve deeper into the particular challenges that earth defenders face and to connect those working in specific locations, including Africa and Latin America.
+
+{% include full_width_image.html alt="" src="/assets/jam-edt.png" title="" %}
 
 *A screenshot of the jamboard asking attendees to contribute ideas about how the Earth Defenders Toolkit can grow to best support communities on the frontlines of environmental defense.*
 
