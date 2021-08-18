@@ -21,6 +21,8 @@ We began the event with a moment of silence in recognition of the earth defender
 
 Next, Eva Maria Okoth of Natural Justice moderated conversations with featured speakers  from Botswana, the Democratic Republic of the Congo, Kenya, Senegal, South Africa, and Zimbabwe.
 
+{% include full_width_image.html alt="" src="/assets/africa1-edt.png" title="" %}
+
 Here are some highlights: 
 
 Pooven Moodley of Natural Justice welcomed attendees and spoke about the importance of the Earth Defenders Toolkit, both by increasing access to technology and by supporting earth defenders to work more collaboratively: *"The use of digital technology that is accessible to communities is what is going to make a difference, not the technology that is sitting in the hands of experts or only a few people."*
@@ -28,6 +30,8 @@ Pooven Moodley of Natural Justice welcomed attendees and spoke about the importa
 Arnold Tsunga of the Southern Africa Network for Human Rights Defenders spoke about the real dangers of earth defender work and the state of fossil fuel extractivism on the continent, which has been further amplified by the pandemic: *“In the wake of extractive industries, there are masses of evictions & frontline defenders can be killed. The dangers that African defenders face are real and a number of rights are being violated.”*
 
 Lebo Seitshiro of Saving Okavango's Unique Life (SOUL) Alliance spoke about the struggle to resist possible oil and gas drilling in the highly biodiverse Okavango delta: *"Our leaders are not able to imagine a different future, and this is unacceptable."*
+
+{% include full_width_image.html alt="" src="/assets/africa2-edt.png" title="" %}
 
 After the intro conversation between Eva, Lebo and Alfred, we heard powerful testimony from leaders from across the region: Tom Bicko Ooko from the Kenya Center for Justice Governance and Environmental Action (CJGEA); Julie Cisse from Network of Women Farmers in Rural and Peri-urban Areas, Senegal; Raoul Kitungana of Justice Pour Tous (Justice for All) in the Democratic Republic of the Congo (DRC); and Peter Kitelo and Phoebe Ndiema, of Chepkitale Indigenous Peoples' Development Project (CIPDP) in Kenya.
 
