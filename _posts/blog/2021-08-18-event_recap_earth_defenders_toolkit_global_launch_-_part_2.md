@@ -38,7 +38,6 @@ Direk Khruajnli from ODI partner, [Raks Thai Foundation,](https://www.raksthai.o
 
 {% include full_width_image.html alt="" src="/assets/raks-edt.png" title="" %}
 
-
 *A community member from one of Raks Thai’s pilot projects in Thailand presents a hand drawn map of their community.* 
 
 **Western Kenya** 
