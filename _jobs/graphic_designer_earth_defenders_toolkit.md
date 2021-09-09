@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Graphic Designer (Earth Defenders Toolkit)
-published: true
+published: false
 excerpt: >
   Dd is seeking a graphic designer to join our small, remote team for a one
   month contract to help us develop the toolkit components and visual branding
