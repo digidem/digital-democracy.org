@@ -53,4 +53,19 @@ This is a half-time position of ~20 hours per week (negotiable depending on expe
 
 ## Our Team
 
-Our small but growing team is based in the US (New York; Seattle; Washington, DC; Wisconsin); Brazil; Canada (British Columbia & Montreal) and Europe (Catalonia; England & Scotland). For this position, we are looking for a US-based person with experience in US nonprofit accounting practices.  We embrace distributed working, and are happy for you to work from where you live. The Indigenous communities we work with have lived through colonization and deal with its effects everyday, along with marginalization and discrimination against their languages and cultures. It is therefore particularly important that we build a diverse team with individuals who understand and empathize with their situation. Indigenous people, people of color, women, LGBTQ folk and others who identify as coming from a marginalized identity are strongly urged to apply. We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race,
+Our small but growing team is based in the US (New York; Seattle; Washington, DC; Wisconsin); Brazil; Canada (British Columbia & Montreal) and Europe (Catalonia; England & Scotland). For this position, we are looking for a US-based person with experience in US nonprofit accounting practices.  We embrace distributed working, and are happy for you to work from where you live. The Indigenous communities we work with have lived through colonization and deal with its effects everyday, along with marginalization and discrimination against their languages and cultures. It is therefore particularly important that we build a diverse team with individuals who understand and empathize with their situation. Indigenous people, people of color, women, LGBTQ folk and others who identify as coming from a marginalized identity are strongly urged to apply. We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+## Perks
+
+* Flexible schedule, location and hours. As an organization we embrace working smarter, not harder. We are happy for you to work from where you live, on a schedule that works for you.
+* Opportunity to visit our partners in the field. Although most of the job is desk based, this role may include travel to visit our partners as part of a team retreat in the future, pending pandemic restrictions.
+* Opportunity to play a key role at a ground-breaking organization. You have the opportunity to make a big impact in a small team.
+* Compensation and benefits commensurate with experience (our current range is $6,000–8,000 USD per month full-time equivalent).
+
+## How to Apply
+
+Send a note  with the following to [jobs+fm09@digital-democracy.org](mailto:jobs+fm09@digital-democracy.org), subject line “Financial Manager”
+
+1. Why are you interested in the position? What is your experience in nonprofit finance and operations?
+2. Where are you based, and what is your ideal work schedule?
+3. Résumé or CV.
