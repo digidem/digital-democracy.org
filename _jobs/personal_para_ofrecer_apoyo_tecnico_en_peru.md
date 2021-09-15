@@ -9,21 +9,15 @@ excerpt: >
   del aplicativo Mapeo en la zona de Puerto Maldonado (Madre de Dios). 
 slug: apoyo-tecnico-en-peru
 ---
-# Personal para ofrecer apoyo técnico en Perú 
-
 Digital Democracy está buscando una persona para unirse a nuestro equipo durante períodos específicos entre octubre 2021 - marzo 2022 para participar en actividades puntuales en Perú. Su rol será ofrecer apoyo técnico a usuarios del aplicativo [Mapeo ](https://mapeo.app)en la zona de Puerto Maldonado (Madre de Dios). 
 
-Somos un equipo pequeño y de alto impacto que adopta un enfoque 
-
-colaborativo para la creación de herramientas y la toma de decisiones. Hemos visto de primera mano que el cambio no proviene de la tecnología, sino de cómo la usa la gente. Por este motivo, estamos creando herramientas que nuestros socios están utilizando para lograr un cambio transformador. Nos dedicamos a trabajar por un mundo donde todas las personas puedan participar en las decisiones que gobiernan sus vidas. 
+Somos un equipo pequeño y de alto impacto que adopta un enfoque colaborativo para la creación de herramientas y la toma de decisiones. Hemos visto de primera mano que el cambio no proviene de la tecnología, sino de cómo la usa la gente. Por este motivo, estamos creando herramientas que nuestros socios están utilizando para lograr un cambio transformador. Nos dedicamos a trabajar por un mundo donde todas las personas puedan participar en las decisiones que gobiernan sus vidas. 
 
 Usted estaría apoyando el uso de estas herramientas tecnológicas por parte de nuestras contrapartes en Perú para hacer frente a problemas reales sobre el terreno en la Amazonía. En concreto, su rol será ofrecer apoyo técnico en el uso de Mapeo, una herramienta gratuita y de código abierto disponible para celulares y laptops. En el Perú, Mapeo está siendo usada por el [ECA Amarakaeri](https://amarakaeri.org/) y el SERNANP en Madre de Dios para monitorear la Reserva Comunal Amarakaeri. Encontrará más información en este [estudio de caso](https://www.earthdefenderstoolkit.com/comunidad/eca-amarakaeri-monitoreo-de-la-reserva-comunal-amarakaeri-en-peru?lang=es). 
 
 ## ¿Qué buscamos? 
 
-Usted trabajaría ofreciendo apoyo técnico presencial a nuestras contrapartes en Perú durante actividades puntuales entre octubre 2021 - marzo 2022. Buscamos a una persona que sea experta en el uso de celulares y 
-
-computadoras (así como otros accesorios como routers, memorias USB y baterías externas) y que sepa comunicar conceptos y procesos técnicos complejos en un lenguaje no técnico y accesible. Esta posición requiere viajes a comunidades indígenas remotas en Madre de Dios. 
+Usted trabajaría ofreciendo apoyo técnico presencial a nuestras contrapartes en Perú durante actividades puntuales entre octubre 2021 - marzo 2022. Buscamos a una persona que sea experta en el uso de celulares y computadoras (así como otros accesorios como routers, memorias USB y baterías externas) y que sepa comunicar conceptos y procesos técnicos complejos en un lenguaje no técnico y accesible. Esta posición requiere viajes a comunidades indígenas remotas en Madre de Dios. 
 
 ## Responsabilidades de esta posición 
 
@@ -57,7 +51,7 @@ Nuestro pequeño pero creciente equipo está basado en Washington DC; Nueva York
 
 ## Beneficios 
 
-*  **Oportunidad de visitar a nuestros socios en el campo**. Esta posición cubre todos los costos asociados al viaje, hospedaje y dietas durante las actividades en nuestras comunidades socias de Madre de Dios. 
+* **Oportunidad de visitar a nuestros socios en el campo**. Esta posición cubre todos los costos asociados al viaje, hospedaje y dietas durante las actividades en nuestras comunidades socias de Madre de Dios. 
 * **Oportunidad de desempeñar un papel clave en una organización pionera.** Usted tiene la oportunidad de tener un gran impacto en un equipo pequeño. 
 * **Compensación y beneficios acordes con la experiencia** – a negociar, dentro del rango $240-360 USD / day range. La dedicación estimada es de aproximadamente 25 días repartidos en tres periodos entre octubre de 2021 y marzo de 2022. Durante los primeros 5 días recibirá una capacitación online y el resto del tiempo lo dedicará a ofrecer apoyo técnico en la zona de Puerto Maldonado y en las comunidades aledañas a la Reserva Comunal Amarakaeri, probablemente en dos estadías distintas. Los costos de transporte, alojamiento y comida durante las estadías están cubiertos por Digital Democracy. Contrato en formato de “independent contractor” por parte de Digital Democracy, con sede en los Estados Unidos de América. 
 
