@@ -17,7 +17,7 @@ Usted estaría apoyando el uso de estas herramientas tecnológicas por parte de 
 
 ## ¿Qué buscamos? 
 
-Usted trabajaría ofreciendo apoyo técnico presencial a nuestras contrapartes en Perú durante actividades puntuales entre octubre 2021 - marzo 2022. Buscamos a una persona que sea experta en el uso de celulares y computadoras (así como otros accesorios como routers, memorias USB y baterías externas) y que sepa comunicar conceptos y procesos técnicos complejos en un lenguaje no técnico y accesible. Esta posición requiere viajes a comunidades indígenas remotas en Madre de Dios. 
+Usted trabajaría ofreciendo apoyo técnico presencial a nuestras contrapartes en Perú durante actividades puntuales entre octubre 2021 - marzo 2022. Buscamos a una persona instalada en Perú que sea experta en el uso de celulares y computadoras (así como otros accesorios como routers, memorias USB y baterías externas) y que sepa comunicar conceptos y procesos técnicos complejos en un lenguaje no técnico y accesible. Esta posición requiere viajes a comunidades indígenas remotas en Madre de Dios. 
 
 ## Responsabilidades de esta posición 
 
