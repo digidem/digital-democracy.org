@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Personal para ofrecer apoyo técnico en Perú "
-published: false
+published: true
 excerpt: >
   Digital Democracy está buscando una persona para unirse a nuestro equipo
   durante períodos específicos entre octubre 2021 - marzo 2022 para participar
@@ -53,7 +53,7 @@ Nuestro pequeño pero creciente equipo está basado en Washington DC; Nueva York
 
 * **Oportunidad de visitar a nuestros socios en el campo**. Esta posición cubre todos los costos asociados al viaje, hospedaje y dietas durante las actividades en nuestras comunidades socias de Madre de Dios. 
 * **Oportunidad de desempeñar un papel clave en una organización pionera.** Usted tiene la oportunidad de tener un gran impacto en un equipo pequeño. 
-* **Compensación y beneficios acordes con la experiencia** – a negociar, dentro del rango $240-360 USD / day range. La dedicación estimada es de aproximadamente 25 días repartidos en tres periodos entre octubre de 2021 y marzo de 2022. Durante los primeros 5 días recibirá una capacitación online y el resto del tiempo lo dedicará a ofrecer apoyo técnico en la zona de Puerto Maldonado y en las comunidades aledañas a la Reserva Comunal Amarakaeri, probablemente en dos estadías distintas. Los costos de transporte, alojamiento y comida durante las estadías están cubiertos por Digital Democracy. Contrato en formato de “independent contractor” por parte de Digital Democracy, con sede en los Estados Unidos de América. 
+* **Compensación y beneficios acordes con la experiencia** – a negociar, dentro del rango $240-360 USD / por día. La dedicación estimada es de aproximadamente el equivalente a 25 días a jornada completa, repartidos entre octubre de 2021 y marzo de 2022. Durante los primeros 5 días recibirá una capacitación online y el resto del tiempo lo dedicará a ofrecer apoyo técnico en la zona de Puerto Maldonado y en las comunidades aledañas a la Reserva Comunal Amarakaeri, probablemente en dos estadías distintas. Los costos de transporte, alojamiento y comida durante las estadías están cubiertos por Digital Democracy. Contrato en formato de “independent contractor” por parte de Digital Democracy, con sede en los Estados Unidos de América. 
 
 ## ¿Cómo aplicar? 
 
