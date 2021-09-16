@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Personal para ofrecer apoyo técnico en Perú "
-published: true
+published: false
 excerpt: >
   Digital Democracy está buscando una persona para unirse a nuestro equipo
   durante períodos específicos entre octubre 2021 - marzo 2022 para participar
