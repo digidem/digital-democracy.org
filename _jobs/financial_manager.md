@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Financial Manager
-published: true
+published: false
 excerpt: "Digital Democracy is seeking an experienced financial manager who
   specializes in nonprofit finance to manage the day-to-day financial needs of
   our organization (~$1 million annual budget). Someone who can confidently
