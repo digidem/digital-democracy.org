@@ -15,7 +15,7 @@ tags:
   - featured
 slug: mapeo-named-mit-solver
 ---
-Every year, MIT Solve calls for tech-based solutions to global challenges and selects the most promising pitches among thousands of applications. This year, we entered Mapeo in the [Solve Resilient Ecosystems Challenge](https://solve.mit.edu/challenges/resilient-ecosystems/), alongside 418 other solutions from around the world. We’re honored to announce that [Mapeo was one of seven chosen Solver teams for this challenge](https://solve.mit.edu/articles/meet-the-solver-teams-introducing-the-resilient-ecosystems-solver-class).
+Every year, MIT Solve calls for tech-based solutions to global challenges and selects the most promising pitches among thousands of applications. This year, we entered Mapeo in the [Solve Resilient Ecosystems Challenge](https://solve.mit.edu/challenges/resilient-ecosystems/), alongside 418 other solutions from around the world. We’re honored to announce that [Mapeo was one of seven chosen Solver teams](https://solve.mit.edu/articles/meet-the-solver-teams-introducing-the-resilient-ecosystems-solver-class) for this challenge.
 
 In addition to being selected as a Solver, [Mapeo won additional prizes](https://solve.mit.edu/articles/mit-solve-announces-new-class-of-42-social-entrepreneurs-solving-global-challenges-with-over-2-3-million-in-funding) at Solve Challenge Finals on Friday, September 17:
 
