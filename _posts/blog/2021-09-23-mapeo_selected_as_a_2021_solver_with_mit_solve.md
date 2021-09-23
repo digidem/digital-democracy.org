@@ -3,11 +3,10 @@ categories: blog
 title: Mapeo named a 2021 Solver with MIT Solve
 published: true
 date: 2021-09-22
-excerpt: >
-  Every year, MIT Solve calls for tech-based solutions to global challenges and
-  selects the most promising pitches among thousands of applications. This year,
-  Mapeo was one of seven Solver teams chosen for the Resilient Ecosystems
-  Challenge. 
+excerpt: "Every year, MIT Solve calls for tech-based solutions to global
+  challenges and selects the most promising pitches among thousands of
+  applications. This year, Mapeo was one of seven Solver teams chosen for the
+  Resilient Ecosystems Challenge. "
 author: "Emily Jacobi "
 image: /assets/48941308913_087bec5204_o.jpeg
 tags:
