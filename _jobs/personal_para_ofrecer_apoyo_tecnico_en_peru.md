@@ -57,7 +57,7 @@ Nuestro pequeño pero creciente equipo está basado en Washington DC; Nueva York
 
 ## ¿Cómo aplicar? 
 
-Envíe una nota con la siguiente información a mcartro@digital-democracy.org antes del 30 de septiembre de 2021. Revisaremos las solicitudes a medida que las recibamos. 
+Envíe una nota con la siguiente información a mcartro@digital-democracy.org antes del 15 de octubre de 2021. Revisaremos las solicitudes a medida que las recibamos. 
 
 * ¿Por qué está interesado en trabajar para Digital Democracy apoyando a comunidades de Perú en sus esfuerzos para proteger sus territorios?
 * Curriculum
