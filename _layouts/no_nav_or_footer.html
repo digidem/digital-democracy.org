@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="fb:admins" content="626467703" />
+
+{% include facebook.html %}
+
+  <title>Digital Democracy{% if page.title %}: {{ page.title }}{% endif %}</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700" rel="stylesheet">
+  <link rel="stylesheet" href="/css/site.css?{{ site.time | date: "%Y%m%d%H%M%S" }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+
+  <!--[if IE 8]>
+  <script src="/js/polyfills/ie8/event-listeners.js"></script>
+  <![endif]-->
+
+  <!--[if lte IE 9]>
+  <script src="/js/polyfills/ie9/classlist.js"></script>
+  <![endif]-->
+
+  <!-- Google Analytics -->
+  <script>
+  {% include js/google-analytics.js %}
+  </script>
+  <!-- End Google Analytics -->
+
+  <script src="/js/vendor/custom.modernizr.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
+<body data-section="/{{ page.url | remove_first: "/" | split: "/" | first }}/" class="{{ page.body_class }} {{ layout.body_class }}">
+
+<!--[if lt IE 8]>
+    <style>.browserupgrade{margin: 0.2em 0;background: #ccc;color: #000;padding: 0.2em 0;}</style>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+{{ content }}
+
+
+<!--[if lt IE 9]>
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+  <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+<!--<![endif]-->
+
+<script src="/js/site.js?{{ site.time | date: "%Y%m%d%H%M%S " }}"></script>
+
+<script>
+{% include js/site-setup.js %}
+{% include js/foundation-setup.js %}
+</script>
+</body>
+</html>
