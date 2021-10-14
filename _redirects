@@ -8,6 +8,8 @@
 /team/karissa-mckelvey /team/karissa
 # Covid Emergency Fund
 /covid https://pages.donately.com/digidem/campaign/peruvian-amazon-covid-emergency-fund
+# Redirect blog posts to WP domain
+/blog/* https://wp.digital-democracy.org/:splat 302
 # Show english pages for missing spanish pages
 /es/* /:splat 200
 # Redirect Spanish language users to Spanish version of the site
