@@ -151,24 +151,28 @@ layout: default
 
 <script type="text/javascript">
   var os = window.platform.os;
-  var slug = os.family.toLowerCase();
+  var downloadLink = 'https://releases.mapeo.app/desktop/'
 
   // window.platform.os.family can sometimes be Ubuntu, CentOS, etc.. this
   // makes them all just 'linux'
-  if (/Linux/i.test(navigator.platform)) slug = 'linux';
-
-  // Use win32 for mapeo/latest/:slug: 
-  if (/Win/i.test(os.family) && os.architecture === 32) slug = 'win32';
-
-  // Use MAC for OSX 
-  if (/os x/i.test(slug)) slug = 'mac';
+  if (/Linux/i.test(navigator.platform)) {
+    // TODO: On Android this is what will likely download
+    downloadLink += 'latest-linux'
+  } else if (/os x/i.test(os.family.toLowerCase())) {
+    downloadLink += 'latest-mac'
+  } else if (/Win/i.test(os.family)) {
+    if (os.architecture === 32) {
+      downloadLink += 'ia32/latest-win'
+    } else {
+      downloadLink += 'latest-win'
+    }
+  }
 
   var el = document.getElementById('download-link');
   var frame = document.getElementById('download-frame');
-  el.href = '/mapeo/latest/' + slug;
-  frame.src = '/mapeo/latest/' + slug;
+  el.href = frame.src = downloadLink
 
-  if (/mac/.test(slug)) {
+  if (/os x/i.test(os.family.toLowerCase())) {
     var section = document.createElement('section');
     section.className = 'instructions bg-white';
     var img = document.createElement('img');
