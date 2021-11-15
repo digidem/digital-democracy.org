@@ -11,7 +11,7 @@ author: "Emily Jacobi "
 image: /assets/48941308913_087bec5204_o.jpeg
 tags:
   - featured
-slug: mapeo-named-mit-solver
+slug: mapeo-selected-as-a-2021-solver-with-mit-solve
 ---
 Every year, MIT Solve calls for tech-based solutions to global challenges and selects the most promising pitches among thousands of applications. This year, we entered Mapeo in the [Solve Resilient Ecosystems Challenge](https://solve.mit.edu/challenges/resilient-ecosystems/), alongside 418 other solutions from around the world. We’re honored to announce that [Mapeo was one of seven chosen Solver teams](https://solve.mit.edu/articles/meet-the-solver-teams-introducing-the-resilient-ecosystems-solver-class) for this challenge.
 
