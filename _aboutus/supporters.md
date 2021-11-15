@@ -66,6 +66,8 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 [Samsung NEXT](https://samsungnext.com/)
 
+[Ronald W. Naito MD Foundation](https://www.rwnfoundation.org/)
+
 
 ## International Partners
 
