@@ -58,6 +58,7 @@ Our small but growing team is based in Oakland, CA; Washington, DC; New York; Mo
 - Opportunity to **visit our partners in the field**. Although most of the job is desk based, this role may include travel to our partner communities for workshops if you continue working with us long-term beyond the current pandemic.
 
 - Opportunity to **play a key role at a ground-breaking organization**. You have the opportunity to make a big impact in a small team.
+
 - **Compensation and benefits commensurate with experience** (the salary range of our current staff is $6,000–8,000 USD per month full-time equivalent), with flexible hours and opportunity to work where and when best fits your schedule.
 
 ## How to Apply
