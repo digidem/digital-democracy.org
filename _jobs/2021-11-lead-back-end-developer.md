@@ -1,11 +1,13 @@
 ---
 layout: job
 published: true
-title: Lead Back-end Developer
-excerpt: "We’re looking for a back-end developer with 5+ years
+title: Lead Back-end Developer 
+excerpt: (Application Closing Date Extended) We’re looking for a back-end developer with 5+ years
 experience to join our small, remote team on a 12 month contract (with
-potential long-term) starting as soon as possible."
+potential long-term) starting as soon as possible.
 ---
+(Application Closing Date Extended)
+
 Digital Democracy is looking for a lead back-end developer with 5 years experience to join our small, remote team on a 12-month contract (with potential long-term) starting as soon as possible. You will help build cutting-edge open-source mobile and desktop mapping apps for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
 
 We&#39;ve seen firsthand that **change does not come from technology, but from how people use it**. We are building tools our partners are using to achieve transformative change. We are dedicated to working towards a world where all people can participate in the decisions that govern their lives.
@@ -63,7 +65,7 @@ Our small but growing team is based in Oakland, CA; Washington, DC; New York; Mo
 
 ## How to Apply
 
-Send a note with the following to [jobs+be2021@digital-democracy.org](mailto:jobs+be2021@digital-democracy.org) by **11:59pm EST on Sunday November 28th 2021**. We will review applications as we receive them and may start interviews before the close date.
+Send a note with the following to [jobs+be2021@digital-democracy.org](mailto:jobs+be2021@digital-democracy.org) by **11:59pm EST on Sunday Dec 19th 2021**. We will review applications as we receive them and may start interviews before the close date.
 
 - Why you&#39;re interested in developing tools at Digital Democracy.
 - _Résumé_ / CV
