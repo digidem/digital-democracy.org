@@ -2,9 +2,9 @@
 layout: job
 published: true
 title: Lead Back-end Developer 
-excerpt: (Application Closing Date Extended) We’re looking for a back-end developer with 5+ years
+excerpt: "(Application Closing Date Extended) We’re looking for a back-end developer with 5+ years
 experience to join our small, remote team on a 12 month contract (with
-potential long-term) starting as soon as possible.
+potential long-term) starting as soon as possible."
 ---
 (Application Closing Date Extended)
 
