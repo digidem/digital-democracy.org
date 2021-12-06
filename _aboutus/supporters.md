@@ -68,6 +68,8 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 [Ronald W. Naito MD Foundation](https://www.rwnfoundation.org/)
 
+[Sall Family Foundation](https://www.sallfamily.org/)
+
 
 ## International Partners
 
