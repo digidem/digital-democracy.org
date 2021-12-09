@@ -65,8 +65,7 @@ Our small but growing team is based in Oakland, CA; Washington, DC; New York; Mo
 
 ## How to Apply
 
-<a href="https://apply.workable.com/digidem/j/5ADA0BFC9D/">
-    <div class="button-component">
-        <div class="button dark">Read the User Guide</div>
-    </div>
-</a>
+Click on this [link](https://apply.workable.com/digidem/j/5ADA0BFC9D/) to apply!
+
+<br/>
+<br/>
