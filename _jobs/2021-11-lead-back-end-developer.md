@@ -65,9 +65,7 @@ Our small but growing team is based in Oakland, CA; Washington, DC; New York; Mo
 
 ## How to Apply
 
-Send a note with the following to [jobs+be2021@digital-democracy.org](mailto:jobs+be2021@digital-democracy.org) by **11:59pm EST on Sunday Dec 19th 2021**. We will review applications as we receive them and may start interviews before the close date.
+Click on this [link](https://apply.workable.com/digidem/j/5ADA0BFC9D/) to apply!
 
-- Why you&#39;re interested in developing tools at Digital Democracy.
-- _Résumé_ / CV
-- Examples of your work. Link to projects you&#39;ve finished and any open source work on Github.
-- (Extra points) a story of an experience in work, travel or volunteering that has changed your perception of the world.
+<br/>
+<br/>
