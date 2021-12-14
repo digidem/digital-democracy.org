@@ -4,7 +4,7 @@ title: "Personal para ofrecer apoyo técnico en Perú "
 published: true
 excerpt: >
   Digital Democracy está buscando una persona para unirse a nuestro equipo
-  durante períodos específicos entre enero 2021 - marzo 2022 para participar
+  durante períodos específicos entre enero 2022 - marzo 2022 para participar
   en actividades puntuales en Perú. Su rol será ofrecer apoyo técnico a usuarios
   del aplicativo Mapeo en la zona de Puerto Maldonado (Madre de Dios). 
 slug: apoyo-tecnico-en-peru
