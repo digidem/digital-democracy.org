@@ -1,6 +1,6 @@
 ---
 layout: job
-title: "Personal para ofrecer apoyo técnico en Perú "
+title: "Apoyo técnico informático en Perú"
 published: true
 excerpt: >
   Digital Democracy está buscando una persona para unirse a nuestro equipo
