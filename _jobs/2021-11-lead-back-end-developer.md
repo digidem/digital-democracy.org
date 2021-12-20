@@ -2,11 +2,10 @@
 layout: job
 published: true
 title: Lead Back-end Developer 
-excerpt: "(Application Closing Date Extended) We’re looking for a back-end developer with 5+ years
+excerpt: "We’re looking for a back-end developer with 5+ years
 experience to join our small, remote team on a 12 month contract (with
 potential long-term) starting as soon as possible."
 ---
-(Application Closing Date Extended)
 
 Digital Democracy is looking for a lead back-end developer with 5 years experience to join our small, remote team on a 12-month contract (with potential long-term) starting as soon as possible. You will help build cutting-edge open-source mobile and desktop mapping apps for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world.
 
