@@ -2,6 +2,7 @@
 layout: team
 title: Michal Migurski
 tags: board
+published: false
 role: Board Treasurer
 image: /assets/mike-migurski.jpg
 twitter: "https://twitter.com/michalmigurski"
