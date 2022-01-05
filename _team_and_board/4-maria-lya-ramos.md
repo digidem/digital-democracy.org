@@ -1,6 +1,6 @@
 ---
 layout: team
-role: Board
+role: Board Treasurer
 image: /assets/maria-profile.jpg
 tags: board
 slug: maria
