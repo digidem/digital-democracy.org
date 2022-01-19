@@ -1,6 +1,6 @@
 ---
 title: Andrew Chou 
-role: "Front-End Developer"
+role: "Senior Front-End Developer"
 tags: core
 layout: team
 image: "/assets/Andrew-Chou-Headshot .png"
