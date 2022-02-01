@@ -56,7 +56,7 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 [Nia Tero](https://www.niatero.org/)
 
-[One Earth Initiative](https://www.oneearth.org/)
+[One Earth](https://www.oneearth.org/)
 
 [Open Society Foundations](https://www.opensocietyfoundations.org/)
 
