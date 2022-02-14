@@ -62,7 +62,7 @@ Our small but growing team is based in Washington, DC; New York; Montreal, Canad
 - **Compensation and benefits commensurate with experience** $84,000—$96,000 USD full-time equivalent.
 
 ## How to Apply
-Posting will close 11:59pm EST on Sunday February 13 2022.
+Posting will close 11:59pm EST on Sunday February 27 2022.
 
 Click on this [link](https://apply.workable.com/digidem/j/5ADA0BFC9D/) to apply!
 
