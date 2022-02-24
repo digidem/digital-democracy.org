@@ -28,7 +28,6 @@ This is a full or part -time position depending on the candidates preference and
 ## Important traits for this role
 
 - **Leadership &amp; vision**. You will take ownership of the backend stack for Mapeo and ensure that it meets the long-term needs of Mapeo users.
-- **Peer-to-peer**. You have an understanding of peer-to-peer data structures and networking, and have ideally worked on p2p projects in the past.
 - **Tooling knowledge**. Node.js; modular code; Typescript; Git; document databases (NoSQL) — you are comfortable and proficient working with these.
 - **Values-based**. You share our belief in building tools that prioritize the autonomy of our partners, and challenge legacies of colonialism and extraction.
 - **Rigorous at testing**. You can write thorough automated tests that cover usage of the code in a real environment.
@@ -62,7 +61,6 @@ Our small but growing team is based in Washington, DC; New York; Montreal, Canad
 - **Compensation and benefits commensurate with experience** $84,000—$96,000 USD full-time equivalent.
 
 ## How to Apply
-Posting will close 11:59pm EST on Sunday February 27 2022.
 
 Click on this [link](https://apply.workable.com/digidem/j/5ADA0BFC9D/) to apply!
 
