@@ -3,6 +3,7 @@ layout: team
 title: Lisbet Portman
 role: "Programs"
 tags: core
+published: false
 slug: lisbet
 image: /assets/lisbet-profile.jpg
 ---

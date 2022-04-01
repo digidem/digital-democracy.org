@@ -43,16 +43,19 @@ Technical Executor of the Amarakaeri Communal Reserve ([ECA-RCA](http://eca-amar
 South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/index.html)), an indigenous organisation of Wapichan and Makushi peoples located in South Western Guyana.
 
 ## Funding Partners
+[Association of Tribal Archives, Libraries, and Museums](https://www.atalm.org/)
 
 [Dutch Postcode Lottery](https://www.postcodeloterij.nl)
-
-[Earth Alliance](https://ealliance.org/)
 
 [Good Energies](https://www.goodenergies.org/)
 
 [Hivos Foundation](https://latin-america.hivos.org/)
 
-[Internews](https://internews.org/)
+[MIT Solve](https://solve.mit.edu/)
+
+[Mozilla Data Futures Lab](https://foundation.mozilla.org/en/data-futures-lab/)
+
+[National Endowment for the Humanities](https://www.neh.gov/)
 
 [Nia Tero](https://www.niatero.org/)
 
@@ -63,8 +66,6 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 [Open Technology Fund ](https://www.opentech.fund/)
 
 [The Patrick J. McGovern Foundation](https://www.mcgovern.org/)
-
-[Samsung NEXT](https://samsungnext.com/)
 
 [Ronald W. Naito MD Foundation](https://www.rwnfoundation.org/)
 
