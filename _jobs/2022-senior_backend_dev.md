@@ -1,6 +1,6 @@
 ---
 layout: job
-published: true
+published: false
 title: Senior Back-end Developer 
 excerpt: "We are looking for a senior backend developer with 5 years experience to join our small, collaborative, remote team. Are you interested in working on decentralized, offline-first applications to solve big challenges that really make the world a better place? Than this role is for you. You will lead the revamp of our backend, making important architecture decisions, while building cutting-edge open-source mobile and desktop mapping apps for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world. This role is a 12-month contract (with potential long-term)."
 ---
