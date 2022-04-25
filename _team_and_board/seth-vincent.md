@@ -1,5 +1,5 @@
 ---
-title: Erik Sin 
+title: Seth Vincent
 role: "Senior Back-end Developer "
 tags: core
 layout: team
