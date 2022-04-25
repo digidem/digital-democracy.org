@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Apoyo técnico informático en Perú"
-published: true
+published: false
 excerpt: >
   Digital Democracy está buscando una persona para unirse a nuestro equipo
   durante períodos específicos entre enero 2022 - marzo 2022 para participar
