@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="icon" href="favicon.ico" sizes="32x32" />
+    <meta charset='utf-8' />
+    <title>Digital Democracy: Technology in Solidarity with Frontline Communities</title>
+    <meta name="description"
+        content="Digital Democracy partners with marginalized communities worldwide to build and use tools to defend their environmental & human rights." />
+    <link rel="canonical" href="https://www.digital-democracy.org/storymap" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Digital Democracy: Technology in Solidarity with Frontline Communities" />
+    <meta property="og:description"
+        content="Digital Democracy partners with marginalized communities worldwide to build and use tools to defend their environmental & human rights." />
+    <meta property="og:url" content="https://www.digital-democracy.org/storymap" />
+    <meta property="og:site_name" content="Digital Democracy: Technology in Solidarity with Frontline Communities" />
+    <meta property="article:publisher" content="https://facebook.com/digidemocracy" />
+    <meta property="og:image"
+        content="images/thumbnail.jpg" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="400" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@DigiDem" />
+    <meta name="twitter:title" content="Digital Democracy: Technology in Solidarity with Frontline Communities" />
+    <meta name="twitter:description"
+        content="Digital Democracy partners with marginalized communities worldwide to build and use tools to defend their environmental & human rights." />
+    <meta name="twitter:image"
+        content="images/thumbnail.jpg" />
+    <meta name="twitter:url" content="https://www.digital-democracy.org/storymap" />
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2-globe.beta/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2-globe.beta/mapbox-gl.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&family=Roboto:wght@100;300;400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://unpkg.com/intersection-observer@0.12.0/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/8acaa2e00f.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        a,
+        a:hover,
+        a:visited {
+            color: #fff;
+        }
+
+        h5 {
+            font-weight: normal;
+        }
+
+        #map {
+            top: 0;
+            height: 100vh;
+            width: 100vw;
+            position: fixed;
+            z-index: 0;
+        }
+
+        #mapInset {
+            bottom: 50px;
+            right: 30px;
+            height: 180px;
+            width: 250px;
+            max-width: 100%;
+            position: fixed;
+            z-index: 1;
+            opacity: 1;
+            transition: opacity 0.5s ease-in-out;
+            pointer-events: none;
+        }
+
+        #bookmarks {
+            margin: 0;
+            width: 100vw;
+            position: fixed;
+            top: 0;
+            z-index: 6;
+            background-color: rgba(14, 17, 22, 1);
+        }
+
+        #bookmarks p {
+            padding: 1vh;
+            text-align: center;
+            color: white;
+            font-size: 0.8em;
+        }
+
+        #header {
+            width: 30vw;
+            margin-left: 12vw;
+            margin-top: 23vw;
+            margin-bottom: 50vh;   
+            position: relative;
+            z-index: 5;
+            text-align: left;
+            border-radius: 25px;
+            background: none;
+        }
+
+        #header h1 {
+            font-family: 'Roboto', 'Open Sans', 'Verdana', sans-serif;
+            font-size: 2.5rem;
+            text-transform: uppercase;
+            text-shadow: 2px 2px #000000;
+        }
+
+        #header img {
+            width: 17vw;
+        }
+
+
+        #button {
+            text-transform: uppercase;
+            background: #f58941;
+            border: none;
+            padding: 10px 18px;
+            font-weight: 600;
+            color: #fff;
+            margin-top: 30px;
+            border-radius: 35px;
+            transition: 0.3s ease-in-out all;
+        }
+
+        #button:hover {
+            cursor: pointer;
+            background: #ff6600;
+        }
+
+        #footer {
+            width: 100%;
+            min-height: 5vh;
+            padding-top: 1vh;
+            padding-bottom: 1vh;
+            text-align: center;
+            line-height: 25px;
+            font-size: 13px;
+            position: relative;
+            z-index: 5;
+        }
+
+        #footer p {
+            padding: 0 10rem;
+        }
+
+        #features {
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+        }
+
+        .fab,
+        .fas {
+            font-size: 15px;
+            margin: 10px 10px 0 0;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .hidden {
+            visibility: hidden;
+        }
+
+        .centered {
+            width: 50vw;
+            margin: 0 auto;
+        }
+
+        .lefty {
+            width: 33vw;
+            margin-left: 5vw;
+        }
+
+        .righty {
+            width: 33vw;
+            margin-left: 62vw;
+        }
+
+        .fully {
+            width: 100%;
+            margin: auto;
+        }
+
+        .light {
+            color: #444;
+            background-color: #fafafa;
+        }
+
+        .dark {
+            color: #fafafa;
+            background-color: rgba(8, 13, 22, 0.75);
+        }
+
+        .step {
+            padding-bottom: 50vh;
+            /* margin-bottom: 10vh; */
+            opacity: 0.25;
+        }
+
+        .step.active {
+            opacity: 0.9;
+        }
+
+        .step div {
+            padding: 25px 50px;
+            line-height: 25px;
+            font-size: 13px;
+            border-radius: 25px;
+        }
+
+        .step img {
+            width: 100%;
+        }
+
+        .step .caption {
+            margin: 0;
+            font-size: 1.2em;
+        }
+
+        .step .returntop {
+            font-size: 1.2em;
+        }
+
+        .step div p {
+            font-family: 'Roboto', 'Open Sans', 'Verdana', sans-serif;
+            font-size: 1.1rem;
+            line-height: 30px;
+        }
+
+        .step div h3 {
+            font-family: 'Lora', 'Georgia', serif;
+            font-size: 2rem;
+            font-weight: 1000;
+            line-height: 42px;
+        }
+
+        #rotate-mobile {
+            display: none;
+        }
+
+        .legend {
+            position: fixed;
+            right: 14px;
+            bottom: 30px;
+            color: #444;
+            background-color: #fafafa;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.10);
+            font-family: 'Montserrat', Helvetica, sans-serif;
+            padding: 10px;
+            display: none;
+            z-index: 1;
+            max-width: 350px;
+        }
+
+        .legend img {
+            width: 25px;
+            margin-right: 10px;
+        }
+
+        .legend h3 {
+            margin: 0 0 10px;
+            font-family: 'Montserrat', Helvetica, sans-serif;
+        }
+
+        .legend div {
+            vertical-align: center;
+        }
+
+        .legend div #block {
+            display: inline-block;
+            height: 20px;
+            width: 30px;
+            margin-right: 5px;
+        }
+
+        .legend div #text {
+            vertical-align: top;
+        }
+
+        .mapboxgl-ctrl {
+            margin-right: 30px !important;
+            margin-top: 65px !important;
+        }
+
+        .mapboxgl-popup {
+            font: 12px/20px 'Montserrat', Helvetica, sans-serif;
+        }
+
+        @media (max-width: 750px) {
+            #features {
+                width: 90vw;
+                margin: 0 auto;
+            }
+
+            #bookmarks {
+                display: none;
+            }
+
+            #header {
+                margin-left: 2vw;
+                margin-top: 5vw;
+                margin-bottom: 50vh;   
+                width: 74vw;
+                left: 8vw;
+                padding: 2vh;
+                top: 0;
+                position: relative;
+                z-index: 5;
+                text-align: center;
+                background-color: rgba(14, 17, 22, 0.6);
+                border-radius: 25px;
+            }
+
+            #header img {
+                width: 80%;
+            }
+
+            #header h1 {
+                font-family: 'Roboto', 'Open Sans', 'Verdana', sans-serif;
+                font-size: 1.6rem;
+                text-transform: uppercase;
+            }
+
+            .lefty {
+                width: 90%;
+            }
+
+            .step div {
+                padding: 5px 15px;
+            }
+
+            .step div h3 {
+                font-family: 'Lora', 'Georgia', serif;
+                font-size: 1.5rem;
+                font-weight: 1000;
+            }
+
+            #footer p {
+                padding: 0;
+            }
+
+            #rotate-mobile {
+                display: inline-block;
+                margin-top: 25px;
+            }
+
+        }
+
+        /* Fix issue on mobile browser where scroll breaks  */
+        .mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan,
+        .mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan .mapboxgl-canvas {
+            touch-action: unset;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="mapInset"></div>
+    <div id="bookmarks"></div>
+    <div id="story"></div>
+    <script src="./config.js"></script>
+    <script src="./sources.js"></script>
+    <script>
+        var initLoad = true;
+        var layerTypes = {
+            'fill': ['fill-opacity'],
+            'line': ['line-opacity'],
+            'circle': ['circle-opacity', 'circle-stroke-opacity'],
+            'symbol': ['icon-opacity', 'text-opacity'],
+            'raster': ['raster-opacity'],
+            'fill-extrusion': ['fill-extrusion-opacity'],
+            'heatmap': ['heatmap-opacity']
+        }
+
+        var alignments = {
+            'left': 'lefty',
+            'center': 'centered',
+            'right': 'righty',
+            'full': 'fully'
+        }
+
+        function getLayerPaintType(layer) {
+            var layerType = map.getLayer(layer).type;
+            return layerTypes[layerType];
+        }
+
+        function setLayerOpacity(layer) {
+            var paintProps = getLayerPaintType(layer.layer);
+            paintProps.forEach(function (prop) {
+                var options = {};
+                if (layer.duration) {
+                    var transitionProp = prop + "-transition";
+                    options = { "duration": layer.duration };
+                    map.setPaintProperty(layer.layer, transitionProp, options);
+                }
+                map.setPaintProperty(layer.layer, prop, layer.opacity, options);
+            });
+        }
+
+        // add navigation control for interactive chapters
+        const navigation = new mapboxgl.NavigationControl();
+
+        // add custom hover popups for interactive chapters
+        const popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false,
+            className: "workAreas-Dd"
+        });
+        const popupHover = (e) => {
+            map.getCanvas().style.cursor = 'pointer';
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const description = e.features[0].properties.Community_;
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+            popup.setLngLat(coordinates).setHTML(description).addTo(map);
+        }
+        const popupHoverAway = () => {
+            popup.remove();
+            map.getCanvas().style.cursor = 'default';
+        }
+        const popupHoverAwayGrab = () => {
+            popup.remove();
+            map.getCanvas().style.cursor = 'grab';
+        }
+        const turnPopupsOn = (layer) => {
+            map.on('mouseenter', layer, popupHover);
+            map.on('mouseleave', layer, popupHoverAway);
+        };
+        const turnPopupsOnWithGrab = (layer) => {
+            map.on('mouseenter', layer, popupHover);
+            map.on('mouseleave', layer, popupHoverAwayGrab);
+        };
+        const turnPopupsOff = (layer) => {
+            map.off('mouseenter', layer, popupHover);
+            map.off('mouseleave', layer, popupHoverAway);
+        };
+
+        var story = document.getElementById('story');
+        var features = document.createElement('div');
+        features.setAttribute('id', 'features');
+        // add bookmarks for chapters with title, append to header and footer
+        if (config.bookmarks) {
+            var bookmarks = document.getElementById('bookmarks');
+            var bookmarksText = "<p><strong>Bookmarks</strong>: ";
+            for (i = 0; i < config.chapters.length; i++) {
+                if (config.chapters[i].title) {
+                    bookmarksText += `<a href=#${config.chapters[i].id}>${config.chapters[i].title}</a>`;
+                    if (i != config.chapters.length - 1) {
+                        bookmarksText += " | ";
+                    }
+                }
+            }
+            bookmarksText += "</p>";
+            bookmarks.innerHTML = bookmarksText;
+            bookmarks.setAttribute('id', 'bookmarks');
+        }
+        var header = document.createElement('div');
+
+        if (config.title) {
+            var titleText = document.createElement('h1');
+            titleText.innerHTML = config.title;
+            header.appendChild(titleText);
+        }
+
+        // add logo if found in config
+        if (config.logo) {
+            var image = new Image();
+            image.src = config.logo;
+            header.appendChild(image);
+        }
+
+        if (config.subtitle) {
+            var subtitleText = document.createElement('h2');
+            subtitleText.innerText = config.subtitle;
+            header.appendChild(subtitleText);
+        }
+
+        if (config.byline) {
+            var bylineText = document.createElement('p');
+            bylineText.innerText = config.byline;
+            header.appendChild(bylineText);
+        }
+
+        if (header.innerText.length > 0) {
+            header.classList.add(config.theme);
+            header.setAttribute('id', 'header');
+            story.appendChild(header);
+        }
+
+        config.chapters.forEach((record, idx) => {
+            var container = document.createElement('div');
+            var chapter = document.createElement('div');
+
+            if (record.title) {
+                var title = document.createElement('h3');
+                title.innerText = record.title;
+                chapter.appendChild(title);
+            }
+
+            if (record.image) {
+                var image = new Image();
+                image.src = record.image;
+                chapter.appendChild(image);
+            }
+
+            // add image caption to chapters if found in config
+            if (record.caption) {
+                caption = document.createElement('p');
+                caption.setAttribute("class", "caption");
+                caption.innerHTML = `<em>${record.caption}</em>`;
+                chapter.appendChild(caption);
+            }
+
+            if (record.description) {
+                var story = document.createElement('p');
+                story.innerHTML = record.description;
+                chapter.appendChild(story);
+
+                // add author to chapters if found in config
+                if (record.author) {
+                    author = document.createElement('p');
+                    author.innerHTML = '<strong>By ' + record.author + '</strong>';
+                    chapter.appendChild(author);
+                }
+
+                // add website to chapters if found in config
+                if (record.website) {
+                    var website = document.createElement('p');
+                    website.innerHTML = `» ${record.website}`;
+                    chapter.appendChild(website);
+                }
+
+                // add return to top link to each chapter
+                var returnTop = document.createElement('p');
+                returnTop.setAttribute("class", "returntop");
+                returnTop.innerHTML = '<a href="#header">Back to top</a>';
+                chapter.appendChild(returnTop);
+            }
+
+            // add legend to chapters if found in config
+            if (record.legend) {
+                var legend = document.createElement('div');
+                legend.setAttribute("class", "legend");
+                legend.setAttribute("id", (record.id + "legend"));
+                legend.innerHTML = '<div>' + record.legend + '</div>';
+                document.body.append(legend);
+            }
+
+            container.setAttribute('id', record.id);
+            container.classList.add('step');
+            if (idx === 0) {
+                container.classList.add('active');
+            }
+
+            chapter.classList.add(config.theme);
+            container.appendChild(chapter);
+            container.classList.add(alignments[record.alignment] || 'centered');
+            if (record.hidden) {
+                container.classList.add('hidden');
+            }
+            features.appendChild(container);
+        });
+
+        story.appendChild(features);
+
+        var footer = document.createElement('div');
+
+        /*
+        if (config.translation) {
+            var button = document.createElement('div');
+            switch(config.translation) {
+                case 'es':
+                    button.innerHTML = '<a href="https://digital-democracy.org/storymap/es/"><button id="button">Español</button></a>';
+                break;
+                case 'en':
+                    button.innerHTML = '<a href="https://digital-democracy.org/storymap/"><button id="button">English</button></a>';
+                break
+            }
+            header.appendChild(button);
+        }
+        */
+
+        // add prefix content for mobile view
+        if (config.mobileView) {
+            var mobileText = document.createElement('p');
+            mobileText.innerHTML = config.mobileView;
+            header.appendChild(mobileText);
+        }
+
+        if (config.footer) {
+            var footerText = document.createElement('p');
+            footerText.innerHTML = config.footer;
+            footer.appendChild(footerText);
+        }
+
+        if (footer.innerText.length > 0) {
+            footer.classList.add(config.theme);
+            footer.setAttribute('id', 'footer');
+            story.appendChild(footer);
+        }
+
+        mapboxgl.accessToken = config.accessToken;
+
+        const transformRequest = (url) => {
+            const hasQuery = url.indexOf("?") !== -1;
+            const suffix = hasQuery ? "&pluginName=scrollytellingV2" : "?pluginName=scrollytellingV2";
+            return {
+                url: url + suffix
+            }
+        }
+
+        var map = new mapboxgl.Map({
+            version: 8,
+            container: 'map',
+            style: config.style,
+            center: config.chapters[0].location.center,
+            zoom: config.chapters[0].location.zoom,
+            bearing: config.chapters[0].location.bearing,
+            pitch: config.chapters[0].location.pitch,
+            transformRequest: transformRequest,
+            // make storymap partially interactive
+            interactive: false,
+            dragPan: false,
+            dragRotate: false,
+            doubleClickZoom: false,
+            scrollZoom: false,
+            touchZoomRotate: false,
+            // set custom projection
+            projection: config.projection,
+        });
+
+        // Create a inset map if enabled in config.js
+        if (config.inset && !config.legend) {
+            var insetMap = new mapboxgl.Map({
+                container: 'mapInset', // container id
+                style: 'mapbox://styles/mapbox/dark-v10', //hosted style id
+                center: config.chapters[0].location.center,
+                // Hardcode above center value if you want insetMap to be static.
+                zoom: 3, // starting zoom
+                hash: false,
+                interactive: false,
+                attributionControl: false,
+                //Future: Once official mapbox-gl-js has globe view enabled,
+                //insetmap can be a globe with the following parameter.
+                //projection: 'globe'
+            });
+        }
+
+        if (config.showMarkers) {
+            var marker = new mapboxgl.Marker({ color: config.markerColor });
+            marker.setLngLat(config.chapters[0].location.center).addTo(map);
+        }
+
+        // instantiate the scrollama
+        var scroller = scrollama();
+
+        map.on("load", function () {
+            if (config.use3dTerrain) {
+                map.addSource('mapbox-dem', {
+                    'type': 'raster-dem',
+                    'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+                    'tileSize': 512,
+                    'maxzoom': 14
+                });
+                // add the DEM source as a terrain layer with exaggerated height
+                map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+
+                // add a sky layer that will show when the map is highly pitched
+                map.addLayer({
+                    'id': 'sky',
+                    'type': 'sky',
+                    'paint': {
+                        'sky-type': 'atmosphere',
+                        'sky-atmosphere-sun': [0.0, 0.0],
+                        'sky-atmosphere-sun-intensity': 15
+                    }
+                });
+            };
+
+            map.setFog({
+                'horizon-blend': 0.02,
+                'star-intensity': 0.15,
+                'color': '#ffffff',
+                'high-color': '#008cff',
+                'space-color': '#000000'
+            });
+
+            // add custom layers
+            if (config.useCustomLayers) {
+                for (i = 0; i < externalData.sources.length; i++) {
+                    let currentSource = externalData.sources[i];
+                    let sourceObj = { "type": currentSource.type, "url": currentSource.url };
+                    map.addSource(currentSource.name, sourceObj);
+                }
+                for (i = 0; i < externalData.layers.length; i++) {
+                    map.addLayer(externalData.layers[i], 'dd-workareas'); // arrange layers beneath this layer in your Studio map
+                }
+            }
+
+            map.setPaintProperty('dd-workareas', `icon-opacity`, 1);
+            map.setPaintProperty('dd-workareas-past', `icon-opacity`, 1);
+            map.setPaintProperty('native-land', `text-opacity`, 1);
+            map.setPaintProperty('country-label', `text-opacity`, 0);
+
+            // As the map moves, grab and update bounds in inset map.
+            if (config.inset && !config.legend) {
+                map.on('move', getInsetBounds);
+            }
+            // setup the instance, pass callback functions
+            scroller
+                .setup({
+                    step: '.step',
+                    offset: 0.5,
+                    progress: true
+                })
+
+                .onStepEnter(async response => {
+                    var chapter = config.chapters.find(chap => chap.id === response.element.id);
+
+                    // add legend to each chapter
+                    if (chapter.legend) {
+                        for (i = 0; i < config.chapters.length; i++) {
+                            for (j = 0; j < config.chapters.length; j++) {
+                                if (("page" + j) == chapter.id) {
+                                    $("#page" + j + "legend").show();
+                                } else {
+                                    $("#page" + j + "legend").hide();
+                                }
+                            }
+                        }
+                    } else {
+                        for (i = 0; i < config.chapters.length; i++) {
+                            $("#page" + i + "legend").hide();
+                        }
+                    };
+
+                    response.element.classList.add('active');
+                    map[chapter.mapAnimation || 'flyTo'](chapter.location);
+
+                    // Incase you do not want to have a dynamic inset map,
+                    // rather want to keep it a static view but still change the
+                    // bbox as main map move: comment out the below if section.
+                    if (config.inset && !config.legend) {
+                        if (chapter.location.zoom < 5) {
+                            insetMap.flyTo({ center: chapter.location.center, zoom: 0 });
+                        }
+                        else {
+                            insetMap.flyTo({ center: chapter.location.center, zoom: 3 });
+                        }
+                    }
+                    if (config.showMarkers) {
+                        marker.setLngLat(chapter.location.center);
+                    }
+                    if (chapter.onChapterEnter.length > 0) {
+                        chapter.onChapterEnter.forEach(setLayerOpacity);
+                    }
+
+                    // set interactive properties for chapters set as mapInteractive = true
+                    if (chapter.mapInteractive) {
+                        map.addControl(navigation);
+                        map.dragPan.enable();
+                        map.doubleClickZoom.enable();
+                        map.getCanvas().style.cursor = 'grab';
+                    } else {
+                        if (map.hasControl(navigation)) {
+                            map.removeControl(navigation);
+                        }
+                        map.dragPan.disable();
+                        map.doubleClickZoom.disable();
+                        map.getCanvas().style.cursor = 'default';
+                        turnPopupsOff('dd-workareas');
+                        turnPopupsOff('dd-workareas-past');
+                    }
+
+                    turnPopupsOn('dd-workareas-past');
+                    turnPopupsOn('dd-workareas');
+
+                    // custom properties for chapters with callback (Dd storymap specific)
+                    if (chapter.callback == "browseMap") {
+                        turnPopupsOnWithGrab('dd-workareas-past');
+                        turnPopupsOnWithGrab('dd-workareas');
+                    } else if (chapter.callback == "workAreas") {
+                        turnPopupsOn('dd-workareas');
+                        turnPopupsOff('dd-workareas-past');
+                    } else {
+                        turnPopupsOff('dd-workareas-past');
+                        turnPopupsOff('dd-workareas');
+                    }
+
+                    if (chapter.callback == "waoMap") {
+                        map.setPaintProperty('background', "background-color", "#ebf9dc");
+                        map.setPaintProperty('satellite', "raster-opacity", ["interpolate", ["linear"], ["zoom"], 12, 1, 13, 0]);
+                    } else {
+                        map.setPaintProperty('background', "background-color", "#000000");
+                        map.setPaintProperty('satellite', "raster-opacity", 1);
+                    }
+
+                    if (chapter.callback == "ecaMap") {
+                        map.setPaintProperty('satellite', "raster-saturation", -1);   
+                    } else {
+                        map.setPaintProperty('satellite', "raster-saturation", 0);   
+                    }
+
+                    if (chapter.rotateAnimation) {
+                        map.once('moveend', () => {
+                            const rotateNumber = map.getBearing();
+                            map.rotateTo(rotateNumber + 180, {
+                                duration: 30000, easing: function (t) {
+                                    return t;
+                                }
+                            });
+                        });
+                    }
+
+                    if (chapter.spinGlobe && config.projection == 'globe') {
+                        map.once('moveend', () => {
+                            const center = map.getCenter();
+                            const newCenter = [center.lng + 360, center.lat];
+                            map.easeTo({ center: newCenter, duration: 30000, easing: n => n });
+                        });
+                    }
+                })
+                .onStepExit(response => {
+                    var chapter = config.chapters.find(chap => chap.id === response.element.id);
+                    response.element.classList.remove('active');
+                    if (chapter.onChapterExit.length > 0) {
+                        chapter.onChapterExit.forEach(setLayerOpacity);
+                    }
+                });
+        });
+
+
+        //Helper functions for insetmap
+        function getInsetBounds() {
+            let bounds = map.getBounds();
+
+            let boundsJson = {
+                "type": "FeatureCollection",
+                "features": [{
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    bounds._sw.lng,
+                                    bounds._sw.lat
+                                ],
+                                [
+                                    bounds._ne.lng,
+                                    bounds._sw.lat
+                                ],
+                                [
+                                    bounds._ne.lng,
+                                    bounds._ne.lat
+                                ],
+                                [
+                                    bounds._sw.lng,
+                                    bounds._ne.lat
+                                ],
+                                [
+                                    bounds._sw.lng,
+                                    bounds._sw.lat
+                                ]
+                            ]
+                        ]
+                    }
+                }]
+            }
+
+            if (initLoad) {
+                addInsetLayer(boundsJson);
+                initLoad = false;
+            } else {
+                updateInsetLayer(boundsJson);
+            }
+
+        }
+
+        function addInsetLayer(bounds) {
+            insetMap.addSource('boundsSource', {
+                'type': 'geojson',
+                'data': bounds
+            });
+
+            insetMap.addLayer({
+                'id': 'boundsLayer',
+                'type': 'fill',
+                'source': 'boundsSource', // reference the data source
+                'layout': {},
+                'paint': {
+                    'fill-color': '#fff', // blue color fill
+                    'fill-opacity': 0.2
+                }
+            });
+            // // Add a black outline around the polygon.
+            insetMap.addLayer({
+                'id': 'outlineLayer',
+                'type': 'line',
+                'source': 'boundsSource',
+                'layout': {},
+                'paint': {
+                    'line-color': '#000',
+                    'line-width': 1
+                }
+            });
+        }
+
+        function updateInsetLayer(bounds) {
+            insetMap.getSource('boundsSource').setData(bounds);
+        }
+
+        // setup resize event
+        window.addEventListener('resize', scroller.resize);
+
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BHDQFM42E7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-BHDQFM42E7');
+    </script>
+</body>
+
+</html>
