@@ -1,17 +1,14 @@
 ---
-layout: team
 title: Rudo Kemper
-role: "Earth Defenders Toolkit & Programs"
+role: Programs
 tags: core
+layout: team
+image: /assets/rudo-square.jpg
 slug: rudo
-image: "/assets/rudo-kemper-headshot.jpg"
-twitter: "https://twitter.com/rudokemper"
+twitter: https://twitter.com/rudokemper
 ---
+Rudo is a geographer and technologist working in solidarity with Indigenous and other local communities to co-create and use digital tools for self-determination and self-representation. He got his start working with communities in the Amazon rainforest in the early 2010s, where he accompanied communities like the Matawai Maroons of Suriname in mapping and monitoring their ancestral lands, and documenting their traditional knowledge and oral histories. These experiences are also what led him on the path of applied technology and tool building, since off-the-shelf tools were ill-equipped for the remote, offline jungle context, or simply not built with Indigenous users in mind.
 
-Rudo Kemper works with Digital Democracy on the programs team, and manages the creation of the Earth Defenders Toolkit. Rudo is a human geographer with a background in archives and international administration, and a lifelong technology tinkerer. He is passionate about co-creating and using technology to support marginalized communities in defending their right to self-determination and representation, and towards other decolonizing and emancipatory ends.
+Rudo currently works with Digital Democracy, where he is accompanying communities across the globe in building and using mapping tools to defend their lands, and stewarding the development of the Earth Defenders Toolkit, a collaborative digital platform for earth defender communities and their allies. He currently serves on the executive boards of Native Land Digital and the International Society for Participatory Mapping, and the circle of advisors of the Sacred Fire Foundation. He is the founder and one of the core stewards of the open-source application Terrastories, used by Indigenous communities across the world to map their place-based oral histories.
 
-Before joining Digital Democracy in 2020, Rudo worked for 6 years with the [Amazon Conservation Team](https://www.amazonteam.org/) (ACT), most recently serving as mapping and programs manager with a particular focus on the organization’s participatory mapping, community-based monitoring, and intangible cultural heritage work with indigenous and Afro-descendant communities in Suriname and the Guiana Shield. Rudo currently serves on the executive boards of [Native Land Digital](https://native-land.ca/) and the [International Society for Participatory Mapping](http://landscapevalues.org/ispm/). He is one of the core stewards of the open-source geostorytelling application [Terrastories](https://terrastories.io/), and its principal representative in charge of community outreach and engagement.
-
-Originally from Curaçao, Rudo has worked with indigenous and other local communities across the Americas from Canada to the Amazon. He is currently based in Springfield, Virginia.
-
-Contact: [rkemper@digital-democracy.org](mailto:rkemper@digital-democracy.org)
+Originally from Curaçao, Rudo has worked with communities across the world, including in Suriname, Kenya, Canada, Brazil, Ecuador, Colombia, Costa Rica, and the United States. He is currently based in Tauxenent aka Springfield, Virginia (United States) with his partner Liz and their dog Tobi.
