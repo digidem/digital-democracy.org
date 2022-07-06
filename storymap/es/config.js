@@ -9,7 +9,7 @@ var config = {
     inset: true,
     legend: true,
     bookmarks: true, // to add bookmarks to header and footer
-    title: 'Tecnología en Solidaridad con Comunidades Defensoras de la Tierra',
+    title: 'Tecnología en Solidaridad con Comunidades Defensoras en la Primera Línea',
     logo: 'images/Digital Democracy.png', // to add a logo to the header
     translation: 'en',
 	mobileView: '<div id="rotate-mobile"><em>Para una visualización óptima de este mapa narrativo en dispositivos móviles, gire su dispositivo a una orientación horizontal.</em><br><br><img src="images/device.png">', // to add custom messaging in the header for mobile devices
