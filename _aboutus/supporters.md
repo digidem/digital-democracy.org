@@ -71,6 +71,7 @@ South Rupununi District Council ([SRDC](http://wapichanao.communitylands.org/ind
 
 [Sall Family Foundation](https://www.sallfamily.org/)
 
+[Skoll foundation](https://skoll.org/)
 
 ## International Partners
 
