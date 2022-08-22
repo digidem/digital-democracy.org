@@ -53,7 +53,7 @@ Benefits
 Flexible schedule, location and hours. As an organization we embrace working smarter, not harder. We are happy for you to work from where you live, on a schedule that works for you.
 - Opportunity to visit our partners in the field. Although most of the job is desk based, this role may include travel to our partner communities for workshops if you continue working with us long-term beyond the current pandemic.
 - Opportunity to play a key role at a ground-breaking organization. You have the opportunity to make a big impact in a small team.
-Compensation commensurate with experience. $6,000—$7,500 per month (for a 4-day week).
+Compensation commensurate with experience. $6,000—$7,500 USD per month (for a 4-day week).
 
 Our Team
 --------
