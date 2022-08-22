@@ -63,4 +63,4 @@ Our small but growing team is based in Montreal & Squamish, Canada; New York, DC
 How to Apply
 ------------
 
-Apply for this job (here)[https://apply.workable.com/digidem/j/73ECC12F4A/apply/].
+Apply for this job [here](https://apply.workable.com/digidem/j/73ECC12F4A/apply/).
