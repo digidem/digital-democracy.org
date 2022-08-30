@@ -9,24 +9,14 @@ featured: small
 
 {% assign jobs_available = false %}
 <section class="row grid">
-<div class="columns">
   <h2>Job Opportunities</h2>
-  <ul class="large-block-grid-2 small-block-grid-1">
-    {% for post in site.jobs %}
-    {% unless post.published == false %}
-    {% assign jobs_available = true %}
-    <li>
-      <h4><b><a href="{{ post.url }}">{{ post.title }}</a></b></h4>
-      <p class="subhead">{{ post.excerpt }}</p>
-      <p><a href="{{ post.url }}">Learn more & apply</a></p>
-    </li>
-    {% endunless %}
-    {% endfor %}
-  </ul>
-  {% unless jobs_available %}
-  <p>We have no open job opportunities at this time.</p>
-  {% endunless %}
-</div>
+  <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
+  <script type='text/javascript' charset='utf-8'>
+  whr(document).ready(function(){
+  whr_embed(526960, {detail: 'descriptions', base: 'jobs', zoom: 'country', grouping: 'none'});
+  });
+  </script>
+  <div id="whr_embed_hook"></div>
 </section>
 
 {% assign internships_available = false %}
