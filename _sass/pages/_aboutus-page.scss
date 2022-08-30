@@ -28,3 +28,18 @@
     }
   }
 }
+
+/** Job postings embed from workable */
+
+.whr-info {
+  /** Hide location and date posted */
+  display: none;
+}
+.whr-description > *:not(:first-child) {
+  /** Only show first paragraph of job description in jobs list */
+  display: none;
+}
+.whr-description strong {
+  /** No bold text in job descriptions */
+  font-weight: normal;
+}
