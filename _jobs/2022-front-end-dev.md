@@ -48,7 +48,7 @@ plan, prioritize, build, and deploy code.
 - Experience working within an Agile environment
 - Ability to communicate technical concepts to the team and partners in non-technical
 terms.
-- Experience in Android and iOS Development
+- Experience in iOS Development
 - Ability to speak more than one language, in particular Spanish or Portuguese
 
 
