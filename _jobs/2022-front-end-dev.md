@@ -1,6 +1,6 @@
 ---
 layout: job
-title: Frontend Developer
+title: Front-end Developer
 published: true
 excerpt: "Digital Democracy is looking for a front-end developer with 3+ years experience to join our
 small, remote team on a 6-month contract (with potential long-term) starting as soon as
