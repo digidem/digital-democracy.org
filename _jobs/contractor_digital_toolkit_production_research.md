@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Contractor, Digital Toolkit Production & Research "
-published: true
+published: false
 excerpt: Digital Democracy is looking for a Contractor, Digital Toolkit
   Production & Research for a 2-month part-time contract starting as soon as
   possible. You will work in tandem with a project manager to expand the
