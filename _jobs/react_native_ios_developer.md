@@ -1,6 +1,6 @@
 ---
 layout: job
-title: React Native (iOS) DEVELOPER
+title: React Native (iOS) Developer
 published: true
 excerpt: >
   Digital Democracy is looking for an experienced React Native developer, who
@@ -52,4 +52,4 @@ Our small but growing team is based in Montreal & Squamish, Canada; New York, DC
 
 ## How to Apply
 
-Apply here: link
+Apply here: [link](https://apply.workable.com/digidem/j/768ADFB7B3/)
