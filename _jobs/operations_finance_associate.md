@@ -63,4 +63,4 @@ Our small but growing team is based in the US (New York; Seattle; Washington, DC
 
 ## How to Apply
 
-Apply here: link
+Apply here: [link](https://apply.workable.com/digidem/j/39D7AF884A/)
