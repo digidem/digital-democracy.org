@@ -68,4 +68,4 @@ Our small but growing team is based in Brazil, Canada, Germany, Peru, the United
 
 ## How to Apply
 
-P﻿lease apply to the position here.
+P﻿lease apply to the position here: [link](https://apply.workable.com/digidem/j/DEEA5468F0/apply/)
