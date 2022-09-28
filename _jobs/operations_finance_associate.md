@@ -3,14 +3,13 @@ layout: job
 title: Operations & Finance Associate
 published: true
 excerpt: >
-  Digital Democracy, a 501c3 nonprofit organization,  is looking for a detail
-  oriented Operations & Financial Associate to join as a core member of our
-  growing team. The Operations & Financial Associate is key to ensuring the
-  organization runs smoothly. This position will administer Digital Democracy’s
-  regular financial and operations tasks, support a team distributed around the
-  world, and ensure the organization’s systems operate seamlessly in order to
-  most effectively support frontline communities protecting human rights and the
-  environment around the world.
+  We are looking for a detail oriented Operations & Financial Associate to join
+  as a core member of our growing team. The Operations & Financial Associate is
+  key to ensuring the organization runs smoothly. This position will administer
+  Digital Democracy’s regular financial and operations tasks, support a team
+  distributed around the world, and ensure the organization’s systems operate
+  seamlessly in order to most effectively support frontline communities
+  protecting human rights and the environment around the world.
 slug: operations-associate
 ---
 Digital Democracy, a 501c3 nonprofit organization,  is looking for a detail oriented Operations & Financial Associate to join as a core member of our growing team. The Operations & Financial Associate is key to ensuring the organization runs smoothly. This position will administer Digital Democracy’s regular financial and operations tasks, support a team distributed around the world, and ensure the organization’s systems operate seamlessly in order to most effectively support frontline communities protecting human rights and the environment around the world.
