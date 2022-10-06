@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Backend Developer
-published: true
+published: false
 excerpt: "We’re looking for a backend developer with 5 years experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible."
 ---
 Digital Democracy is looking for a backend developer with 5 years experience to join our small, remote team on a 6-month contract (with potential long-term) starting as soon as possible. You will help build offline-first decentralized open-source mobile and desktop mapping apps for remote and marginalized communities to document, map, monitor, manage and report information on environmental and human rights issues around the world. With flexible hours and the opportunity to work where and when best fits your schedule, you will be playing a key role at a ground-breaking organization. You have the opportunity to make a big impact in a small team by contributing to the revamp and redesign of our backend modules.
