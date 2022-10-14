@@ -1,7 +1,7 @@
 ---
 layout: job
 title: Earth Defenders Toolkit Community Steward
-published: true
+published: false
 excerpt: >
   You will steward community engagement for the Earth Defenders Toolkit, and
   crosscutting outreach projects by Digital Democracy’s Programs team. Your role
