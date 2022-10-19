@@ -7,6 +7,7 @@ image: /assets/satterthwaite_headshot.jpg
 twitter: "https://twitter.com/SatterthwaiteML"
 excerpt: ""
 email: ""
+published: false
 ---
 
 
